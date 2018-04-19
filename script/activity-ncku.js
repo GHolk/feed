@@ -83,6 +83,7 @@ const cheerioOption = {
 }
 
 function updateFeed($html, $feed) {
+    $feed('updated').text(new Date().toISOString())
     $feed('entry').remove()
     $html('tr').get().slice(1)
         .map(tr => new Activity($html(tr)))
