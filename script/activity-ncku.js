@@ -76,8 +76,8 @@ const util = require('util')
 const readFile = util.promisify(fs.readFile)
 const cheerio = require('cheerio')
 const cheerioOption = {
-    decodeEntities: false,
-    xmlMode: false,
+    decodeEntities: true,
+    xmlMode: true,
     withDomLvl1: true,
     normalizeWhitespace: false
 }
@@ -102,10 +102,8 @@ async function main() {
     const xml = filename + '.xml'
     const html = filename + '.html'
     const feed = await readFile(xml, 'utf8')
-    cheerioOption.xmlMode = true
     const $feed = cheerio.load(feed, cheerioOption)
     const activity = await readFile(html, 'utf8')
-    cheerioOption.xmlMode = false
     const $activity = cheerio.load(activity, cheerioOption)
     updateFeed($activity, $feed)
     fs.writeFile(xml, $feed.xml(), 'utf8', () => 0)
