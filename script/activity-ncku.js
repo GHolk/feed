@@ -34,7 +34,6 @@ class Entry {
     constructor($) {
         this.$node = $(`<entry>
 <id></id>
-<icon></icon>
 <title></title>
 <published></published>
 <link rel="alternate" type="text/html" />
@@ -73,6 +72,8 @@ class Entry {
 }
 
 const fs = require('fs')
+const util = require('util')
+const readFile = util.promisify(fs.readFile)
 const cheerio = require('cheerio')
 const cheerioOption = {
     decodeEntities: false,
@@ -80,7 +81,6 @@ const cheerioOption = {
     withDomLvl1: true,
     normalizeWhitespace: false
 }
-main()
 
 function updateFeed($html, $feed) {
     $feed('entry').remove()
@@ -97,27 +97,18 @@ function updateFeed($html, $feed) {
     return $feed
 }
 
-function httpFetch(url) {
-    const http = require('http')
-    return new Promise((finish) => {
-        http.get(url, (response) => {
-            let data = ''
-            response.on('data', (chunk) => data += chunk)
-            response.on('end', () => finish(data))
-        })
-    })
-}
-async function $activityLoad() {
-    const url = 'http://activity.ncku.edu.tw/index.php?c=apply&m=read'
-    const html = await httpFetch(url)
-    const $activity = cheerio.load(html, cheerioOption)
-    return $activity
-}
 async function main() {
-    const filename = 'activity-ncku.xml'
-    const $feed = cheerio.load(fs.readFileSync(filename), cheerioOption)
-    // const $activity = await $activityLoad()
-    const $activity = cheerio.load(fs.readFileSync('activity-ncku.html'), cheerioOption)
+    const filename = 'activity-ncku'
+    const xml = filename + '.xml'
+    const html = filename + '.html'
+    const feed = await readFile(xml, 'utf8')
+    cheerioOption.xmlMode = true
+    const $feed = cheerio.load(feed, cheerioOption)
+    const activity = await readFile(html, 'utf8')
+    cheerioOption.xmlMode = false
+    const $activity = cheerio.load(activity, cheerioOption)
     updateFeed($activity, $feed)
-    fs.writeFileSync('activity-ncku-out.xml', $feed.xml(), 'utf8')
+    fs.writeFile(xml, $feed.xml(), 'utf8', () => 0)
 }
+
+main()
