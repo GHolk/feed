@@ -11,10 +11,15 @@ in function `run_all` in `script/update-feed.sh` :
 
 ```sh
 run_all() {
-    ./activity-ncku.sh
+    activity-ncku/update.sh
+    gamer/update-all.sh
     # add your script there
 }
 ```
+
+the script in run all will be execute
+in directory `script/` ,
+so access the rss file in `../` .
 
 the script is can be run by anacron,
 or by cron if your machine naver shutdown.
