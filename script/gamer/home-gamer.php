@@ -7,5 +7,6 @@ function userRss($owner, $maxPage) {
     return $GamerHomeCreation->asXml();
 }
 
-echo userRss('hp10000p', 2);
+$owner = $argv[1];
+echo userRss($owner, 1);
 ?>
