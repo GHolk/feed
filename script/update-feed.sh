@@ -5,7 +5,7 @@ cd $work_directory/script
 
 run_all() {
     # add script you want to run below
-    activity-ncku/activity-ncku.sh
+    activity-ncku/update.sh
     gamer/update-all.sh
 }
 

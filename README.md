@@ -37,8 +37,19 @@ or crontab:
 ### 成功大學活動資訊列表
 這個表單會更新近期所有在成大舉行的活動，
 包括展覽和演講，主要是演講。
+是自己用 node.js 寫的。
 
-* [atom](http://gholk.github.io/feed/activity-ncku.xml)
+* [atom](http://gholk.github.io/feed/activity-ncku.atom)
 * [html](http://activity.ncku.edu.tw)
 
+### 巴哈姆特勇者小屋
+這是直接用 [現成的 php library][gamer-to-rss] ，
+但因為我沒有 server，就是直接執行，
+沒有在 web server 上跑。
 
+[gamer-to-rss]: https://github.com/wsmwason/gamer-to-rss
+
+#### hp10000p
+隨便找個人來測試小屋能不能動。
+* [rss](http://gholk.github.io/feed/gamer-hp10000p.rss)
+* [html](http://home.gamer.com.tw/homeindex.php?owner=hp10000p)
