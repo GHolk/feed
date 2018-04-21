@@ -1,12 +1,12 @@
 <?xml version="1.0"
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-  <id>http://feed.ccns.ncku.edu.tw/ncku-activity.xml</id>
+  <id>http://gholk.github.io/feed/ncku-activity.xml</id>
   <updated>2018-04-20T15:25:29.565Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
-  <link rel="self" type="application/atom+xml" href="http://feed.ccns.ncku.edu.tw/ncku-activity.xml"/>
+  <link rel="self" type="application/atom+xml" href="http://gholk.github.io/feed/ncku-activity.atom"/>
   <link rel="alternate" type="text/html" href="http://activity.ncku.edu.tw/"/>
   <author>
     <name>gholk</name>

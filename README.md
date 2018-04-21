@@ -39,6 +39,8 @@ or crontab:
 
 ## rss feed
 
+<link rel="alternate" type="application/atom+xml" href="list.atom">
+
 ### 成功大學活動資訊列表
 這個表單會更新近期所有在成大舉行的活動，
 包括展覽和演講，主要是演講。

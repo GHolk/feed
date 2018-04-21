@@ -1,0 +1,52 @@
+<?xml version="1.0"
+      encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <id>http://gholk.github.io/feed/list.atom</id>
+  <updated>2018-04-21T15:25:29.565Z</updated>
+  <icon>http://gholk.github.io/ext/icon.png</icon>
+  <title>anacron feed</title>
+  <subtitle>自己用 anacron 排程維護的 rss 列表</subtitle>
+  <link rel="self"
+        type="application/atom+xml"
+        href="http://gholk.github.io/feed/list.atom"/>
+  <link rel="alternate"
+        type="text/html"
+        href="http://gholk.github.io/feed/"/>
+  <author>
+    <name>gholk</name>
+    <uri>http://github.com/GHolk/</uri>
+    <email>85619andy@gmail.com</email>
+  </author>
+  <category term="rss"/>
+  <category term="atom"/>
+  <generator>edit by emacs</generator>
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-hp10000p.rss</id>
+    <title>枯鎖繪圖誌</title>
+    <published>2018-04-20</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/homeindex.php?owner=hp10000p"/>
+    <link rel="alternate"
+          type="application/atom+xml"
+          href="http://gholk.github.io/feed/gamer-hp10000p.rss"/>
+    <summary>
+      測試 php 的巴哈小屋 rss 模組能不能用。
+    </summary>
+  </entry>
+  <entry>
+    <id>http://gholk.github.io/feed/activity-ncku.atom</id>
+    <title>成功大學活動資訊列表</title>
+    <published>2018-04-19</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://activity.ncku.edu.tw/"/>
+    <link rel="alternate"
+          type="application/atom+xml"
+          href="http://gholk.github.io/feed/activity-ncku.atom"/>
+    <summary>
+      成大內的演講活動、展覽等，都可能會在這裡發布，
+      在集通識點數時很方便，可以一次報名多場演講。
+    </summary>
+  </entry>
+</feed>
