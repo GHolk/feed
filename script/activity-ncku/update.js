@@ -49,14 +49,14 @@ class Entry {
     }
     set url(url) {
         this.$('id').text(url)
-        this.$('link:nth-child(5)').attr('href', url)
+        this.$('link:nth-child(4)').attr('href', url)
     }
     set date(date) {
         this.$('published').text(date)
     }
     set image(url) {
         const suffix = url.match(/\..{3,5}$/)[0].slice(1)
-        this.$('link:nth-child(6)')
+        this.$('link:nth-child(5)')
             .attr('href', url)
             .attr('type', `image/${suffix}`)
     }
