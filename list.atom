@@ -20,13 +20,29 @@
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
+  
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-andy50312.rss</id>
+    <title>andy50312 的小屋</title>
+    <published>2018-04-24</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/andy50312"/>
+    <link rel="alternate"
+          type="application/atom+xml"
+          href="http://gholk.github.io/feed/gamer-andy50312.rss"/>
+    <summary>
+      一個在成長後，仍不忘談論童年回憶的部落格。
+    </summary>
+  </entry>
   <entry>
     <id>http://gholk.github.io/feed/gamer-hp10000p.rss</id>
     <title>枯鎖繪圖誌</title>
     <published>2018-04-20</published>
+    <updated>2018-04-24</updated>
     <link rel="alternate"
           type="text/html"
-          href="http://home.gamer.com.tw/homeindex.php?owner=hp10000p"/>
+          href="http://home.gamer.com.tw/hp10000p"/>
     <link rel="alternate"
           type="application/atom+xml"
           href="http://gholk.github.io/feed/gamer-hp10000p.rss"/>
