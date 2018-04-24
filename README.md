@@ -41,39 +41,73 @@ or crontab:
 
 <link rel="alternate" type="application/atom+xml" href="list.atom">
 
-### 成功大學活動資訊列表
-這個表單會更新近期所有在成大舉行的活動，
-包括展覽和演講，主要是演講。
-是自己用 node.js 寫的。
+<div id="feed-content"></div>
 
-* [atom](http://gholk.github.io/feed/activity-ncku.atom)
-* [html](http://activity.ncku.edu.tw)
+<style>
+  .date {
+    font-style: italic;
+  }
+  a.feed::after, a.website::after {
+    color: black;
+    content: "]";
+  }
+  a.feed::before, a.website::before {
+    color: black;
+    content: "[";
+  }
+</style>
 
-### 巴哈姆特勇者小屋
-這是直接用 [現成的 php library][gamer-to-rss] ，
-但因為我沒有 server，就是直接執行，
-沒有在 web server 上跑。
+<template id="feed-info">
+  <article>
+    <h2></h2>
+    <small class="date"></small>
+    <p></p>
+    <a class="feed">feed</a>
+    <a class="website">website</a>
+  </article>
+</template>
 
-[gamer-to-rss]: https://github.com/wsmwason/gamer-to-rss
+<script>
+loadFeedList()
 
-#### hp10000p
-隨便找個人來測試小屋能不能動。
-* [rss](http://gholk.github.io/feed/gamer-hp10000p.rss)
-* [html](http://home.gamer.com.tw/homeindex.php?owner=hp10000p)
+async function loadFeedList() {
+  const xml = await fetchList()
+  const entryList = xml.querySelectorAll('entry')
+  const fragment = document.createDocumentFragment()
+  for (const entry of entryList) {
+    const article = templateEntry(entry)
+    fragment.appendChild(article)
+  }
+  document.querySelector('#feed-content').appendChild(fragment)
 
-#### andy50312
-一個在成長後，仍不忘談論童年回憶的部落格。
-* [rss](http://gholk.github.io/feed/gamer-andy50312.rss)
-* [html](http://home.gamer.com.tw/andy50312)
-
-#### GN02226420
-每月新番介紹。
-* [rss](http://gholk.github.io/feed/gamer-GN02226420.rss)
-* [html](http://home.gamer.com.tw/GN02226420)
-
-#### 仙界大師
-仙界大師在巴哈的勇者小屋。
-* [rss](http://gholk.github.io/feed/gamer-h804232006.rss)
-* [html](http://home.gamer.com.tw/h804232006)
-
-<script> document.write('hello world!') </script>
+  function getArticleTemplate() {
+    const template = document.querySelector('#feed-info')
+    const article = template.content.querySelector('article')
+    const deep = true
+    return article.cloneNode(deep)
+  }
+  function templateEntry(entry) {
+    const article = getArticleTemplate()
+    const q = 'querySelector'
+    const t = 'textContent'
+    article[q]('h2')[t] = entry[q]('title')[t]
+    article[q]('.date')[t] = entry[q]('published')[t]
+    article[q]('p')[t] = entry[q]('summary')[t]
+    article[q]('.feed').href = entry[q]('link[type="application/atom+xml"]').href
+    article[q]('.website').href = entry[q]('link[type="text/html"]').href
+    return article
+  }
+  async function fetchList() {
+    const url = 'list.atom'
+    const response = await fetch(url)
+    const text = await response.text()
+    const xml = parseXml(text)
+    return xml
+  }
+  function parseXml(text) {
+    const domParser = new DOMParser()
+    const xml = domParser.parseFromString(text, 'application/xml')
+    return xml
+  }
+}
+</script>
