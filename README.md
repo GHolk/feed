@@ -90,13 +90,14 @@ async function loadFeedList() {
     const article = getArticleTemplate()
     const q = 'querySelector'
     const t = 'textContent'
+    const g = 'getAttribute'
     article[q]('h2')[t] = entry[q]('title')[t]
     article[q]('.date')[t] = entry[q]('published')[t]
     article[q]('p')[t] = entry[q]('summary')[t]
     const feedSelector = `link[type="application/atom+xml"],
                           link[type="application/rss+xml"]`
-    article[q]('.feed').href = entry[q](feedSelector).getAttribute('href')
-    article[q]('.website').href = entry[q]('link[type="text/html"]').href
+    article[q]('.feed').href = entry[q](feedSelector)[g]('href')
+    article[q]('.website').href = entry[q]('link[type="text/html"]')[g]('href')
     return article
   }
   async function fetchList() {
