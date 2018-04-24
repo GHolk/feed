@@ -93,7 +93,9 @@ async function loadFeedList() {
     article[q]('h2')[t] = entry[q]('title')[t]
     article[q]('.date')[t] = entry[q]('published')[t]
     article[q]('p')[t] = entry[q]('summary')[t]
-    article[q]('.feed').href = entry[q]('link[type="application/atom+xml"]').href
+    const feedSelector = `link[type="application/atom+xml"],
+                          link[type="application/rss+xml"]`
+    article[q]('.feed').href = entry[q](feedSelector).getAttribute('href')
     article[q]('.website').href = entry[q]('link[type="text/html"]').href
     return article
   }
