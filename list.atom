@@ -28,7 +28,7 @@
           type="text/html"
           href="http://home.gamer.com.tw/wuzo"/>
     <link rel="alternate"
-          type="application/atom+xml"
+          type="application/rss+xml"
           href="http://gholk.github.io/feed/gamer-wuzo.rss"/>
     <summary>
       優質動畫心得。
@@ -44,7 +44,7 @@
           type="text/html"
           href="http://home.gamer.com.tw/h804232006"/>
     <link rel="alternate"
-          type="application/atom+xml"
+          type="application/rss+xml"
           href="http://gholk.github.io/feed/gamer-h804232006.rss"/>
     <summary>
       知名歪圖圖文作者，仙界大濕在巴哈的勇者小屋。
@@ -60,7 +60,7 @@
           type="text/html"
           href="http://home.gamer.com.tw/GN02226420"/>
     <link rel="alternate"
-          type="application/atom+xml"
+          type="application/rss+xml"
           href="http://gholk.github.io/feed/gamer-GN02226420.rss"/>
     <summary>
       每月裏番情報。
@@ -75,7 +75,7 @@
           type="text/html"
           href="http://home.gamer.com.tw/andy50312"/>
     <link rel="alternate"
-          type="application/atom+xml"
+          type="application/rss+xml"
           href="http://gholk.github.io/feed/gamer-andy50312.rss"/>
     <summary>
       一個在成長後，仍不忘談論童年回憶的部落格。
@@ -91,7 +91,7 @@
           type="text/html"
           href="http://home.gamer.com.tw/hp10000p"/>
     <link rel="alternate"
-          type="application/atom+xml"
+          type="application/rss+xml"
           href="http://gholk.github.io/feed/gamer-hp10000p.rss"/>
     <category term="gamer" />
     <summary>
@@ -111,6 +111,7 @@
     <summary>
       成大內的演講活動、展覽等，都可能會在這裡發布，
       在集通識點數時很方便，可以一次報名多場演講。
+      自己用 node.js 把網站上內容爬成 atom 。
     </summary>
   </entry>
 </feed>
