@@ -60,3 +60,20 @@ or crontab:
 隨便找個人來測試小屋能不能動。
 * [rss](http://gholk.github.io/feed/gamer-hp10000p.rss)
 * [html](http://home.gamer.com.tw/homeindex.php?owner=hp10000p)
+
+#### andy50312
+一個在成長後，仍不忘談論童年回憶的部落格。
+* [rss](http://gholk.github.io/feed/gamer-andy50312.rss)
+* [html](http://home.gamer.com.tw/andy50312)
+
+#### GN02226420
+每月新番介紹。
+* [rss](http://gholk.github.io/feed/gamer-GN02226420.rss)
+* [html](http://home.gamer.com.tw/GN02226420)
+
+#### 仙界大師
+仙界大師在巴哈的勇者小屋。
+* [rss](http://gholk.github.io/feed/gamer-h804232006.rss)
+* [html](http://home.gamer.com.tw/h804232006)
+
+<script> document.write('hello world!') </script>
