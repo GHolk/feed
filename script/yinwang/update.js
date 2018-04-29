@@ -24,7 +24,7 @@ async function loadWindow(url) {
 function extractArticle(window) {
     const document = window.document
     const list = []
-    for (const anchor of document.querySelectorAll('li a')) {
+    for (const anchor of document.querySelectorAll('.outer li a')) {
         const article = Article.fromAnchor(anchor)
         list.push(article)
     }

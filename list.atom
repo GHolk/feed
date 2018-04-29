@@ -21,6 +21,25 @@
   <category term="atom"/>
   <generator>edit by emacs</generator>
   <entry>
+    <id>http://gholk.github.io/feed/yinwang.rss</id>
+    <title>當然我在扯淡</title>
+    <published>2018-04-29</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://www.yinwang.org"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/yinwang.rss"/>
+    <summary>
+      中國網紅程序員王垠的部落格 rss ，
+      因為他的部落格沒有 rss ，就自己幫他做一個。
+      目前各文章只有標題，沒有摘要，
+      因為他的部落格首頁就沒有摘要，之後看要不要自己爬。
+    </summary>
+    <category term="computer" />
+    <category term="program" />
+  </entry>
+  <entry>
     <id>http://gholk.github.io/feed/gamer-wuzo.rss</id>
     <title>wuzo 的小屋</title>
     <published>2018-04-25</published>
