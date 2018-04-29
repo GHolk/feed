@@ -10,7 +10,7 @@ user_list="
 
 for user in $user_list
 do
-    sleep 30s
+    sleep 10s
     php gamer/home-gamer.php $user >../gamer-$user.rss
 done
 
