@@ -8,6 +8,7 @@ run_all() {
     # add script you want to run below
     activity-ncku/update.sh
     gamer/update-all.sh
+    yinwang/update.sh
 }
 
 run_all
