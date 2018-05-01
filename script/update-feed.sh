@@ -1,6 +1,6 @@
 #!/bin/sh
 set -e
-work_directory="/home/gholk/code/feed"
+work_directory="/home/gholk/web/feed"
 
 cd $work_directory/script
 
