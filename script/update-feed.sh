@@ -1,4 +1,6 @@
 #!/bin/sh
+. /etc/profile
+
 set -e
 work_directory="/home/gholk/web/feed"
 
