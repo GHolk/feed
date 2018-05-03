@@ -11,7 +11,7 @@ run_all() {
     yinwang/update.sh
 }
 
-run_all
+run_all 2>>~/feed-error.log
 
 git commit -am 'auto daily update'
 git push
