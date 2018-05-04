@@ -6,6 +6,7 @@ user_list="
     h804232006
     wuzo
     andy50312
+    Spacefaucet
 "
 
 for user in $user_list
