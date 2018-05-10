@@ -13,8 +13,21 @@ run_all() {
     yinwang/update.sh
 }
 
-run_all 2>>~/feed-error.log
+network_on() {
+    host home.gamer.com.tw
+}
+warn() {
+    echo "$@" >&2
+}
 
-git commit -am 'auto daily update'
-git push
+if network_on
+then
+    run_all
+    git commit -am 'auto daily update'
+    git push
+    exit 0
+else
+    warn "network not work!"
+    exit 1
+fi
 

@@ -9,9 +9,9 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>node.js with npm rss</generator>
-        <lastBuildDate>Wed, 09 May 2018 16:26:13 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 May 2018 16:26:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 09 May 2018 16:26:13 GMT</pubDate>
+        <pubDate>Thu, 10 May 2018 16:26:07 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
