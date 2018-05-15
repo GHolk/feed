@@ -1,4 +1,6 @@
-# manual update rss feed [github] [gh-pages]
+# manual update rss feed 
+*[github]* *[gh-pages]*
+
 some website not provide rss feed for subscribe,
 so i write some script to generate rss in atom format,
 and publish they by github page.
