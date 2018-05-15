@@ -1,7 +1,10 @@
-# manual update rss feed
+# manual update rss feed [github] [gh-pages]
 some website not provide rss feed for subscribe,
 so i write some script to generate rss in atom format,
 and publish they by github page.
+
+[github]: http://github.com/GHolk/feed/
+[gh-pages]: http://gholk.github.io/feed/
 
 just run `script/update-feed.sh` 
 then get all feed get update.
@@ -37,7 +40,13 @@ or crontab:
   11     21   *            *     *           /home/gholk/feed/script/update-feed.sh
 ```
 
+remeber to change the path to the directory of feed
+in `script/update-feed.sh` .
+
+
 ## rss feed
+there is a [easy website frontend][gh-pages] ,
+also a list of all rss at <http://gholk.github.io/feed/list.atom> .
 
 <link rel="alternate" type="application/atom+xml" href="list.atom">
 
