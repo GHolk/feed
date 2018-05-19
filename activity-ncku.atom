@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-05-18T16:25:03.231Z</updated>
+  <updated>2018-05-19T16:25:02.971Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -121,40 +121,6 @@
                            
                         </summary>
 </entry><entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3831</id>
-<title>&#x898F;&#x8A2D;&#x6708;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;4 &#x8A2D;&#x8A08;&#x7684;&#x529B;&#x91CF;                                                                                                                                                                              </title>
-<published>2018-05-19 (&#x516D;)&amp;nbsp;|&amp;nbsp;14:00~16:00</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3831"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/3831_20180411135030@@3831_tn.jpg"/>
-<summary>
-                           
-                            &#x898F;&#x8A2D;&#x6708;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;4 &#x8A2D;&#x8A08;&#x7684;&#x529B;&#x91CF;                                                                                                                                                                              
-                            &#x901A;&#x8B58;&#x8A8D;&#x8B49;&#x8B1B;&#x5EA7;                            
-                            2018-05-19 (&#x516D;)&amp;nbsp;|&amp;nbsp;14:00~16:00
-                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E00;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
-                            
-                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3906</id>
-<title>&#x8001;&#x5C4B;NEXT _ &#x793E;&#x7FA4;&#x5230;&#x5730;&#x65B9;                                                                                                                                                                                   </title>
-<published>2018-05-19 (&#x516D;)&amp;nbsp;|&amp;nbsp;14:00~16:00</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3906"/>
-<link rel="alternate" type="image/png" href="https://activity.ncku.edu.tw/uploads/3906_20180425141816@@3906_tn.png"/>
-<summary>
-                           
-                            &#x8001;&#x5C4B;NEXT _ &#x793E;&#x7FA4;&#x5230;&#x5730;&#x65B9;                                                                                                                                                                                   
-                            &#x901A;&#x8B58;&#x8A8D;&#x8B49;&#x8B1B;&#x5EA7;                            
-                            2018-05-19 (&#x516D;)&amp;nbsp;|&amp;nbsp;14:00~16:00
-                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;                                                                                          
-                            
-                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
 <id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3911</id>
 <title>&#x6771;&#x5357;&#x4E9E;&#x97F3;&#x6A02;&#x5DE5;&#x4F5C;&#x574A;                                                                                                                                                                                        </title>
 <published>2018-05-20 (&#x65E5;)&amp;nbsp;|&amp;nbsp;09:00~12:10</published>
@@ -201,7 +167,7 @@
                             2018-05-21 (&#x4E00;)&amp;nbsp;|&amp;nbsp;11:10~13:30
                             &#x570B;&#x969B;&#x6703;&#x8B70;&#x591A;&#x529F;&#x80FD;&#x5EF3;                                                                                    
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -269,7 +235,7 @@
                             2018-05-21 (&#x4E00;)&amp;nbsp;|&amp;nbsp;18:30~21:30
                             &#x7406;&#x5316;&#x5927;&#x6A13; &#x683C;&#x81F4;&#x5EF3;&#x5927;&#x8B1B;&#x5802;                                                                               
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -354,7 +320,7 @@
                             2018-05-22 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;18:30~21:30
                             &#x7406;&#x5316;&#x5927;&#x6A13; &#x683C;&#x81F4;&#x5EF3;&#x5927;&#x8B1B;&#x5802;                                                                               
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -456,7 +422,7 @@
                             2018-05-23 (&#x4E09;)&amp;nbsp;|&amp;nbsp;18:30~20:30
                             &#x91AB;&#x5B78;&#x9662;&#x7B2C;&#x4E09;&#x8B1B;&#x5802;                                                                                      
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -677,7 +643,7 @@
                             2018-05-24 (&#x56DB;)&amp;nbsp;|&amp;nbsp;19:00~21:00
                             &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E8C;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
                             
-                                &#x76EE;&#x524D;&#x5831;&#x540D;&#x984D;&#x6EFF;&amp;nbsp;                            
+                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
                             
                            
                         </summary>
