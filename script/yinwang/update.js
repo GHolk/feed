@@ -41,7 +41,7 @@ function createRss(list) {
         image_url: 'http://www.yinwang.org/images/Yc.jpg',
         docs: 'http://gholk.github.io/feed',
         magagingEditor: 'gholk',
-        language: 'zh-TW',
+        language: 'zh-CN',
         categories: ['program', 'computer'],
         pubDate: new Date(),
         ttl: 60 * 24
