@@ -20,6 +20,26 @@
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
+
+  <entry>
+    <id>http://gholk.github.io/feed/villainhr.rss</id>
+    <title>前端小吉米</title>
+    <published>2018-05-28</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://villainhr.com/"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/villainhr.rss"/>
+    <summary>
+      一位文章當教學寫，超長超詳的 web 開發者，
+      主要介紹一些很潮很先進的 web 技術。
+    </summary>
+    <category term="web" />
+    <category term="blog" />
+    <category term="computer" />
+    <category term="program" />
+  </entry>
   <entry>
     <id>http://gholk.github.io/feed/gamer-Spacefaucet.rss</id>
     <title>太空水龍頭的巴哈小屋</title>
