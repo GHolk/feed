@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-06-13T06:25:02.129Z</updated>
+  <updated>2018-06-13T16:25:02.445Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -104,23 +104,6 @@
                            
                         </summary>
 </entry><entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4236</id>
-<title>&#x760B;&#x6E2C;                                                                                                                                                                                                    </title>
-<published>2018-06-02 09:30 (&#x516D;)~2018-06-13 17:00 (&#x4E09;)</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4236"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4236_20180528100710@@4236_tn.jpg"/>
-<summary>
-                           
-                            &#x760B;&#x6E2C;                                                                                                                                                                                                    
-                            &#x85DD;&#x8853;&#x4E2D;&#x5FC3;                                
-                            2018-06-02 09:30 (&#x516D;)~2018-06-13 17:00 (&#x4E09;)
-                            &#x6210;&#x5927;&#x85DD;&#x574A;&#xFF08;&#x570B;&#x7ACB;&#x6210;&#x529F;&#x5927;&#x5B78;&#x5149;&#x5FA9;&#x6821;&#x5340;&#x5B78;&#x751F;&#x6D3B;&#x52D5;&#x4E2D;&#x5FC3;&#x4E00;&#x6A13;&#xFF09;                                                    
-                            
-                                &#x6D3B;&#x52D5;&#x9032;&#x884C;&#x4E2D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
 <id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4239</id>
 <title>&#x6210;&#x5927;Mybox &#x61C9;&#x7528;&#x64CD;&#x4F5C;&#x4ECB;&#x7D39;                                                                                                                                                                                  </title>
 <published>2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;10:00~12:00</published>
@@ -150,19 +133,19 @@
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;10:10~11:00
                             &#x7E3D;&#x5716;3&#x6A13;314&#x6559;&#x80B2;&#x8A13;&#x7DF4;&#x5BA4;                                                                                
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
 </entry><entry>
 <id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4039</id>
-<title>&#x6559;&#x5E2B;&#x6210;&#x9577;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;--&#x70BA;&#x672A;&#x4F86;&#x793E;&#x6703;&#x4ED8;&#x51FA;&#x5FC3;&#x529B;-&#x5F9E;&#x6210;&#x5927;&#x6559;&#x5E2B;&#x505A;&#x8D77; (EPCK &#x6559;&#x7814;&#x5408;&#x4E00;)                                                                                                                                     </title>
+<title>&#x6559;&#x5E2B;&#x6210;&#x9577;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;(EPCK &#x6559;&#x7814;&#x5408;&#x4E00;)--&#x70BA;&#x672A;&#x4F86;&#x793E;&#x6703;&#x4ED8;&#x51FA;&#x5FC3;&#x529B;-&#x5F9E;&#x6210;&#x5927;&#x6559;&#x5E2B;&#x505A;&#x8D77;                                                                                                                                      </title>
 <published>2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;10:30~12:30</published>
 <link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4039"/>
 <link rel="alternate" type="image/png" href="https://activity.ncku.edu.tw/uploads/4039_20180516152251@@4039_tn.png"/>
 <summary>
                            
-                            &#x6559;&#x5E2B;&#x6210;&#x9577;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;--&#x70BA;&#x672A;&#x4F86;&#x793E;&#x6703;&#x4ED8;&#x51FA;&#x5FC3;&#x529B;-&#x5F9E;&#x6210;&#x5927;&#x6559;&#x5E2B;&#x505A;&#x8D77; (EPCK &#x6559;&#x7814;&#x5408;&#x4E00;)                                                                                                                                     
+                            &#x6559;&#x5E2B;&#x6210;&#x9577;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;(EPCK &#x6559;&#x7814;&#x5408;&#x4E00;)--&#x70BA;&#x672A;&#x4F86;&#x793E;&#x6703;&#x4ED8;&#x51FA;&#x5FC3;&#x529B;-&#x5F9E;&#x6210;&#x5927;&#x6559;&#x5E2B;&#x505A;&#x8D77;                                                                                                                                      
                             &#x6559;&#x5B78;&#x767C;&#x5C55;                                
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;10:30~12:30
                             &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;                                                                                          
@@ -201,7 +184,7 @@
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;11:10~12:00
                             &#x7E3D;&#x5716;3&#x6A13;314&#x6559;&#x80B2;&#x8A13;&#x7DF4;&#x5BA4;                                                                                
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -218,7 +201,7 @@
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;14:10~16:00
                             &#x7E3D;&#x5716;3&#x6A13;314&#x6559;&#x80B2;&#x8A13;&#x7DF4;&#x5BA4;                                                                                
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -235,7 +218,7 @@
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;18:00~20:00
                             &#x4E2D;&#x6587;&#x7CFB;1F&#x5B78;&#x8853;&#x6F14;&#x8B1B;&#x5EF3;                                                                                  
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -252,7 +235,7 @@
                             2018-06-14 (&#x56DB;)&amp;nbsp;|&amp;nbsp;19:00~21:00
                             &#x6210;&#x674F;&#x5EF3;                                                                                              
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -405,7 +388,7 @@
                             2018-06-26 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;14:00~17:00
                             &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E8C;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x76EE;&#x524D;&#x5831;&#x540D;&#x984D;&#x6EFF;&amp;nbsp;                            
                             
                            
                         </summary>
