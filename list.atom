@@ -20,7 +20,47 @@
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
-
+  
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-ericlee0602.rss</id>
+    <title>花枝娘物理系老公 eric0602 的小屋</title>
+    <published>2018-06-16</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/ericlee0602"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-ericlee0602.rss"/>
+    <summary>
+      物理系大學生，大皇后花枝娘，三妻四妾的動漫宅。
+      會寫一些數學推導，也會寫一點程式，
+      有時會在文章中附上程式證明。
+      google 搜尋行列式的定義時找到他的文章。
+    </summary>
+    <category term="gamer" />
+    <category term="science" />
+    <category term="program" />
+  </entry>
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-y541258.rss</id>
+    <title>物不平則鳴 李兒諳</title>
+    <published>2018-06-16</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/y541258"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-y541258.rss"/>
+    <summary>
+      一個神奇的人，寫小說寫程式，想做遊戲，寫網頁，
+      用 github 和 one drive ，但部落格留在巴哈。
+      也接觸宗教、神祕學，思考很多。
+    </summary>
+    <category term="gamer" />
+    <category term="program" />
+    <category term="創作" />
+    <category term="思辨" />
+  </entry>
   <entry>
     <id>http://gholk.github.io/feed/villainhr.rss</id>
     <title>前端小吉米</title>
