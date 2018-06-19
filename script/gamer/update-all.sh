@@ -9,6 +9,7 @@ user_list="
     Spacefaucet
     y541258
     ericlee0602
+    Erika
 "
 
 for user in $user_list

@@ -22,6 +22,24 @@
   <generator>edit by emacs</generator>
   
   <entry>
+    <id>http://gholk.github.io/feed/gamer-Erika.rss</id>
+    <title>妖精小燐和其它日漫翻譯 Erika 的小屋</title>
+    <published>2018-06-16</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/Erika"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-Erika.rss"/>
+    <summary>
+      日本的萌系漫畫翻譯，從翻譯《我家有隻妖精小燐》的文章，認識到的部落格。
+    </summary>
+    <category term="gamer" />
+    <category term="science" />
+    <category term="program" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/gamer-ericlee0602.rss</id>
     <title>花枝娘物理系老公 eric0602 的小屋</title>
     <published>2018-06-16</published>
