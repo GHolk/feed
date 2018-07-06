@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-07-04T16:25:02.951Z</updated>
+  <updated>2018-07-06T01:25:02.476Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -49,23 +49,6 @@
                             &#x5149;&#x5FA9;&#x6821;&#x5340;                                                                                            
                             
                                 &#x6D3B;&#x52D5;&#x9032;&#x884C;&#x4E2D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4258</id>
-<title>&#x3010;&#x5B78;&#x8853;&#x8AA0;&#x4FE1;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x3011;&#x6821;&#x5712;&#x8457;&#x4F5C;&#x6B0A;&#x8A8D;&#x8B58;&#x53CA;&#x5B78;&#x8853;&#x502B;&#x7406;                                                                                                                                                            </title>
-<published>2018-07-05 (&#x56DB;)&amp;nbsp;|&amp;nbsp;14:00~17:00</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4258"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4258_20180611144042@@4258_tn.jpg"/>
-<summary>
-                           
-                            &#x3010;&#x5B78;&#x8853;&#x8AA0;&#x4FE1;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x3011;&#x6821;&#x5712;&#x8457;&#x4F5C;&#x6B0A;&#x8A8D;&#x8B58;&#x53CA;&#x5B78;&#x8853;&#x502B;&#x7406;                                                                                                                                                            
-                            &#x6F14;&#x8B1B;                                    
-                            2018-07-05 (&#x56DB;)&amp;nbsp;|&amp;nbsp;14:00~17:00
-                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E09;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
-                            
-                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -142,7 +125,7 @@
 <title>2018&#x6210;&#x5927;&#x7814;&#x767C;&#x8AD6;&#x58C7;&#x300C;&#x770B;&#x898B;&#x6210;&#x5927;&#x3001;&#x5353;&#x8D8A;&#x9818;&#x822A;&#x300D;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x4E4B;&#x300C;Exploring Bacterial Methylomes&#x300D;&#xFF08;&#x8AFE;&#x8C9D;&#x723E;&#x751F;&#x7406;&#x53CA;&#x91AB;&#x5B78;&#x734E;&#x5F97;&#x4E3B;Dr. Richard J. Roberts&#xFF09;                                                                      </title>
 <published>2018-07-20 (&#x4E94;)&amp;nbsp;|&amp;nbsp;14:30~16:00</published>
 <link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4264"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4264_20180627170710@@4264_tn.jpg"/>
+<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4264_20180705164514@@4264_tn.jpg"/>
 <summary>
                            
                             2018&#x6210;&#x5927;&#x7814;&#x767C;&#x8AD6;&#x58C7;&#x300C;&#x770B;&#x898B;&#x6210;&#x5927;&#x3001;&#x5353;&#x8D8A;&#x9818;&#x822A;&#x300D;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x4E4B;&#x300C;Exploring Bacterial Methylomes&#x300D;&#xFF08;&#x8AFE;&#x8C9D;&#x723E;&#x751F;&#x7406;&#x53CA;&#x91AB;&#x5B78;&#x734E;&#x5F97;&#x4E3B;Dr. Richard J. Roberts&#xFF09;                                                                      
