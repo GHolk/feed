@@ -10,6 +10,7 @@ user_list="
     y541258
     ericlee0602
     Erika
+    chocolatebox
 "
 
 for user in $user_list

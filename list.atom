@@ -22,6 +22,20 @@
   <generator>edit by emacs</generator>
   
   <entry>
+    <id>http://gholk.github.io/feed/gamer-chocolatebox.rss</id>
+    <title>場外女神 0a 的小屋</title>
+    <published>2018-07-09</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://home.gamer.com.tw/chocolatebox"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-chocolatebox.rss"/>
+    <summary>場外女神 0a 的小屋，念作「零 A 」，場外爭議人物。</summary>
+    <category term="gamer" />
+    <category term="popular" />
+  </entry>
+  <entry>
     <id>http://gholk.github.io/feed/gamer-Erika.rss</id>
     <title>妖精小燐和其它日漫翻譯 Erika 的小屋</title>
     <published>2018-06-16</published>
