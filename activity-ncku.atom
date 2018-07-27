@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-07-26T03:25:02.504Z</updated>
+  <updated>2018-07-27T04:25:02.311Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -223,11 +223,28 @@
                            
                         </summary>
 </entry><entry>
+<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4295</id>
+<title>&#x3010;&#x5B78;&#x8853;&#x8AA0;&#x4FE1;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x3011;&#x751F;&#x79D1;&#x7814;&#x7A76;&#x8005;&#x61C9;&#x8A72;&#x4E86;&#x89E3;&#x7684;&#x5B78;&#x7814;&#x502B;&#x7406;&#x6982;&#x5FF5;                                                                                                                                                    </title>
+<published>2018-09-11 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;14:00~17:00</published>
+<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4295"/>
+<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4295_20180726145056@@4295_tn.jpg"/>
+<summary>
+                           
+                            &#x3010;&#x5B78;&#x8853;&#x8AA0;&#x4FE1;&#x7CFB;&#x5217;&#x8B1B;&#x5EA7;&#x3011;&#x751F;&#x79D1;&#x7814;&#x7A76;&#x8005;&#x61C9;&#x8A72;&#x4E86;&#x89E3;&#x7684;&#x5B78;&#x7814;&#x502B;&#x7406;&#x6982;&#x5FF5;                                                                                                                                                    
+                            &#x6F14;&#x8B1B;                                    
+                            2018-09-11 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;14:00~17:00
+                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E09;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
+                            
+                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                            
+                           
+                        </summary>
+</entry><entry>
 <id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4291</id>
 <title>&#x8CC7;&#x6599;&#x82F1;&#x96C4;&#x8A08;&#x756B;---&#x5316;&#x6578;&#x64DA;&#x70BA;&#x9EC3;&#x91D1;&#x3001;&#x8CC7;&#x6599;&#x5206;&#x6790;&#x5BE6;&#x4F5C;                                                                                                                                                               </title>
 <published>2018-09-14 (&#x4E94;)&amp;nbsp;|&amp;nbsp;09:10~12:30</published>
 <link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4291"/>
-<link rel="alternate" type="image/png" href="images/poster1.png"/>
+<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4291_20180726113234@@4291_tn.jpg"/>
 <summary>
                            
                             &#x8CC7;&#x6599;&#x82F1;&#x96C4;&#x8A08;&#x756B;---&#x5316;&#x6578;&#x64DA;&#x70BA;&#x9EC3;&#x91D1;&#x3001;&#x8CC7;&#x6599;&#x5206;&#x6790;&#x5BE6;&#x4F5C;                                                                                                                                                               
