@@ -11,6 +11,7 @@ run_all() {
     activity-ncku/update.sh
     gamer/update-all.sh
     yinwang/update.sh
+    villainhr/update.sh
 }
 
 network_on() {

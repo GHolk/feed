@@ -9,15 +9,27 @@
             <link>http://villainhr.com</link>
         </image>
         <generator>node.js with npm rss and cheerio html parser</generator>
-        <lastBuildDate>Mon, 28 May 2018 03:25:17 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Jul 2018 08:44:04 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/villainhr.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 28 May 2018 03:25:17 GMT</pubDate>
+        <pubDate>Fri, 27 Jul 2018 08:44:04 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <category><![CDATA[web]]></category>
+        <item>
+            <title><![CDATA[让你听见的 HTML5
+                    ]]></title>
+            <description><![CDATA[
+                            
+                                HTML5多媒体应用现在还没被大部分挖掘出来，像普通的页游只能简简单单的做一些2D渲染，主要差距还是在性能上。H5天生是动态语言，需要经过解析编译。而...
+                            
+                        ]]></description>
+            <link>http://villainhr.com/page/2018/07/14/让你听见的 HTML5</link>
+            <guid isPermaLink="true">http://villainhr.com/page/2018/07/14/让你听见的 HTML5</guid>
+            <pubDate>Fri, 13 Jul 2018 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[IndexedDB 打造靠谱 Web 离线数据库
                     ]]></title>
@@ -41,18 +53,6 @@
             <link>http://villainhr.com/page/2018/03/26/BAT 要的是什么样的前端实习生？</link>
             <guid isPermaLink="true">http://villainhr.com/page/2018/03/26/BAT 要的是什么样的前端实习生？</guid>
             <pubDate>Sun, 25 Mar 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[css3 矩阵
-                    ]]></title>
-            <description><![CDATA[
-                            
-                                css3矩阵变化.应用格式为transformmatrixa,b,c,d,e,f对应于就是matrix1实际应用中的转换就是calculate2其中a...
-                            
-                        ]]></description>
-            <link>http://villainhr.com/page/2018/03/18/css3 矩阵</link>
-            <guid isPermaLink="true">http://villainhr.com/page/2018/03/18/css3 矩阵</guid>
-            <pubDate>Sat, 17 Mar 2018 16:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>
