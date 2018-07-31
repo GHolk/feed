@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-07-30T02:25:02.777Z</updated>
+  <updated>2018-07-31T12:25:02.563Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -19,23 +19,6 @@
   <category term="&#x6D3B;&#x52D5;"/>
   <generator uri="https://cheerio.js.org/">create by node.js with cheerio as html xml parser</generator>
 <entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3347</id>
-<title>[&#x6559;&#x8077;&#x54E1;&#x5FC3;&#x7406;&#x5065;&#x5EB7;&#x6D3B;&#x52D5;] &#x547C;&#x5438;&#x653E;&#x9B06;&#x5C0F;&#x6280;&#x5DE7; (&#x53EF;&#x5230;&#x5E9C;&#x670D;&#x52D9;)                                                                                                                                                        </title>
-<published>2018-03-01 00:00 (&#x56DB;)~2018-07-31 00:00 (&#x4E8C;)</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=3347"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/3347_20180209083754@@3347_tn.jpg"/>
-<summary>
-                           
-                            [&#x6559;&#x8077;&#x54E1;&#x5FC3;&#x7406;&#x5065;&#x5EB7;&#x6D3B;&#x52D5;] &#x547C;&#x5438;&#x653E;&#x9B06;&#x5C0F;&#x6280;&#x5DE7; (&#x53EF;&#x5230;&#x5E9C;&#x670D;&#x52D9;)                                                                                                                                                        
-                            &#x5FC3;&#x7406;&#x5065;&#x5EB7;&#x8207;&#x6027;&#x5225;&#x5E73;&#x7B49;                      
-                            2018-03-01 00:00 (&#x56DB;)~2018-07-31 00:00 (&#x4E8C;)
-                            &#x6210;&#x5927;&#x6821;&#x5712;                                                                                            
-                            
-                                &#x6D3B;&#x52D5;&#x9032;&#x884C;&#x4E2D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
 <id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4249</id>
 <title>&#x6691;&#x671F;&#x904B;&#x52D5;&#x73ED;--&#x57FA;&#x790E;+&#x4F38;&#x5C55;&#x745C;&#x73C8;&#x73ED;                                                                                                                                                                             </title>
 <published>2018-07-10 12:00 (&#x4E8C;)~2018-08-30 12:50 (&#x56DB;)</published>
@@ -151,6 +134,23 @@
                             &#x5149;&#x5FA9;&#x6821;&#x5340; &#x96F2;&#x5E73;&#x5927;&#x6A13;&#x6771;&#x68DF;&#x4E09;&#x6A13;(&#x5FC3;&#x8F14;&#x7D44;&#x5C0F;&#x6703;&#x8B70;&#x5BA4;)                                                           
                             
                                 &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                            
+                           
+                        </summary>
+</entry><entry>
+<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4298</id>
+<title>&#x516C;&#x6587;&#x7CFB;&#x7D71;&#x627F;&#x8FA6;&#x4EBA;&#x9032;&#x968E;&#x7814;&#x7FD2;                                                                                                                                                                                  </title>
+<published>2018-08-14 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;14:00~16:30</published>
+<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4298"/>
+<link rel="alternate" type="image/png" href="images/poster1.png"/>
+<summary>
+                           
+                            &#x516C;&#x6587;&#x7CFB;&#x7D71;&#x627F;&#x8FA6;&#x4EBA;&#x9032;&#x968E;&#x7814;&#x7FD2;                                                                                                                                                                                  
+                            &#x8AB2;&#x7A0B;                                    
+                            2018-08-14 (&#x4E8C;)&amp;nbsp;|&amp;nbsp;14:00~16:30
+                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E09;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
+                            
+                                &#x5C1A;&#x672A;&#x958B;&#x59CB;&#x5831;&#x540D;                            
                             
                            
                         </summary>
@@ -440,6 +440,23 @@
                             &#x552F;&#x8FB2;&#x5927;&#x6A13;7302&#x6559;&#x5BA4;                                                                                    
                             
                                 &#x6D3B;&#x52D5;&#x5C1A;&#x672A;&#x958B;&#x59CB;                            
+                            
+                           
+                        </summary>
+</entry><entry>
+<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4297</id>
+<title>&#x300C;&#x7528;&#x611B;&#x9023;&#x7D50;&#xFF0C;&#x95DC;&#x4FC2;Reset&#x300D;&#x5BB6;&#x5EAD;&#x95DC;&#x4FC2;&#x5DE5;&#x4F5C;&#x574A;&#xFF08;&#x5168;&#x5929;&#xFF09;                                                                                                                                                           </title>
+<published>2018-11-17 (&#x516D;)&amp;nbsp;|&amp;nbsp;09:30~16:30</published>
+<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4297"/>
+<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/4297_20180731170925@@4297_tn.jpg"/>
+<summary>
+                           
+                            &#x300C;&#x7528;&#x611B;&#x9023;&#x7D50;&#xFF0C;&#x95DC;&#x4FC2;Reset&#x300D;&#x5BB6;&#x5EAD;&#x95DC;&#x4FC2;&#x5DE5;&#x4F5C;&#x574A;&#xFF08;&#x5168;&#x5929;&#xFF09;                                                                                                                                                           
+                            &#x5FC3;&#x7406;&#x5065;&#x5EB7;&#x8207;&#x6027;&#x5225;&#x5E73;&#x7B49;                      
+                            2018-11-17 (&#x516D;)&amp;nbsp;|&amp;nbsp;09:30~16:30
+                            &#x81EA;&#x5F37;&#x6821;&#x5340;&#x5947;&#x7F8E;&#x6A13;4&#x6A13; 95409                                                                             
+                            
+                                &#x5C1A;&#x672A;&#x958B;&#x59CB;&#x5831;&#x540D;                            
                             
                            
                         </summary>
