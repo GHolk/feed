@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-08-09T04:25:14.149Z</updated>
+  <updated>2018-08-10T13:25:13.960Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -253,6 +253,23 @@
                             &#x5316;&#x5DE5;&#x7CFB;&#x9928; 93406&#x5BA4;                                                                                    
                             
                                 &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                            
+                           
+                        </summary>
+</entry><entry>
+<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4310</id>
+<title>&#x570B;&#x7ACB;&#x6210;&#x529F;&#x5927;&#x5B78;&#x4E3B;&#x8A08;&#x5BA4;&#x884C;&#x653F;&#x696D;&#x52D9;&#x8AAA;&#x660E;&#x6703;                                                                                                                                                                        </title>
+<published>2018-09-19 (&#x4E09;)&amp;nbsp;|&amp;nbsp;13:00~17:10</published>
+<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=4310"/>
+<link rel="alternate" type="image/png" href="images/poster1.png"/>
+<summary>
+                           
+                            &#x570B;&#x7ACB;&#x6210;&#x529F;&#x5927;&#x5B78;&#x4E3B;&#x8A08;&#x5BA4;&#x884C;&#x653F;&#x696D;&#x52D9;&#x8AAA;&#x660E;&#x6703;                                                                                                                                                                        
+                            &#x8AAA;&#x660E;&#x6703;                                  
+                            2018-09-19 (&#x4E09;)&amp;nbsp;|&amp;nbsp;13:00~17:10
+                            &#x570B;&#x969B;&#x6703;&#x8B70;&#x5EF3;&#x7B2C;&#x4E00;&#x6F14;&#x8B1B;&#x5BA4;                                                                                
+                            
+                                &#x5DF2;&#x622A;&#x6B62;&#x5831;&#x540D;                            
                             
                            
                         </summary>
