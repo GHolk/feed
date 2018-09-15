@@ -2,7 +2,7 @@
       encoding="UTF-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/ncku-activity.xml</id>
-  <updated>2018-09-14T10:25:02.866Z</updated>
+  <updated>2018-09-15T02:25:02.449Z</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>&#x6210;&#x529F;&#x5927;&#x5B78;&#x6F14;&#x8B1B;&#x6D3B;&#x52D5;</title>
   <subtitle>&#x81EA;&#x5EFA;&#x7684; rss &#x901A;&#x77E5;</subtitle>
@@ -32,23 +32,6 @@
                             &#x6210;&#x5927;&#x6821;&#x5712;                                                                                            
                             
                                 &#x6D3B;&#x52D5;&#x9032;&#x884C;&#x4E2D;                            
-                            
-                           
-                        </summary>
-</entry><entry>
-<id>https://activity.ncku.edu.tw/index.php?c=apply&amp;no=5008</id>
-<title>&#x793E;&#x5718;&#x7D93;&#x71DF;&#x77E5;&#x80FD;&#x7814;&#x7FD2;(1)_&#x793E;&#x5718;E&#x5316;&#x7CFB;&#x7D71;&#x529F;&#x80FD;&#x4ECB;&#x7D39;                                                                                                                                                                 </title>
-<published>2018-09-14 (&#x4E94;)&amp;nbsp;|&amp;nbsp;18:00~21:00</published>
-<link rel="alternate" type="text/html" href="https://activity.ncku.edu.tw/index.php?c=apply&amp;no=5008"/>
-<link rel="alternate" type="image/jpg" href="https://activity.ncku.edu.tw/uploads/5008_20180907153238@@5008_tn.jpg"/>
-<summary>
-                           
-                            &#x793E;&#x5718;&#x7D93;&#x71DF;&#x77E5;&#x80FD;&#x7814;&#x7FD2;(1)_&#x793E;&#x5718;E&#x5316;&#x7CFB;&#x7D71;&#x529F;&#x80FD;&#x4ECB;&#x7D39;                                                                                                                                                                 
-                            &#x8AB2;&#x7A0B;                                    
-                            2018-09-14 (&#x4E94;)&amp;nbsp;|&amp;nbsp;18:00~21:00
-                            &#x8A08;&#x7B97;&#x6A5F;&#x4E2D;&#x5FC3; &#x96FB;&#x8166;&#x6559;&#x5BA4;75209                                                                            
-                            
-                                &#x9032;&#x884C;&#x4E2D;                            
                             
                            
                         </summary>
@@ -847,7 +830,7 @@
                             2018-09-27 (&#x56DB;)&amp;nbsp;|&amp;nbsp;14:10~16:00
                             &#x7E3D;&#x5716;3&#x6A13;314&#x6559;&#x80B2;&#x8A13;&#x7DF4;&#x5BA4;                                                                                
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x76EE;&#x524D;&#x5831;&#x540D;&#x984D;&#x6EFF;&amp;nbsp;                            
                             
                            
                         </summary>
@@ -3006,7 +2989,7 @@
                             2018-11-30 (&#x4E94;)&amp;nbsp;|&amp;nbsp;14:30~16:30
                             &#x7E7C;&#x660C;&#x8B1B;&#x5802;                                                                                            
                             
-                                &#x63A5;&#x53D7;&#x5831;&#x540D;&#x4E2D;&amp;nbsp;                            
+                                &#x76EE;&#x524D;&#x5831;&#x540D;&#x984D;&#x6EFF;&amp;nbsp;                            
                             
                            
                         </summary>
