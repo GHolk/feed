@@ -9,9 +9,9 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>node.js with npm rss</generator>
-        <lastBuildDate>Mon, 17 Sep 2018 02:26:47 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Sep 2018 16:26:47 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Sep 2018 02:26:47 GMT</pubDate>
+        <pubDate>Mon, 17 Sep 2018 16:26:47 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
@@ -298,12 +298,6 @@
             <link>http://www.yinwang.org/blog-cn/2015/02/01/creative-thinking</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/02/01/creative-thinking</guid>
             <pubDate>Sat, 31 Jan 2015 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[人的价值]]></title>
-            <link>http://www.yinwang.org/blog-cn/2015/01/29/human-value</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/01/29/human-value</guid>
-            <pubDate>Wed, 28 Jan 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[小费和中国人的尊严]]></title>
