@@ -9,9 +9,9 @@
             <link>http://villainhr.com</link>
         </image>
         <generator>node.js with npm rss and cheerio html parser</generator>
-        <lastBuildDate>Mon, 17 Sep 2018 16:26:48 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Sep 2018 16:26:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/villainhr.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Mon, 17 Sep 2018 16:26:48 GMT</pubDate>
+        <pubDate>Tue, 18 Sep 2018 16:26:50 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
