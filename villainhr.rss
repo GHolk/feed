@@ -9,14 +9,50 @@
             <link>http://villainhr.com</link>
         </image>
         <generator>node.js with npm rss and cheerio html parser</generator>
-        <lastBuildDate>Wed, 26 Sep 2018 16:26:49 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Sep 2018 16:26:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/villainhr.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Wed, 26 Sep 2018 16:26:49 GMT</pubDate>
+        <pubDate>Thu, 27 Sep 2018 16:26:49 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <category><![CDATA[web]]></category>
+        <item>
+            <title><![CDATA[Android 和 Webview 如何相互 sayHello(一)
+                    ]]></title>
+            <description><![CDATA[
+                            
+                                本系列文章一共有两篇主要来讲解webview和客户端的交互。本篇为第一篇Android和webview的交互后续一篇是IOS和webview的交互如需...
+                            
+                        ]]></description>
+            <link>http://villainhr.com/page/2018/08/21/Android 和 Webview 如何相互 sayHello(一)</link>
+            <guid isPermaLink="true">http://villainhr.com/page/2018/08/21/Android 和 Webview 如何相互 sayHello(一)</guid>
+            <pubDate>Mon, 20 Aug 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[让你听见的 HTML5
+                    ]]></title>
+            <description><![CDATA[
+                            
+                                HTML5多媒体应用现在还没被大部分挖掘出来，像普通的页游只能简简单单的做一些2D渲染，主要差距还是在性能上。H5天生是动态语言，需要经过解析编译。而...
+                            
+                        ]]></description>
+            <link>http://villainhr.com/page/2018/07/14/让你听见的 HTML5</link>
+            <guid isPermaLink="true">http://villainhr.com/page/2018/07/14/让你听见的 HTML5</guid>
+            <pubDate>Fri, 13 Jul 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[IndexedDB 打造靠谱 Web 离线数据库
+                    ]]></title>
+            <description><![CDATA[
+                            
+                                在知乎和我在平常工作中，常常会看到一个问题前端现在还火吗这个我只想说隔岸观火的人永远无法明白起火的原因，只有置身风暴，才能找到风眼之所在秦时明月你TM...
+                            
+                        ]]></description>
+            <link>http://villainhr.com/page/2018/05/11/IndexedDB 打造靠谱 Web 离线数据库</link>
+            <guid isPermaLink="true">http://villainhr.com/page/2018/05/11/IndexedDB 打造靠谱 Web 离线数据库</guid>
+            <pubDate>Thu, 10 May 2018 16:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
