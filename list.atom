@@ -20,7 +20,20 @@
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
-  
+  <entry>
+    <id>https://home.gamer.com.tw/e123456789</id>
+    <title>富堡雜誌</title>
+    <published>2018-09-29</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://home.gamer.com.tw/e123456789" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-e123456789.rss"/>
+    <summary>以爭議人士陳平偉為名的富堡雜誌，專發一些改圖的梗圖。</summary>
+    <category term="gamer" />
+    <category term="funny" />
+  </entry>
   <entry>
     <id>http://gholk.github.io/feed/gamer-chocolatebox.rss</id>
     <title>場外女神 0a 的小屋</title>
