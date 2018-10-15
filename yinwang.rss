@@ -9,14 +9,20 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>node.js with npm rss</generator>
-        <lastBuildDate>Sun, 14 Oct 2018 04:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Oct 2018 02:26:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 14 Oct 2018 04:26:58 GMT</pubDate>
+        <pubDate>Mon, 15 Oct 2018 02:26:58 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
         <docs>http://gholk.github.io/feed</docs>
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
+        <item>
+            <title><![CDATA[更新一下]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/10/14/update</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/10/14/update</guid>
+            <pubDate>Sat, 13 Oct 2018 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[解谜计算机科学（1）]]></title>
             <link>http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1</link>
