@@ -8,6 +8,12 @@ and publish they by github page.
 [github]: http://github.com/GHolk/feed/
 [gh-pages]: http://gholk.github.io/feed/
 
+the script is in **master** branch,
+rss and atom in **gh-pages** branch.
+first clone **master** then
+`git checkout -b gh-pages` ,
+you can start use these scripts.
+
 just run `script/update-feed.sh` 
 then get all feed get update.
 if want to add any new feed,
