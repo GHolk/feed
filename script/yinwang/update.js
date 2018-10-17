@@ -7,12 +7,20 @@ class Article {
         this.title = title
         this.url = url
     }
+    async loadDescription() {
+        this.window = await loadWindow(this.url)
+        const document = this.window.document
+        let firstNode = document.querySelector('h2 + *')
+        this.description = firstNode.textContent
+    }
     static fromAnchor(a) {
         const article = new this(a.textContent, a.href)
         let date
         let scan = a.href.match(/blog-cn\/(\d{4}\/\d{2}\/\d{2})/)
-        if (scan) date = scan[1]
-        article.date = date
+        if (scan) {
+            date = scan[1]
+            article.date = date
+        }
         return article
     }
 }
@@ -21,13 +29,14 @@ async function loadWindow(url) {
     const dom = await JSDOM.fromURL(url)
     return dom.window
 }
-function extractArticle(window) {
+async function extractArticle(window) {
     const document = window.document
     const list = []
     for (const anchor of document.querySelectorAll('.outer li a')) {
         const article = Article.fromAnchor(anchor)
         list.push(article)
     }
+    await list[0].loadDescription()
     return list
 }
 
@@ -58,7 +67,7 @@ function saveFeed(feed) {
 async function update() {
     const url = 'http://yinwang.org'
     const window = await loadWindow(url)
-    const articleList = extractArticle(window)
+    const articleList = await extractArticle(window)
     const feed = createRss(articleList)
     saveFeed(feed)
 }
