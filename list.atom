@@ -20,6 +20,27 @@
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
+
+  <entry>
+    <id>http://gholk.github.io/feed/yinwang.rss#description-first</id>
+    <title>當然我在扯淡</title>
+    <published>2018-04-29</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://www.yinwang.org"/>
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/yinwang.rss"/>
+    <summary>
+      中國網紅程序員王垠的部落格 rss ，
+      因為他的部落格沒有 rss ，就自己幫他做一個。
+      除了文章列表，也爬了摘要回來，
+      只爬第一篇，因為以他更新的速度，
+      每天爬第一篇很夠了。
+    </summary>
+    <category term="computer" />
+    <category term="program" />
+  </entry>
   <entry>
     <id>https://home.gamer.com.tw/e123456789</id>
     <title>富堡雜誌</title>
