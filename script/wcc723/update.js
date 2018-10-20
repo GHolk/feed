@@ -5,15 +5,10 @@ const anafeed = {
     JSDOM, RSS,
     articleList: [],
     feed: null,
+    dom: null, window: null,
     async generateAndPrintFeed() {
         const url = this.feedOption.site_url
-        try {
         await this.loadWindow(url)
-        }
-        catch (jsdomError) {
-            console.log(jsdomError)
-            return
-        }
         this.extractArticleList()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
@@ -69,5 +64,3 @@ const anafeed = {
 }
 
 anafeed.generateAndPrintFeed()
-
-// exports.anafeed = anafeed
