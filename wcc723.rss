@@ -1,0 +1,214 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[卡斯伯 Blog - 前端，沒有極限]]></title>
+        <description><![CDATA[前端工程師，有關 CSS、javascript]]></description>
+        <link>http://wcc723.github.io/</link>
+        <image>
+            <url>http://wcc723.github.io/images/casper_blog.svg</url>
+            <title>卡斯伯 Blog - 前端，沒有極限</title>
+            <link>http://wcc723.github.io/</link>
+        </image>
+        <generator>anafeed, RSS, JSDOM, node.js</generator>
+        <lastBuildDate>Sat, 20 Oct 2018 06:16:11 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
+        <language><![CDATA[zh-TW]]></language>
+        <managingEditor><![CDATA[卡斯伯 casper wcc723]]></managingEditor>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[front-end]]></category>
+        <category><![CDATA[javascript]]></category>
+        <category><![CDATA[css]]></category>
+        <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計常用格線系統(下)
+        ]]></title>
+            <description><![CDATA[
+            上一篇介紹了格線系統的概念及計算方式，擁有了這些觀念後會如何運用在繪圖軟體上呢？無論你是使用 Sketch 或是 Adobe XD 都可以快速建立如前文所提到的格線，本篇不會著重在軟體的操作，而是網格如何運用在網頁的設計上。
+
+實際運用
+格線與響應式的搭配
+
+實際運用假設我們的網頁內容包含了以下元素：
+
+頂部的大 Banner（頁首）
+側邊選單
+主要內容區域
+頁腳
+
+我們一樣先依據下圖的數據打開格
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/19/grid-system-2/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/19/grid-system-2/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Thu, 18 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2004.png?alt=media&amp;token=544df737-1cf9-431b-8db8-1f76ec4dc686" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計常用格線系統(上)
+        ]]></title>
+            <description><![CDATA[
+            學習設計的時候，一定會討論到網格系統，透過網格可將圖片、文字做有條理的編排，只要有了網格做支撐，就算是複雜的圖文都會有規矩的排列。相反的，如果平面設計缺乏網格系統，就算簡單的圖文要排列整齊也並非容易的事情。
+本篇分別介紹幾個部分：
+
+960gs
+名詞解釋
+格線設定 及  計算方法
+實例
+實際運用
+格線與響應式的搭配
+
+960gs當然網頁設計也不例外，我們通常稱為 Grid System。在 RWD
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/18/grid-system/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/18/grid-system/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Wed, 17 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2004.png?alt=media&amp;token=544df737-1cf9-431b-8db8-1f76ec4dc686" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：設計師思維及工程師思維
+        ]]></title>
+            <description><![CDATA[
+            我接觸設計的時間也非常長了，從大學、研究所到剛出社會，都是維持著設計的思維，直到開始認真學習 Sass、JavaScript 思維才慢慢偏向工程師（不得不說，Sass 真的讓我革新了許多觀念），雖然現在不敢說是完全的工程師的思維，但中間的許多轉換是很值得與大家分享，建議設計師在執行時，不妨試試幾次以工程師為導向的概念來設計網頁，會有很大觀念變化。
+以下我列出幾個常見的差異，而這些差異並非全部，僅是
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/17/design-vs-developer/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/17/design-vs-developer/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Tue, 16 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy_03.png?alt=media&amp;token=fa1a9d45-5ec3-411e-a4e3-05c760060f5f" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：別使用平面繪圖軟體繪製 UI 設計
+        ]]></title>
+            <description><![CDATA[
+            除了前端課程外，自己也是有辦一些額外的活動，而這些都會說到我是一名設計師轉職的前端工程師，除了介紹前端外，我也會介紹一些設計觀念。介紹時我大多都會使用 Sketch 來進行說明，主要原因是 Sketch 的工具非常貼近於網頁及 UI 上的開發。
+而這些活動結束後，都會有些朋友詢問到：「一定要用 Sketch 來做設計嗎？Illustrator 或 Photoshop 不足夠嗎？」，我總是會不厭其煩
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/16/dont-use-graphic-design-tool/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/16/dont-use-graphic-design-tool/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Mon, 15 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2002.png?alt=media&amp;token=cc260ddf-de3f-4adc-984b-38c0f0e00d26" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：前端「設計」聖光之路
+        ]]></title>
+            <description><![CDATA[
+            我是卡斯伯，本身是設計出身，從高職 -> 大學 -> 研究所都是設計相關領域，出社會後從事網頁設計後來轉職為前端工程師。雖然主要工作是前端，但還是會有不少時間接觸網頁設計，所以相信我的經驗也是能夠帶給大家許多參考，並且完整的前端經驗也會有助於這些概念的實作。
+為什麼要寫這系列文？不同領域的人們在協作時都會有些許的紛爭，設計師與工程師一直以來也會有這樣的嫌隙，但其實並非所有「設計師與工程
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/15/frontend-design-holy-road/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/15/frontend-design-holy-road/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Sun, 14 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy.png?alt=media&amp;token=9db81a25-c8b3-4396-bd78-a2f4257861a0" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        Github Pages 自訂網域免費升級 https
+        ]]></title>
+            <description><![CDATA[
+            Chrome 在 68 版以後會將沒有 https 連線的網站標上不安全的字樣，如果使用 Github Pages 但又不想花大錢買憑證的朋友，可以參考本篇免費安裝 https 憑證。
+
+現在 Github Pages 免費提供自訂網域核發 HTTPS 憑證，且這段流程是完全自動，不需要額外申請，雖然是全自動的，但也需要符合規範才能自動申請。
+需要注意的地方憑證是 Github 代為與 Let’s
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/07/27/gh-pages-https/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/07/27/gh-pages-https/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Thu, 26 Jul 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201807%2F55126281-E541-48B1-96EE-7EC17EB08025.png?alt=media&amp;token=2581daab-6369-4339-a76e-96a2f823f00d" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        老同學來相找，一同轉行做 UI 設計師
+        ]]></title>
+            <description><![CDATA[
+            最近有些高中、研究所老同學、朋友們看到我在六角學院，也會問到如何轉行 UI、前端，很高興你們來詢問，如果對於此領域有興趣的朋友都可以來聊聊。
+在此我推薦一些資訊，可以協助你們(或大家)從網頁設計慢慢轉行到 UI、網頁設計師。不過首先，平面設計的觀念到這個領域不一定受用，有許多邏輯性的概念是不同的。如：單位尺寸、色彩、字體字型、資訊流觀念都還是要重新學習，許多東西簡化了，也有許多複雜化了，可以先花點
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/05/25/be-a-ui/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/05/25/be-a-ui/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Thu, 24 May 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201805%2Fg_to_ui.png?alt=media&amp;token=d914368b-ca73-479f-8602-8b598f671f7a" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        Github 中的 ssh、https 路徑有什麼差異？ - 如何設定 Github SSH 金鑰
+        ]]></title>
+            <description><![CDATA[
+            再推出 Hexo 介紹影片以後，會有許多同學私下問我關於 https 與 ssh 這兩個有什麼差異？另外會不會影響部署？為什麼看老師是使用 ssh 而自己用 ssh 卻跳出權限不足？
+Git 中 https 與 ssh 這兩個有什麼差異？這兩個均是 Git 儲存庫的路徑，Github 官方推薦使用 https 但同時也提供 ssh 的連線方式，兩者差異點在於：
+
+https: 在上傳時需要輸入帳密
+        ]]></description>
+            <link>https://wcc723.github.io/git/2018/02/12/github-ssh-https/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/git/2018/02/12/github-ssh-https/</guid>
+            <category><![CDATA[
+            git
+            ]]></category>
+            <pubDate>Sun, 11 Feb 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201802%2Fgithub-ssh.jpg?alt=media&amp;token=64417bac-8ddd-406c-809d-e1f4c1083f99" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：邁向 JavaScript 的勇者
+        ]]></title>
+            <description><![CDATA[
+            這次是第四次參加鐵人賽，先前參加的主題分別為兩次 CSS 及一次 JavaScript (D3.js)。
+因為原本是視覺設計師，在過去曾經打算專精於 CSS 就好，所以不斷專精 CSS 的表現模式以及他的開發模式，我還曾經開發過幾次的 CSS Framework (有實際運用過)，不過隨著時間發展這個概念有了改變 :D。
+撇開 CSS 不說，對於多變的 JavaScript 還是有一些自己的看法，
+        ]]></description>
+            <link>https://wcc723.github.io/javascript/2018/01/02/javascript-ironman-ending/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/javascript/2018/01/02/javascript-ironman-ending/</guid>
+            <category><![CDATA[
+            javascript
+            ]]></category>
+            <pubDate>Mon, 01 Jan 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201801%2F18_ironman_cover_30.jpg?alt=media&amp;token=78b9c963-1d50-4f34-b11b-a4b45fe832dc" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：透過 ESLint 學習 JavaScript ES6
+        ]]></title>
+            <description><![CDATA[
+            至於 ES6 該怎麼學比較好!?很建議安裝 ESLint 來邊學邊修正觀念。ESLint 是一個團隊統一程式碼結構的工具，如果程式碼不符合規範，則會出現相對應的提示，而其中有三大主流規範是許多開發者愛用的：
+
+Google
+Airbnb
+JavaScript Standard Style
+
+三個都有各自的擁護者，風格上 Airbnb 較為嚴謹，每一種語法都有嚴格的規範；而 JavaScript S
+        ]]></description>
+            <link>https://wcc723.github.io/javascript/2018/01/01/javascript-eslint/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/javascript/2018/01/01/javascript-eslint/</guid>
+            <category><![CDATA[
+            javascript
+            ]]></category>
+            <pubDate>Sun, 31 Dec 2017 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201801%2F18_ironman_cover_29.jpg?alt=media&amp;token=4b5020ab-4eda-4733-a985-c6a4c19e1c5b" length="0" type="image"/>
+        </item>
+    </channel>
+</rss>
