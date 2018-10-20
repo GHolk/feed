@@ -23,9 +23,32 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://wcc723.github.io/</id>
+    <title>卡斯伯 Blog - 前端，沒有極限</title>
+    <published>2018-10-20</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://wcc723.github.io/" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/wcc723.rss"/>
+    <summary>
+      台灣前端工程師，沒有 rss 就自己幫他加一個。
+      參加過幾次 IT 鐵人賽。
+      從他那裡學到 css3 的 unicode-range 屬性，
+      用來設中英文不同字型。
+    </summary>
+    <category term="front-end" />
+    <category term="css" />
+    <category term="javascript" />
+    <category term="html" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/yinwang.rss#description-first</id>
     <title>當然我在扯淡</title>
     <published>2018-04-29</published>
+    <updated>2018-10-17</updated>
     <link rel="alternate"
           type="text/html"
           href="http://www.yinwang.org"/>
