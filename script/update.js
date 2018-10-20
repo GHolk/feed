@@ -9,13 +9,13 @@ const anafeed = {
     JSDOM, RSS,
     articleList: [],
     feed: null,
-    dom: null, window: null,
+    window: null,
     articleSelector: '',
     rssPath: '',
     promiseWriteContent: util.promisify(fs.writeFile),
     async generateFeed() {
         const url = this.feedOption.site_url
-        await this.loadWindow(url)
+        this.window = await this.loadWindow(url)
         this.extractArticleList()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
@@ -29,8 +29,8 @@ const anafeed = {
         await this.promiseWriteContent(this.rssPath, content, 'utf8')
     },
     async loadWindow(url) {
-        this.dom = await this.JSDOM.fromURL(url)
-        this.window = this.dom.window
+        const dom = await this.JSDOM.fromURL(url)
+        return dom.window
     },
     feedOption: {
         title: '',
@@ -54,7 +54,9 @@ const anafeed = {
             this.articleList.push(article)
         }
     },
-    parseArticle(node) {},
+    parseArticle(node) {
+        throw new Error('you need specify your own parseArticle method')
+    },
     create(option) {
         const child = Object.create(this)
         Object.assign(child, option)
