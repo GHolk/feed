@@ -12,7 +12,7 @@ run_all() {
     gamer/update-all.sh
     yinwang/update.sh
     villainhr/update.sh
-    wcc723/update.sh
+    ./update.js wcc723.js
 }
 
 network_on() {
