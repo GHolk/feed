@@ -18,7 +18,7 @@ const anafeed = {
         const url = this.feedOption.site_url
         this.window = await this.loadWindow(url)
         this.extractArticleList()
-        if (typeof this.postExtract == 'function') this.postExtract()
+        if (typeof this.postExtract == 'function') await this.postExtract()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
             feed.item(article)
