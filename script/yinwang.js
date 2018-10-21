@@ -5,7 +5,7 @@ class Article {
         this.title = title
         this.url = url
     }
-    async loadDescription() {
+    async loadDescription(loadWindow) {
         this.window = await loadWindow(this.url)
         const document = this.window.document
         let firstNode = document.querySelector('h2 + *')
@@ -28,7 +28,9 @@ const yinwangOption = {
     articleSelector: '.outer li a',
     rssPath: 'yinwang.rss',
     async postExtract() {
-        await this.articleList[0].loadDescription()
+        const firstArticle = this.articleList[0]
+        const articleWindow = await this.loadWindow(firstArticle.url)
+        await firstArticle.loadDescription(this.loadWindow.bind(this))
     },
     feedOption: {
         title: '想當然我在扯蛋',
