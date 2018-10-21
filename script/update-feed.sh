@@ -10,9 +10,8 @@ run_all() {
     # add script you want to run below
     activity-ncku/update.sh
     gamer/update-all.sh
-    yinwang/update.sh
     villainhr/update.sh
-    ./update.js wcc723.js
+    ./update.js wcc723.js yinwang.js
 }
 
 network_on() {
