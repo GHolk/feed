@@ -26,7 +26,7 @@ const anafeed = {
     async write(path) {
         if (!path) path = this.rssPath
         const content = this.feed.xml({indent: true})
-        await this.promiseWriteContent(this.rssPath, content, 'utf8')
+        await this.promiseWriteContent(path, content, 'utf8')
     },
     async loadWindow(url) {
         const dom = await this.JSDOM.fromURL(url)
@@ -54,9 +54,7 @@ const anafeed = {
             this.articleList.push(article)
         }
     },
-    parseArticle(node) {
-        throw new Error('you need specify your own parseArticle method')
-    },
+    parseArticle(node) {},
     create(option) {
         const child = Object.create(this)
         Object.assign(child, option)
