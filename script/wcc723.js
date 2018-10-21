@@ -9,6 +9,7 @@ const wcc723 = {
         site_url: 'http://wcc723.github.io/',
         image_url: 'http://wcc723.github.io/images/casper_blog.svg',
         managingEditor: '卡斯伯 casper wcc723',
+        pubDate: '2018-10-20',
         categories: ['front-end', 'javascript', 'css', 'html']
     },
     parseArticle(node) {
