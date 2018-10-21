@@ -13,10 +13,12 @@ const anafeed = {
     articleSelector: '',
     rssPath: '',
     promiseWriteContent: util.promisify(fs.writeFile),
+    postExtract: null,
     async generateFeed() {
         const url = this.feedOption.site_url
         this.window = await this.loadWindow(url)
         this.extractArticleList()
+        if (typeof this.postExtract == 'function') this.postExtract()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
             feed.item(article)
@@ -54,7 +56,9 @@ const anafeed = {
             this.articleList.push(article)
         }
     },
-    parseArticle(node) {},
+    parseArticle(node) {
+        throw new Error('you have no parseArticle method!')
+    },
     create(option) {
         const child = Object.create(this)
         Object.assign(child, option)
