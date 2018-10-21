@@ -8,12 +8,14 @@
             <title>想當然我在扯蛋</title>
             <link>http://yinwang.org</link>
         </image>
-        <generator>node.js with npm rss</generator>
-        <lastBuildDate>Sun, 21 Oct 2018 05:59:01 GMT</lastBuildDate>
+        <generator>anafeed, RSS, JSDOM, node.js</generator>
+        <lastBuildDate>Sun, 21 Oct 2018 07:00:15 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
-        <pubDate>Sun, 21 Oct 2018 05:59:01 GMT</pubDate>
+        <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
-        <docs>http://gholk.github.io/feed</docs>
+        <managingEditor><![CDATA[王垠]]></managingEditor>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>

@@ -9,8 +9,9 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed, RSS, JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 21 Oct 2018 05:59:04 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Oct 2018 07:00:14 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
         <managingEditor><![CDATA[卡斯伯 casper wcc723]]></managingEditor>
         <webMaster><![CDATA[gholk]]></webMaster>
@@ -20,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計色彩配置概念
+        ]]></title>
+            <description><![CDATA[
+            根據上一篇介紹的設計規範參考，實戰中有許多需要事先定義，而色彩是使用者打開網站最先體驗到的部分。好比說 Facebook 的深藍色、Google 的紅色、LINE 的綠色，Yahoo 的紫色，這些色彩都深深的存在我們腦海裡，所以在決定這些色彩絕不能馬乎，如果換了色彩用戶還可能會想「我進錯網站了嗎？」。
+
+除此之外，每個色彩也帶有不同的行動意味，因此顏色要怎麼選、怎麼配才會好看、好用呢？畢竟五顏六色
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/21/color/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/21/color/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Sat, 20 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2007.png?alt=media&amp;token=d8c14b49-77c0-4a6a-8225-a2efe97038e4" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：文件、規範參考 - Material Design
@@ -182,27 +200,6 @@ https: 在上傳時需要輸入帳密
             ]]></category>
             <pubDate>Mon, 01 Jan 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201801%2F18_ironman_cover_30.jpg?alt=media&amp;token=78b9c963-1d50-4f34-b11b-a4b45fe832dc" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：透過 ESLint 學習 JavaScript ES6
-        ]]></title>
-            <description><![CDATA[
-            至於 ES6 該怎麼學比較好!?很建議安裝 ESLint 來邊學邊修正觀念。ESLint 是一個團隊統一程式碼結構的工具，如果程式碼不符合規範，則會出現相對應的提示，而其中有三大主流規範是許多開發者愛用的：
-
-Google
-Airbnb
-JavaScript Standard Style
-
-三個都有各自的擁護者，風格上 Airbnb 較為嚴謹，每一種語法都有嚴格的規範；而 JavaScript S
-        ]]></description>
-            <link>https://wcc723.github.io/javascript/2018/01/01/javascript-eslint/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/javascript/2018/01/01/javascript-eslint/</guid>
-            <category><![CDATA[
-            javascript
-            ]]></category>
-            <pubDate>Sun, 31 Dec 2017 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201801%2F18_ironman_cover_29.jpg?alt=media&amp;token=4b5020ab-4eda-4733-a985-c6a4c19e1c5b" length="0" type="image"/>
         </item>
     </channel>
 </rss>
