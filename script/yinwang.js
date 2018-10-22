@@ -26,17 +26,17 @@ class Article {
 function inheritAnafeed(anafeed) {
     const yinwangOption = {
         __proto__: anafeed,
+        articleList: [],
         parseArticle: Article.fromAnchor.bind(Article),
         articleSelector: '.outer li a',
         rssPath: 'yinwang.rss',
-        async generateFeed() {
-            await super.generateFeed()
-            await this.postExtract()
-        },
-        async postExtract() {
-            const firstArticle = this.articleList[0]
-            const articleWindow = await this.loadWindow(firstArticle.url)
-            await firstArticle.loadDescription(this.loadWindow.bind(this))
+        async parseArticle(node) {
+            const article = Article.fromAnchor(node)
+            // only load description of first article
+            if (this.articleList.length == 0) {
+                await article.loadDescription(this.loadWindow.bind(this))
+            }
+            return article
         },
         feedOption: {
             __proto__: anafeed.feedOption,

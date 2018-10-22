@@ -16,7 +16,7 @@ const anafeed = {
     async generateFeed() {
         const url = this.feedOption.site_url
         this.window = await this.loadWindow(url)
-        this.extractArticleList()
+        await this.extractArticleList()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
             feed.item(article)
@@ -46,15 +46,15 @@ const anafeed = {
         categories: [],
         ttl: 24 * 60
     },
-    extractArticleList() {
+    async extractArticleList() {
         const document = this.window.document
         const nodeList = document.querySelectorAll(this.articleSelector)
         for (const node of nodeList) {
-            const article = this.parseArticle(node)
+            const article = await this.parseArticle(node)
             this.articleList.push(article)
         }
     },
-    parseArticle(node) {
+    async parseArticle(node) {
         throw new Error('you have no parseArticle method!')
     },
     create(option) {
