@@ -4,6 +4,7 @@ function inheritAnafeed(anafeed) {
         __proto__: anafeed,
         articleSelector: '#main .article-summary',
         rssPath: 'wcc723.rss',
+        articleList: [],
         feedOption: {
             __proto__: anafeed.feedOption,
             title: '卡斯伯 Blog - 前端，沒有極限',
