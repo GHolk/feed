@@ -13,12 +13,10 @@ const anafeed = {
     articleSelector: '',
     rssPath: '',
     promiseWriteContent: util.promisify(fs.writeFile),
-    postExtract: null,
     async generateFeed() {
         const url = this.feedOption.site_url
         this.window = await this.loadWindow(url)
         this.extractArticleList()
-        if (typeof this.postExtract == 'function') await this.postExtract()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
             feed.item(article)
@@ -37,7 +35,7 @@ const anafeed = {
     feedOption: {
         title: '',
         description: '',
-        generator: 'anafeed, RSS, JSDOM, node.js',
+        generator: 'anafeed: power by npm/RSS, npm/JSDOM, node.js',
         feed_url: '',
         site_url: '',
         image_url: '',
@@ -67,13 +65,13 @@ const anafeed = {
         return child
     },
     async requireAndRun(path) {
-        const siteOption = require(path)
-        const child = this.create(siteOption)
-        await child.generateFeed()
-        await child.write('../' + child.rssPath)
+        const libsite = require('./' + path)
+        const site = libsite.inheritAnafeed(this)
+        await site.generateFeed()
+        await site.write('../' + site.rssPath)
     }
 }
 
-for (const siteOption of process.argv.slice(2)) {
-    anafeed.requireAndRun('./' + siteOption)
+for (const sitePath of process.argv.slice(2)) {
+    anafeed.requireAndRun('./' + sitePath)
 }
