@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 22 Oct 2018 03:48:02 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Oct 2018 07:26:59 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,43 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：色彩運用(2) - 連結的配色
+        ]]></title>
+            <description><![CDATA[
+            除了親和性的配色外，訊息的傳遞也是很重要的，與平面設計不同的是訊息並非只有圖文的傳遞，還包含了狀態、互動、提示等等訊息，訊息也同時可以用許多不同色彩表示，增加訊息所能表示的情感、急迫性、引導性等等。
+連結色彩（包含不同狀態）網頁設計中的 <a> 除了本身的預設樣式外，另外還包含以下幾種 “狀態”
+
+a:link - 未拜訪過的連結。
+a:visited - 已拜訪過的連結。
+a:hov
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/23/link-color/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/23/link-color/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Mon, 22 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2009.png?alt=media&amp;token=9c753bac-be7d-4ea9-b477-0453344de08d" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：色彩運用(1) - 你的網頁文字是否足夠清楚呢？
+        ]]></title>
+            <description><![CDATA[
+            上一篇介紹了整體色彩選擇，按造該概念完成一個網頁相信不是什麼問題，不過色彩到底怎麼選？運用上有什麼需要注意的？本篇就來介紹一下吧。
+Accessibility：這個單字翻譯有很多意思，如：「無障礙」、「親和性」、「可訪問性」，其中我最喜歡的是親和性的翻譯，因此把它作為此篇文章的標題，而在 Google 的相關文件中翻譯為「可訪問性」，在本文中看到「親和性」、「可訪問性」都是指此單字喔。
+網頁可訪問
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/22/accessibility/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/22/accessibility/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Sun, 21 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2008.png?alt=media&amp;token=aa26b49e-bb7a-4b2c-b2e2-4a8790234223" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：網頁設計色彩配置概念
@@ -165,41 +202,6 @@ Google 的 Material Design
             ]]></category>
             <pubDate>Thu, 24 May 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201805%2Fg_to_ui.png?alt=media&amp;token=d914368b-ca73-479f-8602-8b598f671f7a" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        Github 中的 ssh、https 路徑有什麼差異？ - 如何設定 Github SSH 金鑰
-        ]]></title>
-            <description><![CDATA[
-            再推出 Hexo 介紹影片以後，會有許多同學私下問我關於 https 與 ssh 這兩個有什麼差異？另外會不會影響部署？為什麼看老師是使用 ssh 而自己用 ssh 卻跳出權限不足？
-Git 中 https 與 ssh 這兩個有什麼差異？這兩個均是 Git 儲存庫的路徑，Github 官方推薦使用 https 但同時也提供 ssh 的連線方式，兩者差異點在於：
-
-https: 在上傳時需要輸入帳密
-        ]]></description>
-            <link>https://wcc723.github.io/git/2018/02/12/github-ssh-https/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/git/2018/02/12/github-ssh-https/</guid>
-            <category><![CDATA[
-            git
-            ]]></category>
-            <pubDate>Sun, 11 Feb 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201802%2Fgithub-ssh.jpg?alt=media&amp;token=64417bac-8ddd-406c-809d-e1f4c1083f99" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：邁向 JavaScript 的勇者
-        ]]></title>
-            <description><![CDATA[
-            這次是第四次參加鐵人賽，先前參加的主題分別為兩次 CSS 及一次 JavaScript (D3.js)。
-因為原本是視覺設計師，在過去曾經打算專精於 CSS 就好，所以不斷專精 CSS 的表現模式以及他的開發模式，我還曾經開發過幾次的 CSS Framework (有實際運用過)，不過隨著時間發展這個概念有了改變 :D。
-撇開 CSS 不說，對於多變的 JavaScript 還是有一些自己的看法，
-        ]]></description>
-            <link>https://wcc723.github.io/javascript/2018/01/02/javascript-ironman-ending/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/javascript/2018/01/02/javascript-ironman-ending/</guid>
-            <category><![CDATA[
-            javascript
-            ]]></category>
-            <pubDate>Mon, 01 Jan 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201801%2F18_ironman_cover_30.jpg?alt=media&amp;token=78b9c963-1d50-4f34-b11b-a4b45fe832dc" length="0" type="image"/>
         </item>
     </channel>
 </rss>

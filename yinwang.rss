@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 22 Oct 2018 03:48:03 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Oct 2018 07:27:00 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -61,6 +61,12 @@
             <link>http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning</guid>
             <pubDate>Tue, 31 Oct 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我为什么爱猫]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/07/21/love-cat</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/21/love-cat</guid>
+            <pubDate>Thu, 20 Jul 2017 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[如何掌握所有的程序语言]]></title>
