@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 23 Oct 2018 07:27:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Oct 2018 16:26:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -43,12 +43,6 @@
             <link>http://www.yinwang.org/blog-cn/2018/02/22/smart-contract</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/02/22/smart-contract</guid>
             <pubDate>Wed, 21 Feb 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[成都的雾霾]]></title>
-            <link>http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</guid>
-            <pubDate>Thu, 15 Feb 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[iPhone X]]></title>
