@@ -1,0 +1,336 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[ClarenceC fe2x]]></title>
+        <description><![CDATA[中國前端工程師，有關 javascript 與與一些 command line 工具]]></description>
+        <link>http://fe2x.cc/</link>
+        <image>
+            <url>http://fe2x.cc/favicon.ico</url>
+            <title>ClarenceC fe2x</title>
+            <link>http://fe2x.cc/</link>
+        </image>
+        <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
+        <lastBuildDate>Wed, 24 Oct 2018 12:50:15 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/fe2x.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate>
+        <language><![CDATA[zh-TW]]></language>
+        <managingEditor><![CDATA[CalarenceC]]></managingEditor>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[front-end]]></category>
+        <category><![CDATA[javascript]]></category>
+        <item>
+            <title><![CDATA[关于 zsh:command not found: ***]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/07/13/%E5%85%B3%E4%BA%8E-zsh-command-not-found/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/07/13/%E5%85%B3%E4%BA%8E-zsh-command-not-found/</guid>
+            <pubDate>Fri, 13 Jul 2018 06:36:15 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是 DOM]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          DOM 是针对 HTML 和 XML 文档的一个 API应该程序编程接口。DOM 用来描绘了一个可添加、移除和修改的层次的节点树。DOM 是由 DHTML (动态 HTML)开始创立的，现在都是跨平台、语言中立的。
+DOM 是一个树形结构的根节点集合组成的。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/06/25/DOM/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/06/25/DOM/</guid>
+            <pubDate>Mon, 25 Jun 2018 03:28:51 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[你不知道的JS]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          
+原文链接: JS things I never knew existed原文作者: Nick译者： ClarenceC本文为意译
+
+我已经看过了全部的 MDN 文档及其它 JS API 文档发现很少有说明使用这些JS功能的文档，所以列出这样的一个列表把有用你所不知道JS功能列出来。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/03/09/JSthings-You-never-knew-existed/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/03/09/JSthings-You-never-knew-existed/</guid>
+            <pubDate>Fri, 09 Mar 2018 14:05:35 GMT</pubDate>
+            <enclosure url="http://fe2x.cc/2018/03/09/JSthings-You-never-knew-existed/clem-onojeghuo-200300.jpg" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[Chrome Devtools 开发者工具简述]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          现在做显示设备适配越来越复杂了,不单只要调试Web端设置还得要兼容手持端各尺寸的手持端设备,当然还有越来越广泛的生态应用 PWA SPA 等,都是在展示的网页都成App形式存在了,不在像以前的网页简单的页面与后台反馈.所以前端也需要一个优秀的工具来测量调试. Chrome Devtools 应运而生, Chrome Devtools 提供了强大的调试测量功能,下面我们简称 Chrome 开发者工具, Chrome 开发者工具是一套内置在Google Chrome中Web开发和调试工具.使用开发者工具来重演，调试和剖析您的网站. 下面我们看看 Chrome 开发者工具有那些功能可以帮助到前端开发者的. 本文主要是对 Chrome 开发者工具的功能介绍，具体功能操作步骤请查看 Chrome Devtools 的使用手册，(由于Chrome 开发者工具更新得很快,看到这文章的时候可能和现在这个版本不一致,功能还是差不多的,我会尽力更新)。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/02/13/chrome-devtools/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/02/13/chrome-devtools/</guid>
+            <pubDate>Mon, 05 Mar 2018 09:05:46 GMT</pubDate>
+            <enclosure url="http://fe2x.cc/2018/02/13/chrome-devtools/chrome-devtools-1024x512.png" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[D2 贺老 JavaScript Microbenchmark 测试的总结]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          虽然未能去到阿里巴巴 D2 前端盛会，但是在过后的回放当中也总结到了不少的东西，这篇文章是总结贺大 Johnhax 的关于 Microbenchmark For JavaScript 的性能测试演讲。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/02/04/Microbenchmark-for-JavaScript-By-Hax-NOTES/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/02/04/Microbenchmark-for-JavaScript-By-Hax-NOTES/</guid>
+            <pubDate>Fri, 09 Mar 2018 14:00:47 GMT</pubDate>
+            <enclosure url="http://fe2x.cc/2018/02/04/Microbenchmark-for-JavaScript-By-Hax-NOTES/WechatIMG149.jpeg" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[良好的CSS命名规则会让你省上上小时的调试时间]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          
+原文链接: css-naming-conventions-that-will-save-you-hours-of-debugging原文作者: Ohans Emmanuel译者: ClarenceC本文为意译
+
+我已经听很多开发者说他们不喜欢CSS。在我的经验来说，造成这样的原因，不是因为要花额外的时间去学CSS。
+CSS并不是一门漂亮的‘语言’，但是它也已经成功当了 Web 风格语言快20年了。感觉还还不太差啊？
+然而,如果你写大量的CSS，你会很快发现一个很大的缺憾， 是非常困难地去管理维护CSS的。写得很差的CSS很快就会变成恶梦。
+这篇文章的一些命名规则会帮你一些减轻压力和省很多时间在里面。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/01/28/css-naming-conventions/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/01/28/css-naming-conventions/</guid>
+            <pubDate>Mon, 05 Mar 2018 08:25:03 GMT</pubDate>
+            <enclosure url="https://cdn-images-1.medium.com/max/2000/1*YunI3ChUVMlpmFzo75FczQ.png" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[2017总结 拥抱变化,夯实基础]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          2017年 时间飞逝总感觉时间过得很快,特别是今年,每过一周的时候总希望把时间挽留住,有时候我甚至会停下工作来看看时间,但时间还是很快的流走了,这就剩下了2017年的最后的两三天了.
+我今天算是迈向30了,是我改变蛮大的一年,人沉稳了很多,不再那么浮躁了.沉着气追求自己热爱的一切,工作,前端,艺术,生活,经历,全部的努力也慢慢向上发展,这是我乐于见到的,有种厚积待发的感觉.
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2017/12/29/person-summary-2017/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2017/12/29/person-summary-2017/</guid>
+            <pubDate>Sat, 30 Dec 2017 04:40:34 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1491245338813-c6832976196e?auto=format&amp;fit=crop&amp;w=2100&amp;q=80" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[JS 循环遍历方法的对比]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          
+前言JavaScript 发展至今已经发展出多种数组的循环遍历的方法,不同的遍历方法运行起来那个比较快,不同循环方法使用在那些场景,下面将进行比较:
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2017/12/05/JS-for-performance-compare/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2017/12/05/JS-for-performance-compare/</guid>
+            <pubDate>Thu, 21 Dec 2017 13:29:05 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Zepto.JS 源码的学习]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          在学习的过程中,学会阅读源码也是一种很好的过程,但是对于一个新手来说,阅读源码就像一面茫然,下载了源码不知道从何开始.这里楼主选择从Zepto源码开始学习.首先因为Zepto并不复杂,Zepto实现功能还是比较简单, Zepto是类似于Jquery的轻量库,不过作用于手机端,类似于Jquery对DOM操作进行拼接,Zepto对PC端的IE浏览器兼容并没有做得很好,需然大小比Jquery小但是也没有Jquery做得那么好.
+阅读源码需要具备什么条件在阅读源码时需要准备些什么,你才能读懂:
+
+在阅读源码之前你需要知道这个源码的功能和作用是什么?实现什么功能?越清楚你就越容易看懂.
+
+在阅读源码之前你需要把源码的文档,或者测试用例看一次.
+
+找到源码的入口,暴露在全局的入口.如果你找不准代码看起来就像一团乱麻,得找到线头入口.
+
+读源码的时候需要,得先把源码的代码结构先弄清楚,细节的代码逻辑再慢慢整理.
+
+
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2017/11/28/learning-zeptojs/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2017/11/28/learning-zeptojs/</guid>
+            <pubDate>Sat, 02 Dec 2017 03:36:43 GMT</pubDate>
+            <enclosure url="http://www.css88.com/doc/zeptojs_api/logo.png" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[JavaScript数组去重总结]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          最近在看代码，发现一个数组去重方法，突然发现数组去重的重要性，网上面查了一下，又是一个大大的知识点啊。本文参考部分网上教程以及个人总结。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2017/11/24/unqiue-array/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2017/11/24/unqiue-array/</guid>
+            <pubDate>Fri, 19 Jan 2018 00:54:23 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
