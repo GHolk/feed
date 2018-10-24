@@ -10,11 +10,11 @@ run_all() {
     # add script you want to run below
     activity-ncku/update.sh
     gamer/update-all.sh
-    villainhr/update.sh
     node_list='
         wcc723.js
         yinwang.js
         fe2x.js
+        villainhr.js
     '
     ./update.js $node_list
 }
