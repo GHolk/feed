@@ -23,6 +23,25 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://fe2x.cc/</id>
+    <title>ClarenceC fe2x</title>
+    <published>2018-10-24</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://fe2x.cc/" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/fe2x.rss"/>
+    <summary>
+      中國前端工程師，沒有 rss 就自己幫他加一個。
+      努力學習與研究 JavaScript ，對框架作深度探討，
+      也有一些工具文章，像 zsh 、 git 等。
+    </summary>
+    <category term="front-end" />
+    <category term="javascript" />
+  </entry>
+  
+  <entry>
     <id>http://wcc723.github.io/</id>
     <title>卡斯伯 Blog - 前端，沒有極限</title>
     <published>2018-10-20</published>

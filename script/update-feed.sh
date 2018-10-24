@@ -11,7 +11,12 @@ run_all() {
     activity-ncku/update.sh
     gamer/update-all.sh
     villainhr/update.sh
-    ./update.js wcc723.js yinwang.js
+    node_list='
+        wcc723.js
+        yinwang.js
+        fe2x.js
+    '
+    ./update.js $node_list
 }
 
 network_on() {
