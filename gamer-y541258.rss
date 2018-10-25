@@ -1,6 +1,96 @@
 <?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0"><channel><title>y541258 的小屋創作 RSS</title><link>http://home.gamer.com.tw/creation.php?owner=y541258</link><language>zh-tw</language><lastBuildDate>Thu, 25 Oct 2018 11:07:10 +0800</lastBuildDate><ttl>20</ttl><item><title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4170032</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;這篇算緩解緊張不安的情緒寫的(像程式不知道做不做得出來,別人做出來的話自己看得懂嗎?)...(繼續閱讀)</description><pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate></item><item><title>10/22~24,藉由網頁檔來讓.wav檔產生波形(固定音高)與和弦,若能去除雜訊就算成功了</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4169993</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;目前,產生和弦成功,但有些爆音與雜訊
-https://github.com/y541258/HTML5/blob/master/MIDI_web/wav_pit...(繼續閱讀)</description><pubDate>Mon, 22 Oct 2018 17:43:27 +0800</pubDate></item><item><title>10/21,已完成動畫背景切換統計(需人工檢核),.wav檔產生波形與和弦未著手</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4168658</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;今日目標或說問題有兩個1.動畫背景切換統計(已完成,但還沒全自動化,或者說不知道怎麼全自動化)(類似散步跟室內跑步機的差異...(繼續閱讀)</description><pubDate>Sun, 21 Oct 2018 11:28:29 +0800</pubDate></item><item><title>10/20,思考下一步與雜談(唔,其實每天都在思考下一步啦)</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4167750</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;嗯,最近心情平穩,精神較正常(放假效果還不錯)只是總覺得一天好像要做些什麼才算有過...(繼續閱讀)</description><pubDate>Sat, 20 Oct 2018 16:31:13 +0800</pubDate></item><item><title>10/17~10/20,極短期計劃,麥克風錄音轉音階,修正之前理解錯誤,但效果還是不好</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4164889</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;10/20網頁麥克風錄音轉音階並存檔"(慘不忍睹),但就先這樣吧
-昨天getByteFrequencyData(dataArray),每個所記錄的0~...(繼續閱讀)</description><pubDate>Wed, 17 Oct 2018 17:44:17 +0800</pubDate></item><item><title>10/15,midi.html,Pitch Monitior,WaveTone實際使用過程,《君色シグナル》主歌前4秒研究</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4162909</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;本篇若要省事的話直接用Amazing MIDI...(繼續閱讀)</description><pubDate>Mon, 15 Oct 2018 18:47:25 +0800</pubDate></item><item><title>10/14,類似MIDI製作網頁,為了戶外時能用手機來離線練聽譜和視唱,聽譜完成</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4160491</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;https://github.com/y541258/HTML5/blob/master/MIDI_web/midi.html 
-10/14 09:42 隨機聽...(繼續閱讀)</description><pubDate>Sat, 13 Oct 2018 11:42:42 +0800</pubDate></item><item><title>10/12,觀動畫有感,聊下知足(停損點)</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4159924</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;雖說是觀動畫有感,但是有感跟動畫內容本身較沒關係而是觀動畫這件事本身...(繼續閱讀)</description><pubDate>Fri, 12 Oct 2018 21:03:10 +0800</pubDate></item><item><title>10/11起,網頁策略遊戲的基礎要素程式實作,先使用localStorage(純網頁檔)解決,放著不管</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4157694</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;比較想打電動和看動畫,所以10/12(工作日)很混,一天做一點
-初始人物、人物關係、人物位置並使用localStorage儲存載入(目前只能在console看)...(繼續閱讀)</description><pubDate>Wed, 10 Oct 2018 17:15:57 +0800</pubDate></item><item><title>10/7,在想未來的日子(10/11前程式相關預測會先休息陣子)</title><link>http://home.gamer.com.tw/creationDetail.php?sn=4154709</link><author>物不平則鳴 李兒諳</author><description>&lt;img src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;嗯,近期覺得心情似乎有些低落,但沒什麼原因硬要說的話,大概就是想到的很多事情都辦不到吧!!想的事情是什麼也許等等會寫(已寫)...(繼續閱讀)</description><pubDate>Sun, 7 Oct 2018 18:58:21 +0800</pubDate></item></channel></rss>
+<rss version="2.0">
+<channel>
+<title>y541258 的小屋創作 RSS</title>
+<link>http://home.gamer.com.tw/creation.php?owner=y541258</link>
+<language>zh-tw</language>
+<lastBuildDate>Thu, 25 Oct 2018 11:52:32 +0800</lastBuildDate>
+<ttl>20</ttl>
+<item>
+<title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4170032</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;這篇算緩解緊張不安的情緒寫的(像程式不知道做不做得出來,別人做出來的話自己看得懂嗎?)...(繼續閱讀)</description>
+<pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
+</item>
+<item>
+<title>10/22~24,藉由網頁檔來讓.wav檔產生波形(固定音高)與和弦,若能去除雜訊就算成功了</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4169993</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;目前,產生和弦成功,但有些爆音與雜訊
+https://github.com/y541258/HTML5/blob/master/MIDI_web/wav_pit...(繼續閱讀)</description>
+<pubDate>Mon, 22 Oct 2018 17:43:27 +0800</pubDate>
+</item>
+<item>
+<title>10/21,已完成動畫背景切換統計(需人工檢核),.wav檔產生波形與和弦未著手</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4168658</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;今日目標或說問題有兩個1.動畫背景切換統計(已完成,但還沒全自動化,或者說不知道怎麼全自動化)(類似散步跟室內跑步機的差異...(繼續閱讀)</description>
+<pubDate>Sun, 21 Oct 2018 11:28:29 +0800</pubDate>
+</item>
+<item>
+<title>10/20,思考下一步與雜談(唔,其實每天都在思考下一步啦)</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4167750</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;嗯,最近心情平穩,精神較正常(放假效果還不錯)只是總覺得一天好像要做些什麼才算有過...(繼續閱讀)</description>
+<pubDate>Sat, 20 Oct 2018 16:31:13 +0800</pubDate>
+</item>
+<item>
+<title>10/17~10/20,極短期計劃,麥克風錄音轉音階,修正之前理解錯誤,但效果還是不好</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4164889</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;10/20網頁麥克風錄音轉音階並存檔"(慘不忍睹),但就先這樣吧
+昨天getByteFrequencyData(dataArray),每個所記錄的0~...(繼續閱讀)</description>
+<pubDate>Wed, 17 Oct 2018 17:44:17 +0800</pubDate>
+</item>
+<item>
+<title>10/15,midi.html,Pitch
+Monitior,WaveTone實際使用過程,《君色シグナル》主歌前4秒研究</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4162909</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;本篇若要省事的話直接用Amazing
+MIDI...(繼續閱讀)</description>
+<pubDate>Mon, 15 Oct 2018 18:47:25 +0800</pubDate>
+</item>
+<item>
+<title>10/14,類似MIDI製作網頁,為了戶外時能用手機來離線練聽譜和視唱,聽譜完成</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4160491</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;https://github.com/y541258/HTML5/blob/master/MIDI_web/midi.html
+10/14 09:42 隨機聽...(繼續閱讀)</description>
+<pubDate>Sat, 13 Oct 2018 11:42:42 +0800</pubDate>
+</item>
+<item>
+<title>10/12,觀動畫有感,聊下知足(停損點)</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4159924</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;雖說是觀動畫有感,但是有感跟動畫內容本身較沒關係而是觀動畫這件事本身...(繼續閱讀)</description>
+<pubDate>Fri, 12 Oct 2018 21:03:10 +0800</pubDate>
+</item>
+<item>
+<title>10/11起,網頁策略遊戲的基礎要素程式實作,先使用localStorage(純網頁檔)解決,放著不管</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4157694</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;比較想打電動和看動畫,所以10/12(工作日)很混,一天做一點
+初始人物、人物關係、人物位置並使用localStorage儲存載入(目前只能在console看)...(繼續閱讀)</description>
+<pubDate>Wed, 10 Oct 2018 17:15:57 +0800</pubDate>
+</item>
+<item>
+<title>10/7,在想未來的日子(10/11前程式相關預測會先休息陣子)</title>
+<link>http://home.gamer.com.tw/creationDetail.php?sn=4154709</link>
+<author>物不平則鳴 李兒諳</author>
+<description>&lt;img
+src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;嗯,近期覺得心情似乎有些低落,但沒什麼原因硬要說的話,大概就是想到的很多事情都辦不到吧!!想的事情是什麼也許等等會寫(已寫)...(繼續閱讀)</description>
+<pubDate>Sun, 7 Oct 2018 18:58:21 +0800</pubDate>
+</item>
+</channel>
+</rss>
