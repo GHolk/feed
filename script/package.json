@@ -1,0 +1,29 @@
+{
+  "name": "anafeed",
+  "version": "1.0.0",
+  "description": "anathor feed crawler power by anacron",
+  "main": "update.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "dependencies": {
+      "JSDOM": "^11.10.0",
+      "rss": "^1.2.2"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/gholk/feed.git"
+  },
+  "keywords": [
+    "feed",
+    "atom",
+    "rss",
+    "generator"
+  ],
+  "author": "gholk",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/gholk/feed/issues"
+  },
+  "homepage": "https://github.com/gholk/feed#readme"
+}
