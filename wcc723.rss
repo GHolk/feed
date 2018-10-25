@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 23 Oct 2018 16:26:58 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Oct 2018 03:07:54 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,25 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：色彩運用(3) - 按鈕的配色
+        ]]></title>
+            <description><![CDATA[
+            上一篇透過連結的狀態了解運用，本篇則是探討按鈕再運用上的色彩變化，包含了一般、行動呼籲、外框線、警告意味等常見的類型，當然這些類型介紹上別不會包含上一篇的 “狀態”，實作中依然要記得補上喔。
+一般狀態一般狀態通常是最沒有特色的，但使用上也是最為普遍的，這類型的按鈕通常不會帶有太多色彩，並不會特別引人注目，目的也是讓用戶了解的要執行、連結等等。
+
+設計：越普通越好
+Call to Action宣傳網
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/24/button-color/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/24/button-color/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Tue, 23 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2010.png?alt=media&amp;token=dc11531a-8085-4998-bf0d-771c9cda6c72" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：色彩運用(2) - 連結的配色
@@ -186,22 +205,6 @@ Google 的 Material Design
             ]]></category>
             <pubDate>Thu, 26 Jul 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201807%2F55126281-E541-48B1-96EE-7EC17EB08025.png?alt=media&amp;token=2581daab-6369-4339-a76e-96a2f823f00d" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        老同學來相找，一同轉行做 UI 設計師
-        ]]></title>
-            <description><![CDATA[
-            最近有些高中、研究所老同學、朋友們看到我在六角學院，也會問到如何轉行 UI、前端，很高興你們來詢問，如果對於此領域有興趣的朋友都可以來聊聊。
-在此我推薦一些資訊，可以協助你們(或大家)從網頁設計慢慢轉行到 UI、網頁設計師。不過首先，平面設計的觀念到這個領域不一定受用，有許多邏輯性的概念是不同的。如：單位尺寸、色彩、字體字型、資訊流觀念都還是要重新學習，許多東西簡化了，也有許多複雜化了，可以先花點
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/05/25/be-a-ui/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/05/25/be-a-ui/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Thu, 24 May 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201805%2Fg_to_ui.png?alt=media&amp;token=d914368b-ca73-479f-8602-8b598f671f7a" length="0" type="image"/>
         </item>
     </channel>
 </rss>
