@@ -72,6 +72,9 @@ const anafeed = {
     }
 }
 
-for (const sitePath of process.argv.slice(2)) {
-    anafeed.requireAndRun('./' + sitePath)
+if (require.main == module) {
+    for (const sitePath of process.argv.slice(2)) {
+        anafeed.requireAndRun(sitePath)
+    }
 }
+else module.exports = anafeed
