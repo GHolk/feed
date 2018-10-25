@@ -8,5 +8,5 @@ function userRss($owner, $maxPage) {
 }
 
 $owner = $argv[1];
-echo userRss($owner, 1);
+userRss($owner, 1);
 ?>
