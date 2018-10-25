@@ -20,3 +20,5 @@ do
     php gamer/home-gamer.php $user >../gamer-$user.rss
 done
 
+tidy -q -utf8 -xml -m -i ../gamer-*.rss
+
