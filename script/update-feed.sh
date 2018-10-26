@@ -16,7 +16,7 @@ run_all() {
         fe2x.js
         villainhr.js
     '
-    ./update.js $node_list
+    ./anafeed.js $node_list
 }
 
 network_on() {
