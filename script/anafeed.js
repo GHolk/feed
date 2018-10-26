@@ -14,8 +14,7 @@ const anafeed = {
     rssPath: '',
     promiseWriteContent: util.promisify(fs.writeFile),
     async generateFeed() {
-        const url = this.feedOption.site_url
-        this.window = await this.loadWindow(url)
+        this.window = await this.loadWindow()
         await this.extractArticleList()
         const feed = new this.RSS(this.feedOption)
         for (const article of this.articleList) {
@@ -23,12 +22,15 @@ const anafeed = {
         }
         this.feed = feed
     },
+    get crawlUrl() {
+        return this.feedOption.feed_url
+    },
     async write(path) {
         if (!path) path = this.rssPath
         const content = this.feed.xml({indent: true})
         await this.promiseWriteContent(path, content, 'utf8')
     },
-    async loadWindow(url) {
+    async loadWindow(url = this.crawUrl) {
         const dom = await this.JSDOM.fromURL(url)
         return dom.window
     },
