@@ -23,14 +23,14 @@ const anafeed = {
         this.feed = feed
     },
     get crawlUrl() {
-        return this.feedOption.feed_url
+        return this.feedOption.site_url
     },
     async write(path) {
         if (!path) path = this.rssPath
         const content = this.feed.xml({indent: true})
         await this.promiseWriteContent(path, content, 'utf8')
     },
-    async loadWindow(url = this.crawUrl) {
+    async loadWindow(url = this.crawlUrl) {
         const dom = await this.JSDOM.fromURL(url)
         return dom.window
     },
