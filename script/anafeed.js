@@ -30,6 +30,16 @@ const anafeed = {
         const content = this.feed.xml({indent: true})
         await this.promiseWriteContent(path, content, 'utf8')
     },
+    busy: false,
+    loadInterval: 1,
+    async loadWindowLimit(url = this.crawlUrl) {
+        while (this.busy) await sleep(this.loadInterval)
+        this.busy = true
+        const window = await this.loadWindow(url)
+        await sleep(this.loadInterval)
+        this.busy = false
+        return window
+    },
     async loadWindow(url = this.crawlUrl) {
         const dom = await this.JSDOM.fromURL(url)
         return dom.window
