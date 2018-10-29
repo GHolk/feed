@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 26 Oct 2018 00:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Oct 2018 18:31:38 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>長生劫-有限的空間</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4174136</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004174136.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 26 Oct 2018 18:09:23 +0800</pubDate>
+    </item>
     <item>
       <title>02吃蘋果</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/65/0002710165.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 9 Jan 2015 17:05:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>聖光召喚(我比較想閃光召喚)</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=2683481</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/81/0002683481.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sat, 13 Dec 2014 14:54:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
