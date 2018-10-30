@@ -5,8 +5,18 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=e123456789</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 29 Oct 2018 18:33:20 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Oct 2018 11:26:55 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>【惡搞版】等妳卸任</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4177717</link>
+      <author>齊珍憶</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/17/0004177717.JPG"&gt;&lt;br&gt;這次的富堡雜誌
+      ...(繼續閱讀)</description>
+      <pubDate>Mon, 29 Oct 2018 19:51:54 +0800</pubDate>
+    </item>
     <item>
       <title>富堡雜誌 第30期</title>
       <link>
@@ -89,15 +99,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/11/0003450111.JPG"&gt;&lt;br&gt;很快的就要過農曆新年了...(繼續閱讀)</description>
       <pubDate>Mon, 16 Jan 2017 22:37:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>富堡雜誌 第22期</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=3420896</link>
-      <author>齊珍憶</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/96/0003420896.JPG"&gt;&lt;br&gt;▼首先先在這預祝進來的各位...(繼續閱讀)</description>
-      <pubDate>Tue, 20 Dec 2016 23:21:08 +0800</pubDate>
     </item>
   </channel>
 </rss>

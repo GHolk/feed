@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 29 Oct 2018 10:33:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Oct 2018 03:26:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計 - SVG 輸出注意事項
+        ]]></title>
+            <description><![CDATA[
+            向量工具、Adobe XD、Sketch 也都能夠輸出 SVG 圖片，但在輸出時有些小地方也需要注意一下，避免在本地端看似沒有問題，但用戶卻看到的卻與預期不同。
+首先瞭解一下 SVG 本身其實是 XML 格式的檔案，這是一個類似 HTML 格式的結構標記，如果要繪製一個方形，則會使用 <rect> 的標籤，並定義他的座標、尺寸、填色樣式等等。
+12345<!-- SVG tag 
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/10/30/image-svg/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/30/image-svg/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Mon, 29 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2016.png?alt=media&amp;token=9b730f32-5a97-4e1e-a76a-a6d9a0ea67e9" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：網頁設計 - 圖片壓縮方法
@@ -181,27 +198,6 @@ Accessibility：這個單字翻譯有很多意思，如：「無障礙」、「�
             ]]></category>
             <pubDate>Sat, 20 Oct 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2007.png?alt=media&amp;token=d8c14b49-77c0-4a6a-8225-a2efe97038e4" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：文件、規範參考 - Material Design
-        ]]></title>
-            <description><![CDATA[
-            程式領域裡面非常重視文件，當然 UI 中也是如此，為了確保設計可以被執行，大型應用程式、系統都會推出屬於自己的規範，如：
-
-iOS 的 Human Interface Guidelines
-Google 的 Material Design
-
-而除了上述的作業系統 / 應用程式外，網頁開發也是有相關的概念，在 Styleguide 這個網站中就可以查詢到許多相關的範例。
-規範可以帶給我們什麼？簡單來
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/10/19/grid-system-2/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/19/grid-system-2/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Thu, 18 Oct 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2006.png?alt=media&amp;token=e342628f-addd-4015-a5ba-17a21560cf45" length="0" type="image"/>
         </item>
     </channel>
 </rss>
