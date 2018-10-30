@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 30 Oct 2018 12:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 31 Oct 2018 00:26:15 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title>
@@ -17,6 +17,15 @@
       《Apowersoft影片轉換王》https://www.apowersoft.tw/video-converter-studio
       ...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>10/30,研究電腦(自動)作圖的偶然發現,術語應該是成像,可是那樣資料很難找</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4178486</link>
+      <author>物不平則鳴 李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;以後發文會先開啟允許留言模式若看到留言不是想看到的就刪除留言後改為不開放留言...(繼續閱讀)</description>
+      <pubDate>Tue, 30 Oct 2018 13:22:02 +0800</pubDate>
     </item>
     <item>
       <title>10/22~24,藉由網頁檔來讓.wav檔產生波形(固定音高)與和弦,若能去除雜訊就算成功了</title>
@@ -96,15 +105,6 @@
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;比較想打電動和看動畫,所以10/12(工作日)很混,一天做一點
       初始人物、人物關係、人物位置並使用localStorage儲存載入(目前只能在console看)...(繼續閱讀)</description>
       <pubDate>Wed, 10 Oct 2018 17:15:57 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/7,在想未來的日子(10/11前程式相關預測會先休息陣子)</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4154709</link>
-      <author>物不平則鳴 李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;嗯,近期覺得心情似乎有些低落,但沒什麼原因硬要說的話,大概就是想到的很多事情都辦不到吧!!想的事情是什麼也許等等會寫(已寫)...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Oct 2018 18:58:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
