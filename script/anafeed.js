@@ -5,6 +5,10 @@ const RSS = require('rss')
 const fs = require('fs')
 const util = require('util')
 
+function sleep(second) {
+    return new Promise(wake => setTimeout(wake, second))
+}
+
 const anafeed = {
     JSDOM, RSS,
     articleList: [],
@@ -29,6 +33,15 @@ const anafeed = {
         if (!path) path = this.rssPath
         const content = this.feed.xml({indent: true})
         await this.promiseWriteContent(path, content, 'utf8')
+    },
+    busy: sleep(1),
+    loadInterval: 1,
+    loadWindowLimit(url = this.crawlUrl) {
+        const nextBusy = this.busy
+            .then(() => sleep(this.loadInterval))
+            .then(() => this.loadWindow(url))
+        this.busy = nextBusy
+        return nextBusy
     },
     async loadWindow(url = this.crawlUrl) {
         const dom = await this.JSDOM.fromURL(url)

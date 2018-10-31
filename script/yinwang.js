@@ -25,13 +25,13 @@ class Article {
 
 function inheritAnafeed(anafeed) {
     const yinwangOption = {
+        Article,
         __proto__: anafeed,
         articleList: [],
-        parseArticle: Article.fromAnchor.bind(Article),
         articleSelector: '.outer li a',
         rssPath: 'yinwang.rss',
         async parseArticle(node) {
-            const article = Article.fromAnchor(node)
+            const article = this.Article.fromAnchor(node)
             // only load description of first article
             if (this.articleList.length == 0) {
                 await article.loadDescription(this.loadWindow.bind(this))

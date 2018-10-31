@@ -12,6 +12,7 @@ user_list="
     Erika
     chocolatebox
     e123456789
+    lnkkng
 "
 
 for user in $user_list
