@@ -23,6 +23,26 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>https://home.gamer.com.tw/lnkkng</id>
+    <title>Lawrence 小屋</title>
+    <published>2018-10-31</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://home.gamer.com.tw/lnkkng" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/lnkkng.rss"/>
+    <summary>
+      台灣插畫家，有在巴哈達人專欄連載四格漫畫。
+      在臉書上看到他畫一些童年卡通的圖練手，
+      覺得很懷念，就加了。
+    </summary>
+    <category term="acg" />
+    <category term="gamer" />
+    <category term="cartoon" />
+  </entry>
+  
+  <entry>
     <id>http://fe2x.cc/</id>
     <title>ClarenceC fe2x</title>
     <published>2018-10-24</published>
