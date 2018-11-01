@@ -13,6 +13,7 @@ user_list="
     chocolatebox
     e123456789
     lnkkng
+    mitsueyn
 "
 
 for user in $user_list
