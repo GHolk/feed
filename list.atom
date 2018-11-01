@@ -23,6 +23,27 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>https://home.gamer.com.tw/mitsueyn</id>
+    <title>天堂樹的小屋</title>
+    <published>2018-11-01</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://home.gamer.com.tw/mitsueyn" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-mitsueyn.rss"/>
+    <summary>
+      台灣百合插畫家，成名作白子與魔女。
+      多棲，有部落格但整理中少更新，
+      還是幫她做 rss 。
+    </summary>
+    <category term="yuri" />
+    <category term="artist" />
+    <category term="acg" />
+    <category term="gamer" />
+  </entry>
+  
+  <entry>
     <id>https://home.gamer.com.tw/lnkkng</id>
     <title>Lawrence 小屋</title>
     <published>2018-10-31</published>
@@ -37,6 +58,7 @@
       在臉書上看到他畫一些童年卡通的圖練手，
       覺得很懷念，就加了。
     </summary>
+    <category term="artist" />
     <category term="acg" />
     <category term="gamer" />
     <category term="cartoon" />
