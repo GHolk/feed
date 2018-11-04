@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 2 Nov 2018 14:25:16 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 4 Nov 2018 09:25:19 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>長生劫-華容道</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4181981</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/81/0004181981.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 2 Nov 2018 18:14:09 +0800</pubDate>
+    </item>
     <item>
       <title>長生劫-有限的空間</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/24/0002838324.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sat, 16 May 2015 16:33:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>世界上所有的武將都變成美女吧</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=2710165</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/65/0002710165.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 9 Jan 2015 17:05:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

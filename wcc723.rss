@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 02 Nov 2018 06:27:26 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Nov 2018 01:27:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,61 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計 - 版面視覺動線配置(2)
+        ]]></title>
+            <description><![CDATA[
+            上一篇介紹了版面配置的概念，其中最重要的是「群組」概念，而本篇就透過實際案例來說明各大網站如何運用這些概念，並且看看是否也有運用到交錯、韻律的手法。
+這些概念要特別注意僅適合用在「登入頁」（Landing Page），適合用在產品、服務推廣使用，當然也就不適合套用在應用程式的服務上（如：Facebook、Youtube、Google…）。
+首先還是要強調從這些網站中是否可以觀察到「群組」概念，並且
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/11/03/weblayout-2/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/03/weblayout-2/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Fri, 02 Nov 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2019.png?alt=media&amp;token=9a1ba336-abe5-4964-bed5-c931f9af2895" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計 - 版面視覺動線配置(1)
+        ]]></title>
+            <description><![CDATA[
+            本篇主要是描述網頁「登入頁」（Landing Page），這個頁面是用戶一開始接觸的畫面，雖然這個頁面沒有固定的設計方法，但其實可以從各大網頁尋找到雷同的跡象，本篇就去除掉配色概念，單純就依據視覺動線來做說明。
+群組首先，我們還是要提到設計本質為「傳遞訊息」，視覺動線也就是引導用戶了解網頁所需要傳達的訊息，而網頁本身需要傳達的訊息非常多，通常難以用少量文字、話語呈現。就像是業務推廣產品時並不會只問
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/11/02/weblayout/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/02/weblayout/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Thu, 01 Nov 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2019.png?alt=media&amp;token=9a1ba336-abe5-4964-bed5-c931f9af2895" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計 - 響應式圖片選用技巧
+        ]]></title>
+            <description><![CDATA[
+            網站上總需要圖片來點綴，除了客戶提供解析度不足的圖片外，我們也看從許多素材網站找到不錯的圖片，而選用圖片除了找到合適主題外，也需要花不少時間來比對是否合適於網站。
+本篇依據 CSS 的觀念來提供一些選用圖片的技巧，藉此來減少 25% 搜尋素材的時間。
+技術限制響應式圖片運用上與技術限制有很大的關係，其中有兩個要點是必須要注意的：
+
+CSS 呈現圖片的方法
+裝置尺寸變化
+
+CSS 呈現圖片的方法以下
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/11/01/responsive-images/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/01/responsive-images/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Wed, 31 Oct 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2FArtboard%20%E2%80%93%20%EF%BC%91%EF%BC%90.png?alt=media&amp;token=7480df17-3e1b-4c71-8e66-f139525102cc" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：網頁設計 - Icon fonts 的常見資源
@@ -142,62 +197,6 @@ Sketch 可以直接設定好所有圖片（設
             ]]></category>
             <pubDate>Wed, 24 Oct 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2011.png?alt=media&amp;token=6fca478b-8c0c-4c90-a90f-595f7349aa6c" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：色彩運用(3) - 按鈕的配色
-        ]]></title>
-            <description><![CDATA[
-            上一篇透過連結的狀態了解運用，本篇則是探討按鈕再運用上的色彩變化，包含了一般、行動呼籲、外框線、警告意味等常見的類型，當然這些類型介紹上別不會包含上一篇的 “狀態”，實作中依然要記得補上喔。
-一般狀態一般狀態通常是最沒有特色的，但使用上也是最為普遍的，這類型的按鈕通常不會帶有太多色彩，並不會特別引人注目，目的也是讓用戶了解的要執行、連結等等。
-
-設計：越普通越好
-Call to Action宣傳網
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/10/24/button-color/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/24/button-color/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Tue, 23 Oct 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2010.png?alt=media&amp;token=dc11531a-8085-4998-bf0d-771c9cda6c72" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：色彩運用(2) - 連結的配色
-        ]]></title>
-            <description><![CDATA[
-            除了親和性的配色外，訊息的傳遞也是很重要的，與平面設計不同的是訊息並非只有圖文的傳遞，還包含了狀態、互動、提示等等訊息，訊息也同時可以用許多不同色彩表示，增加訊息所能表示的情感、急迫性、引導性等等。
-連結色彩（包含不同狀態）網頁設計中的 <a> 除了本身的預設樣式外，另外還包含以下幾種 “狀態”
-
-a:link - 未拜訪過的連結。
-a:visited - 已拜訪過的連結。
-a:hov
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/10/23/link-color/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/23/link-color/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Mon, 22 Oct 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2009.png?alt=media&amp;token=9c753bac-be7d-4ea9-b477-0453344de08d" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：色彩運用(1) - 你的網頁文字是否足夠清楚呢？
-        ]]></title>
-            <description><![CDATA[
-            上一篇介紹了整體色彩選擇，按造該概念完成一個網頁相信不是什麼問題，不過色彩到底怎麼選？運用上有什麼需要注意的？本篇就來介紹一下吧。
-Accessibility：這個單字翻譯有很多意思，如：「無障礙」、「親和性」、「可訪問性」，其中我最喜歡的是親和性的翻譯，因此把它作為此篇文章的標題，而在 Google 的相關文件中翻譯為「可訪問性」，在本文中看到「親和性」、「可訪問性」都是指此單字喔。
-網頁可訪問
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/10/22/accessibility/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/10/22/accessibility/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Sun, 21 Oct 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201810%2Fholy%2008.png?alt=media&amp;token=aa26b49e-bb7a-4b2c-b2e2-4a8790234223" length="0" type="image"/>
         </item>
     </channel>
 </rss>
