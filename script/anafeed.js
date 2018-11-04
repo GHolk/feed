@@ -25,6 +25,7 @@ const anafeed = {
             feed.item(article)
         }
         this.feed = feed
+        this.distruct()
     },
     get crawlUrl() {
         return this.feedOption.site_url
@@ -78,6 +79,10 @@ const anafeed = {
         child.articleList = []
         child.feedOption = Object.assign({}, this.feedOption, option.feedOption)
         return child
+    },
+    distruct() {
+        this.window.close()
+        this.window = null
     },
     async requireAndRun(path) {
         const libsite = require('./' + path)
