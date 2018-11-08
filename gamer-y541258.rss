@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 7 Nov 2018 09:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 8 Nov 2018 10:26:14 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title>
@@ -17,6 +17,15 @@
       《Apowersoft影片轉換王》https://www.apowersoft.tw/video-converter-studio
       ...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>11/7~,想做完全隨機技能(超出預期的技能,不須自己詳細設計的技能),補充停機問題</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4187536</link>
+      <author>物不平則鳴 李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;這篇依然是先開放留言若出現不滿意的留言後,刪留言關評論...(繼續閱讀)</description>
+      <pubDate>Wed, 7 Nov 2018 19:10:24 +0800</pubDate>
     </item>
     <item>
       <title>10/30起,研究電腦(自動)作圖的偶然發現,術語應該是成像,稍微有些方向</title>
@@ -95,17 +104,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;雖說是觀動畫有感,但是有感跟動畫內容本身較沒關係而是觀動畫這件事本身...(繼續閱讀)</description>
       <pubDate>Fri, 12 Oct 2018 21:03:10 +0800</pubDate>
-    </item>
-    <item>
-      <title>
-      10/11起,網頁策略遊戲的基礎要素程式實作,先使用localStorage(純網頁檔)解決,放著不管</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4157694</link>
-      <author>物不平則鳴 李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;比較想打電動和看動畫,所以10/12(工作日)很混,一天做一點
-      初始人物、人物關係、人物位置並使用localStorage儲存載入(目前只能在console看)...(繼續閱讀)</description>
-      <pubDate>Wed, 10 Oct 2018 17:15:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
