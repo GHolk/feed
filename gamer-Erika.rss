@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Nov 2018 11:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Nov 2018 11:55:41 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園227~229　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4191836</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004191836.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541938834.A.DC5.html
+      三回小更新...(繼續閱讀)</description>
+      <pubDate>Sun, 11 Nov 2018 20:19:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 幼稚園北狐 今年五歲歲15　作者：高橋哲哉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4191818</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004191818.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541938099.A.D74.html
+      監督好好好好好可愛...(繼續閱讀)</description>
+      <pubDate>Sun, 11 Nov 2018 20:07:27 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女3　作者：わたあめ</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/58/0004154858.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1538915940.A.0F4.html
       小更新~...(繼續閱讀)</description>
       <pubDate>Sun, 7 Oct 2018 20:38:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 最初的相遇3　作者：たかひこ part14</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4154836</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004154836.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1538915078.A.B0F.html
-      接上上一回~...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Oct 2018 20:23:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園214~222　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4147516</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004147516.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1538311002.A.48A.html
-      縮圖是那個w...(繼續閱讀)</description>
-      <pubDate>Sun, 30 Sep 2018 20:34:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
