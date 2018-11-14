@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 12 Nov 2018 16:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Nov 2018 06:27:17 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：網頁設計 - 設計的過去、現在、未來
+        ]]></title>
+            <description><![CDATA[
+            「這張圖幫我美工一下」，讓工作中的設計師聽在耳裡非常的不爽，當下正想立即回嘴：「你才美工，你全家都美工！」才發現說話的是老闆。
+過去，許多設計師非常討厭這句話，「美工」原意應該為「美術工藝」的縮寫，在此用法則改為「美術工人」、「美術工作」之意，身為具有創意思維的設計師怎能接受這樣的說法。當然，隨著環境的變遷，會這樣說的老闆、同事也就越來越少，與其它領域合作時應互相尊重。
+你是美工嗎？「工人」指從事
+        ]]></description>
+            <link>https://wcc723.github.io/design/2018/11/13/ironman-final/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/13/ironman-final/</guid>
+            <category><![CDATA[
+            design
+            ]]></category>
+            <pubDate>Mon, 12 Nov 2018 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2030.png?alt=media&amp;token=367336b9-3e25-44a3-b649-24c23709e53c" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：網頁設計 - 平面設計師轉設計前端的經驗分享
@@ -189,23 +206,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             ]]></category>
             <pubDate>Sat, 03 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 版面視覺動線配置(2)
-        ]]></title>
-            <description><![CDATA[
-            上一篇介紹了版面配置的概念，其中最重要的是「群組」概念，而本篇就透過實際案例來說明各大網站如何運用這些概念，並且看看是否也有運用到交錯、韻律的手法。
-這些概念要特別注意僅適合用在「登入頁」（Landing Page），適合用在產品、服務推廣使用，當然也就不適合套用在應用程式的服務上（如：Facebook、Youtube、Google…）。
-首先還是要強調從這些網站中是否可以觀察到「群組」概念，並且
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/03/weblayout-2/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/03/weblayout-2/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Fri, 02 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2019.png?alt=media&amp;token=9a1ba336-abe5-4964-bed5-c931f9af2895" length="0" type="image"/>
         </item>
     </channel>
 </rss>
