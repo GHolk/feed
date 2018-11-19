@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 18 Nov 2018 00:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Nov 2018 11:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 弟與dild○與姊姊的漫畫　作者：似せ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4199278</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/78/0004199278.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1542546899.A.F2B.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 18 Nov 2018 21:13:01 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園227~229　作者：ジングー</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004154912.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1538918301.A.1C3.html
       縮圖詐欺w...(繼續閱讀)</description>
       <pubDate>Sun, 7 Oct 2018 21:17:45 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官7　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4154858</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/58/0004154858.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1538915940.A.0F4.html
-      小更新~...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Oct 2018 20:38:25 +0800</pubDate>
     </item>
   </channel>
 </rss>

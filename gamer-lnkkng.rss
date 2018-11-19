@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 18 Nov 2018 00:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Nov 2018 11:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>聊聊LINE貼圖</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4198459</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/59/0004198459.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 18 Nov 2018 00:40:27 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 小孩子才一根一根吃。</title>
       <link>
@@ -86,16 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004166312.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 19 Oct 2018 00:42:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>總之，請大家幫個忙XD</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4158708</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/08/0004158708.JPG"&gt;&lt;br&gt;大家好，在下羅倫斯。最近，我開了Pixiv
-      與Twitter ，還有Patreon ，...(繼續閱讀)</description>
-      <pubDate>Thu, 11 Oct 2018 15:42:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
