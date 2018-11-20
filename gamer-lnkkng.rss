@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 20 Nov 2018 00:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 21 Nov 2018 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 走路草好可愛。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4201016</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004201016.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 20 Nov 2018 12:30:06 +0800</pubDate>
+    </item>
     <item>
       <title>聊聊LINE貼圖</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/26/0004168326.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 21 Oct 2018 00:33:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] You Freak! 04</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4166312</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004166312.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 19 Oct 2018 00:42:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
