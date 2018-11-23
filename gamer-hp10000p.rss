@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 23 Nov 2018 12:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 24 Nov 2018 00:25:16 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>長生劫-選擇困難</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4204214</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004204214.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 23 Nov 2018 18:48:59 +0800</pubDate>
+    </item>
     <item>
       <title>長生劫-卜卦</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/42/0003153842.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 8 Apr 2016 18:42:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>桑及葉夫</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=3118964</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0003118964.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 23 Nov 2018 04:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Nov 2018 16:27:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[王垠英语语法（前言）]]></title>
+            <description><![CDATA[封二]]></description>
+            <link>http://www.yinwang.org/blog-cn/2018/11/23/grammar</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/11/23/grammar</guid>
+            <pubDate>Thu, 22 Nov 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[解谜计算机科学（1）]]></title>
-            <description><![CDATA[第一章 - 初识计算]]></description>
             <link>http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/04/13/csbook-chapter1</guid>
             <pubDate>Thu, 12 Apr 2018 16:00:00 GMT</pubDate>
@@ -60,6 +66,12 @@
             <title><![CDATA[如何掌握所有的程序语言]]></title>
             <link>http://www.yinwang.org/blog-cn/2017/07/06/master-pl</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/06/master-pl</guid>
+            <pubDate>Wed, 05 Jul 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[带猫回国经历]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/07/06/cat-travel-china</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/06/cat-travel-china</guid>
             <pubDate>Wed, 05 Jul 2017 16:00:00 GMT</pubDate>
         </item>
         <item>
@@ -375,6 +387,12 @@
             <pubDate>Mon, 03 Feb 2014 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[RubySonar：一个 Ruby 静态分析器]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/01/28/rubysonar</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/01/28/rubysonar</guid>
+            <pubDate>Mon, 27 Jan 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[程序语言与……]]></title>
             <link>http://www.yinwang.org/blog-cn/2014/01/25/pl-and</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/01/25/pl-and</guid>
@@ -387,16 +405,34 @@
             <pubDate>Fri, 03 Jan 2014 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[PySonar2 与 Sourcegraph 集成完毕]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/11/25/pysonar2-sg</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/11/25/pysonar2-sg</guid>
+            <pubDate>Sun, 24 Nov 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[丘奇和图灵]]></title>
             <link>http://www.yinwang.org/blog-cn/2013/07/13/church-turing</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/07/13/church-turing</guid>
             <pubDate>Fri, 12 Jul 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Pydiff Python结构化程序比较工具]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7</guid>
+            <pubDate>Fri, 05 Jul 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[原因与证明]]></title>
             <link>http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</guid>
             <pubDate>Thu, 25 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ydiff 结构化的程序比较]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83</guid>
+            <pubDate>Sat, 20 Apr 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[程序语言不是工具]]></title>
@@ -433,6 +469,12 @@
             <link>http://www.yinwang.org/blog-cn/2013/04/15/terminology</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/15/terminology</guid>
             <pubDate>Sun, 14 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标准化试卷标记语言]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/14/standard-exam-language</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/14/standard-exam-language</guid>
+            <pubDate>Sat, 13 Apr 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一种新的操作系统设计]]></title>
@@ -487,6 +529,12 @@
             <link>http://www.yinwang.org/blog-cn/2013/03/29/scripting-language</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/29/scripting-language</guid>
             <pubDate>Thu, 28 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chez Scheme 的传说]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/28/chez-scheme</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/28/chez-scheme</guid>
+            <pubDate>Wed, 27 Mar 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Lisp 已死，Lisp 万岁！]]></title>
