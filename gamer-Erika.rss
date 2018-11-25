@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 25 Nov 2018 11:26:43 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Nov 2018 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 與拉菲的日常1　作者：U2</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4206513</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/13/0004206513.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1543150213.A.4B1.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 25 Nov 2018 20:49:04 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 弟與dild○與姊姊的漫畫　作者：似せ</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/43/0004161943.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1539516195.A.334.html
       只有一篇(死...(繼續閱讀)</description>
       <pubDate>Sun, 14 Oct 2018 19:23:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線小短篇　作者：里倉 蒼</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4154912</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004154912.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1538918301.A.1C3.html
-      縮圖詐欺w...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Oct 2018 21:17:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
