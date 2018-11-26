@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 26 Nov 2018 00:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 27 Nov 2018 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 可以教我怎麼生孩子嗎？</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4207745</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0004207745.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Mon, 26 Nov 2018 22:58:25 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 精靈球的丟法。</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/31/0004176231.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] SSSS.GRIDMAN- 寶多六花</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4173937</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004173937.JPG"&gt;&lt;br&gt;最近的課題，試著畫出重點清楚，畫面乾淨俐落，但不失細節的線稿，「更俐落一點..更酷一點！」...(繼續閱讀)</description>
-      <pubDate>Fri, 26 Oct 2018 13:10:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
