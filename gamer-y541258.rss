@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 2 Dec 2018 00:26:15 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 3 Dec 2018 10:26:14 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title>
@@ -17,6 +17,15 @@
       已經能辦到了(雖然目前操作不方便),但不清楚使用上是否會有些容量的限制
       可能到12月時會有成果吧,關鍵字是canva...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>12/2,推薦影片,額外加分(Extra Credits)的《製作你的第一個遊戲》</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4213724</link>
+      <author>物不平則鳴 李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;可以點齒輪設定語言為中文(Chinese繁體或簡體)...(繼續閱讀)</description>
+      <pubDate>Sun, 2 Dec 2018 19:59:18 +0800</pubDate>
     </item>
     <item>
       <title>11/18,分享個知乎問題,「什麼是意識?關於意識的本質有哪些前沿的研究成果?」</title>
@@ -94,16 +103,6 @@
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;本篇若要省事的話直接用Amazing
       MIDI...(繼續閱讀)</description>
       <pubDate>Mon, 15 Oct 2018 18:47:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/14,類似MIDI製作網頁,為了戶外時能用手機來離線練聽譜和視唱,聽譜完成</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4160491</link>
-      <author>物不平則鳴 李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;https://github.com/y541258/HTML5/blob/master/MIDI_web/midi.html
-      10/14 09:42 隨機聽...(繼續閱讀)</description>
-      <pubDate>Sat, 13 Oct 2018 11:42:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
