@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 3 Dec 2018 10:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 4 Dec 2018 13:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 被詛咒的廁所</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4215224</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004215224.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 4 Dec 2018 00:15:32 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 可以教我怎麼生孩子嗎？</title>
       <link>
@@ -85,15 +94,6 @@
       <author>Lawrence</author>
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004177412.PNG"&gt;&lt;br&gt;校園嬌娃！...(繼續閱讀)</description>
-      <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 你記得她嗎？</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4176231</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/31/0004176231.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
     </item>
   </channel>

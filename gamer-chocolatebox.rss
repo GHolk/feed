@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 3 Dec 2018 10:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 4 Dec 2018 13:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>又來台北吃飯飯了</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4214466</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天吃韓式辣肉醬拌麵哦...(繼續閱讀)</description>
+      <pubDate>Mon, 3 Dec 2018 11:48:45 +0800</pubDate>
+    </item>
     <item>
       <title>人生，從當兵開始改變</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Nov 2018 19:09:55 +0800</pubDate>
-    </item>
-    <item>
-      <title>天氣變涼了，補充熱量好過冬</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4177678</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;拿起來二大袋...(繼續閱讀)</description>
-      <pubDate>Mon, 29 Oct 2018 19:10:51 +0800</pubDate>
     </item>
   </channel>
 </rss>
