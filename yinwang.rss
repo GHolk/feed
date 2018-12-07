@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 06 Dec 2018 03:27:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Dec 2018 05:27:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -111,7 +111,7 @@
             <pubDate>Thu, 13 Apr 2017 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[C 编译器优化过程中的 Bug]]></title>
+            <title><![CDATA[C 编译器优化的 Bug]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/10/12/compiler-bug</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/10/12/compiler-bug</guid>
             <pubDate>Tue, 11 Oct 2016 16:00:00 GMT</pubDate>
