@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 8 Dec 2018 00:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 9 Dec 2018 11:26:14 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>2018/10/22起的未來展望(就類似目標啦)─優先多媒體素材處理(盡量用網頁檔)</title>
@@ -17,6 +17,15 @@
       已經能辦到了(雖然目前操作不方便),但不清楚使用上是否會有些容量的限制
       可能到12月時會有成果吧,關鍵字是canva...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>12/8,今天突然在想個問題,對於自己來說,怎樣算不留遺憾?</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4219878</link>
+      <author>物不平則鳴 李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;「對於自己來說,怎樣算不留遺憾?」古代有說三不朽:立德,立功,立言有人說是死人活在活人的記憶中...(繼續閱讀)</description>
+      <pubDate>Sat, 8 Dec 2018 18:09:28 +0800</pubDate>
     </item>
     <item>
       <title>12/2,推薦影片,額外加分(Extra Credits)的《製作你的第一個遊戲》</title>
@@ -92,17 +101,6 @@
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;10/20網頁麥克風錄音轉音階並存檔"(慘不忍睹),但就先這樣吧
       昨天getByteFrequencyData(dataArray),每個所記錄的0~...(繼續閱讀)</description>
       <pubDate>Wed, 17 Oct 2018 17:44:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/15,midi.html,Pitch
-      Monitior,WaveTone實際使用過程,《君色シグナル》主歌前4秒研究</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4162909</link>
-      <author>物不平則鳴 李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;本篇若要省事的話直接用Amazing
-      MIDI...(繼續閱讀)</description>
-      <pubDate>Mon, 15 Oct 2018 18:47:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
