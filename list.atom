@@ -42,7 +42,7 @@
   </entry>
   
   <entry>
-    <id>https://home.gamer.com.tw/mitsueyn</id>
+    <id>http://gholk.github.io/feed/gamer-mitsueyn.rss</id>
     <title>天堂樹的小屋</title>
     <published>2018-11-01</published>
     <link rel="alternate"
@@ -63,7 +63,7 @@
   </entry>
   
   <entry>
-    <id>https://home.gamer.com.tw/lnkkng</id>
+    <id>http://gholk.github.io/feed/gamer-lnkkng.rss</id>
     <title>Lawrence 小屋</title>
     <published>2018-10-31</published>
     <link rel="alternate"
@@ -84,7 +84,7 @@
   </entry>
   
   <entry>
-    <id>http://fe2x.cc/</id>
+    <id>http://gholk.github.io/feed/fe2x.rss</id>
     <title>ClarenceC fe2x</title>
     <published>2018-10-24</published>
     <link rel="alternate"
@@ -103,7 +103,7 @@
   </entry>
   
   <entry>
-    <id>http://wcc723.github.io/</id>
+    <id>http://gholk.github.io/feed/wcc723.rss</id>
     <title>卡斯伯 Blog - 前端，沒有極限</title>
     <published>2018-10-20</published>
     <link rel="alternate"
@@ -146,7 +146,7 @@
     <category term="program" />
   </entry>
   <entry>
-    <id>https://home.gamer.com.tw/e123456789</id>
+    <id>http://gholk.github.io/feed/gamer-e123456789.rss</id>
     <title>富堡雜誌</title>
     <published>2018-09-29</published>
     <link rel="alternate"
