@@ -23,6 +23,25 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/tanews.rss</id>
+    <title>台灣動物新聞網</title>
+    <published>2018-12-12</published>
+    <link rel="alternate"
+          type="text/html"
+          href="http://tanews.org.tw/info" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/tanews.rss"/>
+    <summary>
+      台灣動物保護協會經營的新聞入口網站，
+      有一些生態保育、流浪物動、畜牧業相關的新聞。
+      沒有 rss 就帮他做了。
+    </summary>
+    <category term="animal" />
+    <category term="news" />
+  </entry>
+  
+  <entry>
     <id>https://home.gamer.com.tw/mitsueyn</id>
     <title>天堂樹的小屋</title>
     <published>2018-11-01</published>
