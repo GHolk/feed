@@ -1,0 +1,141 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[台灣動物新聞網 TANews]]></title>
+        <description><![CDATA[中華民國動物保物協會的入口網站，有關保育、流浪動物的新聞。]]></description>
+        <link>http://tanews.org.tw/</link>
+        <image>
+            <url>http://tanews.org.tw/sites/default/files/icon_01_0.png</url>
+            <title>台灣動物新聞網 TANews</title>
+            <link>http://tanews.org.tw/</link>
+        </image>
+        <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
+        <lastBuildDate>Wed, 12 Dec 2018 06:33:56 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/tanews.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Wed, 12 Dec 2018 00:00:00 GMT</pubDate>
+        <language><![CDATA[zh-TW]]></language>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[news]]></category>
+        <category><![CDATA[animal]]></category>
+        <item>
+            <title><![CDATA[豆腐鯊擱淺死亡 海巡協助就地掩埋]]></title>
+            <description><![CDATA[
+	記者 姚崇仁/報導
+
+
+	又有海洋不幸擱淺的事件!昨(10)日有民眾屏東縣車城鄉海口漁港附近海岸邊發現一隻罕見的「豆腐鯊」擱淺，於是海巡署立即派員到現場協助處理，不過卻在人員到場後判定豆腐...]]></description>
+            <link>http://tanews.org.tw/info/15933</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15933</guid>
+            <category><![CDATA[滾動新聞]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/01_625.jpg?itok=erFOqYZP" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[嚐盡今生苦 來世不再做浪浪]]></title>
+            <description><![CDATA[
+	本文授權轉載自太報
+
+
+	原標題：「與浪同行系列四：嚐盡今生苦 來世不再做浪浪」
+
+
+	 Credit：太報白宜君
+
+
+	臺灣大學外文系教授黃宗慧將近有10...]]></description>
+            <link>http://tanews.org.tw/info/15932</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15932</guid>
+            <category><![CDATA[動物思潮]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/3_40.jpg?itok=q0YRXt-u" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[搶救小水鴨 動保處執行棲地復育]]></title>
+            <description><![CDATA[
+	記者 陳璽安/報導
+
+
+	小水鴨是繁殖於西伯利亞地區的冬候鳥，每年冬天來台度冬，曾是北台灣最大的度冬候鳥族群，但由於環境變遷，近年在台灣度冬的小水鴨驟減，例如為於台北的野雁保護區生態環境與...]]></description>
+            <link>http://tanews.org.tw/info/15931</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15931</guid>
+            <category><![CDATA[滾動新聞]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/xiong_ya_zuo_tai_bei_shi_dong_bao_chu_ti_gong_.jpg?itok=cz5lq1Lk" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[非洲豬瘟宣導奏效 私帶肉品回國減少]]></title>
+            <description><![CDATA[
+	記者 姚崇仁/報導
+
+
+	非洲豬瘟疫情目前仍持續在中國大陸延燒，根據農委會今(11)日公布的資料，已發生多達91起案例、共21座省市淪陷，為防止民眾從疫區攜帶肉類產品入境，導致非洲豬瘟病毒...]]></description>
+            <link>http://tanews.org.tw/info/15928</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15928</guid>
+            <category><![CDATA[滾動新聞]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/01_11.png?itok=kqAzvsMh" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[雨林河流三霸王 進駐木柵動物園]]></title>
+            <description><![CDATA[
+	記者 陳璽安/報導
+
+
+	台北市立動物園的熱帶雨林區即將開放，在雨林區的穿山甲館中，設計了仿河流生態的水域造景，雖然在外行人眼中，這個生態水池可能只是一個大型魚缸，但其實魚隻混養、餵食，與...]]></description>
+            <link>http://tanews.org.tw/info/15927</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15927</guid>
+            <category><![CDATA[滾動新聞]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/01xiang_yu_sheng_huo_zai_ya_ma_xun_he_shui_liu_huan_man_rong_yang_liang_di_de_di_fang_tuo_men_de_yu_biao_you_he_fei_xiang_tong_de_gong_neng_tuo_men_chang_huan_huan_you_zai_shui_mian_.jpg?itok=no0BnYBU" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[美喜劇演員與祖母 帶狗狗搞笑老人院]]></title>
+            <description><![CDATA[
+	文章授權轉載自《香港01》
+
+
+	原文刊於「01寵物」：感恩節傳遞愛！搞怪嫲孫聯合狗狗　將歡笑送老人院
+
+
+	美國喜劇演員Ross Smith和他的祖母Pauline Kana，早前...]]></description>
+            <link>http://tanews.org.tw/info/15926</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15926</guid>
+            <category><![CDATA[全球一瞬]]></category>
+            <pubDate>Tue, 11 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/1_323.jpg?itok=NTmDHhYS" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[石虎闖雞舍被捕 因體虛暫無法野放]]></title>
+            <description><![CDATA[
+	記者 姚崇仁/報導
+
+
+	繼上個(11)月初苗栗縣農業處順利野放4隻闖入雞舍被雞農捕捉的保育類石虎後，近日又傳出一隻年輕的公石虎在苗栗西湖鄉闖雞舍時被捕捉到，目前已送至農委會特生中心安置，...]]></description>
+            <link>http://tanews.org.tw/info/15925</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15925</guid>
+            <category><![CDATA[滾動新聞]]></category>
+            <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/01_624.jpg?itok=fhlpv1fX" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[零撲殺後 讓浪浪期待回家]]></title>
+            <description><![CDATA[
+	本文授權轉載自太報
+
+
+	原標題：「與浪同行系列三：零撲殺後 讓浪浪期待回家」
+
+
+	 Credit：太報白宜君
+
+
+	「《十二夜》之前，大家不會特別注意到街上的流浪...]]></description>
+            <link>http://tanews.org.tw/info/15924</link>
+            <guid isPermaLink="true">http://tanews.org.tw/info/15924</guid>
+            <category><![CDATA[動物思潮]]></category>
+            <pubDate>Mon, 10 Dec 2018 00:00:00 GMT</pubDate>
+            <enclosure url="http://tanews.org.tw/sites/default/files/styles/content_teaser/public/9_2.jpg?itok=3cYq8fp_" length="0" type="image"/>
+        </item>
+    </channel>
+</rss>
