@@ -66,8 +66,16 @@ const anafeed = {
         const document = this.window.document
         const nodeList = document.querySelectorAll(this.articleSelector)
         for (const node of nodeList) {
-            const article = await this.parseArticle(node)
-            this.articleList.push(article)
+            let article
+            try {
+                article = await this.parseArticle(node)
+            }
+            catch (parseError) {
+                console.error(parseError)
+                article = null
+            }
+            if (article) this.articleList.push(article)
+            else continue
         }
     },
     async parseArticle(node) {
