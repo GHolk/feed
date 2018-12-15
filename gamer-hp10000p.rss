@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 12 Dec 2018 00:25:12 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 23:09:50 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>長生劫-升級</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4226639</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004226639.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 14 Dec 2018 22:43:56 +0800</pubDate>
+    </item>
     <item>
       <title>長生劫-肉</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/73/0003958173.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>滿懷青春的有病廣播劇</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=3791895</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/95/0003791895.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 17 Nov 2017 15:39:42 +0800</pubDate>
     </item>
   </channel>
 </rss>

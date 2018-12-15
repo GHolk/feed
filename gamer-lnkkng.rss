@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 12 Dec 2018 00:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 15 Dec 2018 23:09:49 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 對貓咪專家。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4225121</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004225121.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 13 Dec 2018 13:47:47 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 被詛咒的廁所</title>
       <link>
@@ -85,15 +94,6 @@
       <author>Lawrence</author>
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004178476.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 以前是不是很流行特務？</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4177412</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004177412.PNG"&gt;&lt;br&gt;校園嬌娃！...(繼續閱讀)</description>
       <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
     </item>
   </channel>
