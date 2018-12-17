@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 15 Dec 2018 23:11:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Dec 2018 11:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 白上フブキ的報恩　作者：久家 健史郎</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4228656</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/56/0004228656.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1544965533.A.E68.html
+      這隻是我很喜歡的Vtuber三本命之一...(繼續閱讀)</description>
+      <pubDate>Sun, 16 Dec 2018 21:03:24 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part8</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4228631</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/31/0004228631.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1544964467.A.E48.html
+      不知道要不要吐嘈拿手機通話的世界觀...(繼續閱讀)</description>
+      <pubDate>Sun, 16 Dec 2018 20:46:58 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 與拉菲的日常3　作者：U2</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/33/0004184533.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541336583.A.A75.html
       這隻絕對是天使…...(繼續閱讀)</description>
       <pubDate>Sun, 4 Nov 2018 21:02:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官9　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4184515</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/15/0004184515.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541336060.A.5CF.html
-      萬聖節~...(繼續閱讀)</description>
-      <pubDate>Sun, 4 Nov 2018 20:54:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 三週年　作者：捨駒 part7</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4176603</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/03/0004176603.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1540726001.A.3DB.html
-      三週年啦~(2015/10/27發售) 遊戲...(繼續閱讀)</description>
-      <pubDate>Sun, 28 Oct 2018 19:26:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
