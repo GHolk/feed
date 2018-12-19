@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 17 Dec 2018 11:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 19 Dec 2018 12:16:44 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 我看你是完全不懂喔。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4230476</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004230476.PNG?v=1545122345"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 18 Dec 2018 13:30:31 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 對貓咪專家。</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/82/0004179782.JPG"&gt;&lt;br&gt;到極限了，整理一下自己，也發洩一下情緒。...(繼續閱讀)</description>
       <pubDate>Wed, 31 Oct 2018 17:39:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 沒看過就跟不上話題系列</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4178476</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004178476.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
