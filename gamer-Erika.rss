@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 23 Dec 2018 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Dec 2018 12:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官10　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4235966</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004235966.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1545569231.A.A62.html
+      聖誕節~...(繼續閱讀)</description>
+      <pubDate>Sun, 23 Dec 2018 20:45:01 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part9</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4235948</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004235948.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1545568505.A.4F0.html
+      後續!...(繼續閱讀)</description>
+      <pubDate>Sun, 23 Dec 2018 20:34:23 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 白上フブキ的報恩　作者：久家 健史郎</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004191836.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541938834.A.DC5.html
       三回小更新...(繼續閱讀)</description>
       <pubDate>Sun, 11 Nov 2018 20:19:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 幼稚園北狐 今年五歲歲15　作者：高橋哲哉</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4191818</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004191818.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541938099.A.D74.html
-      監督好好好好好可愛...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Nov 2018 20:07:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女3　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4184533</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/33/0004184533.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541336583.A.A75.html
-      這隻絕對是天使…...(繼續閱讀)</description>
-      <pubDate>Sun, 4 Nov 2018 21:02:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
