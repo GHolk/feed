@@ -9,7 +9,7 @@
             <link>http://fe2x.cc/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 27 Dec 2018 02:27:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Dec 2018 16:27:17 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/fe2x.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,41 @@
         <ttl>1440</ttl>
         <category><![CDATA[front-end]]></category>
         <category><![CDATA[javascript]]></category>
+        <item>
+            <title><![CDATA[2018总结 寒冬将至，快速前行]]></title>
+            <description><![CDATA[
+
+      
+      
+        
+          
+          
+            
+              
+                
+              
+            
+          
+
+          
+          
+        
+      
+
+      
+        
+          2018关键转折点2018的时间过得比我想像中的还要快，离2018年结束还剩4天了，每年到这个时候都是啪啪啪打脸的时候，年前立的Flag，都在这个时候打得特别的痛，不过这个时候对18年的总结也是一个很好自省的方式，在18年完成了两个我比较重大的转变，一个是生活方式的转变，生活方式的转变是一个好的开始，但也意味着我需要花时间去习惯两个人的生活，生活是需要花心机花时间去打理的，如何快速打理生活这也是一种学问吧，另一个转变是工作环境的转变，来了一间互联网公司，公司需然不大，但也有技术成长的空间可以让我发挥。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2018/12/27/2018Summary/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2018/12/27/2018Summary/</guid>
+            <pubDate>Thu, 27 Dec 2018 07:59:55 GMT</pubDate>
+            <enclosure url="https://images.unsplash.com/photo-1460891053196-b9d4d9483d9b?ixlib=rb-1.2.1&amp;ixid=eyJhcHBfaWQiOjEyMDd9&amp;auto=format&amp;fit=crop&amp;w=1375&amp;q=80" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[关于 zsh:command not found: ***]]></title>
             <description><![CDATA[
@@ -311,26 +346,6 @@ CSS并不是一门漂亮的‘语言’，但是它也已经成功当了 Web 
             <guid isPermaLink="true">http://fe2x.cc/2017/11/28/learning-zeptojs/</guid>
             <pubDate>Sat, 02 Dec 2017 03:36:43 GMT</pubDate>
             <enclosure url="http://www.css88.com/doc/zeptojs_api/logo.png" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[JavaScript数组去重总结]]></title>
-            <description><![CDATA[
-
-      
-      
-
-      
-        
-          最近在看代码，发现一个数组去重方法，突然发现数组去重的重要性，网上面查了一下，又是一个大大的知识点啊。本文参考部分网上教程以及个人总结。
-          
-          
-          
-        
-      
-    ]]></description>
-            <link>http://fe2x.cc/2017/11/24/unqiue-array/</link>
-            <guid isPermaLink="true">http://fe2x.cc/2017/11/24/unqiue-array/</guid>
-            <pubDate>Fri, 19 Jan 2018 00:54:23 GMT</pubDate>
         </item>
     </channel>
 </rss>
