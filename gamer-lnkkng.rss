@@ -4,8 +4,19 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 26 Dec 2018 00:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 27 Dec 2018 10:27:11 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 2018年終筆記</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4240116</link>
+      <author>Lawrence</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004240116.PNG"&gt;&lt;br&gt;大家好，在下羅倫斯，年底了，來整理一下今年的所作所為吧。
+      這篇沒有新圖，主要是做些回顧，也想跟大家道個謝、聊聊近況。
+      想看總結的可以直接滑到最下面的「總結與感謝...(繼續閱讀)</description>
+      <pubDate>Thu, 27 Dec 2018 00:33:18 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 我看你是完全不懂喔。</title>
       <link>
@@ -86,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/50/0004181750.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 2 Nov 2018 11:47:55 +0800</pubDate>
-    </item>
-    <item>
-      <title>【負面、文長警告】極端系男子</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4179782</link>
-      <author>Lawrence</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/82/0004179782.JPG"&gt;&lt;br&gt;到極限了，整理一下自己，也發洩一下情緒。...(繼續閱讀)</description>
-      <pubDate>Wed, 31 Oct 2018 17:39:17 +0800</pubDate>
     </item>
   </channel>
 </rss>
