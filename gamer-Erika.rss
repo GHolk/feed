@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 Dec 2018 00:26:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 31 Dec 2018 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 光之美少女羽黑篇　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4243821</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004243821.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546174510.A.ACC.html
+      系列再開!...(繼續閱讀)</description>
+      <pubDate>Sun, 30 Dec 2018 20:52:31 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 小赤城與指揮官10　作者：ぷち</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/78/0004199278.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1542546899.A.F2B.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 18 Nov 2018 21:13:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園227~229　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4191836</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004191836.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1541938834.A.DC5.html
-      三回小更新...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Nov 2018 20:19:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
