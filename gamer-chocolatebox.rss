@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 3 Jan 2019 00:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 4 Jan 2019 08:26:44 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>明明才吃過便當的阿</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4249157</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;怎麼一下子又餓了呢...(繼續閱讀)</description>
+      <pubDate>Thu, 3 Jan 2019 21:09:02 +0800</pubDate>
+    </item>
     <item>
       <title>跨年吃丹丹，吃丹丹跨年</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;剛剛小妹我跟場外幾位肥宅和小妹一起看完水行俠囉...(繼續閱讀)</description>
       <pubDate>Sun, 16 Dec 2018 14:25:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>今天來駁二動漫展</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4227085</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;特地來找仙界大濕...(繼續閱讀)</description>
-      <pubDate>Sat, 15 Dec 2018 12:10:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
