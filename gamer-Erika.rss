@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 6 Jan 2019 00:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 7 Jan 2019 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女4　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4252448</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004252448.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546780109.A.95D.html
+      提早祝大家2019聖誕節快樂(?)...(繼續閱讀)</description>
+      <pubDate>Sun, 6 Jan 2019 21:08:00 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 羽黑的聖誕禮物　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4252424</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004252424.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546779107.A.EF7.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 6 Jan 2019 20:51:08 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 光之美少女羽黑篇　作者：みにまる</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004213825.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1543755487.A.A95.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 2 Dec 2018 20:57:08 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常1　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4206513</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/13/0004206513.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1543150213.A.4B1.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 25 Nov 2018 20:49:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 弟與dild○與姊姊的漫畫　作者：似せ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4199278</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/78/0004199278.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1542546899.A.F2B.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 18 Nov 2018 21:13:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
