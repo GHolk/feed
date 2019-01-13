@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 12 Jan 2019 00:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jan 2019 10:26:44 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>Switch遊戲片</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4258564</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;一次買了二個遊戲片...(繼續閱讀)</description>
+      <pubDate>Sat, 12 Jan 2019 20:01:32 +0800</pubDate>
+    </item>
     <item>
       <title>半夜看到這個東西真的讓人....</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 18 Dec 2018 19:56:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>剛剛去買了Switch</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4230706</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 18 Dec 2018 19:20:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
