@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 13 Jan 2019 10:26:33 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Jan 2019 11:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 白上フブキ的報恩2　作者：久家 健史郎</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4259785</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004259785.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1547382204.A.A01.html
+      竟然有後續...(繼續閱讀)</description>
+      <pubDate>Sun, 13 Jan 2019 20:22:56 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 輝夜月與絆愛的小四格12　作者：栗原さくら</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4259772</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004259772.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1547381779.A.EFC.html
+      \輝夜月生日快樂!/ (10月30日大遲刻...(繼續閱讀)</description>
+      <pubDate>Sun, 13 Jan 2019 20:14:59 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女4　作者：わたあめ</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004221183.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1544361302.A.2F6.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 9 Dec 2018 21:14:10 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園230~235　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4221160</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/60/0004221160.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1544360416.A.30F.html
-      太太的屁屁...(繼續閱讀)</description>
-      <pubDate>Sun, 9 Dec 2018 20:59:45 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常2　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4213825</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004213825.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1543755487.A.A95.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Dec 2018 20:57:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
