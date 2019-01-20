@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 19 Jan 2019 13:26:38 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jan 2019 20:26:38 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園236~245　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4267119</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004267119.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1547985405.A.476.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 20 Jan 2019 19:56:16 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 白上フブキ的報恩2　作者：久家 健史郎</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/31/0004228631.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1544964467.A.E48.html
       不知道要不要吐嘈拿手機通話的世界觀...(繼續閱讀)</description>
       <pubDate>Sun, 16 Dec 2018 20:46:58 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常3　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4221183</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004221183.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1544361302.A.2F6.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 9 Dec 2018 21:14:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
