@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 25 Jan 2019 11:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 11:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>小妹剛剛打電話訂明天的餐廳</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4272750</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;小妹：你好，明天我要訂一桌菜，有多少價位的？店員：有哦，有一萬和一萬二的...(繼續閱讀)</description>
+      <pubDate>Fri, 25 Jan 2019 22:51:50 +0800</pubDate>
+    </item>
     <item>
       <title>野獸國福袋</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天中午特地從屏東市跑到里港吃麵這家在小巷子內根本難找...(繼續閱讀)</description>
       <pubDate>Mon, 31 Dec 2018 16:18:06 +0800</pubDate>
-    </item>
-    <item>
-      <title>Fight.k</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4242549</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天有園遊會呢...(繼續閱讀)</description>
-      <pubDate>Sat, 29 Dec 2018 15:35:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

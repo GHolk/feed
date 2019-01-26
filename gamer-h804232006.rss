@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 25 Jan 2019 11:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 26 Jan 2019 11:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>我愛殭屍，殭屍愛我</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4272433</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/33/0004272433.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 25 Jan 2019 18:38:45 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【終端少女】人物設定＿競兒</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004181040.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Nov 2018 19:24:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>來自佐賀的天籟</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4167903</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/03/0004167903.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sat, 20 Oct 2018 19:11:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
