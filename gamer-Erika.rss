@@ -4,8 +4,38 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 27 Jan 2019 13:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Jan 2019 12:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線小短篇4　作者：江倉まに</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4274602</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004274602.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1548588264.A.550.html
+      我覺得單張版可以放棄了_(:з」∠)_...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Jan 2019 19:23:43 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 與拉菲的日常4　作者：U2</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4274589</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004274589.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1548587361.A.06C.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Jan 2019 19:07:59 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官11　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4274564</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0004274564.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1548586002.A.1D4.html
+      要過年了~...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Jan 2019 18:46:08 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園236~245　作者：ジングー</title>
       <link>
@@ -75,36 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004235966.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1545569231.A.A62.html
       聖誕節~...(繼續閱讀)</description>
       <pubDate>Sun, 23 Dec 2018 20:45:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part9</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4235948</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004235948.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1545568505.A.4F0.html
-      後續!...(繼續閱讀)</description>
-      <pubDate>Sun, 23 Dec 2018 20:34:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 白上フブキ的報恩　作者：久家 健史郎</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4228656</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/56/0004228656.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1544965533.A.E68.html
-      這隻是我很喜歡的Vtuber三本命之一...(繼續閱讀)</description>
-      <pubDate>Sun, 16 Dec 2018 21:03:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part8</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4228631</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/31/0004228631.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1544964467.A.E48.html
-      不知道要不要吐嘈拿手機通話的世界觀...(繼續閱讀)</description>
-      <pubDate>Sun, 16 Dec 2018 20:46:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
