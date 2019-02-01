@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 30 Jan 2019 16:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Feb 2019 10:27:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[机器学习的乐趣]]></title>
+            <description><![CDATA[（声明：本文内容纯属个人兴趣和观点，与本人在职公司的立场无关）]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</guid>
+            <pubDate>Tue, 29 Jan 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[解谜计算机科学]]></title>
-            <description><![CDATA[要掌握一个学科的精髓，不能从细枝末节开始。人脑的能力很大程度上受限于信念。一个人不相信自己的时候，他就做不到本来可能的事。信心是很重要的，信心却容易被挫败。如果只见树木不见森林，人会失去信心，以为要到猴年马月才能掌握一个学科。]]></description>
             <link>http://www.yinwang.org/blog-cn/2018/04/13/computer-science</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/04/13/computer-science</guid>
             <pubDate>Thu, 12 Apr 2018 16:00:00 GMT</pubDate>
@@ -123,12 +129,6 @@
             <pubDate>Tue, 13 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[Tesla autopilot 引起致命车祸]]></title>
-            <link>http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</guid>
-            <pubDate>Sat, 09 Jul 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[养生节目的危害]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</guid>
@@ -171,12 +171,6 @@
             <pubDate>Fri, 18 Mar 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[AlphaGo与人工智能]]></title>
-            <link>http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</guid>
-            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[不要去SeaWorld]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/02/25/sea-world</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/02/25/sea-world</guid>
@@ -193,24 +187,6 @@
             <link>http://www.yinwang.org/blog-cn/2016/01/18/java</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/18/java</guid>
             <pubDate>Sun, 17 Jan 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Autopilot]]></title>
-            <link>http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</guid>
-            <pubDate>Sat, 09 Jan 2016 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Model X的车门设计问题]]></title>
-            <link>http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</guid>
-            <pubDate>Sun, 20 Dec 2015 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Tesla Model S的设计失误]]></title>
-            <link>http://www.yinwang.org/blog-cn/2015/12/12/tesla-model-s</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/12/tesla-model-s</guid>
-            <pubDate>Fri, 11 Dec 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[编程的智慧]]></title>
