@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 10 Feb 2019 11:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Feb 2019 18:26:25 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 羽黑的叫法　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4289663</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/63/0004289663.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1549802500.A.383.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 10 Feb 2019 20:40:40 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女5　作者：わたあめ</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004252424.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546779107.A.EF7.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 6 Jan 2019 20:51:08 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 光之美少女羽黑篇　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4243821</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004243821.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546174510.A.ACC.html
-      系列再開!...(繼續閱讀)</description>
-      <pubDate>Sun, 30 Dec 2018 20:52:31 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
             <link>http://fe2x.cc/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 10 Feb 2019 03:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Feb 2019 10:27:28 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/fe2x.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,26 @@
         <ttl>1440</ttl>
         <category><![CDATA[front-end]]></category>
         <category><![CDATA[javascript]]></category>
+        <item>
+            <title><![CDATA[JavaScript 无报错误访问深层属性方法]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          访问 JavaScript 链式属性在开发的过程中，会经常访问深层 JavaScript 属性，这时如果其中一个属性会有断层， 控制台就会报错出现如下错误。如果一个程序没有兼容深层访问属性的错误，就会在后端一个未知错误的时候会报错，并且难已检测。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2019/02/04/how-to-accessing-deeply-property-in-safe-JavaScript/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2019/02/04/how-to-accessing-deeply-property-in-safe-JavaScript/</guid>
+            <pubDate>Mon, 11 Feb 2019 06:59:28 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[2018总结 寒冬将至，快速前行]]></title>
             <description><![CDATA[
@@ -300,52 +320,6 @@ CSS并不是一门漂亮的‘语言’，但是它也已经成功当了 Web 
             <link>http://fe2x.cc/2017/12/05/JS-for-performance-compare/</link>
             <guid isPermaLink="true">http://fe2x.cc/2017/12/05/JS-for-performance-compare/</guid>
             <pubDate>Thu, 21 Dec 2017 13:29:05 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Zepto.JS 源码的学习]]></title>
-            <description><![CDATA[
-
-      
-      
-        
-          
-          
-            
-              
-                
-              
-            
-          
-
-          
-          
-        
-      
-
-      
-        
-          在学习的过程中,学会阅读源码也是一种很好的过程,但是对于一个新手来说,阅读源码就像一面茫然,下载了源码不知道从何开始.这里楼主选择从Zepto源码开始学习.首先因为Zepto并不复杂,Zepto实现功能还是比较简单, Zepto是类似于Jquery的轻量库,不过作用于手机端,类似于Jquery对DOM操作进行拼接,Zepto对PC端的IE浏览器兼容并没有做得很好,需然大小比Jquery小但是也没有Jquery做得那么好.
-阅读源码需要具备什么条件在阅读源码时需要准备些什么,你才能读懂:
-
-在阅读源码之前你需要知道这个源码的功能和作用是什么?实现什么功能?越清楚你就越容易看懂.
-
-在阅读源码之前你需要把源码的文档,或者测试用例看一次.
-
-找到源码的入口,暴露在全局的入口.如果你找不准代码看起来就像一团乱麻,得找到线头入口.
-
-读源码的时候需要,得先把源码的代码结构先弄清楚,细节的代码逻辑再慢慢整理.
-
-
-          
-          
-          
-        
-      
-    ]]></description>
-            <link>http://fe2x.cc/2017/11/28/learning-zeptojs/</link>
-            <guid isPermaLink="true">http://fe2x.cc/2017/11/28/learning-zeptojs/</guid>
-            <pubDate>Sat, 02 Dec 2017 03:36:43 GMT</pubDate>
-            <enclosure url="http://www.css88.com/doc/zeptojs_api/logo.png" length="0" type="image"/>
         </item>
     </channel>
 </rss>
