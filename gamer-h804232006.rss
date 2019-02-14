@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 12 Feb 2019 12:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 20:25:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>FF33 我們不見不散！</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4292902</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004292902.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 13 Feb 2019 19:20:25 +0800</pubDate>
+    </item>
     <item>
       <title>人生勝利杯</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/95/0004237895.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 25 Dec 2018 09:48:10 +0800</pubDate>
-    </item>
-    <item>
-      <title>門票賣得出去，人潮進得來，ＦＦＫ發大財</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4224238</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/38/0004224238.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 12 Dec 2018 17:55:44 +0800</pubDate>
     </item>
   </channel>
 </rss>

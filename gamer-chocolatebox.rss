@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 12 Feb 2019 12:26:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 14 Feb 2019 20:26:50 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>今天逛街買了二個包包</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4291772</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 12 Feb 2019 19:19:38 +0800</pubDate>
+    </item>
     <item>
       <title>宵夜就來吃超超超大盛泡麵吧</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;看到一個婆婆在提款機徘徊問我機器是不是壞了，怎麼都不能領錢？...(繼續閱讀)</description>
       <pubDate>Mon, 4 Feb 2019 15:53:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>小妹剛剛打電話訂明天的餐廳</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4272750</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;小妹：你好，明天我要訂一桌菜，有多少價位的？店員：有哦，有一萬和一萬二的...(繼續閱讀)</description>
-      <pubDate>Fri, 25 Jan 2019 22:51:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
