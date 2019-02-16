@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 15 Feb 2019 12:26:52 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 16 Feb 2019 22:28:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>假日要幹嘛？</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4296531</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 16 Feb 2019 20:08:08 +0800</pubDate>
+    </item>
     <item>
       <title>今天逛街買了二個包包</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;神燈精靈對我說精靈：你撿到了我，我能實現你三個願望...(繼續閱讀)</description>
       <pubDate>Thu, 7 Feb 2019 06:02:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>剛剛去逛超商買零食</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4283097</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;看到一個婆婆在提款機徘徊問我機器是不是壞了，怎麼都不能領錢？...(繼續閱讀)</description>
-      <pubDate>Mon, 4 Feb 2019 15:53:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
