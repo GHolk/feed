@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 17 Feb 2019 13:27:57 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Feb 2019 14:26:39 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園246~256　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4297713</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/13/0004297713.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1550407092.A.45F.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 17 Feb 2019 20:37:36 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 羽黑的叫法　作者：みにまる</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004252448.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546780109.A.95D.html
       提早祝大家2019聖誕節快樂(?)...(繼續閱讀)</description>
       <pubDate>Sun, 6 Jan 2019 21:08:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 羽黑的聖誕禮物　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4252424</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004252424.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546779107.A.EF7.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 6 Jan 2019 20:51:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
