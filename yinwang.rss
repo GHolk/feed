@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 22 Feb 2019 04:27:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Feb 2019 04:27:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[机器学习与逻辑编程]]></title>
-            <description><![CDATA[（声明：本文内容纯属个人的技术兴趣，与本人在职公司的立场无关）]]></description>
+            <description><![CDATA[你可能没有想到，机器学习（machine learning）和逻辑编程（logic programming）有一种奇妙的关系，在我眼里她们就像亲姐妹。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</guid>
             <pubDate>Tue, 29 Jan 2019 16:00:00 GMT</pubDate>

@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 22 Feb 2019 12:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 23 Feb 2019 12:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>好潮</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4302828</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;好像太晚買了...(繼續閱讀)</description>
+      <pubDate>Fri, 22 Feb 2019 18:39:18 +0800</pubDate>
+    </item>
     <item>
       <title>醫生說....小妹.....</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 8 Feb 2019 19:05:13 +0800</pubDate>
-    </item>
-    <item>
-      <title>好久沒去逛寧夏夜市了</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4286412</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;先來個腿庫飯和蝦仁湯來試試味道...(繼續閱讀)</description>
-      <pubDate>Thu, 7 Feb 2019 21:31:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
