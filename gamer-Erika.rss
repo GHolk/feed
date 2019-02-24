@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 24 Feb 2019 11:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Feb 2019 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 與拉菲的日常5　作者：U2</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4305169</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/69/0004305169.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1551009710.A.E8B.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 24 Feb 2019 20:01:22 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 赤城與指揮官11　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4305161</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/61/0004305161.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1551009197.A.1E3.html
+      難得沒變小回...(繼續閱讀)</description>
+      <pubDate>Sun, 24 Feb 2019 19:52:39 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園246~256　作者：ジングー</title>
       <link>
@@ -57,7 +77,7 @@
       <pubDate>Sun, 27 Jan 2019 19:07:59 +0800</pubDate>
     </item>
     <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官11　作者：ぷち</title>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官10　作者：ぷち</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=4274564</link>
       <author>にゃひ～や</author>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004259785.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1547382204.A.A01.html
       竟然有後續...(繼續閱讀)</description>
       <pubDate>Sun, 13 Jan 2019 20:22:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 輝夜月與絆愛的小四格12　作者：栗原さくら</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4259772</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004259772.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1547381779.A.EFC.html
-      \輝夜月生日快樂!/ (10月30日大遲刻...(繼續閱讀)</description>
-      <pubDate>Sun, 13 Jan 2019 20:14:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女4　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4252448</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004252448.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1546780109.A.95D.html
-      提早祝大家2019聖誕節快樂(?)...(繼續閱讀)</description>
-      <pubDate>Sun, 6 Jan 2019 21:08:00 +0800</pubDate>
     </item>
   </channel>
 </rss>

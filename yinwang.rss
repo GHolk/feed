@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 24 Feb 2019 03:27:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Feb 2019 16:29:30 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,14 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[机器学习与逻辑编程]]></title>
-            <description><![CDATA[你可能没有想到，机器学习（machine learning）和逻辑编程（logic programming）有一种奇妙的关系，在我眼里她们就像亲姐妹。]]></description>
-            <link>http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</guid>
-            <pubDate>Tue, 29 Jan 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[解谜计算机科学]]></title>
+            <description><![CDATA[要掌握一个学科的精髓，不能从细枝末节开始。人脑的能力很大程度上受限于信念。一个人不相信自己的时候，他就做不到本来可能的事。信心是很重要的，信心却容易被挫败。如果只见树木不见森林，人会失去信心，以为要到猴年马月才能掌握一个学科。]]></description>
             <link>http://www.yinwang.org/blog-cn/2018/04/13/computer-science</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/04/13/computer-science</guid>
             <pubDate>Thu, 12 Apr 2018 16:00:00 GMT</pubDate>
