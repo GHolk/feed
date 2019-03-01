@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 1 Mar 2019 11:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 2 Mar 2019 00:25:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>台中CWTT宣傳</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4310237</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004310237.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 1 Mar 2019 15:29:38 +0800</pubDate>
+    </item>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/86/0004249086.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 3 Jan 2019 19:42:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【HAPPY人】</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4237895</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/95/0004237895.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 25 Dec 2018 09:48:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
