@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 4 Mar 2019 11:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 5 Mar 2019 17:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>高雄市鼓山區-義郎創作壽司</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4313966</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;點了一份軟殼蟹握壽司...(繼續閱讀)</description>
+      <pubDate>Mon, 4 Mar 2019 19:13:29 +0800</pubDate>
+    </item>
     <item>
       <title>高雄市鼓山區-CAFFAINA美術店</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 8 Feb 2019 19:38:11 +0800</pubDate>
-    </item>
-    <item>
-      <title>基隆市-愛二路-義家之煮</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4287335</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 8 Feb 2019 19:27:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
