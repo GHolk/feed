@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 10 Mar 2019 11:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 11 Mar 2019 11:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女6　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4320823</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/23/0004320823.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1552221577.A.A22.html
+      情人節什麼的都是廠商的陰謀...(繼續閱讀)</description>
+      <pubDate>Sun, 10 Mar 2019 20:39:20 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 與埃賽克斯在一起　作者：影老院</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004274589.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1548587361.A.06C.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 27 Jan 2019 19:07:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官10　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4274564</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0004274564.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1548586002.A.1D4.html
-      要過年了~...(繼續閱讀)</description>
-      <pubDate>Sun, 27 Jan 2019 18:46:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
