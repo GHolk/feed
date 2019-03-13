@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 12 Mar 2019 15:46:20 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 13 Mar 2019 13:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>留白扣半分</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4323328</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/28/0004323328.JPG?v=1552418971"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 13 Mar 2019 03:10:59 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 加油團</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004255966.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 10 Jan 2019 04:00:40 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 《官司x網路x女孩》</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4249086</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/86/0004249086.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 3 Jan 2019 19:42:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
