@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 14 Mar 2019 00:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 15 Mar 2019 00:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>今天是白色情人節</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4324815</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;在2/14日情人節的時候一堆人送小妹巧克力吃吃...(繼續閱讀)</description>
+      <pubDate>Thu, 14 Mar 2019 17:42:40 +0800</pubDate>
+    </item>
     <item>
       <title>高雄市三民區-十全路外省麵</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 12 Feb 2019 19:19:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>宵夜就來吃超超超大盛泡麵吧</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4288634</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;晚上肚子餓睡不著...(繼續閱讀)</description>
-      <pubDate>Sat, 9 Feb 2019 22:19:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
