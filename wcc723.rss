@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 18 Mar 2019 02:27:33 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2019 05:27:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JavaScript This 系列文：this 與物件的關係
+        ]]></title>
+            <description><![CDATA[
+            本篇是接續先前的：鐵人賽：JavaScript 的 this 到底是誰？，會更深入的探討 JavaScript This 的運作及觀念，這一系列的文章順序上不會從基礎開始介紹，會建議先從先前文章開始閱讀。
+物件的方法調用 (As an object method)「物件的方法調用」是最常見改變 this 的方法，只要搞懂這一部份就能了解決大部分的 this 運作，大部分的文件介紹此部分說明為：在函
+        ]]></description>
+            <link>https://wcc723.github.io/javascript/2019/03/18/JS-THIS/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/javascript/2019/03/18/JS-THIS/</guid>
+            <category><![CDATA[
+            javascript
+            ]]></category>
+            <pubDate>Sun, 17 Mar 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201903%2F57A365E4-97F6-447F-81FD-64F14313628F.png?alt=media&amp;token=2a9e436b-3096-4f40-a337-7f37ce30a4e4" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：網頁設計 - 設計的過去、現在、未來
@@ -183,28 +199,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             design
             ]]></category>
             <pubDate>Sun, 04 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 網頁設計規範 - 參考來源
-        ]]></title>
-            <description><![CDATA[
-            網頁設計許多概念是受到限制的，因為除了設計外也要同時重視可行性，因此預先定義規範不僅預先了解可執行的限制，對於工程師來說更方便預先建構元件。
-但設計規範並不是一件容易的事情，同時必須在意可行性、延展性、穩定性。
-
-可行性：確保規範是可以被執行的
-延展性：未來的更新是有預先規劃的
-穩定性：不可隨意進行破壞性更新（break change）
-
-本篇提供一些概念給予參考，讓還沒有想法的設計師了解可以從何
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/04/styleguide-1/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/04/styleguide-1/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Sat, 03 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
         </item>
     </channel>
