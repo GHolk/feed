@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 19 Mar 2019 13:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 20 Mar 2019 15:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>將畫布給抽插到壞</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4330985</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004330985.JPG?v=1553047980"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 20 Mar 2019 07:22:19 +0800</pubDate>
     </item>
     <item>
       <title>留白扣半分</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/96/0004262496.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 16 Jan 2019 07:47:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>FF33新刊收錄圖搶先看</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4255966</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004255966.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 10 Jan 2019 04:00:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
