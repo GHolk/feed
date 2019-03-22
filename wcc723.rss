@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 21 Mar 2019 02:27:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Mar 2019 04:27:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JavaScript This 系列文：this 為什麼指向 window
+        ]]></title>
+            <description><![CDATA[
+            本篇是接續先前的：鐵人賽：JavaScript 的 this 到底是誰？，會更深入的探討 JavaScript This 的運作及觀念，這一系列的文章順序上不會從基礎開始介紹，會建議先從先前文章開始閱讀。
+純粹的調用 (Simple call)直接呼叫函式的情況下，this 會指向全域，在以下範例中可以取到 name 的值，但一般來說很不推薦這樣的寫法，後面會提到這樣的寫法是怎麼造成的。12345
+        ]]></description>
+            <link>https://wcc723.github.io/javascript/2019/03/21/this-why-window/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/javascript/2019/03/21/this-why-window/</guid>
+            <category><![CDATA[
+            javascript
+            ]]></category>
+            <pubDate>Wed, 20 Mar 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201903%2F7365504D-FC60-4AD2-8135-D870D42E75A2.png?alt=media&amp;token=0a518715-f7c0-4b41-9d4c-ab4d908c7855" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JavaScript This 系列文：this 與物件的關係
@@ -178,27 +194,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             design
             ]]></category>
             <pubDate>Mon, 05 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 網頁設計規範 - 一致性的距離（計算方法、水平、垂直）
-        ]]></title>
-            <description><![CDATA[
-            一開始的文章有介紹到格線系統，主要是針對水平欄位空間的介紹，而其實垂直空間也是需要有固定的間距，當然一方面是有一致的美感，另一方面則是讓開發者設定全網站可用間距時可以統一帶入。
-本篇主要會針對兩個部分做介紹，一是如何定義間距，另一則是針對運用上的介紹。
-
-定義間距（5 的倍數、以文字大小）
-統一的運用（文字段落、小元件空間、大區塊的間隔）
-
-定義間距雖說間距需要定義固定的數值，但至於如何定義其實沒
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/05/styleguide-2/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/05/styleguide-2/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Sun, 04 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
         </item>
     </channel>
