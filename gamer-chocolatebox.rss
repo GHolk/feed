@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 26 Mar 2019 18:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 27 Mar 2019 13:26:44 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>屏東內埔-屏科大夜市</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4338140</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天來到最近很夯的屏科大夜市...(繼續閱讀)</description>
+      <pubDate>Tue, 26 Mar 2019 20:47:14 +0800</pubDate>
+    </item>
     <item>
       <title>屏東市大同北路-張家麵館</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;好久沒有跟姊姊一起出來吃甜食了所以今天特地跑來美術館這吃蛋糕...(繼續閱讀)</description>
       <pubDate>Fri, 1 Mar 2019 16:00:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>好潮</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4302828</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;好像太晚買了...(繼續閱讀)</description>
-      <pubDate>Fri, 22 Feb 2019 18:39:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
