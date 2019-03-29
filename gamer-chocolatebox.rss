@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 28 Mar 2019 11:26:44 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Mar 2019 11:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>今天晚餐吃肯德基</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4340174</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;只是吃了三份XL花生漢堡豪華套餐...(繼續閱讀)</description>
+      <pubDate>Thu, 28 Mar 2019 19:01:11 +0800</pubDate>
+    </item>
     <item>
       <title>屏東內埔-屏科大夜市</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;點了一份軟殼蟹握壽司...(繼續閱讀)</description>
       <pubDate>Mon, 4 Mar 2019 19:13:29 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄市鼓山區-CAFFAINA美術店</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4310266</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;好久沒有跟姊姊一起出來吃甜食了所以今天特地跑來美術館這吃蛋糕...(繼續閱讀)</description>
-      <pubDate>Fri, 1 Mar 2019 16:00:35 +0800</pubDate>
     </item>
   </channel>
 </rss>
