@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 29 Mar 2019 11:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 Mar 2019 00:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>沙贊</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4341483</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天看口碑場沙贊...(繼續閱讀)</description>
+      <pubDate>Fri, 29 Mar 2019 22:18:34 +0800</pubDate>
+    </item>
     <item>
       <title>今天晚餐吃肯德基</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sat, 9 Mar 2019 14:35:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄市鼓山區-義郎創作壽司</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4313966</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;點了一份軟殼蟹握壽司...(繼續閱讀)</description>
-      <pubDate>Mon, 4 Mar 2019 19:13:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
