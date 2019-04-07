@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 6 Apr 2019 10:25:35 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 7 Apr 2019 14:25:36 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>ANGRY</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4350947</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004350947.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 7 Apr 2019 01:37:19 +0800</pubDate>
     </item>
     <item>
       <title>無口娘與神祕人物！</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/32/0004284432.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 5 Feb 2019 21:44:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>我愛殭屍，殭屍愛我</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4272433</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/33/0004272433.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 25 Jan 2019 18:38:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
