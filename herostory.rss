@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[英雄故事]]></title>
+        <description><![CDATA[有關傳奇的歷史英雄人物論壇熱門文章。]]></description>
+        <link>https://www.herostory.tw/vf</link>
+        <image>
+            <url>https://www.herostory.tw/template/frontend/img/herostory/logo.png</url>
+            <title>英雄故事</title>
+            <link>https://www.herostory.tw/vf</link>
+        </image>
+        <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
+        <lastBuildDate>Tue, 09 Apr 2019 10:31:11 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/herostory.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Tue, 09 Apr 2019 00:00:00 GMT</pubDate>
+        <language><![CDATA[zh-TW]]></language>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[history]]></category>
+        <category><![CDATA[story]]></category>
+        <category><![CDATA[novel]]></category>
+        <item>
+            <title><![CDATA[最傳奇的女海盜王：鄭一嫂]]></title>
+            <description><![CDATA[在《神鬼奇航3》中，
+大家第一眼會注意到周潤發所飾演的東方海盜王，
+對於這個角色的歷史原型，
+有些人認為是汪直，
+有些人說是張保仔。
+不過，
+其實在那場會議 ...]]></description>
+            <link>https://www.herostory.tw/article/5698</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5698</guid>
+            <category><![CDATA[歷史專區]]></category>
+        </item>
+        <item>
+            <title><![CDATA[「東海道最強武家」今川義元 - 受天下人所嘲笑的武將]]></title>
+            <description><![CDATA[說起今川義元各位會聯想到什麼呢？
+是因身軀肥胖導致不能騎馬，只能乘坐轎子上戰場的胖子？
+又或者是喜好公卿文化，整日沉迷於和歌、鞠毬的滑稽形象？
+
+提起此人 ...]]></description>
+            <link>https://www.herostory.tw/article/5707</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5707</guid>
+            <category><![CDATA[日本戰國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【忠與義，悲劇的8+9，董卓】]]></title>
+            <description><![CDATA[以一個人的力量引爆亂世，不是一件容易的事情。
+宦官尚且十常侍，黃天也有三兄弟。
+
+董卓這個人的心性之強大，恐怕連織田信長都比不上。
+
+
+
+董卓字仲穎，隴西人 ...]]></description>
+            <link>https://www.herostory.tw/article/5695</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5695</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【三國故事】鄧芝出使]]></title>
+            <description><![CDATA[劉備伐吳失敗後，蜀漢面臨重大危機。
+
+劉備兵敗退守白帝城，在東吳陣營中，有人力勸孫權乘勝追擊，但陸遜進言說不該進擊，反而應該與蜀漢重新締結同盟，以免曹丕 ...]]></description>
+            <link>https://www.herostory.tw/article/5732</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5732</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【番外篇：謎之軍師，戲志才 feat.典韋】]]></title>
+            <description><![CDATA[在官渡前謀士篇章中，一直不斷的有零星提到戲志才的名字。
+對三國志而言，戲志才的戲份大概就只比陳到多了那麼一丁半點。
+
+
+
+
+但我們去檢查時間段落時，你就會發 ...]]></description>
+            <link>https://www.herostory.tw/article/5765</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5765</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【三國故事】歷史上的宗預]]></title>
+            <description><![CDATA[劉備過世的時候，蜀漢與東吳的關係一度緊張，後來諸葛亮以鄧芝為使者，順利與東吳言和，恢復同盟（詳情請見：鄧芝出使的故事）。
+
+然而，當諸葛亮逝世，兩國關係 ...]]></description>
+            <link>https://www.herostory.tw/article/5737</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5737</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[孫權為什麼是魏蜀吳最後一個稱帝？]]></title>
+            <description><![CDATA[本週說書人的主題是孫權，提到了一個有趣的問題，就是東吳為什麼是三國中最後一個開國，孫權比曹丕、劉備還要晚稱帝？曹操生前只是魏王，直到死後西元二二O年， ...]]></description>
+            <link>https://www.herostory.tw/article/5752</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5752</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【劉備的金字招牌：林北台大！】]]></title>
+            <description><![CDATA[好的，這次要來認真探討，劉備到底憑什麼能在亂世之中得到萬人敵武將的忠誠而崛起。
+
+劉備姓劉這件事，在官渡之戰結束前並不是重要的賣點。
+當時姓劉的州牧至少 ...]]></description>
+            <link>https://www.herostory.tw/article/5776</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5776</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【官渡，智力90以下請勿參戰】]]></title>
+            <description><![CDATA[官渡之戰跟赤壁之戰是不一樣的。
+
+赤壁之戰幾乎可以說是一戰定勝負，但官渡其實是一個長時間的總體戰。
+夷陵也是長時間，但接觸點基本上是單線式的。
+
+袁紹跟曹 ...]]></description>
+            <link>https://www.herostory.tw/article/5761</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5761</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+        <item>
+            <title><![CDATA[【董卓之後……黑暗兵法？賈詡】]]></title>
+            <description><![CDATA[陳壽做為一個史家，確有他獨到之處。
+三國志寫到董卓死後，「長安士庶咸相慶賀，諸阿附卓者皆下獄死」。
+看起來沒什麼，細品之下就會發現：
+1.並不是天下慶賀。
+ ...]]></description>
+            <link>https://www.herostory.tw/article/5708</link>
+            <guid isPermaLink="true">https://www.herostory.tw/article/5708</guid>
+            <category><![CDATA[三國]]></category>
+        </item>
+    </channel>
+</rss>
