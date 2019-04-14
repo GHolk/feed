@@ -4,8 +4,38 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Apr 2019 00:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 15 Apr 2019 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線小短篇5　作者：江倉まに</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4359335</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/35/0004359335.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1555245028.A.B7A.html
+      最近明石都沒有搾我錢..._(:з」∠...(繼續閱讀)</description>
+      <pubDate>Sun, 14 Apr 2019 20:30:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 與拉菲的日常7　作者：U2</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4359328</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/28/0004359328.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1555244709.A.57B.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 14 Apr 2019 20:24:38 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官13　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4359320</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/20/0004359320.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1555244329.A.FC6.html
+      這週沒有東西翻XD...(繼續閱讀)</description>
+      <pubDate>Sun, 14 Apr 2019 20:17:49 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園263~272　作者：ジングー</title>
       <link>
@@ -75,36 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/54/0004328354.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1552827092.A.7A4.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 17 Mar 2019 20:51:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 最初的相遇4　作者：たかひこ part15</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4328296</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/96/0004328296.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1552825760.A.9F1.html
-      慢慢更系列~...(繼續閱讀)</description>
-      <pubDate>Sun, 17 Mar 2019 20:28:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女6　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4320823</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/23/0004320823.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1552221577.A.A22.html
-      情人節什麼的都是廠商的陰謀...(繼續閱讀)</description>
-      <pubDate>Sun, 10 Mar 2019 20:39:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與埃賽克斯在一起　作者：影老院</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4312837</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004312837.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1551615458.A.310.html
-      本次活動 大家都喜歡(?)的企業學妹 ...(繼續閱讀)</description>
-      <pubDate>Sun, 3 Mar 2019 20:17:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
