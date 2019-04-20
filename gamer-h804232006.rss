@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 19 Apr 2019 18:26:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Apr 2019 21:26:08 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 人生黑洞</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4364505</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/05/0004364505.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 19 Apr 2019 19:24:58 +0800</pubDate>
     </item>
     <item>
       <title>ANGRY</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004284970.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 6 Feb 2019 09:39:06 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 紅包的意義</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4284432</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/32/0004284432.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 5 Feb 2019 21:44:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
