@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 23 Apr 2019 01:27:18 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Apr 2019 08:27:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,46 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        自建 Name Server
+        ]]></title>
+            <description><![CDATA[
+            本篇教學是延續「大神來六角」的 “網址管理與 DNS 託管全攻略”，目的是讓參與的學員更了解 DNS 在轉址的過程觀念。
+對於 Name Serve 的概念可以參考 AWS 提供的架構圖：
+
+擁有一個網域後，只要網域的供應商可以設定 NS Record，都可以用來自行建立 Name Server，並且可以自行代管該網域下的所有子網域。
+
+本篇中的環境在教學結束後被釋放，所以無法再次連接。
+
+參考文
+        ]]></description>
+            <link>https://wcc723.github.io/dns/2019/04/25/custom_name_server/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/dns/2019/04/25/custom_name_server/</guid>
+            <category><![CDATA[
+            dns
+            ]]></category>
+            <pubDate>Wed, 24 Apr 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201904%2FArtboard%20Copy%206.png?alt=media&amp;token=c5d8c7a1-b5d4-459a-b3b1-958a16d16359" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        免費申請屬於自己的 SSL 憑證(手把手帶你加上 https 綠色鎖頭)
+        ]]></title>
+            <description><![CDATA[
+            SSL For Free為了讓更多網站可以加上綠鎖頭(https)，並且提高網路的安全性，此服務免費提供網站 SSL 憑證，同時憑證不僅是免費的，還是屬於萬用憑證（包含所有子網域），雖然每次的憑證效期僅有三個月，但可以不斷的續約，對於每年需花個幾千、幾萬才能購買一個萬用憑證來說，算是節省不少。本篇將會一步一步介紹如何申請到此憑證。
+開發環境說明：
+
+主機 Digital Ocean：Ubuntu 
+        ]]></description>
+            <link>https://wcc723.github.io/ssl/2019/04/24/free-ssl/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ssl/2019/04/24/free-ssl/</guid>
+            <category><![CDATA[
+            ssl
+            ]]></category>
+            <pubDate>Tue, 23 Apr 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201904%2FArtboard%20Copy%205.png?alt=media&amp;token=fc6b7c2b-b8b3-4c67-8ba4-53edf9aa8cd6" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JavaScript This 系列文：this 為什麼指向 window
@@ -156,45 +196,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             ]]></category>
             <pubDate>Wed, 07 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2F9B9A3F0A-A17C-444F-9547-67488753AF1A.png?alt=media&amp;token=dee5ee54-93f7-49d9-ac66-5ee0df5af0f4" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 網頁設計規範 - 通用視覺效果
-        ]]></title>
-            <description><![CDATA[
-            規範定義除了元件設計、空間、格線等等外，另外還有經常重複使用的樣式也能夠被預先定義，比要常見的視覺效果如下：
-
-圓角
-邊線粗細、邊線色彩
-陰影
-背景圖樣、裝飾
-
-圓角圓角就有點類似於明體、黑體之間的關係，黑體與明體會有兩者截然不同的個性，明體讓人感受具有人文、藝術氣息；黑體則讓人感受具有科技、現代感，圓角亦是如此，且可以隨著不同的圓角尺寸有著不同感受。如無圓角如同黑體，具有科技、現代感，但同時讓人
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/07/styleguide-4/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/07/styleguide-4/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Tue, 06 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 網頁設計規範 - 定義不斷出現的網頁元素
-        ]]></title>
-            <description><![CDATA[
-            定義玩基本要素如文字、色彩、空間等等後，就可以開始定義常用的「元件」，而每一種應用程式、環境都具有固定會不斷出現的 UI 元件，如桌面系統的應用程式會有固定的導覽列、關閉縮小視窗的控制項及固定的外框，雖然這些也是能夠調整，但調整的同時也意味可能會影響操作體驗。
-網頁設計、行動 APP 也是如此，本身都會具有固定的 UI，這些 UI 對於一般用戶來說是很容易理解使用的。
-表單元件預先設定元件的目的，
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/06/styleguide-3/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/06/styleguide-3/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Mon, 05 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2021.png?alt=media&amp;token=5d539b8f-22d2-437e-9c0e-838c626eb267" length="0" type="image"/>
         </item>
     </channel>
 </rss>
