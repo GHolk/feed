@@ -23,7 +23,7 @@
   <generator>edit by emacs</generator>
 
   <entry>
-    <id>https://www.herostory.tw/</id>
+    <id>http://gholk.github.io/feed/herostory.rss</id>
     <title>英雄故事</title>
     <published>2019-04-09</published>
     <link rel="alternate"
@@ -31,7 +31,7 @@
           href="https://www.herostory.tw/vf" />
     <link rel="alternate"
           type="application/rss+xml"
-          href="http://gholk.github.io/herostory.rss" />
+          href="http://gholk.github.io/feed/herostory.rss" />
     <summary>
       一個有關歷史、奇幻、小說等英雄故事的論壇。
       把他的熱門文章做成論壇。
@@ -42,7 +42,7 @@
   </entry>
 
   <entry>
-    <id>http://gholk.github.io/tanews.rss</id>
+    <id>http://gholk.github.io/feed/tanews.rss</id>
     <title>台灣動物新聞網</title>
     <published>2018-12-12</published>
     <link rel="alternate"
@@ -50,7 +50,7 @@
           href="http://tanews.org.tw/info" />
     <link rel="alternate"
           type="application/rss+xml"
-          href="http://gholk.github.io/tanews.rss"/>
+          href="http://gholk.github.io/feed/tanews.rss"/>
     <summary>
       台灣動物保護協會經營的新聞入口網站，
       有一些生態保育、流浪物動、畜牧業相關的新聞。
