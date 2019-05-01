@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 1 May 2019 00:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 2 May 2019 00:25:34 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 偶像團體</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4378453</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0004378453.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 1 May 2019 23:54:58 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 白日夢少女</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/77/0004316977.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 7 Mar 2019 16:07:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>人生勝利杯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4287314</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004287314.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 8 Feb 2019 19:04:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
