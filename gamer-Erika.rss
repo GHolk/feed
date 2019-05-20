@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 19 May 2019 14:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 10:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園288~296　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4398062</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/62/0004398062.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1558269787.A.01F.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 19 May 2019 20:42:41 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 奴隷との生活 最初的相遇6　作者：たかひこ part17</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4398034</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0004398034.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1558268844.A.6A2.html
+      咦這系列什麼時候來到17回的......(繼續閱讀)</description>
+      <pubDate>Sun, 19 May 2019 20:26:44 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園280~287　作者：ジングー</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/20/0004359320.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1555244329.A.FC6.html
       這週沒有東西翻XD...(繼續閱讀)</description>
       <pubDate>Sun, 14 Apr 2019 20:17:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園263~272　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4351818</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004351818.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1554640930.A.E17.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Apr 2019 20:41:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 最初的相遇5　作者：たかひこ part16</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4351797</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004351797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1554640072.A.E17.html
-      愚人節篇~...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Apr 2019 20:27:22 +0800</pubDate>
     </item>
   </channel>
 </rss>

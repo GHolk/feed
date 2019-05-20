@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 19 May 2019 14:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 May 2019 10:26:44 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>高雄夢時代-牛肉咖喱飯</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4398175</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天在夢時代地下美食街找東西吃...(繼續閱讀)</description>
+      <pubDate>Sun, 19 May 2019 21:48:28 +0800</pubDate>
+    </item>
     <item>
       <title>7-11蜂蜜牛奶</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 10 Apr 2019 23:50:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>中國日常-頭等艙候機室</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4354918</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 10 Apr 2019 18:15:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
