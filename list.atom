@@ -23,6 +23,27 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/gamer-zxp921.rss</id>
+    <title>晚安部落的小屋：兒時美式卡通回味</title>
+    <published>2018-11-01</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://home.gamer.com.tw/zxp921" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-zxp921.rss"/>
+    <summary>
+      對很多 2006 年左右的迪士尼卡通、電玩角色暸若指掌，
+      寫了很多文章介紹那些卡通的故事和發展歷程。
+      但近一年沒有更新了，希望不會斷更。      
+    </summary>
+    <category term="game" />
+    <category term="cartoon" />
+    <category term="acg" />
+    <category term="gamer" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/herostory.rss</id>
     <title>英雄故事</title>
     <published>2019-04-09</published>

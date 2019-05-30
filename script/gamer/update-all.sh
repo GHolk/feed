@@ -14,6 +14,7 @@ user_list="
     e123456789
     lnkkng
     mitsueyn
+    zxp921
 "
 
 for user in $user_list
