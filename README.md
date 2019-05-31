@@ -56,11 +56,16 @@ in `script/update-feed.sh` .
 there is a [easy website frontend][gh-pages] ,
 also a list of all rss at <http://gholk.github.io/feed/list.atom> .
 
+## current all feed
+
 <link rel="alternate" type="application/atom+xml" href="list.atom">
 
 <div id="feed-content"></div>
 
 <style>
+  #feed-content:empty::before {
+    content: "no javascript enable";
+  }
   .date {
     font-style: italic;
   }
@@ -76,7 +81,7 @@ also a list of all rss at <http://gholk.github.io/feed/list.atom> .
 
 <template id="feed-info">
   <article>
-    <h2></h2>
+    <h3></h3>
     <small class="date"></small>
     <p></p>
     <a class="feed">feed</a>
@@ -108,7 +113,7 @@ async function loadFeedList() {
     const q = 'querySelector'
     const t = 'textContent'
     const g = 'getAttribute'
-    article[q]('h2')[t] = entry[q]('title')[t]
+    article[q]('h3')[t] = entry[q]('title')[t]
     article[q]('.date')[t] = entry[q]('published')[t]
     article[q]('p')[t] = entry[q]('summary')[t]
     const feedSelector = `link[type="application/atom+xml"],
