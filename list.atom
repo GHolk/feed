@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/list.atom</id>
   <published>2018-04-21T15:25:29.565Z</published>
-  <updated>2018-10-17</updated>
+  <updated>2019-05-31</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>anacron feed</title>
   <subtitle>自己用 anacron 排程維護的 rss 列表</subtitle>
@@ -23,9 +23,29 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/gamer-hbl917070.rss</id>
+    <title>深海異音的小屋</title>
+    <published>2019-05-31</published>
+    <link rel="alternate"
+          type="text/html"
+          href="https://home.gamer.com.tw/hbl917070" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-hbl917070.rss"/>
+    <summary>
+      熟悉 c# 與 javascript 的工程師。
+      會寫一些小工具，主要還是在 windows 上，
+      所以有些是視窗程式，也有些是瀏覽器的 user script 。
+    </summary>
+    <category term="javascript" />
+    <category term="computer" />
+    <category term="gamer" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/gamer-zxp921.rss</id>
     <title>晚安部落的小屋：兒時美式卡通回味</title>
-    <published>2018-11-01</published>
+    <published>2019-05-30</published>
     <link rel="alternate"
           type="text/html"
           href="https://home.gamer.com.tw/zxp921" />
