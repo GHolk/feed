@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 5 Jun 2019 00:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 6 Jun 2019 00:26:47 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>屏東市-鼎億肉燥飯</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4417325</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;平民美食，好吃不怕高血壓...(繼續閱讀)</description>
+      <pubDate>Wed, 5 Jun 2019 19:46:29 +0800</pubDate>
+    </item>
     <item>
       <title>屏東市-阿祥擔仔麵</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;上面印著小熊維尼卡通的角色...(繼續閱讀)</description>
       <pubDate>Sun, 19 May 2019 09:53:41 +0800</pubDate>
-    </item>
-    <item>
-      <title>大魯閣草衙道-花月嵐拉麵</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4396681</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天跑來野獸國訂人偶...(繼續閱讀)</description>
-      <pubDate>Sat, 18 May 2019 18:37:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
