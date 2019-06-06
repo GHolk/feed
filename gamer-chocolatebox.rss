@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 6 Jun 2019 00:26:47 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 7 Jun 2019 00:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>麥當勞-蘑菇黑牛堡</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4418488</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 6 Jun 2019 21:36:47 +0800</pubDate>
+    </item>
     <item>
       <title>屏東市-鼎億肉燥飯</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天在夢時代地下美食街找東西吃...(繼續閱讀)</description>
       <pubDate>Sun, 19 May 2019 21:48:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>7-11蜂蜜牛奶</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4397516</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;上面印著小熊維尼卡通的角色...(繼續閱讀)</description>
-      <pubDate>Sun, 19 May 2019 09:53:41 +0800</pubDate>
     </item>
   </channel>
 </rss>
