@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 7 Jun 2019 00:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 8 Jun 2019 00:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>丹丹時間</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4419526</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 7 Jun 2019 19:46:13 +0800</pubDate>
+    </item>
     <item>
       <title>麥當勞-蘑菇黑牛堡</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sat, 25 May 2019 12:32:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄夢時代-牛肉咖喱飯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4398175</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;今天在夢時代地下美食街找東西吃...(繼續閱讀)</description>
-      <pubDate>Sun, 19 May 2019 21:48:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
