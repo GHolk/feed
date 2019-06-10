@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 9 Jun 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 08:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 我家有隻妖精小燐6　作者：ま</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4421797</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004421797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1560076521.A.B7F.html
+      小燐系列不好整理，總是一不小心就變有生之年(...(繼續閱讀)</description>
+      <pubDate>Sun, 9 Jun 2019 18:33:52 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園297~300　作者：ジングー</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/57/0004382457.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1557057870.A.82C.html
       PPP組(下)...(繼續閱讀)</description>
       <pubDate>Sun, 5 May 2019 20:03:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 絆愛登場　作者：HM_Hmongt</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4374774</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/74/0004374774.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1556455474.A.B2B.html
-      活動太多了沒空翻(死...(繼續閱讀)</description>
-      <pubDate>Sun, 28 Apr 2019 20:44:03 +0800</pubDate>
     </item>
   </channel>
 </rss>

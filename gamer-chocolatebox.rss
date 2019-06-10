@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 9 Jun 2019 00:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Jun 2019 08:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>屏東市-新上海火鍋</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4422110</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;昨天宵夜吃火鍋，一鍋才110元...(繼續閱讀)</description>
+      <pubDate>Sun, 9 Jun 2019 22:45:23 +0800</pubDate>
+    </item>
     <item>
       <title>丹丹時間</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;一次500cc...(繼續閱讀)</description>
       <pubDate>Sat, 25 May 2019 16:56:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>屏東夜市-雞肉飯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4404342</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sat, 25 May 2019 12:32:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
