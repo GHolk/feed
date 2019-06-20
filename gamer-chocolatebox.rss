@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 20 Jun 2019 00:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 21 Jun 2019 00:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>玩具總動員4-胡迪警長帽</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4433195</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 20 Jun 2019 12:08:42 +0800</pubDate>
+    </item>
     <item>
       <title>屏東市-平丼郎丼飯專賣店</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 10 Jun 2019 15:42:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>屏東市-新上海火鍋</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4422110</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;昨天宵夜吃火鍋，一鍋才110元...(繼續閱讀)</description>
-      <pubDate>Sun, 9 Jun 2019 22:45:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
