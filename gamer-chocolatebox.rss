@@ -5,8 +5,18 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 23 Jun 2019 00:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Jun 2019 10:26:51 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>瑞士捲</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4437216</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;不切片一次吃一條好過癮
+      甜蜜嘟嘟嚕 ...(繼續閱讀)</description>
+      <pubDate>Sun, 23 Jun 2019 22:08:29 +0800</pubDate>
+    </item>
     <item>
       <title>屏東市-蔡家麵館</title>
       <link>
@@ -87,15 +97,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 13 Jun 2019 12:25:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄前鎮瑞隆路-華喜爌肉飯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4422967</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 10 Jun 2019 19:50:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
