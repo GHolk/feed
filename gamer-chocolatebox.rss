@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 25 Jun 2019 00:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 26 Jun 2019 00:26:45 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>7-11新飲品</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4439358</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 25 Jun 2019 22:35:27 +0800</pubDate>
+    </item>
     <item>
       <title>瑞士捲</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;下雨天就吃吃屏東勝利路的餛飩乾麵隨便解決一餐吧...(繼續閱讀)</description>
       <pubDate>Thu, 13 Jun 2019 21:59:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>午餐麥當當</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4425694</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 13 Jun 2019 12:25:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
