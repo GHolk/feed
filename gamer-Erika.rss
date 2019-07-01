@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 30 Jun 2019 11:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 1 Jul 2019 10:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 買菸的魔法少女　作者：河合朗</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4444738</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/38/0004444738.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1561897611.A.D18.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 30 Jun 2019 20:26:19 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 與拉菲的日常9　作者：U2</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/62/0004398062.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1558269787.A.01F.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 19 May 2019 20:42:41 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 最初的相遇6　作者：たかひこ part17</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4398034</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0004398034.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1558268844.A.6A2.html
-      咦這系列什麼時候來到17回的......(繼續閱讀)</description>
-      <pubDate>Sun, 19 May 2019 20:26:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
