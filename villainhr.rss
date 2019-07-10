@@ -9,7 +9,7 @@
             <link>http://villainhr.com</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 09 Jul 2019 04:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 10 Jul 2019 03:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/villainhr.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Mon, 28 May 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -19,6 +19,18 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <category><![CDATA[web]]></category>
+        <item>
+            <title><![CDATA[让微信文档维护也是件幸福的事
+                    ]]></title>
+            <description><![CDATA[
+                            
+                                以前，微信开放文档是使用文档界的老大哥gitbook。用它搭建文档其实并不需要耗费多长时间，主要在于界面维护和自定义主题。Jquery则是里面主要用来...
+                            
+                        ]]></description>
+            <link>https://www.villainhr.com/page/2019/07/09/%E8%AE%A9%E5%BE%AE%E4%BF%A1%E6%96%87%E6%A1%A3%E7%BB%B4%E6%8A%A4%E4%B9%9F%E6%98%AF%E4%BB%B6%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%8B</link>
+            <guid isPermaLink="true">https://www.villainhr.com/page/2019/07/09/%E8%AE%A9%E5%BE%AE%E4%BF%A1%E6%96%87%E6%A1%A3%E7%BB%B4%E6%8A%A4%E4%B9%9F%E6%98%AF%E4%BB%B6%E5%B9%B8%E7%A6%8F%E7%9A%84%E4%BA%8B</guid>
+            <pubDate>Mon, 08 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Android 和 Webview 如何相互 sayHello(一)
                     ]]></title>
@@ -42,18 +54,6 @@
             <link>https://www.villainhr.com/page/2018/07/14/%E8%AE%A9%E4%BD%A0%E5%90%AC%E8%A7%81%E7%9A%84%20HTML5</link>
             <guid isPermaLink="true">https://www.villainhr.com/page/2018/07/14/%E8%AE%A9%E4%BD%A0%E5%90%AC%E8%A7%81%E7%9A%84%20HTML5</guid>
             <pubDate>Fri, 13 Jul 2018 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[IndexedDB 打造靠谱 Web 离线数据库
-                    ]]></title>
-            <description><![CDATA[
-                            
-                                在知乎和我在平常工作中，常常会看到一个问题前端现在还火吗这个我只想说隔岸观火的人永远无法明白起火的原因，只有置身风暴，才能找到风眼之所在秦时明月你TM...
-                            
-                        ]]></description>
-            <link>https://www.villainhr.com/page/2018/05/11/IndexedDB%20%E6%89%93%E9%80%A0%E9%9D%A0%E8%B0%B1%20Web%20%E7%A6%BB%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%BA%93</link>
-            <guid isPermaLink="true">https://www.villainhr.com/page/2018/05/11/IndexedDB%20%E6%89%93%E9%80%A0%E9%9D%A0%E8%B0%B1%20Web%20%E7%A6%BB%E7%BA%BF%E6%95%B0%E6%8D%AE%E5%BA%93</guid>
-            <pubDate>Thu, 10 May 2018 16:00:00 GMT</pubDate>
         </item>
     </channel>
 </rss>

@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 9 Jul 2019 12:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 10 Jul 2019 11:25:12 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>照燒貓合圖</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4454425</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004454425.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 9 Jul 2019 18:59:54 +0800</pubDate>
+    </item>
     <item>
       <title>黑色沙漠接龍</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/81/0004181981.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 2 Nov 2018 18:14:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>長生劫-有限的空間</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4174136</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004174136.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 26 Oct 2018 18:09:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
