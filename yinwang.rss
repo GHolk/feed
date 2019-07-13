@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 12 Jul 2019 06:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 13 Jul 2019 03:27:47 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[学习的智慧]]></title>
+            <description><![CDATA[有些人很爱学习，兢兢业业的把书一个字一个字从头看到尾，还拿笔把重点画上。好不容易学完一本书，结果完全不知道自己学到了什么。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</guid>
+            <pubDate>Thu, 11 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[机器学习与逻辑编程]]></title>
-            <description><![CDATA[你可能没有想到，机器学习（machine learning）和逻辑编程（logic programming）有一种奇妙的关系，在我眼里她们就像亲姐妹。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/01/30/machine-learning</guid>
             <pubDate>Tue, 29 Jan 2019 16:00:00 GMT</pubDate>
@@ -109,6 +115,12 @@
             <link>http://www.yinwang.org/blog-cn/2017/04/23/ai</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/04/23/ai</guid>
             <pubDate>Sat, 22 Apr 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[美国公司管理层的洗脑技巧]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/04/17/management-tricks</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/04/17/management-tricks</guid>
+            <pubDate>Sun, 16 Apr 2017 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[经验和洞察力]]></title>
