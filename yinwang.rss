@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 15 Jul 2019 16:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Jul 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[再谈“P vs NP”问题]]></title>
+            <description><![CDATA[曾经写过一篇文章表达对计算机科学里 “P vs NP” 这个问题的看法。当时由于看得很透了，却丝毫不在乎，反倒写得特别简略。没想到有人看到那篇文章后，还误以为我没仔细学过复杂度理论，认为我是武断的信口开河。我也懒得谈论这种太理论的问题，所以后来干脆把文章撤了。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/07/16/pnp2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/16/pnp2</guid>
+            <pubDate>Mon, 15 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[学习的智慧]]></title>
-            <description><![CDATA[有些人很爱学习，兢兢业业把书一个字一个字从头看到尾，还拿笔把重点画上。好不容易学完一本书，结果完全不知道自己学到了什么。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</guid>
             <pubDate>Thu, 11 Jul 2019 16:00:00 GMT</pubDate>
