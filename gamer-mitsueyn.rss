@@ -5,8 +5,16 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 21 Jul 2019 11:27:18 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 11:27:20 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title />
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4468023</link>
+      <author>Mitsu(天堂樹)</author>
+      <description />
+      <pubDate>Sun, 21 Jul 2019 20:09:08 +0800</pubDate>
+    </item>
     <item>
       <title />
       <link>
@@ -101,15 +109,6 @@
       _(:з」∠)_ 很抱歉週末的Comic Horizon 5 百合向only出不了新刊
       不過場上會提供少量「白子日記...(繼續閱讀)</description>
       <pubDate>Thu, 11 Oct 2018 20:31:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>[百合原創]《白子與魔女》電子書版開賣！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4101341</link>
-      <author>Mitsu(天堂樹)</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/41/0004101341.JPG"&gt;&lt;br&gt;電子書開賣囉！想收藏電子檔的久等了～...(繼續閱讀)</description>
-      <pubDate>Mon, 20 Aug 2018 21:41:29 +0800</pubDate>
     </item>
   </channel>
 </rss>

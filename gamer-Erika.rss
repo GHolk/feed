@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 21 Jul 2019 11:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 22 Jul 2019 11:26:39 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 奴隷との生活 最初的相遇7　作者：たかひこ part18</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4468025</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004468025.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1563711069.A.E19.html
+      只有糖份...(繼續閱讀)</description>
+      <pubDate>Sun, 21 Jul 2019 20:10:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 羽黑的守護　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4468017</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/17/0004468017.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1563710626.A.D32.html
+      這提督是不是自從結婚後就越來越超過了(r...(繼續閱讀)</description>
+      <pubDate>Sun, 21 Jul 2019 20:03:09 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園308~313　作者：ジングー</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004421797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1560076521.A.B7F.html
       小燐系列不好整理，總是一不小心就變有生之年(...(繼續閱讀)</description>
       <pubDate>Sun, 9 Jun 2019 18:33:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園297~300　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4414139</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004414139.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1559480263.A.BAF.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Jun 2019 20:57:14 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女7　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4414122</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004414122.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1559479607.A.60C.html
-      雜誌連載開始...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Jun 2019 20:46:06 +0800</pubDate>
     </item>
   </channel>
 </rss>
