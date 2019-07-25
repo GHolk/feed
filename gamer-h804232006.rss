@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 23 Jul 2019 10:25:46 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 25 Jul 2019 10:25:35 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>【FF34】我的快樂日記－前導PV</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4470388</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/88/0004470388.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 23 Jul 2019 21:40:47 +0800</pubDate>
     </item>
     <item>
       <title>FF34 宣傳DM</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004393097.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 15 May 2019 15:00:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>衛生紙領取券</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4391245</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0004391245.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 13 May 2019 20:11:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
