@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 25 Jul 2019 10:27:09 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jul 2019 14:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 月底問答 x 作家推薦</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4472818</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004472818.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 26 Jul 2019 00:07:31 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 「莉莉絲來幫你提神喲！」</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004215224.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 4 Dec 2018 00:15:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 可以教我怎麼生孩子嗎？</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4207745</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0004207745.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 26 Nov 2018 22:58:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
