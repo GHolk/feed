@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 28 Jul 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Jul 2019 00:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 我家有隻妖精小燐7　作者：ま</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4475851</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/51/0004475851.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1564317170.A.759.html
+      *本篇有一定程度的超速...(繼續閱讀)</description>
+      <pubDate>Sun, 28 Jul 2019 20:32:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園314~320　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4475823</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/23/0004475823.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1564316030.A.B6B.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 28 Jul 2019 20:11:02 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 奴隷との生活 最初的相遇7　作者：たかひこ part18</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004429166.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1560686077.A.546.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 16 Jun 2019 19:54:13 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女8　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4429154</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/54/0004429154.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1560685303.A.53E.html
-      又強又恐怖的大野狼(棒讀...(繼續閱讀)</description>
-      <pubDate>Sun, 16 Jun 2019 19:40:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐6　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4421797</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004421797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1560076521.A.B7F.html
-      小燐系列不好整理，總是一不小心就變有生之年(...(繼續閱讀)</description>
-      <pubDate>Sun, 9 Jun 2019 18:33:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
