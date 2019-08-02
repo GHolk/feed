@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 1 Aug 2019 00:27:08 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 2 Aug 2019 13:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 混就混還話一堆。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4479969</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/69/0004479969.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 1 Aug 2019 15:14:47 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 月底問答 x 作家推薦</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004225121.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 13 Dec 2018 13:47:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 被詛咒的廁所</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4215224</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004215224.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 4 Dec 2018 00:15:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
