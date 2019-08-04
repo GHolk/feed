@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 4 Aug 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 5 Aug 2019 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 奴隷との生活 最初的相遇8　作者：たかひこ part19</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4483739</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004483739.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1564919844.A.6A9.html
+      英文標題是預兆...(繼續閱讀)</description>
+      <pubDate>Sun, 4 Aug 2019 19:56:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 曉的成長　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4483722</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004483722.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1564919130.A.4AD.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 4 Aug 2019 19:45:00 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 我家有隻妖精小燐7(再復活　作者：ま</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/38/0004444738.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1561897611.A.D18.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 30 Jun 2019 20:26:19 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常9　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4437102</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004437102.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1561295045.A.050.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 23 Jun 2019 21:03:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園301~307　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4429166</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004429166.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1560686077.A.546.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 16 Jun 2019 19:54:13 +0800</pubDate>
     </item>
   </channel>
 </rss>
