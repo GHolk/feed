@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 8 Aug 2019 10:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 9 Aug 2019 11:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 台北寒暄大師</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4488761</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/61/0004488761.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 9 Aug 2019 00:39:16 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 混就混還話一堆。</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004230476.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 18 Dec 2018 13:30:31 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 對貓咪專家。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4225121</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004225121.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 13 Dec 2018 13:47:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
