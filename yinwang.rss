@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 11 Aug 2019 08:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Aug 2019 11:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -25,6 +25,12 @@
             <link>http://www.yinwang.org/blog-cn/2019/07/31/human-quality</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/31/human-quality</guid>
             <pubDate>Tue, 30 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[再谈“P vs NP”问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/07/21/pnp2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/21/pnp2</guid>
+            <pubDate>Sat, 20 Jul 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[学习的智慧]]></title>
@@ -153,6 +159,12 @@
             <pubDate>Tue, 13 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[养生节目的危害]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</guid>
+            <pubDate>Mon, 27 Jun 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Java 有值类型吗？]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/06/08/java-value-type</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/08/java-value-type</guid>
@@ -195,10 +207,34 @@
             <pubDate>Sun, 17 Jan 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tesla Autopilot]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</guid>
+            <pubDate>Sat, 09 Jan 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Model X的车门设计问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</guid>
+            <pubDate>Sun, 20 Dec 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Model S的设计失误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/12/12/tesla-model-s</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/12/tesla-model-s</guid>
+            <pubDate>Fri, 11 Dec 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[编程的智慧]]></title>
             <link>http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy</guid>
             <pubDate>Fri, 20 Nov 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[图灵的光环]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/10/18/turing</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/10/18/turing</guid>
+            <pubDate>Sat, 17 Oct 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[对 Parser 的误解]]></title>
@@ -217,6 +253,18 @@
             <link>http://www.yinwang.org/blog-cn/2015/07/02/program-correctness</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/07/02/program-correctness</guid>
             <pubDate>Wed, 01 Jul 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DRY原则的误区]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/06/14/dry-principle</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/06/14/dry-principle</guid>
+            <pubDate>Sat, 13 Jun 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[所谓软件工程]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/06/07/software-engineering</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/06/07/software-engineering</guid>
+            <pubDate>Sat, 06 Jun 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[编程的宗派]]></title>
@@ -339,6 +387,12 @@
             <pubDate>Fri, 05 Jul 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[我离开了 Coverity]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/06/19/bye-coverity</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/06/19/bye-coverity</guid>
+            <pubDate>Tue, 18 Jun 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[原因与证明]]></title>
             <link>http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</guid>
@@ -409,6 +463,12 @@
             <link>http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</guid>
             <pubDate>Wed, 10 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我为什么离开 Cornell]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/10/cornell</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/10/cornell</guid>
+            <pubDate>Tue, 09 Apr 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[Currying 的局限性]]></title>
