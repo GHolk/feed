@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 12 Aug 2019 19:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 13 Aug 2019 11:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【HAPPY】FF33新刊上架！</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004304919.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 24 Feb 2019 15:36:46 +0800</pubDate>
+    </item>
+    <item>
+      <title>OL 蘿莉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4493560</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/60/0004493560.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 13 Aug 2019 04:47:07 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 《我的HAPPY日記》主題曲公開</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/04/0004415704.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 4 Jun 2019 01:19:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 生活駭客</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4411534</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0004411534.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 31 May 2019 19:52:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
