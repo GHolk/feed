@@ -4,8 +4,18 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 16 Aug 2019 11:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 17 Aug 2019 18:27:10 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>公告</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4497631</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/l/n/lnkkng/lnkkng.png"&gt;&lt;br&gt;抱歉，我劇本弄不完，停更一下。一周過得好快哦可惡。
+      ...(繼續閱讀)</description>
+      <pubDate>Fri, 16 Aug 2019 22:40:51 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 台北寒暄大師</title>
       <link>
@@ -88,15 +98,6 @@
       這篇沒有新圖，主要是做些回顧，也想跟大家道個謝、聊聊近況。
       想看總結的可以直接滑到最下面的「總結與感謝...(繼續閱讀)</description>
       <pubDate>Thu, 27 Dec 2018 00:33:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 我看你是完全不懂喔。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4230476</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004230476.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 18 Dec 2018 13:30:31 +0800</pubDate>
     </item>
   </channel>
 </rss>
