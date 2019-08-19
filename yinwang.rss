@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Aug 2019 10:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2019 07:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[对中国人的信任危机]]></title>
-            <description><![CDATA[最近有些人找到我，问我为什么很久没写文章了，我没有回答他们。一方面是因为我没有必要回答任何问题，另一方面我不想当面告诉这些人——我不信任他们。回国两年以来，我对国人的信任值已经降低到了人生中的最低水平。我发现几乎所有人都是在演戏，极少有人是他们自己，人们已经被贪婪和无知所毒害。]]></description>
+            <title><![CDATA[中国人的信任危机]]></title>
+            <description><![CDATA[最近有些人找到我，问我为什么很久没写文章了，我没有回答他们。一方面是因为我没有必要回答任何问题，另一方面我不想当面告诉这些人——我不信任他们。回国两年以来，我对国人的信任值已经降低到了人生中的最低水平。我发现几乎所有人都是在演戏，极少有人是他们自己，人心已经被贪婪和愚昧所毒害。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/08/17/trust</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/08/17/trust</guid>
             <pubDate>Fri, 16 Aug 2019 16:00:00 GMT</pubDate>
