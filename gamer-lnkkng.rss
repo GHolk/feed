@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 31 Aug 2019 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 1 Sep 2019 00:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 月底閒聊串 -- 遊戲分享與各種尷尬</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4513655</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/55/0004513655.JPG"&gt;&lt;br&gt;閒聊文，剛好是8/31，來整理一下八月。...(繼續閱讀)</description>
+      <pubDate>Sat, 31 Aug 2019 13:54:04 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 睡不著覺只好吃藥。</title>
       <link>
@@ -86,17 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/43/0004260443.PNG"&gt;&lt;br&gt;大家好，好久沒更新了，來聊聊最近在做的事，以及2019的方向。想看重點的話，看分隔線下的【2019】即可。...(繼續閱讀)</description>
       <pubDate>Mon, 14 Jan 2019 10:30:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 2018年終筆記</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4240116</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004240116.PNG"&gt;&lt;br&gt;大家好，在下羅倫斯，年底了，來整理一下今年的所作所為吧。
-      這篇沒有新圖，主要是做些回顧，也想跟大家道個謝、聊聊近況。
-      想看總結的可以直接滑到最下面的「總結與感謝...(繼續閱讀)</description>
-      <pubDate>Thu, 27 Dec 2018 00:33:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
