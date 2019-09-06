@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 6 Sep 2019 09:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 7 Sep 2019 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 來的真是時候</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4520068</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004520068.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 6 Sep 2019 10:00:14 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 月底閒聊串 -- 遊戲分享與各種尷尬</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004272267.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 25 Jan 2019 15:19:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 少時不讀書，長大拖更新。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4260443</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/43/0004260443.PNG"&gt;&lt;br&gt;大家好，好久沒更新了，來聊聊最近在做的事，以及2019的方向。想看重點的話，看分隔線下的【2019】即可。...(繼續閱讀)</description>
-      <pubDate>Mon, 14 Jan 2019 10:30:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
