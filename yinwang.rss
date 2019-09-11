@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 10 Sep 2019 07:28:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Sep 2019 08:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[Talk is not cheap]]></title>
+            <description><![CDATA[有些人学会了一句口头禅，无论你表达什么观点，他们会拿出一副小学老师要检查作业的口气，说：“Talk is cheap. Show me the code!” “给我看看你做出了什么！”]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</guid>
+            <pubDate>Tue, 10 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[关于微内核的对话]]></title>
-            <description><![CDATA[不知怎么的，最近“微内核 vs 宏内核”又成了热门话题。这场争论从 1992 年开始……]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/08/19/microkernel</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/08/19/microkernel</guid>
             <pubDate>Sun, 18 Aug 2019 16:00:00 GMT</pubDate>
