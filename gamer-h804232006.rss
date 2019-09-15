@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 12 Sep 2019 11:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 13:25:36 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>買一本舔一次</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/26/0004504826.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 23 Aug 2019 06:14:42 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 珍惜食物</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4528727</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/27/0004528727.JPG?v=1568443700"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 14 Sep 2019 14:41:43 +0800</pubDate>
     </item>
     <item>
       <title>「創聚」應援圖！</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004473039.JPG"&gt;&lt;br&gt;感謝各位來展場的支持，圓滿結束！...(繼續閱讀)</description>
       <pubDate>Fri, 26 Jul 2019 06:43:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>【FF34】我的快樂日記－前導PV</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4470388</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/88/0004470388.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 23 Jul 2019 21:40:47 +0800</pubDate>
     </item>
   </channel>
 </rss>

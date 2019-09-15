@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 12 Sep 2019 11:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 15 Sep 2019 13:27:11 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>公告</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4527734</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0004527734.JPG"&gt;&lt;br&gt;弄分鏡，如圖，因為一些外在因素進度被拖到了（不是烤肉！），要追一下，停更一周。...(繼續閱讀)</description>
+      <pubDate>Fri, 13 Sep 2019 17:37:25 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 來的真是時候</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004449747.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 5 Jul 2019 13:24:40 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 練習與改名</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4272267</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004272267.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 25 Jan 2019 15:19:33 +0800</pubDate>
     </item>
   </channel>
 </rss>

@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 12 Sep 2019 03:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Sep 2019 05:27:48 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[机器与人类智能的差距]]></title>
+            <description><![CDATA[很多人以为“人工智能”就快实现了，是因为他们混淆了“识别”和“理解”。现在所谓的“人工智能”，离真正的智能差的实在太远。有多远呢？真正的工作几乎没有开始。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</guid>
+            <pubDate>Fri, 13 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Talk is not cheap]]></title>
-            <description><![CDATA[（本文描述的是我长久的经历中形成的看法，跟我现在身边的人和事没有直接联系，请勿对号入座。）]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</guid>
             <pubDate>Tue, 10 Sep 2019 16:00:00 GMT</pubDate>
