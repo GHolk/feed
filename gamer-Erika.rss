@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Sep 2019 13:26:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Sep 2019 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女9　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4530152</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/52/0004530152.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1568549479.A.BEB.html
+      何等天使啊啊啊啊啊...(繼續閱讀)</description>
+      <pubDate>Sun, 15 Sep 2019 20:10:33 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 小羽黑(はぐろ)　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4530136</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004530136.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1568548556.A.B02.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 15 Sep 2019 19:54:57 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園329~345　作者：ジングー</title>
       <link>
@@ -84,26 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004483739.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1564919844.A.6A9.html
       英文標題是預兆...(繼續閱讀)</description>
       <pubDate>Sun, 4 Aug 2019 19:56:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 曉的成長　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4483722</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004483722.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1564919130.A.4AD.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 4 Aug 2019 19:45:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐7(再復活　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4478147</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004478147.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/
-      的 AC_In/M.1564317170.A.759.html不死鳥復活!...(繼續閱讀)</description>
-      <pubDate>Tue, 30 Jul 2019 21:42:14 +0800</pubDate>
     </item>
   </channel>
 </rss>
