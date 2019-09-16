@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 15 Sep 2019 16:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Sep 2019 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：你的願景是什麼？
+        ]]></title>
+            <description><![CDATA[
+            當兵的後期，有一位和我很好的義務役也即將退伍，他在退伍的時候發表感謝內容表示：「特別感謝我給他的希望的感覺」，平常的時候我常會找他閒聊，也許是談話的內容讓他更具有信心，也讓他想要去追求屬於自己的夢想（印象中是機場塔台相關的工作）。現在想起，也許是那時比較天真吧，認為什麼事情拼一下就有機會了。
+天真的夢想與真誠的願景小時候各位應該都有自己的夢想，當超人、當總統、假面騎士、鋼彈駕駛員等等，但到了成年以
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/16/what-is-your-vision/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/16/what-is-your-vision/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Sun, 15 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon1.png?alt=media&amp;token=1b6f6d92-8c28-43d0-958c-71880973f832" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         自建 Name Server
@@ -175,27 +191,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             ]]></category>
             <pubDate>Thu, 08 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2025.png?alt=media&amp;token=9db583fd-1792-4a5f-8ebc-ec4548808117" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 實際透過工具測量用戶行為
-        ]]></title>
-            <description><![CDATA[
-            開發、設計時我們會盡可能站在用戶的導向做思考，當中也會腦補許多行為，如：
-
-字要小才會顯得精緻
-輪播 Banner 很吸睛，最新消息放在上面大家都會看
-說明要拆很多頁，用戶不喜歡同一頁滾太久
-
-相信以上範例在目前網頁已經少見很多，畢竟這些都是經過許多前人的研究調整而成。但身為設計師，多少都會想透過不同的視覺調整，嘗試是否能夠做出更好的使用者體驗，本篇就透過一些工具介紹，讓大家了解如何「觀察」使用者
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/08/funnel/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/08/funnel/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Wed, 07 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2F9B9A3F0A-A17C-444F-9547-67488753AF1A.png?alt=media&amp;token=dee5ee54-93f7-49d9-ac66-5ee0df5af0f4" length="0" type="image"/>
         </item>
     </channel>
 </rss>
