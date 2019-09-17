@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 16 Sep 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 Sep 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：從設計轉開發者的思維改變
+        ]]></title>
+            <description><![CDATA[
+            在學期間我的主力是「美術及平面設計」，從國中開始一直到研究所都是屬於相關領域，軟體開發是一個很大的轉變，這個轉變不僅影響我的生活更影響我的思維。也因為如此，我會向許多設計師推薦學習軟體開發，
+設計小時候很喜歡看動漫，也因此認為自己喜歡畫畫，家中也認為我應該對此是有興趣的（我也真切的這麼認為），後來從國中在美術才藝班（算補習班吧!?）> 復興商工美工科 > 台南大學美術系 > 高雄
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/17/design-to-developer/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/17/design-to-developer/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Mon, 16 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon2.png?alt=media&amp;token=404501a8-20e0-4b24-8117-fe171cc29e7f" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：你的願景是什麼？
@@ -175,22 +191,6 @@ Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作�
             ]]></category>
             <pubDate>Fri, 09 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2028.png?alt=media&amp;token=476af1dd-476d-411d-a1cc-2e3308a0db9c" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 設計師與開發者的溝通工具
-        ]]></title>
-            <description><![CDATA[
-            溝通非常重要，不好的溝通不只沒有效率，也會造成不同領域間的嫌隙。如同設計師跟業者索取素材資源時，業者提供的是低解析度的 word 檔案，也很難解釋什麼叫做更高解析度的圖片！設計師對上工程師也是相同道理，如果給予的是 .ai、.psd 檔案，工程師會難以從中獲得執行所需要的資訊（需要另外學習如何操作）。
-本篇就提供一些好用的工具，讓工程師與開發者可以了解設計師的規範，並且可以即時回饋讓設計師便於修改
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/09/communication-tools/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/09/communication-tools/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Thu, 08 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2025.png?alt=media&amp;token=9db583fd-1792-4a5f-8ebc-ec4548808117" length="0" type="image"/>
         </item>
     </channel>
 </rss>
