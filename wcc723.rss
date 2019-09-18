@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 17 Sep 2019 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 18 Sep 2019 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：初入程式語言，沒想到是 JavaScript 的親戚啊
+        ]]></title>
+            <description><![CDATA[
+            由於家境的關係，對於金錢一直都沒有安全感，雖然視覺設計、繪畫等等是興趣，但很清楚趨勢不是如此，研究所期間可感受到：「平面設計是夕陽產業，網頁等多媒體會是趨勢」。許多面向都証明如此，如果對金錢沒有安全感，就勢必需要做一些改變。
+當時，網路上很紅的技術是 Flash，臉書在台灣也才剛崛起，那時候大家最常玩的遊戲就是開心農場，開心農場就是 Flash 的遊戲之一。而 Flash 當時是搭配 Action
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/18/start-to-learn-program/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/18/start-to-learn-program/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Tue, 17 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon3.png?alt=media&amp;token=c30f9285-45d4-48e8-93bd-17311b2b1489" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：從設計轉開發者的思維改變
@@ -174,23 +190,6 @@
             ]]></category>
             <pubDate>Sat, 10 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2FCB8BF83B-70E7-4A31-9120-6F469CD28AD1.png?alt=media&amp;token=3746d8d6-95b2-43a1-a855-6f4fbac641b5" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 設計「參考」資源
-        ]]></title>
-            <description><![CDATA[
-            開始執行設計時，除了要明確了解目標外，另一重點則是需要大量的想法及設計參考，假設需要製作遊戲類型的網站，那麼就需要先了解該類型的風格、配色、變化性等等，缺少這些參考也會難以動手開工。本篇列出經常搜尋的網站，以及這些網站的特性和參考點。
-Behancehttps://www.behance.net/
-Adobe 旗下的作品張貼網站，相當中規中矩的呈現各設計師作品，上方也可以透過搜尋的方式找尋特定類別
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/10/design-reference/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/10/design-reference/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Fri, 09 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2028.png?alt=media&amp;token=476af1dd-476d-411d-a1cc-2e3308a0db9c" length="0" type="image"/>
         </item>
     </channel>
 </rss>
