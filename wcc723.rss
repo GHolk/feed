@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 18 Sep 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 19 Sep 2019 16:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：放棄十年本科經歷，投入網頁開發領域
+        ]]></title>
+            <description><![CDATA[
+            當完兵投入社會的時候，家裡也剛好出了些事情，心中最大的希望就是找份工作。當時，Flash 因為 iPhone 的出現而沒落，所以當下選擇可以是回到設計的本業、網頁設計師或者是繼續找 Flash 工作試試看（沒落，但它還是存在的）。
+而無論哪一種，其實我當下的選擇是 “看哪個薪水多，就選哪個！”；打開求職網站後「設計的工作基本上可以移除了」，普遍的薪資是低於網頁設計、Flash 的工作，所以就以網頁
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/19/became-a-webdesigner/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/19/became-a-webdesigner/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Wed, 18 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon4.png?alt=media&amp;token=3c7cb569-ddd0-47c1-a21f-98d648191704" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：初入程式語言，沒想到是 JavaScript 的親戚啊
@@ -173,23 +189,6 @@
             ]]></category>
             <pubDate>Sun, 11 Nov 2018 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2029.png?alt=media&amp;token=a2b25f8b-c048-4cc6-abae-289ea4dce061" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 設計「素材」資源
-        ]]></title>
-            <description><![CDATA[
-            做設計總少不了一些圖庫當資源，圖庫資源在網路上非常多，無論免費、付費都可以找到不少，但是設計師在執行時，通常只會挑用一些偏好使用的站點來運用，以下介紹我在開發時比較常利用的素材網站。
-素材也有區分類別，先前有介紹的網頁圖示、字體重複的部分就不再列出，本篇另外介紹點陣、向量、日文字體、短影片等幾個類別。
-點陣素材一直以來我都是以向量為主做設計、開發，點陣素材如果需要自己來就需要透過攝影，但這個領域已
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/11/design-material/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/11/design-material/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Sat, 10 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2FCB8BF83B-70E7-4A31-9120-6F469CD28AD1.png?alt=media&amp;token=3746d8d6-95b2-43a1-a855-6f4fbac641b5" length="0" type="image"/>
         </item>
     </channel>
 </rss>
