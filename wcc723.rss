@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 22 Sep 2019 02:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Sep 2019 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,63 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：充滿未來希望的成長公式
+        ]]></title>
+            <description><![CDATA[
+            當初花了大量的時間不斷充實自己能力，目的就是可以能拿到更好的收入，雖然薪資也如預期的不斷成長，但是心中還是有一個結沒有解開，以台灣來說，每個人退休所需要的資金約是兩千萬，在薪資成長的幅度下，就算不吃不喝達到目標還是非常的困難。
+主計處所提供的網站來說，研究所畢業生年收入在 100 萬也算是接近中位數，而 100 萬實際要存下來的錢並不多，以一般大部分人的年支出約落在六十萬的情況下，實際能存下的約四
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/22/hope/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/22/hope/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Sat, 21 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon7.png?alt=media&amp;token=29479fcb-476c-4cec-b65e-caac876e94a5" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：樂觀、悲觀 - 財務的思維改變
+        ]]></title>
+            <description><![CDATA[
+            出社會以前，因為對於市場的不理解，所以有許多「天真」的用詞，也因為這個天真過去還認為自己挺樂觀的，曾經認為窮人與富人差異沒有那麼大，許多故事都告訴我們窮人也能翻身。
+但出了社會才瞭解故事只是故事，那並非容易的事情。
+小故事：
+
+舉個例子，一個不靠家中努力向上的青年，每天早出晚歸，年收入約落在 120 萬的情況下，除了生活費、卡費、孝親費等每年亦能存下 60 萬（實際上收入越高，支出也會越高），後來
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/21/poverty/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/21/poverty/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Fri, 20 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon6.png?alt=media&amp;token=a1b6d8c3-011f-4f93-b90c-6f964349253c" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：改變思維的三個重要技能
+        ]]></title>
+            <description><![CDATA[
+            當掌握第二個技能以後，視野自然也會更為開闊，出社會陸續掌握的技能不少，雖不一定到精通，但有些技能帶給我許多思維上的衝擊，讓我不得不思考過去的觀念是否需要調整，也慢慢地了解到為什麼能力越強的人會更為謙卑。
+出社會後主要改變思維的三個技能為：
+
+程式
+理財
+行銷
+
+程式語言雖然在學生時代就開始慢慢接觸程式語言，但真正認識則是出社會以後，程式語言真正教給我的並不是單純一個技能，它同時能夠影響工作效率及思
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/20/three-skills/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/20/three-skills/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Thu, 19 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon5.png?alt=media&amp;token=64c3847d-6ddb-4a8e-8d61-b3cf3717f043" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：放棄十年本科經歷，投入網頁開發領域
@@ -140,55 +197,6 @@
             ]]></category>
             <pubDate>Wed, 20 Mar 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201903%2F7365504D-FC60-4AD2-8135-D870D42E75A2.png?alt=media&amp;token=0a518715-f7c0-4b41-9d4c-ab4d908c7855" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JavaScript This 系列文：this 與物件的關係
-        ]]></title>
-            <description><![CDATA[
-            本篇是接續先前的：鐵人賽：JavaScript 的 this 到底是誰？，會更深入的探討 JavaScript This 的運作及觀念，這一系列的文章順序上不會從基礎開始介紹，會建議先從先前文章開始閱讀。
-物件的方法調用 (As an object method)「物件的方法調用」是最常見改變 this 的方法，只要搞懂這一部份就能了解決大部分的 this 運作，大部分的文件介紹此部分說明為：在函
-        ]]></description>
-            <link>https://wcc723.github.io/javascript/2019/03/18/JS-THIS/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/javascript/2019/03/18/JS-THIS/</guid>
-            <category><![CDATA[
-            javascript
-            ]]></category>
-            <pubDate>Sun, 17 Mar 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201903%2F57A365E4-97F6-447F-81FD-64F14313628F.png?alt=media&amp;token=2a9e436b-3096-4f40-a337-7f37ce30a4e4" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 設計的過去、現在、未來
-        ]]></title>
-            <description><![CDATA[
-            「這張圖幫我美工一下」，讓工作中的設計師聽在耳裡非常的不爽，當下正想立即回嘴：「你才美工，你全家都美工！」才發現說話的是老闆。
-過去，許多設計師非常討厭這句話，「美工」原意應該為「美術工藝」的縮寫，在此用法則改為「美術工人」、「美術工作」之意，身為具有創意思維的設計師怎能接受這樣的說法。當然，隨著環境的變遷，會這樣說的老闆、同事也就越來越少，與其它領域合作時應互相尊重。
-你是美工嗎？「工人」指從事
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/13/ironman-final/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/13/ironman-final/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Mon, 12 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2030.png?alt=media&amp;token=367336b9-3e25-44a3-b649-24c23709e53c" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：網頁設計 - 平面設計師轉設計前端的經驗分享
-        ]]></title>
-            <description><![CDATA[
-            平面設計師轉設計前端的經驗分享一開始的文章有提到，我原本也是從事設計，出社會以後開始轉往開發者。學習到目前也能開發到後端（還不會提到是全端工程師，畢竟術業有專攻），學開發觀念與過去學習設計有非常大的差異，也會不斷地反思過去設計思維的價值。
-為何要從設計轉前端？原因很簡單，設計師的薪資普遍低於開發者。這也並非台灣特有現象，而是商業的上設計和開發本質就有很大的不同。設計主要的收入都是以專案為概念，雇主
-        ]]></description>
-            <link>https://wcc723.github.io/design/2018/11/12/design-to-developer/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/design/2018/11/12/design-to-developer/</guid>
-            <category><![CDATA[
-            design
-            ]]></category>
-            <pubDate>Sun, 11 Nov 2018 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201811%2Fholy%2029.png?alt=media&amp;token=a2b25f8b-c048-4cc6-abae-289ea4dce061" length="0" type="image"/>
         </item>
     </channel>
 </rss>
