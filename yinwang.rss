@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 25 Sep 2019 04:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Sep 2019 05:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,7 +20,7 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[机器与人类智能的差距]]></title>
+            <title><![CDATA[机器与人类视觉能力的差距]]></title>
             <description><![CDATA[（本文属于个人观点，跟本人在职公司的立场无关。）]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</guid>
