@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 28 Sep 2019 16:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 29 Sep 2019 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,22 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[机器与人类视觉能力的差距]]></title>
-            <description><![CDATA[（本文属于个人观点，跟本人在职公司的立场无关。）]]></description>
+            <title><![CDATA[机器与人类视觉能力的差距（3）]]></title>
+            <description><![CDATA[
+  本文属于个人观点，跟本人在职公司的立场无关。由于最近 GitHub 服务器在国内访问速度严重变慢，虽然经过大幅度压缩尺寸，文中的图片仍然可能需要比较长时间才能加载。这篇文章揭示了 AI 领域重要的谬误和不实宣传，为了阻止愚昧的蔓延，我鼓励大家转发这篇文章和它的后续，转发时只需要注明作者和出处就行。
+]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</guid>
+            <pubDate>Sun, 15 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（2）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/15/machine-vs-human-2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/15/machine-vs-human-2</guid>
+            <pubDate>Sat, 14 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（1）]]></title>
             <link>http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</guid>
             <pubDate>Fri, 13 Sep 2019 16:00:00 GMT</pubDate>

@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 29 Sep 2019 00:26:38 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 30 Sep 2019 00:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女10　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4544567</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004544567.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1569758504.A.0C7.html
+      甩水那格好可愛w...(繼續閱讀)</description>
+      <pubDate>Sun, 29 Sep 2019 20:01:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 幼稚園北狐 今年五歲歲19　作者：高橋哲哉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4544540</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004544540.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1569757676.A.474.html
+      咦原來之前沒畫過博士...(繼續閱讀)</description>
+      <pubDate>Sun, 29 Sep 2019 19:47:21 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園346~357　作者：ジングー</title>
       <link>
@@ -84,26 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004507572.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1566736172.A.3F0.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 25 Aug 2019 20:28:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園321~328　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4499767</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004499767.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1566132204.A.AF7.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 18 Aug 2019 20:42:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常10　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4491861</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/61/0004491861.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1565526260.A.837.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Aug 2019 20:21:58 +0800</pubDate>
     </item>
   </channel>
 </rss>
