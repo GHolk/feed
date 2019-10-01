@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 29 Sep 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Oct 2019 03:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,10 +20,16 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[机器与人类视觉能力的差距（3）]]></title>
+            <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
             <description><![CDATA[
-  本文属于个人观点，跟本人在职公司的立场无关。由于最近 GitHub 服务器在国内访问速度严重变慢，虽然经过大幅度压缩尺寸，文中的图片仍然可能需要比较长时间才能加载。这篇文章揭示了 AI 领域重要的谬误和不实宣传，为了阻止愚昧的蔓延，我鼓励大家转发这篇文章和它的后续，转发时只需要注明作者和出处就行。
+  我曾经对 Tesla 的 Autopilot 做过一些技术上，责任上的分析，可是我发现对于自动驾驶车的责任问题仍然缺乏一个完全使人信服的说法。最近思考很多机器视觉方面的问题，最终导致了这篇文章的产生。在这篇文章里，我试图使用逻辑和概率论来分析自动驾驶车的责任和风险问题。
 ]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</guid>
+            <pubDate>Sun, 29 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（3）]]></title>
             <link>http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</guid>
             <pubDate>Sun, 15 Sep 2019 16:00:00 GMT</pubDate>
