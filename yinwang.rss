@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 02 Oct 2019 06:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 03 Oct 2019 03:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
-            <description><![CDATA[我曾经对 Tesla 的 Autopilot 做过一些技术上，责任上的分析，可是我发现人们对于自动驾驶车的责任和风险问题，仍然缺乏一个精确的，使人信服的说法。最近思考很多机器视觉方面的问题，最终产生了这篇文章中的想法。在本文里，我试图使用逻辑和概率来分析自动驾驶车的责任和风险问题。虽然文中的数学不是那么的细节到位，但是你可以从中理解到分析这类问题的一种思路。]]></description>
+            <description><![CDATA[说到“自动驾驶”，人们最熟悉的名字恐怕是 Tesla 的 Elon Musk 先生了。他总是对 Tesla 的 Autopilot 进行各种夸大宣传，让人误解 Autopilot 的能力。Autopilot 引起车祸死了人之后，Musk 先生总是在网上发话扭曲人们的逻辑，抓住“车主没有及时接管”等各种借口，逃避对事故的责任。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</guid>
             <pubDate>Sun, 29 Sep 2019 16:00:00 GMT</pubDate>
