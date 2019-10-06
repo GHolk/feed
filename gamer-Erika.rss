@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 6 Oct 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 7 Oct 2019 00:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園358~369　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4551814</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004551814.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1570364527.A.DAB.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 6 Oct 2019 20:21:15 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女10　作者：わたあめ</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004515183.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1567338477.A.0A5.html
       買了PS4的碧藍航線(日版)...(繼續閱讀)</description>
       <pubDate>Sun, 1 Sep 2019 19:47:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 不小心放屁…(羽黑篇)　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4507572</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004507572.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1566736172.A.3F0.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 25 Aug 2019 20:28:59 +0800</pubDate>
     </item>
   </channel>
 </rss>
