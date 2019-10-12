@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 11 Oct 2019 03:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 12 Oct 2019 03:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[微博]]></title>
+            <description><![CDATA[经过一段时间的考虑和试用之后，我决定重新开始使用微博。这个博客仍然是主要的，但由于微博的形式更加灵活方便，会被用作发布比较短的想法的场所。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/10/11/weibo</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/11/weibo</guid>
+            <pubDate>Thu, 10 Oct 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
-            <description><![CDATA[说到“自动驾驶”，人们最熟悉的名字恐怕是 Tesla 的 Elon Musk 先生了。他总是对 Tesla 的 Autopilot 进行各种夸大宣传，让人误解 Autopilot 的能力。Autopilot 引起车祸死了人之后，Musk 先生总是在网上发话扭曲人们的逻辑，抓住“车主没有及时接管”等各种借口，逃避对事故的责任。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</guid>
             <pubDate>Sun, 29 Sep 2019 16:00:00 GMT</pubDate>
