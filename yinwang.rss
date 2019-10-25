@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 23 Oct 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Oct 2019 01:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[写在 1024 程序员节]]></title>
+            <description><![CDATA[1024 程序员节，又一个程序员猝死。中国 IT 行业似乎以 996 加班著称，可是据我了解这不只是 IT 行业的问题，国内的其它各个行业也差不多的情况。我不得不深思 996 现象的起源，因为我发现在不提倡 996 的公司也有人自己 996，甚至促使同事一起加班，而这些都不是领导位置的人物，没有领导要求他们这样做，甚至对此完全不知情。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/10/24/1024</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/24/1024</guid>
+            <pubDate>Wed, 23 Oct 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[免费食物不是好事]]></title>
-            <description><![CDATA[很多大互联网公司（Google，Facebook 之类的）都提供免费的三餐，饮料和零食。到后来很多创业公司也开始效仿，以至于“免费午餐”成了一种风气，到现在已经不是什么新鲜事了。“传统”一点的 IT 公司（微软，Intel 等）的某些员工也对此表示羡慕，希望自己的公司也有免费的三餐，饮料和零食。他们没有看明白，完全免费的食物可能并不是什么好事。这个看似简单的问题，我经历了很多年才看明白其中的奥妙。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/10/17/free-food</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/17/free-food</guid>
             <pubDate>Wed, 16 Oct 2019 16:00:00 GMT</pubDate>
