@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 27 Oct 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Oct 2019 00:26:39 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(插圖翻譯) 與奴隸的美食生活 -Teaching Eating- 再追加　作者：御城伸座</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4572989</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004572989.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1572155291.A.BC3.html
+      絕對不可能有人猜到這系列還會更新的!(✿ﾟ▽...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Oct 2019 13:47:55 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 奴隷との生活 四週年　作者：たかひこ part20</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4572980</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/80/0004572980.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1572154588.A.364.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Oct 2019 13:36:12 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 與拉菲的日常13　作者：U2</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004537418.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1569155378.A.A95.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 22 Sep 2019 20:29:08 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女9　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4530152</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/52/0004530152.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1568549479.A.BEB.html
-      何等天使啊啊啊啊啊...(繼續閱讀)</description>
-      <pubDate>Sun, 15 Sep 2019 20:10:33 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 小羽黑(はぐろ)　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4530136</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004530136.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1568548556.A.B02.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 15 Sep 2019 19:54:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
