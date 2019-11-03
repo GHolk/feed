@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 3 Nov 2019 00:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 4 Nov 2019 07:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女11　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4580716</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004580716.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1572780137.A.4D9.html
+      第二次翻到萬聖節才驚覺這系列也一年以上了(...(繼續閱讀)</description>
+      <pubDate>Sun, 3 Nov 2019 19:21:36 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園376~387　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4580699</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/99/0004580699.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1572779561.A.3BF.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 3 Nov 2019 19:12:09 +0800</pubDate>
+    </item>
     <item>
       <title>[手遊] 碧藍航線 全艦好感愛達成記錄</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004551814.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1570364527.A.DAB.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 6 Oct 2019 20:21:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女10　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4544567</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004544567.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1569758504.A.0C7.html
-      甩水那格好可愛w...(繼續閱讀)</description>
-      <pubDate>Sun, 29 Sep 2019 20:01:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 幼稚園北狐 今年五歲歲19　作者：高橋哲哉</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4544540</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004544540.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1569757676.A.474.html
-      咦原來之前沒畫過博士...(繼續閱讀)</description>
-      <pubDate>Sun, 29 Sep 2019 19:47:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
