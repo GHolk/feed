@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 4 Nov 2019 07:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 5 Nov 2019 00:27:54 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>大吃一斤基隆燒賣</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4581408</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;也太好吃了，又多買了二斤...(繼續閱讀)</description>
+      <pubDate>Mon, 4 Nov 2019 11:22:03 +0800</pubDate>
+    </item>
     <item>
       <title>基隆下午茶-2</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;享受人生...(繼續閱讀)</description>
       <pubDate>Sun, 11 Aug 2019 12:02:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>屏東市廣東路-來來牛排</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4491429</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Aug 2019 11:40:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
