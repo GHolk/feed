@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 6 Nov 2019 09:26:49 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 7 Nov 2019 00:26:46 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>七七乳加-黑糖珍奶可可球</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4583703</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;小七新產品，一包25元...(繼續閱讀)</description>
+      <pubDate>Wed, 6 Nov 2019 20:02:09 +0800</pubDate>
+    </item>
     <item>
       <title>基隆-Hama迴轉壽司</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 12 Aug 2019 03:01:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>人生勝利組的晚餐</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4491746</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Aug 2019 18:50:40 +0800</pubDate>
     </item>
   </channel>
 </rss>

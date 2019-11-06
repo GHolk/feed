@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Nov 2019 01:27:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Nov 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[永恒]]></title>
+            <description><![CDATA[在这个年代，我们经常使用“80后”，“90后”，“00后”这样的说法。也不知道是从什么时候开始的，总之我记得在我小的时候是没有这些说法的，所以你可以想象我的年龄有多大了。虽说如此，我从没觉得自己老，我也没希望自己年轻。因为对于我来说，年龄的概念是可以忽略的，人生的乐趣在于使用一生的时间让自己变得越来越好。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/11/05/timeless</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/11/05/timeless</guid>
+            <pubDate>Mon, 04 Nov 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[写在 1024 程序员节]]></title>
-            <description><![CDATA[1024 程序员节，又一个程序员猝死。中国 IT 行业似乎以 996 加班著称，可是据我了解这不只是 IT 行业的问题，国内的其它各个行业也差不多的情况。我不得不深思 996 现象的起源，因为我发现在不提倡 996 的公司也有人自己 996，甚至促使同事一起加班，而这些都不是领导位置的人物，没有领导要求他们这样做，甚至对此完全不知情。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/10/24/1024</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/24/1024</guid>
             <pubDate>Wed, 23 Oct 2019 16:00:00 GMT</pubDate>
