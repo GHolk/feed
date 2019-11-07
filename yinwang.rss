@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Nov 2019 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Nov 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[永恒]]></title>
-            <description><![CDATA[在这个年代，我们经常使用“80后”，“90后”，“00后”这样的说法。也不知道是从什么时候开始的，总之我记得在我小的时候是没有这些说法的，所以你可以想象我的年龄有多大了。虽说如此，我从没觉得自己老，我也没希望自己年轻。因为对于我来说，年龄的概念是可以忽略的，人生的乐趣在于使用一生的时间让自己变得越来越好。]]></description>
+            <description><![CDATA[这个年代的人们经常使用“80后”，“90后”，“00后”这样的说法。也不知道这是从什么时候开始的，总之我记得在我小的时候是没有这些说法的，所以你可以想象我的年龄有多大了。虽说如此，我没有觉得自己老，也没希望自己年轻。因为对于我来说，年龄并不是那么让我紧张的事情。时间和经验让我懂得自己想要什么，让我积累自身的价值。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/11/05/timeless</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/11/05/timeless</guid>
             <pubDate>Mon, 04 Nov 2019 16:00:00 GMT</pubDate>
