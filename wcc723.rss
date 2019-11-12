@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 11 Nov 2019 02:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2019 11:27:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,58 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        鐵人賽：獲利優先，將你的資金塊狀化
+        ]]></title>
+            <description><![CDATA[
+            獲利優先的概念是來自於這本書：https://www.books.com.tw/products/0010794087
+此書是在介紹公司的資金管理方式，大多數新創公司管理人，容易在資金上升後喪失對金錢的敏感度，導致支出費用過高，收入不敷支出使用而使公司倒閉，這個狀況不僅會出現在公司上，家庭中大數目的資金運用時都很容易忽略掉細節。
+這會導致：
+
+跳巢加薪才 3000 ，下個月就多花 6000
+高金額
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/27/block-your-money/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/27/block-your-money/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Thu, 26 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon12.png?alt=media&amp;token=802d34b9-50fc-43f8-ae4e-76fbc946614a" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：有土斯有財？還是緊握著負債
+        ]]></title>
+            <description><![CDATA[
+            傳統觀念中有土斯有財，不斷的鼓勵大家去擁有自己的土地、住宅，出社會後也會有許多長輩洗腦「該擁有屬於自己的房子」。但在臺北這樣高房價的地區，許多人買了第一間房後就長期背著負債，「窮爸爸、富爸爸」一書中提到「自用住宅即是負債」，雖然房子也是資產的一種，但資產是可以脫手轉為現金的，第一間房是否可以轉為現金呢？還是在房貸的壓力下產生難以轉移的問題。
+開始工作幾年以後，到許多同輩開始擁有屬於自己房子，有些人
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/26/buy-a-house/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/26/buy-a-house/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Wed, 25 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon11.png?alt=media&amp;token=072197fd-2842-452a-adcc-be97c78dc9ed" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        鐵人賽：超簡易記帳 - 輕鬆規劃你的理財目標
+        ]]></title>
+            <description><![CDATA[
+            前一篇介紹到退休所需要的資金是兩千萬，雖然這是大部分 “投資廣告” 所提出的金額，但這個金額確切是如何計算出來的呢？這個金額與每個人的花費習慣有很大的關係，兩千萬則是大部分人計算出來的結果，大家也可以用以下方法試著估算一下自己的每月花費，再用每月花費來估算 “年花費”。
+目前大部分人類都可以活到 9x 歲來說，從 60 歲退休到 9x 約有 30 年時間，年花費 * 30 就是退休所需的基本金額。
+        ]]></description>
+            <link>https://wcc723.github.io/ironman/2019/09/25/how-to-accounting/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/25/how-to-accounting/</guid>
+            <category><![CDATA[
+            ironman
+            ]]></category>
+            <pubDate>Tue, 24 Sep 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon10.png?alt=media&amp;token=38d54af6-ffc8-4549-9329-22cb728aafd8" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：iPhone 11 Pro Max 心得文
@@ -146,60 +198,6 @@
             ]]></category>
             <pubDate>Tue, 17 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon3.png?alt=media&amp;token=c30f9285-45d4-48e8-93bd-17311b2b1489" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：從設計轉開發者的思維改變
-        ]]></title>
-            <description><![CDATA[
-            在學期間我的主力是「美術及平面設計」，從國中開始一直到研究所都是屬於相關領域，軟體開發是一個很大的轉變，這個轉變不僅影響我的生活更影響我的思維。也因為如此，我會向許多設計師推薦學習軟體開發，
-設計小時候很喜歡看動漫，也因此認為自己喜歡畫畫，家中也認為我應該對此是有興趣的（我也真切的這麼認為），後來從國中在美術才藝班（算補習班吧!?）> 復興商工美工科 > 台南大學美術系 > 高雄
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/17/design-to-developer/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/17/design-to-developer/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Mon, 16 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon2.png?alt=media&amp;token=404501a8-20e0-4b24-8117-fe171cc29e7f" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：你的願景是什麼？
-        ]]></title>
-            <description><![CDATA[
-            當兵的後期，有一位和我很好的義務役也即將退伍，他在退伍的時候發表感謝內容表示：「特別感謝我給他的希望的感覺」，平常的時候我常會找他閒聊，也許是談話的內容讓他更具有信心，也讓他想要去追求屬於自己的夢想（印象中是機場塔台相關的工作）。現在想起，也許是那時比較天真吧，認為什麼事情拼一下就有機會了。
-天真的夢想與真誠的願景小時候各位應該都有自己的夢想，當超人、當總統、假面騎士、鋼彈駕駛員等等，但到了成年以
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/16/what-is-your-vision/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/16/what-is-your-vision/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Sun, 15 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon1.png?alt=media&amp;token=1b6f6d92-8c28-43d0-958c-71880973f832" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        自建 Name Server
-        ]]></title>
-            <description><![CDATA[
-            本篇教學是延續「大神來六角」的 “網址管理與 DNS 託管全攻略”，目的是讓參與的學員更了解 DNS 在轉址的過程觀念。
-對於 Name Serve 的概念可以參考 AWS 提供的架構圖：
-
-擁有一個網域後，只要網域的供應商可以設定 NS Record，都可以用來自行建立 Name Server，並且可以自行代管該網域下的所有子網域。
-
-本篇中的環境在教學結束後被釋放，所以無法再次連接。
-
-參考文
-        ]]></description>
-            <link>https://wcc723.github.io/dns/2019/04/25/custom_name_server/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/dns/2019/04/25/custom_name_server/</guid>
-            <category><![CDATA[
-            dns
-            ]]></category>
-            <pubDate>Wed, 24 Apr 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201904%2FArtboard%20Copy%206.png?alt=media&amp;token=c5d8c7a1-b5d4-459a-b3b1-958a16d16359" length="0" type="image"/>
         </item>
     </channel>
 </rss>
