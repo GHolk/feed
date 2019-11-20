@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 20 Nov 2019 10:25:38 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 21 Nov 2019 00:25:34 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【2019 夏季新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004547716.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 2 Oct 2019 18:24:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>【高雄，我們來了！】</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4597518</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004597518.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 20 Nov 2019 16:00:55 +0800</pubDate>
     </item>
     <item>
       <title>神奇的飛機杯精靈！？</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004509170.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 27 Aug 2019 04:16:16 +0800</pubDate>
-    </item>
-    <item>
-      <title>買一本舔一次</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4504826</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/26/0004504826.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 23 Aug 2019 06:14:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
