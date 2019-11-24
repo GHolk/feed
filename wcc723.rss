@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Nov 2019 16:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 24 Nov 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        十分鐘快速掌握 Markdown
+        ]]></title>
+            <description><![CDATA[
+            Markdown 是目前非常普遍用來撰寫文檔的語言，一開始的目標就是使用「易讀易寫的純文字格式編寫文件」，此初衷讓使用者可以專注在文字的本身，而不需要透過其它工具來切換格式。以 Word 撰寫文檔來說，就必須透過上方的工具列來切換標題、列表、粗體、斜體等等；而 Markdown 並沒有這樣的工具列，完全都是使用標示符號來完成這些需求。
+
+常見應用大部分情況下 Markdown 是用來撰寫程式語言相
+        ]]></description>
+            <link>https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Fri, 22 Nov 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201911%2Fmarkdown.png?alt=media&amp;token=845799e3-46dd-47ce-8a49-aab12e5c4160" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         鐵人賽：獲利優先，將你的資金塊狀化
@@ -182,22 +199,6 @@
             ]]></category>
             <pubDate>Wed, 18 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon4.png?alt=media&amp;token=3c7cb569-ddd0-47c1-a21f-98d648191704" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：初入程式語言，沒想到是 JavaScript 的親戚啊
-        ]]></title>
-            <description><![CDATA[
-            由於家境的關係，對於金錢一直都沒有安全感，雖然視覺設計、繪畫等等是興趣，但很清楚趨勢不是如此，研究所期間可感受到：「平面設計是夕陽產業，網頁等多媒體會是趨勢」。許多面向都証明如此，如果對金錢沒有安全感，就勢必需要做一些改變。
-當時，網路上很紅的技術是 Flash，臉書在台灣也才剛崛起，那時候大家最常玩的遊戲就是開心農場，開心農場就是 Flash 的遊戲之一。而 Flash 當時是搭配 Action
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/18/start-to-learn-program/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/18/start-to-learn-program/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Tue, 17 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon3.png?alt=media&amp;token=c30f9285-45d4-48e8-93bd-17311b2b1489" length="0" type="image"/>
         </item>
     </channel>
 </rss>
