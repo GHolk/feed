@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 1 Dec 2019 00:27:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 2 Dec 2019 11:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 枕營業的偶像　作者：みにまる</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4608506</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/06/0004608506.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1575197793.A.764.html
+      不是...這怎麼跟我想的不一樣......(繼續閱讀)</description>
+      <pubDate>Sun, 1 Dec 2019 18:55:57 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 與拉菲的日常15　作者：U2</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004572989.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1572155291.A.BC3.html
       絕對不可能有人猜到這系列還會更新的!(✿ﾟ▽...(繼續閱讀)</description>
       <pubDate>Sun, 27 Oct 2019 13:47:55 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活 四週年　作者：たかひこ part20</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4572980</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/80/0004572980.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1572154588.A.364.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 27 Oct 2019 13:36:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
