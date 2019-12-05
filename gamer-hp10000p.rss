@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 5 Dec 2019 00:25:16 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 6 Dec 2019 00:25:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>彩虹的顏色</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4612399</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/99/0004612399.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 5 Dec 2019 19:57:28 +0800</pubDate>
+    </item>
     <item>
       <title>照燒貓合圖</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/91/0004189691.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 9 Nov 2018 20:43:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>長生劫-華容道</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4181981</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/81/0004181981.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 2 Nov 2018 18:14:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
