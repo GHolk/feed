@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 8 Dec 2019 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 9 Dec 2019 09:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女12　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4615322</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004615322.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1575806608.A.3C0.html
+      需要毛絨絨取暖的狀態...(繼續閱讀)</description>
+      <pubDate>Sun, 8 Dec 2019 20:02:52 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 幼稚園北狐 今年五歲歲20　作者：高橋哲哉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4615305</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/05/0004615305.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1575806020.A.673.html
+      冷到手快罷工...(繼續閱讀)</description>
+      <pubDate>Sun, 8 Dec 2019 19:53:06 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 枕營業的偶像　作者：みにまる</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/99/0004580699.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1572779561.A.3BF.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 3 Nov 2019 19:12:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>[手遊] 碧藍航線 全艦好感愛達成記錄</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4576136</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004576136.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1572419107.A.850.html
-      ...(繼續閱讀)</description>
-      <pubDate>Wed, 30 Oct 2019 15:04:42 +0800</pubDate>
-    </item>
-    <item>
-      <title>(插圖翻譯) 與奴隸的美食生活 -Teaching Eating- 再追加　作者：御城伸座</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4572989</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004572989.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1572155291.A.BC3.html
-      絕對不可能有人猜到這系列還會更新的!(✿ﾟ▽...(繼續閱讀)</description>
-      <pubDate>Sun, 27 Oct 2019 13:47:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
