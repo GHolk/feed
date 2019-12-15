@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 15 Dec 2019 06:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Dec 2019 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[自动化服务的误区]]></title>
+            <description><![CDATA[说到当今的创业方向，很多人会有利用技术让某些事情“自动化”的想法。我承认其中某些做法是有好处的，但也需要认识到，并不是所有的场景顾客都会认可自动化。商家不可以把自动化服务强加在顾客身上，否则就可能输给人工服务的竞争者。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/12/15/automation</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/15/automation</guid>
+            <pubDate>Sat, 14 Dec 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[永恒]]></title>
-            <description><![CDATA[这个年代的人们经常使用“80后”，“90后”，“00后”这样的说法。也不知道这是从什么时候开始的，总之我记得在我小的时候是没有这些说法的，所以你可以想象我的年龄有多大了。虽说如此，我没有觉得自己老，也没希望自己年轻。因为对于我来说，年龄并不是那么让我紧张的事情。时间和经验让我懂得自己想要什么，让我积累自身的价值。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/11/05/timeless</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/11/05/timeless</guid>
             <pubDate>Mon, 04 Nov 2019 16:00:00 GMT</pubDate>
