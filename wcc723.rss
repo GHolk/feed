@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 21 Dec 2019 16:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Dec 2019 16:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        CSS 技巧：精簡語法操作暗色主題 - CSS Dark Mode
+        ]]></title>
+            <description><![CDATA[
+            Mac 暗色主題推出後，就讓黑色控非常喜愛，而且這樣的暗色佈景使用起來更不傷眼。以我來說是比較喜歡在亮色的佈景下工作的，但暗主題的對於長期需要在電腦面前工作來說，真的相對輕鬆很多。雖然如此，也並非所有的介面都是有提供暗主題，以網頁來說就需要開發者另外定義暗主題才會進行切換（不使用任何瀏覽器插件的情況下）。
+好在，暗色主題的語法相當容易，以下介紹如何作切換，並且會提供一個小技巧，只要透過短短的幾行就
+        ]]></description>
+            <link>https://wcc723.github.io/css/2019/12/22/css-dark-mode/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/css/2019/12/22/css-dark-mode/</guid>
+            <category><![CDATA[
+            css
+            ]]></category>
+            <pubDate>Sat, 21 Dec 2019 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201912%2Fcss-dark-mode.png?alt=media&amp;token=21ebdd56-5e42-4e4f-ab8d-c63e35d29637" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         一分鐘切換成中文版 VSCode（完整圖文版）
@@ -178,28 +194,6 @@
             ]]></category>
             <pubDate>Fri, 20 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon6.png?alt=media&amp;token=a1b6d8c3-011f-4f93-b90c-6f964349253c" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：改變思維的三個重要技能
-        ]]></title>
-            <description><![CDATA[
-            當掌握第二個技能以後，視野自然也會更為開闊，出社會陸續掌握的技能不少，雖不一定到精通，但有些技能帶給我許多思維上的衝擊，讓我不得不思考過去的觀念是否需要調整，也慢慢地了解到為什麼能力越強的人會更為謙卑。
-出社會後主要改變思維的三個技能為：
-
-程式
-理財
-行銷
-
-程式語言雖然在學生時代就開始慢慢接觸程式語言，但真正認識則是出社會以後，程式語言真正教給我的並不是單純一個技能，它同時能夠影響工作效率及思
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/20/three-skills/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/20/three-skills/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Thu, 19 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon5.png?alt=media&amp;token=64c3847d-6ddb-4a8e-8d61-b3cf3717f043" length="0" type="image"/>
         </item>
     </channel>
 </rss>
