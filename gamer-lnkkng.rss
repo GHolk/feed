@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 23 Dec 2019 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Dec 2019 12:27:06 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 作者與讀者</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4630040</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004630040.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Mon, 23 Dec 2019 12:15:52 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【鬼滅】義忍四頁漫</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004520068.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 6 Sep 2019 10:00:14 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 月底閒聊串 -- 遊戲分享與各種尷尬</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4513655</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/55/0004513655.JPG"&gt;&lt;br&gt;閒聊文，剛好是8/31，來整理一下八月。...(繼續閱讀)</description>
-      <pubDate>Sat, 31 Aug 2019 13:54:04 +0800</pubDate>
     </item>
   </channel>
 </rss>
