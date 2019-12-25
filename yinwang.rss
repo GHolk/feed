@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 24 Dec 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Dec 2019 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[警惕“编译器人”和“函数式程序员”]]></title>
-            <description><![CDATA[工作多年以来，我都深刻的体会到一个规律，那就是做过编译器工作的人，似乎很容易产生高人一等的心理，以至于在与人合作中出现各种问题。由于他们往往也存在偏执心理和理想主义，所以在恶化人际关系的同时，也可能设计出非常不合理的软件构架，浪费大量的人力物力。]]></description>
+            <title><![CDATA[我不是编译器专家]]></title>
+            <description><![CDATA[工作多年以来，我深刻体会到一个现象，那就是做过“编译器”工作的人，哪怕只做了点皮毛，都容易产生高人一等的心理，以至于在与人合作中出现各种问题。由于他们往往也存在偏执心理和理想主义，所以在恶化人际关系的同时，也可能设计出非常不合理的软件构架，浪费大量的人力物力。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/12/24/compilers</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/24/compilers</guid>
             <pubDate>Mon, 23 Dec 2019 16:00:00 GMT</pubDate>
