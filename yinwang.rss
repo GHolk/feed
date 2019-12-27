@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 25 Dec 2019 16:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 27 Dec 2019 13:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[所谓“成功”]]></title>
+            <description><![CDATA[多次有人因为看不惯网络上一些人对我的嘲讽，给我类似这样的建议：“先干掉那些创始人已经老了的传统互联网企业，作为一个成功者之后，再到网上随便发个文章，他们都会阿谀奉承。而且在很多时候，想让那些人听自己的话，根本就是不可能的。只有做出成果，大杀四方的时候，他们才会臣服。”]]></description>
+            <link>http://www.yinwang.org/blog-cn/2019/12/26/success</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/26/success</guid>
+            <pubDate>Wed, 25 Dec 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[我不是编译器专家]]></title>
-            <description><![CDATA[工作多年以来，我深刻体会到一个现象，那就是做过“编译器”工作的人，哪怕只做了点皮毛，都容易产生高人一等的心理，以至于在与人合作中出现各种问题。由于他们往往也存在偏执心理和理想主义，所以在恶化人际关系的同时，也可能设计出非常不合理的软件构架，浪费大量的人力物力。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/12/24/compilers</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/24/compilers</guid>
             <pubDate>Mon, 23 Dec 2019 16:00:00 GMT</pubDate>
