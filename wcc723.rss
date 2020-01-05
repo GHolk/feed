@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 04 Jan 2020 21:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Jan 2020 16:27:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        前端開發者，圖片常犯的五個粗心錯誤
+        ]]></title>
+            <description><![CDATA[
+            前端開發者是透過程式碼將資訊呈現成畫面，因此畫面的好壞也多少影響品質，在觀看許多履歷或作業的過程中，會發現許多相似的錯誤，而這些錯誤都是有跡可循，並且可以避免的；本篇先以常見的圖片問題與大家分享，看是否你也犯了這些錯誤呢？
+一、圖片變形新手錯誤率：⭐⭐⭐⭐令人感受的粗心度：👎👎👎👎
+圖片變形是最明顯的錯誤，大部分的使用者都能看到這樣的問題，而這些問題會讓人感受到開發者的不細心。
+要避免圖片
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/01/04/image-common-mistakes/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/01/04/image-common-mistakes/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Fri, 03 Jan 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202001%2Fimg-mistake.png?alt=media&amp;token=860cf55e-b433-44a0-925b-07849ad65d5f" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         CSS 技巧：精簡語法操作暗色主題 - CSS Dark Mode
@@ -175,25 +193,6 @@
             ]]></category>
             <pubDate>Sat, 21 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon7.png?alt=media&amp;token=29479fcb-476c-4cec-b65e-caac876e94a5" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：樂觀、悲觀 - 財務的思維改變
-        ]]></title>
-            <description><![CDATA[
-            出社會以前，因為對於市場的不理解，所以有許多「天真」的用詞，也因為這個天真過去還認為自己挺樂觀的，曾經認為窮人與富人差異沒有那麼大，許多故事都告訴我們窮人也能翻身。
-但出了社會才瞭解故事只是故事，那並非容易的事情。
-小故事：
-
-舉個例子，一個不靠家中努力向上的青年，每天早出晚歸，年收入約落在 120 萬的情況下，除了生活費、卡費、孝親費等每年亦能存下 60 萬（實際上收入越高，支出也會越高），後來
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/21/poverty/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/21/poverty/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Fri, 20 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon6.png?alt=media&amp;token=a1b6d8c3-011f-4f93-b90c-6f964349253c" length="0" type="image"/>
         </item>
     </channel>
 </rss>
