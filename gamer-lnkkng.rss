@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 14:27:06 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 褲落魔法使</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4650140</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004650140.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 11 Jan 2020 09:31:41 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 作者與讀者</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/34/0004527734.JPG"&gt;&lt;br&gt;弄分鏡，如圖，因為一些外在因素進度被拖到了（不是烤肉！），要追一下，停更一周。...(繼續閱讀)</description>
       <pubDate>Fri, 13 Sep 2019 17:37:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 來的真是時候</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4520068</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004520068.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 6 Sep 2019 10:00:14 +0800</pubDate>
     </item>
   </channel>
 </rss>

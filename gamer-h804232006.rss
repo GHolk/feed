@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 10 Jan 2020 00:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 11 Jan 2020 14:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【2019 夏季新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004547716.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 2 Oct 2019 18:24:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>三寶</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4649803</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/03/0004649803.JPG?v=1578680295"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 10 Jan 2020 23:24:21 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 2020 新年快樂！</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/27/0004528727.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sat, 14 Sep 2019 14:41:43 +0800</pubDate>
-    </item>
-    <item>
-      <title>「創聚」應援圖！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4525702</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004525702.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 11 Sep 2019 19:20:38 +0800</pubDate>
     </item>
   </channel>
 </rss>
