@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 14 Jan 2020 04:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 14 Jan 2020 16:27:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[未来的事业]]></title>
+            <description><![CDATA[这几年不断有人问我，既然在每家公司都待的不开心，为什么不创业呢？“创业”，似乎是最近最常听到的词汇。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/01/15/future</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/15/future</guid>
+            <pubDate>Tue, 14 Jan 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[2020新年寄语]]></title>
-            <description><![CDATA[2019 就要过去。回想这么多年的经历，从 2009 年去 Google ，一晃竟然已经十年之久！IU，Google，Coverity，Shape Security，微软，Intel…… 居然十年了。]]></description>
             <link>http://www.yinwang.org/blog-cn/2019/12/31/2020-new-year</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/31/2020-new-year</guid>
             <pubDate>Mon, 30 Dec 2019 16:00:00 GMT</pubDate>
