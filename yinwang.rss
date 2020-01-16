@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 15 Jan 2020 22:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jan 2020 16:27:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[我的事业计划]]></title>
+            <description><![CDATA[在上一篇文章提到“创业”之后，很多人联系我，说想加入我的创业计划，有些人还提出了自己的创业想法和方向。我很感谢大家的支持，不过我可能要让很多人失望了，因为我的事业跟现在铺天盖地的所谓“创业”是很不一样的。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/01/16/plan</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/16/plan</guid>
+            <pubDate>Wed, 15 Jan 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[未来的事业]]></title>
-            <description><![CDATA[这几年不断有人问我，既然在每家公司都待的不开心，为什么不创业呢？“创业”，似乎是最近最常听到的词汇。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/01/15/future</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/15/future</guid>
             <pubDate>Tue, 14 Jan 2020 16:00:00 GMT</pubDate>
@@ -61,6 +67,12 @@
             <link>http://www.yinwang.org/blog-cn/2019/11/05/timeless</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/11/05/timeless</guid>
             <pubDate>Mon, 04 Nov 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[写在 1024 程序员节]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/10/24/1024</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/24/1024</guid>
+            <pubDate>Wed, 23 Oct 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[免费食物不是好事]]></title>
