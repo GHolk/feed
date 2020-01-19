@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 19 Jan 2020 10:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jan 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 第一次交往的男女朋友2　作者：Byte</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4658320</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/20/0004658320.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1579431342.A.524.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 19 Jan 2020 18:54:56 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女14　作者：わたあめ</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004622072.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1576405374.A.941.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 15 Dec 2019 18:22:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女12　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4615322</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004615322.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1575806608.A.3C0.html
-      需要毛絨絨取暖的狀態...(繼續閱讀)</description>
-      <pubDate>Sun, 8 Dec 2019 20:02:52 +0800</pubDate>
     </item>
   </channel>
 </rss>
