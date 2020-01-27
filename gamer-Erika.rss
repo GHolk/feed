@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 22 Jan 2020 11:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jan 2020 16:27:58 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官20　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4665196</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/96/0004665196.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1580036368.A.850.html
+      新年快樂~(第二次)...(繼續閱讀)</description>
+      <pubDate>Sun, 26 Jan 2020 18:58:50 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 第一次交往的男女朋友2　作者：Byte</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/79/0004622079.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1576405995.A.81D.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 15 Dec 2019 18:32:50 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 與拉菲的日常16　作者：U2</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4622072</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004622072.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1576405374.A.941.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 15 Dec 2019 18:22:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
