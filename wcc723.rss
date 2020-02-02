@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 31 Jan 2020 16:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 02 Feb 2020 03:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        十分鐘上手前端單元測試 - 使用 Jest
+        ]]></title>
+            <description><![CDATA[
+            隨著應用程式越來越大，人工流程的測試也會耗去許多的時間，許多功能再開發後都必須重新進行點擊特定目標、撰寫複雜表單、送出來檢驗功能的正確性，當功能越來越複雜時，人工測試所花的時間也會越來越常，因此改用測試工具相對會節省去許多時間。尤其到了上線時才發現錯誤，那時候心中真的會吶喊 No、No、No～。
+前端的測試常見的有兩大類別：
+
+Unit Test：中文稱為單元測試，是以 function 作為單位
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/02/02/jest-intro/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/02/02/jest-intro/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 01 Feb 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-jest.png?alt=media&amp;token=1809e129-03de-4f61-9a13-f8753ddf1786" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         前端開發者，圖片常犯的五個粗心錯誤
@@ -177,22 +195,6 @@
             ]]></category>
             <pubDate>Sun, 22 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon8.png?alt=media&amp;token=2d43e15d-1208-4559-a0ad-5607f3c71b5f" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：充滿未來希望的成長公式
-        ]]></title>
-            <description><![CDATA[
-            當初花了大量的時間不斷充實自己能力，目的就是可以能拿到更好的收入，雖然薪資也如預期的不斷成長，但是心中還是有一個結沒有解開，以台灣來說，每個人退休所需要的資金約是兩千萬，在薪資成長的幅度下，就算不吃不喝達到目標還是非常的困難。
-主計處所提供的網站來說，研究所畢業生年收入在 100 萬也算是接近中位數，而 100 萬實際要存下來的錢並不多，以一般大部分人的年支出約落在六十萬的情況下，實際能存下的約四
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/22/hope/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/22/hope/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Sat, 21 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon7.png?alt=media&amp;token=29479fcb-476c-4cec-b65e-caac876e94a5" length="0" type="image"/>
         </item>
     </channel>
 </rss>
