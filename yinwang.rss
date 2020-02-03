@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 03 Feb 2020 04:27:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Feb 2020 23:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[知识的价值]]></title>
+            <description><![CDATA[这段时间开始顾问服务以来，收到了挺多人的申请。大部分申请者长期以来从我的博客获益，都是诚心求教，但有少数人因为观念和态度问题而被拒绝。综合他们的情况，我发现这些人有一种共通的错误思想，那就是认为知识应该免费，甚至认为我收费有错。还有一些人来信说：“我当然希望不收费，如果我认为有收获才付费。” 还有人说：“我认为不应该强制收费，而应该是捐赠。”]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/02/03/knowledge-value</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/03/knowledge-value</guid>
+            <pubDate>Sun, 02 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[顾问服务试运营方案]]></title>
-            <description><![CDATA[我的初期计划是做一个大众的顾问。这相当于我在各大公司起到的指导作用，只不过现在是面向大众，而不是专属于团队里的人员。我在公司里的时候，困住很多人的问题都可以在短时间内得到我的指点，以继续他们的下一步工作，所以这种顾问服务似乎是一个好的出发点。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/01/17/advising</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/17/advising</guid>
             <pubDate>Thu, 16 Jan 2020 16:00:00 GMT</pubDate>
