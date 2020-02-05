@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 04 Feb 2020 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Feb 2020 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[如何阅读别人的代码]]></title>
+            <description><![CDATA[挺多人问过我“如何阅读已有代码”这个问题，希望我能有一个好的方法。有些人希望通过阅读“优质项目”（比如 Linux 内核）得到启发，改进自己的代码质量。对于这个问题，我一般都不好回答，因为我很少从阅读别人的代码得到提升。每一次阅读别人的代码，对我来说都是一种折磨，而且每一次都不是别人的代码提升了我，而是我提升了别人的代码。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</guid>
+            <pubDate>Tue, 04 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[知识的价值]]></title>
-            <description><![CDATA[这段时间开始顾问服务以来，收到了挺多人的申请。大部分申请者长期以来从我的博客获益，都是诚心求教，但有少数人因为观念和态度问题而被拒绝。综合这些被拒绝的人的情况，我发现他们有一种共通的错误思想，那就是认为知识应该免费，教育应该“大公无私”，甚至认为我收费有错。还有一些人来信说：“我当然希望不收费，如果我认为有收获才付费。” 或者：“我认为不应该强制收费，而应该是依靠捐赠。”]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/02/03/knowledge-value</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/03/knowledge-value</guid>
             <pubDate>Sun, 02 Feb 2020 16:00:00 GMT</pubDate>
