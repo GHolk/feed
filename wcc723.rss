@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 09 Feb 2020 05:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Feb 2020 16:27:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        單元測試 - 非同步及 Ajax
+        ]]></title>
+            <description><![CDATA[
+            本篇延續上一篇：十分鐘上手前端單元測試 - 使用 Jest
+JavaScript 是屬於同步，單執行緒的程式語言，因此當有非同步的事件時就會被往放到事件佇列，直到所有程式碼運行過後才會執行事件佇列內的程式，如果不熟悉這段觀念就會使程式的運行不符合預期，相關概念可以看此文章一次只能做一件事情的 JavaScript。
+另外，現在的非同步大多都使用 Promise 來撰寫，包含 ES6 的 Fetch
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/02/09/jest-async/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/02/09/jest-async/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 08 Feb 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-jest-async.png?alt=media&amp;token=93d54d69-2808-4f8a-91df-c84dd2f9629a" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         十分鐘上手前端單元測試 - 使用 Jest
@@ -174,27 +191,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Mon, 23 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon9.png?alt=media&amp;token=3df76050-bbdb-41e6-8235-8db6e9e983bb" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：從哪邊學習投資？
-        ]]></title>
-            <description><![CDATA[
-            在開始學習投資以前，我心裡是牴觸的，主要原因是不了解，認為這是高度風險的財富管理方式。身邊也有許多人對於投資不熟也會有這樣的疑惑：
-
-聽說買股票的人都賠錢誒 > 如果都賠錢怎麼會那麼多人投入
-是不是要很多錢才能開始學投資啊 > 是投資才有錢，不是有錢才投資
-那是內線的人玩的，我們這種局外人玩不起 > 真正好的股票不是少數人決定的
-
-這些疑惑其實是來自於自身恐懼心理造成的，各種優點
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/23/where-to-learn/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/23/where-to-learn/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Sun, 22 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon8.png?alt=media&amp;token=2d43e15d-1208-4559-a0ad-5607f3c71b5f" length="0" type="image"/>
         </item>
     </channel>
 </rss>

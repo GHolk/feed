@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 9 Feb 2020 13:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 10 Feb 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園450~459　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4679483</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004679483.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1581244925.A.7C3.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 9 Feb 2020 18:41:34 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官21　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4679472</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004679472.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1581244250.A.DB5.html
+      加賀城XD...(繼續閱讀)</description>
+      <pubDate>Sun, 9 Feb 2020 18:30:23 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 奴隷との生活　作者：捨駒 part10</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/56/0004636756.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1577611934.A.38B.html
       要抱回家的多一隻了...(繼續閱讀)</description>
       <pubDate>Sun, 29 Dec 2019 17:31:57 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園409~422　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4629206</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/06/0004629206.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1577008941.A.549.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 22 Dec 2019 18:01:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 跟羽黑一起過冬　作者：みにまる</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4629194</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/94/0004629194.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1577008085.A.7F5.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 22 Dec 2019 17:47:24 +0800</pubDate>
     </item>
   </channel>
 </rss>
