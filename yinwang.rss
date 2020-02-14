@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 13 Feb 2020 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2020 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[一道 Java 面试题]]></title>
+            <description><![CDATA[关于程序员对 Java 类型系统的理解，比较高级的一个面试问题是这样：]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</guid>
+            <pubDate>Wed, 12 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[如何阅读别人的代码]]></title>
-            <description><![CDATA[挺多人问过我「如何阅读已有代码」这个问题，希望我能有一个好方法。有些人希望通过阅读「优质项目」（比如 Linux 内核）得到提高，改进自己的代码质量。对于这个问题，我一般都不好回答，因为我很少从阅读别人的代码得到提升。我对自己阅读的代码有很高的标准，因为世界上存在太多风格差劲的代码，阅读它们会损害自己的思维。同样的道理，我也不会阅读风格差劲的文章。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</guid>
             <pubDate>Tue, 04 Feb 2020 16:00:00 GMT</pubDate>
