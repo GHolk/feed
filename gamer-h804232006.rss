@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 15 Feb 2020 00:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 16 Feb 2020 00:25:34 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【2019 夏季新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004547716.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 2 Oct 2019 18:24:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 女僕愛莉絲</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4685839</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/39/0004685839.JPG?v=1581722584"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 15 Feb 2020 02:27:55 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 《My Happy Diary》中文版 PV　正式發布！</title>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004583736.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 6 Nov 2019 20:31:53 +0800</pubDate>
-    </item>
-    <item>
-      <title>17.9歲</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4571204</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/04/0004571204.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 25 Oct 2019 19:47:22 +0800</pubDate>
     </item>
   </channel>
 </rss>
