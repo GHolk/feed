@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 16 Feb 2020 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 17 Feb 2020 00:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 你是想告白還是想被告</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4687370</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004687370.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 16 Feb 2020 15:35:12 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 不是我的錯吧。</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/l/n/lnkkng/lnkkng.png"&gt;&lt;br&gt;大家好，我終於是，簽好約了（長嘆。終於從窮人變成有一張紙的窮人了（哭...(繼續閱讀)</description>
       <pubDate>Wed, 23 Oct 2019 23:55:43 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 我不想知道啊渾蛋！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4534527</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/27/0004534527.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 19 Sep 2019 23:46:46 +0800</pubDate>
     </item>
   </channel>
 </rss>

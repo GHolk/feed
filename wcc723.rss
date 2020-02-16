@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 15 Feb 2020 16:27:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Feb 2020 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,27 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JavaScript Promise 全介紹
+        ]]></title>
+            <description><![CDATA[
+            最近直播介紹如何串接開源資料，也剛好許多朋友詢問到 Ajax、Promise 相關的問題，因此重新撰寫一篇文來介紹 Promise，這篇文章也與過去形勢不太一樣，試著先將常見的問題放在前頭，接下來才開始介紹 Promise。
+另外本文的內容較多，Promise 想看簡易版可參考：/javascript/2017/12/29/javascript-proimse/。
+
+
+
+
+使用 Vuejs 結合 
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/02/16/all-new-promise/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/02/16/all-new-promise/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 15 Feb 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-promise-Saint-Seiya.png?alt=media&amp;token=6efc3208-ad24-41f7-a20d-bc8ddabaeef9" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         單元測試 - 非同步及 Ajax
@@ -175,22 +196,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Tue, 24 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon10.png?alt=media&amp;token=38d54af6-ffc8-4549-9329-22cb728aafd8" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：iPhone 11 Pro Max 心得文
-        ]]></title>
-            <description><![CDATA[
-            參加個人挑戰的好處，就是可以隨意的歪樓！？
-最近入手了三眼神童 iPhone 11 Pro Max，在這支手機上是好幾個月前就已經打算入手，與這台本身的特性沒有什麼關係，會購買主要原因是一般的 LCD 手機螢幕只要看 5 分鐘就會開始頭暈，也因為如此，一天觀看手機的時間平均是不超過 30 分鐘的（不清楚原因，目前僅了解對於要專注細微的發光體會感到不適）；看過 OLED 後發現可以減輕看螢幕的不適，
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/24/iphone-11/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/24/iphone-11/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Mon, 23 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon9.png?alt=media&amp;token=3df76050-bbdb-41e6-8235-8db6e9e983bb" length="0" type="image"/>
         </item>
     </channel>
 </rss>
