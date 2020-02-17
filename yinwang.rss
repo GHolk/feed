@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 16 Feb 2020 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Feb 2020 16:27:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[谈职场中的命令口气]]></title>
+            <description><![CDATA[今天在 LinkedIn 看到这样一个职场问题：“同事经常用领导的口吻命令我，我应该怎么办？” 我觉得这个问题在中国职场很有代表性。我自己和我认识的一些人都为此苦恼过，我还为遇到这个问题的朋友提供过帮助。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/02/17/work-culture</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/17/work-culture</guid>
+            <pubDate>Sun, 16 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[一道 Java 面试题]]></title>
-            <description><![CDATA[关于程序员对 Java 类型系统的理解，比较高级的一个面试问题是这样：]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</guid>
             <pubDate>Wed, 12 Feb 2020 16:00:00 GMT</pubDate>
