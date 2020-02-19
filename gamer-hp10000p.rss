@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 19 Feb 2020 00:25:14 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 20 Feb 2020 00:25:14 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>新瑪奇英雄傳-不死宅宅</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4690718</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004690718.JPG"&gt;&lt;br&gt;對於宅宅來說能夠永生不老完全沒有問題呢...(繼續閱讀)</description>
+      <pubDate>Wed, 19 Feb 2020 18:14:57 +0800</pubDate>
+    </item>
     <item>
       <title>彩虹的顏色</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/29/0004196929.JPG"&gt;&lt;br&gt;大家有沒有求過籤呀...(繼續閱讀)</description>
       <pubDate>Fri, 16 Nov 2018 19:21:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>長生劫-事前登錄獎勵</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4189691</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0004189691.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 9 Nov 2018 20:43:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
