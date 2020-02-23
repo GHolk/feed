@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 22 Feb 2020 05:28:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 23 Feb 2020 06:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        CSS Border 運用技巧（手繪框線、三角形、空間運用）
+        ]]></title>
+            <description><![CDATA[
+            CSS Border 大部份來說是用在裝飾上，卡片的邊線、hover 的視覺效果、物件之間的間隔等等，這些視覺效果除了 Border 以外亦有其它方式可以達到；雖然如此，Border 的使用率還是比較高，因為相對來說更為簡單方便，不過也別這樣小看它，透過一些小技巧時，Border 還有很多靈活運用的方式。
+基本觀念介紹先了解 Border 基本的觀念，有助於接下來的靈活運用。
+Border 具有空
+        ]]></description>
+            <link>https://wcc723.github.io/css/2020/02/21/css-border/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/css/2020/02/21/css-border/</guid>
+            <category><![CDATA[
+            css
+            ]]></category>
+            <pubDate>Thu, 20 Feb 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-border.png?alt=media&amp;token=a2b06e55-8ca4-4e1a-a52d-f19aa0942437" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JavaScript Promise 全介紹
@@ -180,22 +197,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Wed, 25 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon11.png?alt=media&amp;token=072197fd-2842-452a-adcc-be97c78dc9ed" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：超簡易記帳 - 輕鬆規劃你的理財目標
-        ]]></title>
-            <description><![CDATA[
-            前一篇介紹到退休所需要的資金是兩千萬，雖然這是大部分 “投資廣告” 所提出的金額，但這個金額確切是如何計算出來的呢？這個金額與每個人的花費習慣有很大的關係，兩千萬則是大部分人計算出來的結果，大家也可以用以下方法試著估算一下自己的每月花費，再用每月花費來估算 “年花費”。
-目前大部分人類都可以活到 9x 歲來說，從 60 歲退休到 9x 約有 30 年時間，年花費 * 30 就是退休所需的基本金額。
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/25/how-to-accounting/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/25/how-to-accounting/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Tue, 24 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon10.png?alt=media&amp;token=38d54af6-ffc8-4549-9329-22cb728aafd8" length="0" type="image"/>
         </item>
     </channel>
 </rss>
