@@ -4,8 +4,17 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 23 Feb 2020 14:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 24 Feb 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 我家有隻妖精小燐8　作者：ま</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4695257</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1582456557.A.820.html要繫安全帶...(繼續閱讀)</description>
+      <pubDate>Sun, 23 Feb 2020 19:15:43 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園460~467　作者：ジングー</title>
       <link>
@@ -95,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/53/0004644653.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1578225194.A.12D.html
       新年快樂~...(繼續閱讀)</description>
       <pubDate>Sun, 5 Jan 2020 19:52:30 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園423~436　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4636779</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/79/0004636779.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1577612786.A.571.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 29 Dec 2019 17:46:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
