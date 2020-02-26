@@ -9,7 +9,7 @@
             <link>http://fe2x.cc/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 25 Feb 2020 16:27:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Feb 2020 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/fe2x.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Wed, 24 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,26 @@
         <ttl>1440</ttl>
         <category><![CDATA[front-end]]></category>
         <category><![CDATA[javascript]]></category>
+        <item>
+            <title><![CDATA[BFC 块格式化上下文]]></title>
+            <description><![CDATA[
+
+      
+      
+
+      
+        
+          BFC 块格式化上下文BFC是什么？BFC (Block Formatting Context)是块格式化上下文，是 Web 页面的可视化CSS渲染的一部分，是块级盒子的布局过程发生的区域，也是浮动元素与其它元素交互的区域。块级盒子是什么可以了解一下视觉格式化模型。具有BFC特性的元素会被生成块盒子，块级盒子里面应用了BFC提供了一个独立的容器环境，块级盒子里面的元素在独立的环境里面进行一定规则的布局，容器里面的元素不会在布局上面影响到外面的元素，并且 BFC 具有普通容器所有的一些特性。
+          
+          
+          
+        
+      
+    ]]></description>
+            <link>http://fe2x.cc/2020/02/26/BFC/</link>
+            <guid isPermaLink="true">http://fe2x.cc/2020/02/26/BFC/</guid>
+            <pubDate>Wed, 26 Feb 2020 07:35:29 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[视觉格式化模型(VFM)]]></title>
             <description><![CDATA[
@@ -32,16 +52,6 @@
 什么是视觉格式化模型
 视觉格式化模型会根据CSS盒子模型将文档中的元素转换为一个个盒子。——MDN
 
-可以理解为，Web页面都是由一个个盒子组成的，(因为任何元素都可以被视为一个盒子)，而视觉格式化模型是一套规则，用来计算元素转换为盒子的规则。而页面的布局都是由这些盒子的所处的各处位置组合而成。那么理解元素怎样转成盒子的规则，就能理解Web页面是怎样布局的。每个盒子的布局由以下因素决定的：
-
-盒子的尺寸: 精确指定、由约束条件指定或没有指定
-盒子的类型: 行内盒子(inline)、行内级盒子(inline-level)、原子行内级盒子(atomic inline-level)、块盒子(block)
-定位方案(positioning scheme): 普通流定位、浮动定位或绝对定位
-文档树中的其它元素: 即当前盒子的子元素或兄弟元素
-视口尺寸与位置
-所包含的图片的尺寸
-其他的某些外部因素
-
           
           
           
@@ -50,7 +60,7 @@
     ]]></description>
             <link>http://fe2x.cc/2020/02/06/VFM/</link>
             <guid isPermaLink="true">http://fe2x.cc/2020/02/06/VFM/</guid>
-            <pubDate>Thu, 06 Feb 2020 13:09:31 GMT</pubDate>
+            <pubDate>Wed, 26 Feb 2020 07:29:09 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[JavaScript 无报错误访问深层属性方法]]></title>
@@ -296,42 +306,6 @@ CSS并不是一门漂亮的‘语言’，但是它也已经成功当了 Web 
             <guid isPermaLink="true">http://fe2x.cc/2018/01/28/css-naming-conventions/</guid>
             <pubDate>Mon, 05 Mar 2018 08:25:03 GMT</pubDate>
             <enclosure url="https://cdn-images-1.medium.com/max/2000/1*YunI3ChUVMlpmFzo75FczQ.png" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[2017总结 拥抱变化,夯实基础]]></title>
-            <description><![CDATA[
-
-      
-      
-        
-          
-          
-            
-              
-                
-              
-            
-          
-
-          
-          
-        
-      
-
-      
-        
-          2017年 时间飞逝总感觉时间过得很快,特别是今年,每过一周的时候总希望把时间挽留住,有时候我甚至会停下工作来看看时间,但时间还是很快的流走了,这就剩下了2017年的最后的两三天了.
-我今天算是迈向30了,是我改变蛮大的一年,人沉稳了很多,不再那么浮躁了.沉着气追求自己热爱的一切,工作,前端,艺术,生活,经历,全部的努力也慢慢向上发展,这是我乐于见到的,有种厚积待发的感觉.
-          
-          
-          
-        
-      
-    ]]></description>
-            <link>http://fe2x.cc/2017/12/29/person-summary-2017/</link>
-            <guid isPermaLink="true">http://fe2x.cc/2017/12/29/person-summary-2017/</guid>
-            <pubDate>Sat, 30 Dec 2017 04:40:34 GMT</pubDate>
-            <enclosure url="https://images.unsplash.com/photo-1491245338813-c6832976196e?auto=format&amp;fit=crop&amp;w=2100&amp;q=80" length="0" type="image"/>
         </item>
     </channel>
 </rss>
