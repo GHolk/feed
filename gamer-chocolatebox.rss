@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 27 Feb 2020 00:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 28 Feb 2020 00:26:48 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>寫信告訴我今天海是什麼顏色</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4699261</link>
+      <author>小鈴a</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;藍色...(繼續閱讀)</description>
+      <pubDate>Thu, 27 Feb 2020 12:13:12 +0800</pubDate>
+    </item>
     <item>
       <title>Lego-71043-霍格華茲城堡</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 18 Dec 2019 11:46:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄市自強路-夜上海雞腿/排骨飯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4624186</link>
-      <author>小鈴a</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 17 Dec 2019 19:30:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
