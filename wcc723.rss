@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 29 Feb 2020 16:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 01 Mar 2020 16:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        爬蟲、E2E 測試兩相宜的好工具 - Puppeteer
+        ]]></title>
+            <description><![CDATA[
+            Puppeteer 是 Node.js 的函式庫，它提供各種 API 來控制 Chrome 或 Chromium 瀏覽器，而此瀏覽器也是目前主流的瀏覽器，用來做為測試、爬蟲都相當合適，並且所提供的 API 語法淺顯易懂，只要具有 jQuery 的使用經驗就可以很快速地上手。
+安裝官方提供兩個版本，一個包含 Chromium，另一個則無，如果有安裝 Chrome 的情況下可以不需要另外下載 Chro
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/03/01/puppeteer/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/03/01/puppeteer/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 29 Feb 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-puppeteer.png?alt=media&amp;token=42d44728-9eaf-42b3-8be2-fd62d0795dd0" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         CSS Border 運用技巧（手繪框線、三角形、空間運用）
@@ -181,22 +197,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Thu, 26 Sep 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon12.png?alt=media&amp;token=802d34b9-50fc-43f8-ae4e-76fbc946614a" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：有土斯有財？還是緊握著負債
-        ]]></title>
-            <description><![CDATA[
-            傳統觀念中有土斯有財，不斷的鼓勵大家去擁有自己的土地、住宅，出社會後也會有許多長輩洗腦「該擁有屬於自己的房子」。但在臺北這樣高房價的地區，許多人買了第一間房後就長期背著負債，「窮爸爸、富爸爸」一書中提到「自用住宅即是負債」，雖然房子也是資產的一種，但資產是可以脫手轉為現金的，第一間房是否可以轉為現金呢？還是在房貸的壓力下產生難以轉移的問題。
-開始工作幾年以後，到許多同輩開始擁有屬於自己房子，有些人
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/26/buy-a-house/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/26/buy-a-house/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Wed, 25 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon11.png?alt=media&amp;token=072197fd-2842-452a-adcc-be97c78dc9ed" length="0" type="image"/>
         </item>
     </channel>
 </rss>

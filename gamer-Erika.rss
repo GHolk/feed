@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 1 Mar 2020 00:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 2 Mar 2020 00:26:40 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女15　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4703070</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004703070.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1583063516.A.F5F.html
+      貓貓我也要抱回家了...(繼續閱讀)</description>
+      <pubDate>Sun, 1 Mar 2020 19:51:28 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 我家有隻妖精小燐8　作者：ま</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/64/0004644664.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1578225943.A.8AD.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 5 Jan 2020 20:05:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官19　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4644653</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0004644653.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1578225194.A.12D.html
-      新年快樂~...(繼續閱讀)</description>
-      <pubDate>Sun, 5 Jan 2020 19:52:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
