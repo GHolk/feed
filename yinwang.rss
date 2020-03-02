@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 01 Mar 2020 16:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Mar 2020 16:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[新的付费咨询方式]]></title>
+            <description><![CDATA[开设顾问咨询以来，接受了挺多人的参与。大家的反馈普遍良好，说这种方式能够很好地引导他们进入学习。从讨论会和问答聊天，能够得到很好的指引。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/03/02/paid-learning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/02/paid-learning</guid>
+            <pubDate>Sun, 01 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[谈职场中的命令口气]]></title>
-            <description><![CDATA[今天在 LinkedIn 看到这样一个职场问题：“同事经常用领导的口吻命令我，我应该怎么办？” 我觉得这个问题在中国职场很有代表性。我自己和我认识的一些人都为此苦恼过，我还为遇到这个问题的朋友提供过帮助。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/02/17/work-culture</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/17/work-culture</guid>
             <pubDate>Sun, 16 Feb 2020 16:00:00 GMT</pubDate>
