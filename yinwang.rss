@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 03 Mar 2020 16:28:06 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Mar 2020 16:28:01 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,14 +20,26 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[知识星球试运行]]></title>
+            <description><![CDATA[今天又玩了一会知识星球的手机 app，发现虽然它的网页版不大流畅，其实手机版做得还不错。我基本可以把它看作是一个付费版的微博。经过一番考虑，我还是决定开始试运行知识星球。我把它作为我传播知识和洞察力的三个层次之一：]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/03/05/zsxq</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/05/zsxq</guid>
+            <pubDate>Wed, 04 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[课程计划变动]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/03/04/changes</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/04/changes</guid>
+            <pubDate>Tue, 03 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[计算机科学课程]]></title>
-            <description><![CDATA[（更新：由于聊天室加入人数太多，已经关闭开放加入。需要加入课程的人请发送 email 申请。email 需要符合一定的标准才会被接受。详情请见下面「加入方式」一节。）]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/03/03/cs-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/03/cs-course</guid>
             <pubDate>Mon, 02 Mar 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[新的付费咨询方式]]></title>
+            <title><![CDATA[新的付费咨询方式（取消）]]></title>
             <link>http://www.yinwang.org/blog-cn/2020/03/02/paid-learning</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/02/paid-learning</guid>
             <pubDate>Sun, 01 Mar 2020 16:00:00 GMT</pubDate>
