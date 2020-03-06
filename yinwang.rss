@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 05 Mar 2020 16:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Mar 2020 16:27:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[英语学习的一些经验]]></title>
+            <description><![CDATA[这是我发在「知识星球」的第一篇文章，用来回答关于英语学习的疑问。虽然知识星球是一个付费圈子，我不会忘记对更大范围的社会做出贡献。具有广泛社会改善效益的内容，我仍然会转发到这里。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips</guid>
+            <pubDate>Thu, 05 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[知识星球试运行]]></title>
-            <description><![CDATA[今天又玩了一会知识星球的手机 app，发现虽然它的网页版不大流畅，其实手机版做得还不错。我基本可以把它看作是一个付费版的微博。经过一番考虑，我还是决定开始试运行知识星球。我把它作为我传播知识和洞察力的 4 个层次之一：]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/03/05/zsxq</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/05/zsxq</guid>
             <pubDate>Wed, 04 Mar 2020 16:00:00 GMT</pubDate>
