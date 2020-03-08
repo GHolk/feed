@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 07 Mar 2020 16:27:54 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Mar 2020 16:27:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,25 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        Flex 空間計算規則
+        ]]></title>
+            <description><![CDATA[
+            此篇是延續先前的 Flex 的文章（圖解：CSS Flex 屬性一點也不難），本篇則是著重在 flex 中的 flex-grow、flex-shrink 和 flex-basis 這三個屬性，如果對於 Flex 基礎尚不熟悉的可先閱讀前一篇文章。
+首先，回顧下先前的三個屬性介紹：
+flex 是縮寫，裡面依序包含三個屬性 flex-grow、flex-shrink 和 flex-basis。
+
+fl
+        ]]></description>
+            <link>https://wcc723.github.io/css/2020/03/08/flex-size/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/css/2020/03/08/flex-size/</guid>
+            <category><![CDATA[
+            css
+            ]]></category>
+            <pubDate>Sat, 07 Mar 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fflex-cover.png?alt=media&amp;token=ce7a29ec-255b-40b3-a724-33dd4407ee2c" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         爬蟲、E2E 測試兩相宜的好工具 - Puppeteer
@@ -177,26 +196,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Fri, 22 Nov 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201911%2Fmarkdown.png?alt=media&amp;token=845799e3-46dd-47ce-8a49-aab12e5c4160" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        鐵人賽：獲利優先，將你的資金塊狀化
-        ]]></title>
-            <description><![CDATA[
-            獲利優先的概念是來自於這本書：https://www.books.com.tw/products/0010794087
-此書是在介紹公司的資金管理方式，大多數新創公司管理人，容易在資金上升後喪失對金錢的敏感度，導致支出費用過高，收入不敷支出使用而使公司倒閉，這個狀況不僅會出現在公司上，家庭中大數目的資金運用時都很容易忽略掉細節。
-這會導致：
-
-跳巢加薪才 3000 ，下個月就多花 6000
-高金額
-        ]]></description>
-            <link>https://wcc723.github.io/ironman/2019/09/27/block-your-money/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/ironman/2019/09/27/block-your-money/</guid>
-            <category><![CDATA[
-            ironman
-            ]]></category>
-            <pubDate>Thu, 26 Sep 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201909%2Firon12.png?alt=media&amp;token=802d34b9-50fc-43f8-ae4e-76fbc946614a" length="0" type="image"/>
         </item>
     </channel>
 </rss>

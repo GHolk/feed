@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 8 Mar 2020 00:26:40 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 9 Mar 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園468~479　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4710375</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/75/0004710375.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1583666142.A.E44.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 8 Mar 2020 19:15:03 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 森林裡的大野狼少女15　作者：わたあめ</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/60/0004651460.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1578822701.A.0ED.html
       轉眼間2020也要過去了(不對...(繼續閱讀)</description>
       <pubDate>Sun, 12 Jan 2020 17:51:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園437~449　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4644664</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0004644664.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1578225943.A.8AD.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 5 Jan 2020 20:05:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
