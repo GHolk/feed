@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Mar 2020 00:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Mar 2020 00:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【2019 夏季新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 2 Oct 2019 18:24:27 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 綁頭髮</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4717597</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/97/0004717597.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 15 Mar 2020 14:09:56 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 七大罪</title>
@@ -89,15 +98,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 23 Dec 2019 18:44:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>【高雄，我們來了！】</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4597518</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004597518.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 20 Nov 2019 16:00:55 +0800</pubDate>
     </item>
   </channel>
 </rss>
