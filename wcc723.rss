@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 19 Mar 2020 16:27:47 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Mar 2020 16:28:00 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        開公司的流程及雷點分享
+        ]]></title>
+            <description><![CDATA[
+            這次跟大家分享開公司上的一些心得，由於網路上可以找到許多開公司的流程，本篇會著重在心得的分享，當然我也並非專業的會計、法務，正確的流程建議可以詢問合作的會計。
+會計開公司如果要省時間，找一個好會計是必要的，因為開公司在學校並非必修課程，大部分人都不會有開公司的經驗，雖然說是「開公司」但林林總總的項目非常多，除了公司設立外還有包含發票、營業稅、勞健保這些項目都是需要獨立申請，如果沒有一個人引導將會花
+        ]]></description>
+            <link>https://wcc723.github.io/business/2020/03/18/how-to-register-a-company/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/business/2020/03/18/how-to-register-a-company/</guid>
+            <category><![CDATA[
+            business
+            ]]></category>
+            <pubDate>Tue, 17 Mar 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-register-company.png?alt=media&amp;token=c128c4a8-c657-4ffe-a872-03238d3c793f" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         Flex 空間計算規則
@@ -179,23 +195,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Sat, 30 Nov 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201912%2Fvscode_chinese.png?alt=media&amp;token=296ca914-6acb-4817-86d1-ec4c54240648" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        十分鐘快速掌握 Markdown
-        ]]></title>
-            <description><![CDATA[
-            Markdown 是目前非常普遍用來撰寫文檔的語言，一開始的目標就是使用「易讀易寫的純文字格式編寫文件」，此初衷讓使用者可以專注在文字的本身，而不需要透過其它工具來切換格式。以 Word 撰寫文檔來說，就必須透過上方的工具列來切換標題、列表、粗體、斜體等等；而 Markdown 並沒有這樣的工具列，完全都是使用標示符號來完成這些需求。
-
-常見應用大部分情況下 Markdown 是用來撰寫程式語言相
-        ]]></description>
-            <link>https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2019/11/23/ten-mins-learn-markdown/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 22 Nov 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201911%2Fmarkdown.png?alt=media&amp;token=845799e3-46dd-47ce-8a49-aab12e5c4160" length="0" type="image"/>
         </item>
     </channel>
 </rss>
