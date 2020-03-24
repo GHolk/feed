@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 22 Mar 2020 16:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Mar 2020 03:27:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[对智商的怀疑]]></title>
+            <description><![CDATA[想写一篇「新手上路指南」有一段时间了。一方面，因为顾问工作和知识星球上存在很多类似的问题。另一方面，因为这些问题引起了我内心的共鸣。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</guid>
+            <pubDate>Sun, 22 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[谈知识的交流]]></title>
-            <description><![CDATA[最近过得比较繁忙。回看最初在 Matrix 建立讨论 Rust 语言的聊天室，竟然已经快一个月了，我却感觉一切都发生在昨天。我本来没想让这个聊天室持续很长时间，设想的就像一场临时的讲座。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/03/17/communications</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/17/communications</guid>
             <pubDate>Mon, 16 Mar 2020 16:00:00 GMT</pubDate>
