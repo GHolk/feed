@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 24 Mar 2020 16:27:38 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 25 Mar 2020 16:27:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        完全解析 JavaScript import、export
+        ]]></title>
+            <description><![CDATA[
+            import、export 是 JavaScript 模組管理的方法，可以將每個檔案視為一個獨立的模組匯出，並在另一個檔案匯入使用。透過此方式每個檔案更能專注在特定的功能上，且能避免單一檔案過度龐大。
+相容性介紹此方法前，還是要了解一下相容性，目前來說許多主流瀏覽器都是可以運行的，但是寫法需要稍做調整，而 Node.js 則是要到 13.2 才可直接運行模組化。
+
+瀏覽器中運行如果要在瀏覽器運行模
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/03/25/import-export/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/03/25/import-export/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Tue, 24 Mar 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-import-export.png?alt=media&amp;token=b0833260-7033-4045-bd6d-4e74df3f6ad5" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         開公司的流程及雷點分享
@@ -178,23 +196,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Sat, 21 Dec 2019 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201912%2Fcss-dark-mode.png?alt=media&amp;token=21ebdd56-5e42-4e4f-ab8d-c63e35d29637" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        一分鐘切換成中文版 VSCode（完整圖文版）
-        ]]></title>
-            <description><![CDATA[
-            雖然開發者都具有一定的英文閱讀能力，但如果在不熟悉的情況下，就比較難以快速上手一個新工具。如果要快速掌握一個完整的工具或技術，最好的方式還是先切換成熟悉的語言。
-而 VSCode 雖然預設並無法直接切換語系，但官方有提供各國的語言套件，讓開發者可以自行選用。
-切換成中文版如果你對於 VSCode 有興趣，別因為 VSCode 預設開啟是英文版就急著關閉，預設雖然是使用英文版，也找不到語系切換的地方
-        ]]></description>
-            <link>https://wcc723.github.io/development/2019/12/01/vscode-chinese/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2019/12/01/vscode-chinese/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sat, 30 Nov 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201912%2Fvscode_chinese.png?alt=media&amp;token=296ca914-6acb-4817-86d1-ec4c54240648" length="0" type="image"/>
         </item>
     </channel>
 </rss>
