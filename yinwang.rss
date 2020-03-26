@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 25 Mar 2020 16:27:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 26 Mar 2020 16:27:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[计算机科学入门班报名]]></title>
+            <description><![CDATA[我需要更多的“小白”来上我的入门课。自从上次准备开课一来，我这里有挺多申请者，但他们很多都已经有一些基础，有工作多年的工程师，团队带头人。不过我想先讲“零基础”课程，而让那些需要更进一步的人等一等。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/03/26/entry-level-class</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/26/entry-level-class</guid>
+            <pubDate>Wed, 25 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[对智商的怀疑]]></title>
-            <description><![CDATA[想写一篇「新手上路指南」有一段时间了。一方面，因为顾问工作和知识星球上存在很多类似的问题。另一方面，因为这些问题引起了我内心的共鸣。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</guid>
             <pubDate>Sun, 22 Mar 2020 16:00:00 GMT</pubDate>
