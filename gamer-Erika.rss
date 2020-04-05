@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 5 Apr 2020 01:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 6 Apr 2020 00:26:37 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官22　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4740075</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/75/0004740075.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1586086075.A.33A.html
+      久違的毛絨絨份...(繼續閱讀)</description>
+      <pubDate>Sun, 5 Apr 2020 19:27:19 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園480~500END　作者：ジングー</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004679472.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1581244250.A.DB5.html
       加賀城XD...(繼續閱讀)</description>
       <pubDate>Sun, 9 Feb 2020 18:30:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part10</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4672119</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004672119.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1580639360.A.526.html
-      這系列上次更新是2018(眼神死...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Feb 2020 18:28:53 +0800</pubDate>
     </item>
   </channel>
 </rss>
