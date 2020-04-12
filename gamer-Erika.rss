@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 Apr 2020 00:26:49 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Apr 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女16　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4747106</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/06/0004747106.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1586679529.A.68A.html
+      FF7不破關不睡覺中...(繼續閱讀)</description>
+      <pubDate>Sun, 12 Apr 2020 16:18:03 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 小赤城與指揮官22　作者：ぷち</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004679483.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1581244925.A.7C3.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 9 Feb 2020 18:41:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官21　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4679472</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004679472.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1581244250.A.DB5.html
-      加賀城XD...(繼續閱讀)</description>
-      <pubDate>Sun, 9 Feb 2020 18:30:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
