@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 25 Apr 2020 00:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 26 Apr 2020 20:26:43 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 01　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4762294</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/94/0004762294.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1587897857.A.CA9.html
+      稍微說明一下，這次是安齋太太一開始就是老...(繼續閱讀)</description>
+      <pubDate>Sun, 26 Apr 2020 18:43:26 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 第一次交往的男女朋友4　作者：Byte</title>
       <link>
@@ -94,16 +104,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1582456557.A.820.html要繫安全帶...(繼續閱讀)</description>
       <pubDate>Sun, 23 Feb 2020 19:15:43 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園460~467　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4687541</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/41/0004687541.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1581848019.A.604.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 16 Feb 2020 18:13:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
