@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hbl917070</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 30 Apr 2020 00:27:38 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 1 May 2020 00:28:14 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【JS腳本】巴哈-深色主題（2020-02-19 修復快速回文的顏色</title>
@@ -15,6 +15,16 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/91/0002803391.JPG"&gt;&lt;br&gt;（2020-02-19：修復快速回文的顏色（2019-10-02：修復文章列表的顏色（2019-09-17：修復通知顏色...(繼續閱讀)</description>
       <pubDate>Fri, 10 Apr 2015 01:17:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>輕鬆無痛讓js同步</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4766159</link>
+      <author>深海異音</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/59/0004766159.JPG"&gt;&lt;br&gt;JavaScript非同步的函數非常多，像是：ajax請求、圖片處理、nodejs的資料庫存取
+      等.. 一定有很多剛入門JS人，被非同步的概念折騰的不要不要 偏...(繼續閱讀)</description>
+      <pubDate>Thu, 30 Apr 2020 08:04:08 +0800</pubDate>
     </item>
     <item>
       <title>用更人性化的方式操作Google Chrome新增書籤</title>
@@ -86,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/65/0004438665.PNG"&gt;&lt;br&gt;場外只有「推」，所以發文沒動力？...(繼續閱讀)</description>
       <pubDate>Tue, 25 Jun 2019 08:30:34 +0800</pubDate>
-    </item>
-    <item>
-      <title>終於找到讓小屋背景圖，自動縮放的方法(新增完整教學)</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4361955</link>
-      <author>深海異音</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/55/0004361955.JPG"&gt;&lt;br&gt;我的小屋...(繼續閱讀)</description>
-      <pubDate>Wed, 17 Apr 2019 05:18:38 +0800</pubDate>
     </item>
   </channel>
 </rss>

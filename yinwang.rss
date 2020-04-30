@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 29 Apr 2020 16:27:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 30 Apr 2020 16:28:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[一对一教学计划]]></title>
+            <description><![CDATA[开展计算机科学基础课程两个星期了，我终于可以相信，最初的目标“零基础教育”是一个正确的出发点。不仅因为它能检验我自己的学识和教学方法，而且因为零基础的人似乎更容易学会正确而干净的知识。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/04/30/individualized-learning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/04/30/individualized-learning</guid>
+            <pubDate>Wed, 29 Apr 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[知识的传递]]></title>
-            <description><![CDATA[教学就像安装软件的过程。要把多年沉淀下来的东西装到另一个脑子里，不是一件容易的事情，更不是一蹴而就的事情。就像搬家收拾东西一样，这可以帮助整理自己的头脑。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/04/10/knowledge-transfer</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/04/10/knowledge-transfer</guid>
             <pubDate>Thu, 09 Apr 2020 16:00:00 GMT</pubDate>
