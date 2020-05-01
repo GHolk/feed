@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 1 May 2020 00:27:43 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 2 May 2020 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 《一目了然》01</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4767495</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/95/0004767495.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 1 May 2020 14:17:35 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 私人委託 與 近況！</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004596214.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 19 Nov 2019 01:23:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 真愛之吻是噁男的作風我們還是</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4588284</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/84/0004588284.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 11 Nov 2019 13:14:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
