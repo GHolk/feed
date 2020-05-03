@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 3 May 2020 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 4 May 2020 00:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 幼稚園北狐 今年五歲歲21　作者：高橋哲哉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4770141</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/41/0004770141.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1588503042.A.1BF.html
+      為了抱走這隻小白獅我可以跟FBI拼命...(繼續閱讀)</description>
+      <pubDate>Sun, 3 May 2020 18:50:12 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 第一次交往的男女朋友5　作者：Byte</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4770129</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/29/0004770129.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1588502432.A.681.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 3 May 2020 18:39:50 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 01　作者：ジングー</title>
       <link>
@@ -85,25 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/75/0004710375.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1583666142.A.E44.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 8 Mar 2020 19:15:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女15　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4703070</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004703070.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1583063516.A.F5F.html
-      貓貓我也要抱回家了...(繼續閱讀)</description>
-      <pubDate>Sun, 1 Mar 2020 19:51:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐8　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4695257</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1582456557.A.820.html要繫安全帶...(繼續閱讀)</description>
-      <pubDate>Sun, 23 Feb 2020 19:15:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
