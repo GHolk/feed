@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 8 May 2020 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 9 May 2020 16:27:18 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 失意時更要犒賞自己</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4775237</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004775237.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 8 May 2020 12:38:18 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 跟鬼相處比跟房東容易</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004630040.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 23 Dec 2019 12:15:52 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【鬼滅】義忍四頁漫</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4628650</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/50/0004628650.JPG"&gt;&lt;br&gt;先說，我畫壞了，但我畫完了，反正我就爛，所以我要PO，哈。...(繼續閱讀)</description>
-      <pubDate>Sun, 22 Dec 2019 01:09:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
