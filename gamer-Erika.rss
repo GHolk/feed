@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 17 May 2020 10:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 May 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 第一次交往的男女朋友6　作者：Byte</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4785587</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/87/0004785587.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1589712181.A.7DD.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 17 May 2020 18:41:57 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 奴隷との生活 母親節　作者：たかひこ part21</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/65/0004725465.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1584878387.A.1D3.html
       想捉弄希露薇...(繼續閱讀)</description>
       <pubDate>Sun, 22 Mar 2020 19:59:06 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 第一次交往的男女朋友3　作者：Byte</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4717924</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/24/0004717924.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1584271969.A.C94.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 15 Mar 2020 19:31:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
