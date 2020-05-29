@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 29 May 2020 00:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 30 May 2020 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 男生的帥只有男生懂</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4798840</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004798840.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 29 May 2020 18:26:30 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 特殊事件需要特殊方法！</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/70/0004687370.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 16 Feb 2020 15:35:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 不是我的錯吧。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4660032</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/32/0004660032.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 21 Jan 2020 11:46:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
