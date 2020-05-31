@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 May 2020 00:26:42 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 1 Jun 2020 00:27:16 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 第一次交往的男女朋友8　作者：Byte</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4801195</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/95/0004801195.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1590924484.A.4B6.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 31 May 2020 19:27:20 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 第一次交往的男女朋友7　作者：Byte</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/75/0004740075.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1586086075.A.33A.html
       久違的毛絨絨份...(繼續閱讀)</description>
       <pubDate>Sun, 5 Apr 2020 19:27:19 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園480~500END　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4732305</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/05/0004732305.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1585466518.A.254.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 29 Mar 2020 15:21:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
