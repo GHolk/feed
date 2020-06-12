@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 12 Jun 2020 00:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 13 Jun 2020 00:27:05 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 2020了，情敵是異性也是理所當然的。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4814002</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004814002.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 12 Jun 2020 15:31:19 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 女友的興趣</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004730367.PNG"&gt;&lt;br&gt;終於畫完私人委託了！沒想到是用這個風格接的XDD。...(繼續閱讀)</description>
       <pubDate>Fri, 27 Mar 2020 17:19:37 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 自我實現手札 - 恍神中</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4713177</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/77/0004713177.JPG"&gt;&lt;br&gt;《男怪死不了》的漫畫終於過審了，原本想等作品公開後再來分享心得，但接下來要先準備行銷計畫跟宣傳用分鏡，種種籌備大概還要花上好一陣子，這一年半已經消磨我太多精神了...(繼續閱讀)</description>
-      <pubDate>Wed, 11 Mar 2020 12:51:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
