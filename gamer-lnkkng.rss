@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 19 Jun 2020 00:27:06 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 20 Jun 2020 00:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 兵不厭詐，這是戰爭。</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4821527</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/27/0004821527.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 19 Jun 2020 15:18:10 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 2020了，情敵是異性也是理所當然的。</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/95/0004767495.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 1 May 2020 14:17:35 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 私人委託 與 近況！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4730367</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0004730367.PNG"&gt;&lt;br&gt;終於畫完私人委託了！沒想到是用這個風格接的XDD。...(繼續閱讀)</description>
-      <pubDate>Fri, 27 Mar 2020 17:19:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
