@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 25 Jun 2020 09:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 26 Jun 2020 08:25:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>女生的桌遊</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4828800</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/00/0004828800.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 26 Jun 2020 01:01:56 +0800</pubDate>
+    </item>
     <item>
       <title>熱戀的力量</title>
       <link>
@@ -88,15 +97,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/84/0004441284.JPG"&gt;&lt;br&gt;繼上篇
       ...(繼續閱讀)</description>
       <pubDate>Thu, 27 Jun 2019 19:34:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>2019新年快樂</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4248465</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/65/0004248465.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 3 Jan 2019 00:00:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
