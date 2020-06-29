@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 29 Jun 2020 00:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 30 Jun 2020 00:25:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>長輩的桌遊</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4832611</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/11/0004832611.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Mon, 29 Jun 2020 16:05:01 +0800</pubDate>
+    </item>
     <item>
       <title>女生的桌遊</title>
       <link>
@@ -87,16 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004454425.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 9 Jul 2019 18:59:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>黑色沙漠接龍</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4441284</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/84/0004441284.JPG"&gt;&lt;br&gt;繼上篇
-      ...(繼續閱讀)</description>
-      <pubDate>Thu, 27 Jun 2019 19:34:26 +0800</pubDate>
     </item>
   </channel>
 </rss>
