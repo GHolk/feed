@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 3 Jul 2020 00:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 4 Jul 2020 00:25:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 好久不見</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4837012</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004837012.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 3 Jul 2020 18:34:47 +0800</pubDate>
+    </item>
     <item>
       <title>我識破你的識破</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004690718.JPG"&gt;&lt;br&gt;對於宅宅來說能夠永生不老完全沒有問題呢...(繼續閱讀)</description>
       <pubDate>Wed, 19 Feb 2020 18:14:57 +0800</pubDate>
-    </item>
-    <item>
-      <title>彩虹的顏色</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4612399</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/99/0004612399.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 5 Dec 2019 19:57:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
