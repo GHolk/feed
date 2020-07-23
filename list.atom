@@ -23,6 +23,32 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/gamer-kurino1996.rss</id>
+    <title>ㄇㄐ補坑作業小屋</title>
+    <published>2020-07-23</published>
+    <link rel="alternate"
+          type="text/html"
+          title="ㄇㄐ的小屋"
+          href="https://home.gamer.com.tw/kurino1996" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-kurino1996.rss"/>
+    <link rel="alternate"
+          type="text/html"
+          title="ㄇㄐ的臉書粉絲專頁"
+          href="https://www.facebook.com/murjidrawingstudio/" />
+    <summary>
+      在臉書上看到的插畫家，被繪型戳到萌點，
+      我好像喜歡這種中性的短髮風格。
+      後來發現在巴哈有小屋，就收進來追蹤。
+    </summary>
+    <category term="acg" />
+    <category term="創作" />
+    <category term="繪師" />
+    <category term="gamer" />
+  </entry>
+  
+  <entry>
     <id>http://gholk.github.io/feed/gamer-hbl917070.rss</id>
     <title>深海異音的小屋</title>
     <published>2019-05-31</published>
