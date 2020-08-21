@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 21 Aug 2020 00:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 22 Aug 2020 00:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>FF36 商品表</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4889433</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/33/0004889433.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 21 Aug 2020 05:28:29 +0800</pubDate>
+    </item>
     <item>
       <title>奶子本</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004762985.JPG"&gt;&lt;br&gt;愛莉絲與邊緣妹～...(繼續閱讀)</description>
       <pubDate>Mon, 27 Apr 2020 04:19:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>命運法則－宙斯</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4757544</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 22 Apr 2020 12:12:45 +0800</pubDate>
     </item>
   </channel>
 </rss>
