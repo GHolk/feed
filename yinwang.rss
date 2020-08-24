@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 23 Aug 2020 16:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Aug 2020 16:27:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,22 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[干货]]></title>
+            <description><![CDATA[
+  这篇文章可以被认为是对之前《网络用语》一文的扩展。
+]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</guid>
+            <pubDate>Sun, 23 Aug 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[学霸]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/08/23/xueba</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/23/xueba</guid>
+            <pubDate>Sat, 22 Aug 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[新丑陋的中国人]]></title>
-            <description><![CDATA[我想用这篇文章汇集一下自己多年来观察到的一些中国文化现象。柏杨先生有一本书叫《丑陋的中国人》，我推荐大家都看一下，检查一下自己。我这点区区见解，难以跟柏杨相提并论。只是想用这一系列回忆，记录一下自己对一些事的理解。时代前进了，中国人却依然丑陋，似乎一点没变，所以我把它叫做《新丑陋的中国人》。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/06/10/new-ugly-chinese</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/06/10/new-ugly-chinese</guid>
             <pubDate>Tue, 09 Jun 2020 16:00:00 GMT</pubDate>
