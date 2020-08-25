@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 24 Aug 2020 16:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Aug 2020 16:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,9 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[干货]]></title>
-            <description><![CDATA[
-  这篇文章可以被认为是对之前《网络用语》一文的扩展。
-]]></description>
+            <description><![CDATA[上次开设聊天室的时候，有人说我的“言控”很严，好多网络词汇和表达方式不能用，说得好像我妨碍了他们的言论自由。现在对日本文化的理解逐渐深入，我觉得当时设置的用语限制，其实一点都不过分。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</guid>
             <pubDate>Sun, 23 Aug 2020 16:00:00 GMT</pubDate>
