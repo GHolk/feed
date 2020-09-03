@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hbl917070</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 3 Sep 2020 00:27:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 4 Sep 2020 00:27:47 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【JS腳本】巴哈-深色主題（2020-02-19 修復快速回文的顏色</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/91/0002803391.JPG"&gt;&lt;br&gt;（2020-02-19：修復快速回文的顏色（2019-10-02：修復文章列表的顏色（2019-09-17：修復通知顏色...(繼續閱讀)</description>
       <pubDate>Fri, 10 Apr 2015 01:17:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>用js找出好友名單裡面很久沒上線的巴友</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4904016</link>
+      <author>深海異音</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004904016.JPG?v=1599087699"&gt;&lt;br&gt;巴哈好友的上限是500個，不整理的話很容易就會滿出來就算沒有滿出來，那些根本沒在上線的人佔在好友名單裡面也是礙眼...(繼續閱讀)</description>
+      <pubDate>Thu, 3 Sep 2020 07:01:39 +0800</pubDate>
     </item>
     <item>
       <title>好啊，分類只能選插畫</title>
@@ -92,15 +101,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/42/0004499142.JPG"&gt;&lt;br&gt;網頁版的動畫瘋要截圖還蠻麻煩的暫停影片的話，就會把進度條也截圖進去...(繼續閱讀)</description>
       <pubDate>Sun, 18 Aug 2019 05:06:14 +0800</pubDate>
-    </item>
-    <item>
-      <title>會隨時間變動的圖片 產生器</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4483158</link>
-      <author>深海異音</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/58/0004483158.JPG"&gt;&lt;br&gt;這個產生器能製作：會隨著時間改變文字的特殊圖片每次重新整理都會改變...(繼續閱讀)</description>
-      <pubDate>Sun, 4 Aug 2019 04:26:09 +0800</pubDate>
     </item>
   </channel>
 </rss>
