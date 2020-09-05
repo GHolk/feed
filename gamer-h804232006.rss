@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 5 Sep 2020 00:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 6 Sep 2020 01:25:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 細菌人</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4906193</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/93/0004906193.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 5 Sep 2020 10:27:23 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 等等，國小！？</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/98/0004772198.JPG"&gt;&lt;br&gt;白博士與壞掉妹的幼年紀錄-煉金術...(繼續閱讀)</description>
       <pubDate>Tue, 5 May 2020 17:31:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 歐派與屁屁</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4766214</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004766214.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 30 Apr 2020 10:36:12 +0800</pubDate>
     </item>
   </channel>
 </rss>
