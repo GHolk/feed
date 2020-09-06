@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 6 Sep 2020 01:26:45 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 7 Sep 2020 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官25　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4907689</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004907689.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1599385488.A.CAA.html
+      小推進一篇w...(繼續閱讀)</description>
+      <pubDate>Sun, 6 Sep 2020 17:44:23 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 14　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4907682</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/82/0004907682.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1599384974.A.A88.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 6 Sep 2020 17:35:24 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 13　作者：ジングー</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/46/0004869446.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1596349899.A.334.html
       最近實裝的英仙座好可愛...(繼續閱讀)</description>
       <pubDate>Sun, 2 Aug 2020 14:31:10 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 8　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4862158</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/58/0004862158.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1595763509.A.9C5.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 26 Jul 2020 19:37:47 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女18　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4853991</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0004853991.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1595137128.A.8AC.html
-      定期聖光術!...(繼續閱讀)</description>
-      <pubDate>Sun, 19 Jul 2020 13:38:36 +0800</pubDate>
     </item>
   </channel>
 </rss>
