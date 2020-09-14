@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 13 Sep 2020 00:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2020 09:26:42 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官26　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4915329</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/29/0004915329.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1599984054.A.B98.html
+      三週年錢包要死了要死了...(繼續閱讀)</description>
+      <pubDate>Sun, 13 Sep 2020 16:00:26 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 15　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4915320</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/20/0004915320.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1599983493.A.20B.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 13 Sep 2020 15:50:57 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 小赤城與指揮官25　作者：ぷち</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004876876.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1596954348.A.EA4.html
       這是幼稚園兒這是幼稚園兒...(繼續閱讀)</description>
       <pubDate>Sun, 9 Aug 2020 14:25:09 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 9　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4869452</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/52/0004869452.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1596350418.A.335.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Aug 2020 14:39:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官24　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4869446</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/46/0004869446.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1596349899.A.334.html
-      最近實裝的英仙座好可愛...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Aug 2020 14:31:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
