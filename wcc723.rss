@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 15 Sep 2020 01:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Sep 2020 03:27:52 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JavaScript 開發中常見錯誤解決辦法
+        ]]></title>
+            <description><![CDATA[
+            身為一個開發者，當然都會了解經驗越多，除錯上會更為容易，這種事情你我都清楚。但對於一個新手來就是缺少錯誤上的經驗，所以當遇到紅字時會不知如何著手。
+這一系列的文章是專門給剛入門新手的前端開發者觀看的，盡可能用白話的方式，並且提供簡單的範例程式碼以供驗證。
+Chrome 開發者工具的常見錯誤排解Chrome 開發者工具的 Console 相當好用，最常使用的不外乎是透過console.log 呈現出
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/16/chrome-js-alert/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/16/chrome-js-alert/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Tue, 15 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_01.jpg?alt=media&amp;token=3f3582ae-2f2f-44e2-8f8f-d1ca33a3a698" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         完全解析 JavaScript import、export
@@ -180,22 +197,6 @@ Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗�
             ]]></category>
             <pubDate>Fri, 03 Jan 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202001%2Fimg-mistake.png?alt=media&amp;token=860cf55e-b433-44a0-925b-07849ad65d5f" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        CSS 技巧：精簡語法操作暗色主題 - CSS Dark Mode
-        ]]></title>
-            <description><![CDATA[
-            Mac 暗色主題推出後，就讓黑色控非常喜愛，而且這樣的暗色佈景使用起來更不傷眼。以我來說是比較喜歡在亮色的佈景下工作的，但暗主題的對於長期需要在電腦面前工作來說，真的相對輕鬆很多。雖然如此，也並非所有的介面都是有提供暗主題，以網頁來說就需要開發者另外定義暗主題才會進行切換（不使用任何瀏覽器插件的情況下）。
-好在，暗色主題的語法相當容易，以下介紹如何作切換，並且會提供一個小技巧，只要透過短短的幾行就
-        ]]></description>
-            <link>https://wcc723.github.io/css/2019/12/22/css-dark-mode/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/css/2019/12/22/css-dark-mode/</guid>
-            <category><![CDATA[
-            css
-            ]]></category>
-            <pubDate>Sat, 21 Dec 2019 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F201912%2Fcss-dark-mode.png?alt=media&amp;token=21ebdd56-5e42-4e4f-ab8d-c63e35d29637" length="0" type="image"/>
         </item>
     </channel>
 </rss>
