@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 16 Sep 2020 03:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 18 Sep 2020 02:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,43 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JavaScript 利用表達式優化你的程式碼
+        ]]></title>
+            <description><![CDATA[
+            上一節介紹了表達式的基本概念「回傳結果」，那麼接下來你一定會想了解有哪些地方可以用到表達式，本篇就列出 JS 語法與常見框架的表達式運用，熟悉以後將會大幅增加 JS 語法的變化性。
+運算子運算子依據運算元數量，可分為一元、二元甚至是三元運算子，而運算元本身也是屬於表達式，以我們常見的 === 來說就屬於二元運算子。
+1運算元1 運算子 運算元2
+此範例中的前後 1 皆是運算元，運算元本身也是屬於表
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/18/js-expression-2/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/18/js-expression-2/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Thu, 17 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_03.jpg?alt=media&amp;token=bccf04b2-d14b-4578-89dc-200f838a40cd" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        JavaScript 表達式觀念及運用 - JS Expression
+        ]]></title>
+            <description><![CDATA[
+            JavaScript 分為兩大的語句類型，就像是我們日常語言中的動詞、名詞、連接詞等概念，但在 JS 中僅分為兩大類型，分別為「陳述式」及「表達式」，其中表達式更為重要，如果能夠熟練表達式更能解決許多開發上的問題，也更能活用各種語法。
+
+JavaScript 中的表達式原文為 「Expression」，翻譯上常見的有表達式、表示式、運算式等等。
+
+表達式與陳述式的差異表達式及陳述式在各文件上都有概
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/17/js-expression/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/17/js-expression/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Wed, 16 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_02.jpg?alt=media&amp;token=a167272b-0a88-4b75-b2a5-73193b8e8b23" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JavaScript 開發中常見錯誤解決辦法
@@ -161,42 +198,6 @@ JavaScript 是屬於同步，單執行緒的程式語言，因此當有非同步
             ]]></category>
             <pubDate>Sat, 08 Feb 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-jest-async.png?alt=media&amp;token=93d54d69-2808-4f8a-91df-c84dd2f9629a" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        十分鐘上手前端單元測試 - 使用 Jest
-        ]]></title>
-            <description><![CDATA[
-            隨著應用程式越來越大，人工流程的測試也會耗去許多的時間，許多功能再開發後都必須重新進行點擊特定目標、撰寫複雜表單、送出來檢驗功能的正確性，當功能越來越複雜時，人工測試所花的時間也會越來越常，因此改用測試工具相對會節省去許多時間。尤其到了上線時才發現錯誤，那時候心中真的會吶喊 No、No、No～。
-前端的測試常見的有兩大類別：
-
-Unit Test：中文稱為單元測試，是以一個行為進行測試，可驗證運行
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/02/02/jest-intro/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/02/02/jest-intro/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sat, 01 Feb 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-jest.png?alt=media&amp;token=1809e129-03de-4f61-9a13-f8753ddf1786" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        前端開發者，圖片常犯的五個粗心錯誤
-        ]]></title>
-            <description><![CDATA[
-            前端開發者是透過程式碼將資訊呈現成畫面，因此畫面的好壞也多少影響品質，在觀看許多履歷或作業的過程中，會發現許多相似的錯誤，而這些錯誤都是有跡可循，並且可以避免的；本篇先以常見的圖片問題與大家分享，看是否你也犯了這些錯誤呢？
-一、圖片變形新手錯誤率：⭐⭐⭐⭐令人感受的粗心度：👎👎👎👎
-圖片變形是最明顯的錯誤，大部分的使用者都能看到這樣的問題，而這些問題會讓人感受到開發者的不細心。
-要避免圖片
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/01/04/image-common-mistakes/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/01/04/image-common-mistakes/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 03 Jan 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202001%2Fimg-mistake.png?alt=media&amp;token=860cf55e-b433-44a0-925b-07849ad65d5f" length="0" type="image"/>
         </item>
     </channel>
 </rss>
