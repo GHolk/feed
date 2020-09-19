@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 18 Sep 2020 16:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Sep 2020 16:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        開發總是沒問題，上線老是各種錯
+        ]]></title>
+            <description><![CDATA[
+            不果是新手或老手都可能遇過這樣的狀況，程式碼在測試時運作上看起來都很正常，雖然有一些些地方還不是很熟悉，不過打從心裡認定它是正確的，但麻煩卻上線後才發現出錯，仔細檢查也看不出任何問題，殊不知是表達式的觀念錯誤。
+程式碼的問題千萬種，本篇就持續在「表達式的觀念」挑出常見的問題，看看是否大家有遇到類似的狀況勒。
+連續賦值這麼屌，為何文件都說這不好連續賦值（chain variable assignme
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/19/js-expression-3/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/19/js-expression-3/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Fri, 18 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_04.jpg?alt=media&amp;token=69f67bbb-c006-48cd-a2a2-b2f27424b280" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JavaScript 利用表達式優化你的程式碼
@@ -181,23 +198,6 @@ Border 具有空
             ]]></category>
             <pubDate>Sat, 15 Feb 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-promise-Saint-Seiya.png?alt=media&amp;token=6efc3208-ad24-41f7-a20d-bc8ddabaeef9" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        單元測試 - 非同步及 Ajax
-        ]]></title>
-            <description><![CDATA[
-            本篇延續上一篇：十分鐘上手前端單元測試 - 使用 Jest
-JavaScript 是屬於同步，單執行緒的程式語言，因此當有非同步的事件時就會被往放到事件佇列，直到所有程式碼運行過後才會執行事件佇列內的程式，如果不熟悉這段觀念就會使程式的運行不符合預期，相關概念可以看此文章一次只能做一件事情的 JavaScript。
-另外，現在的非同步大多都使用 Promise 來撰寫，包含 ES6 的 Fetch
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/02/09/jest-async/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/02/09/jest-async/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sat, 08 Feb 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-jest-async.png?alt=media&amp;token=93d54d69-2808-4f8a-91df-c84dd2f9629a" length="0" type="image"/>
         </item>
     </channel>
 </rss>

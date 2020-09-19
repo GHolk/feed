@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 19 Sep 2020 00:27:47 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Sep 2020 00:27:48 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】休閒興趣</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4921328</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/28/0004921328.PNG"&gt;&lt;br&gt;我當時害怕極了...(繼續閱讀)</description>
+      <pubDate>Sat, 19 Sep 2020 03:19:29 +0800</pubDate>
+    </item>
     <item>
       <title>【跑跑卡丁車RUSH+】繪圖接龍挑戰</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/42/0004871642.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Tue, 4 Aug 2020 17:21:11 +0800</pubDate>
-    </item>
-    <item>
-      <title>【鍊神之戰】帥氣的姿勢</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4868362</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/62/0004868362.PNG"&gt;&lt;br&gt;我真的被美術風格(還有ㄋㄟㄋㄟ)驚艷到了......(繼續閱讀)</description>
-      <pubDate>Sat, 1 Aug 2020 15:00:39 +0800</pubDate>
     </item>
   </channel>
 </rss>
