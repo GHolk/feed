@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 21 Sep 2020 01:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Sep 2020 03:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,27 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JS 物件名詞解釋及常見觀念問題
+        ]]></title>
+            <description><![CDATA[
+            接下來來到 JavaScript 另一個坑「物件」。
+物件的定義方法差在哪？JavaScript 定義物件的方式主要有兩種形式：
+
+var a = {}：{} 稱為物件實字，是相對簡短且易讀的建立方式。
+var b = new Object();：使用 Object 建構函式產生物件。
+
+這兩種建立方式就結果而言並無差別，但普遍來說會更推薦使用「物件實字」，
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/21/js-object/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/21/js-object/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sun, 20 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_06.jpg?alt=media&amp;token=29accf08-edf3-4bb8-9bdf-86026366a3a2" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JS 加不加分號差在哪？
@@ -182,23 +203,6 @@ fl
             ]]></category>
             <pubDate>Sat, 29 Feb 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-puppeteer.png?alt=media&amp;token=42d44728-9eaf-42b3-8be2-fd62d0795dd0" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        CSS Border 運用技巧（手繪框線、三角形、空間運用）
-        ]]></title>
-            <description><![CDATA[
-            CSS Border 大部份來說是用在裝飾上，卡片的邊線、hover 的視覺效果、物件之間的間隔等等，這些視覺效果除了 Border 以外亦有其它方式可以達到；雖然如此，Border 的使用率還是比較高，因為相對來說更為簡單方便，不過也別這樣小看它，透過一些小技巧時，Border 還有很多靈活運用的方式。
-基本觀念介紹先了解 Border 基本的觀念，有助於接下來的靈活運用。
-Border 具有空
-        ]]></description>
-            <link>https://wcc723.github.io/css/2020/02/21/css-border/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/css/2020/02/21/css-border/</guid>
-            <category><![CDATA[
-            css
-            ]]></category>
-            <pubDate>Thu, 20 Feb 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202002%2Fimg-border.png?alt=media&amp;token=a2b06e55-8ca4-4e1a-a52d-f19aa0942437" length="0" type="image"/>
         </item>
     </channel>
 </rss>
