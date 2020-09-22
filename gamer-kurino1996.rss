@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 22 Sep 2020 11:27:49 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2020 00:27:49 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】好吃的雞胸肉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4925242</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/42/0004925242.PNG?v=1600780539"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Tue, 22 Sep 2020 21:15:39 +0800</pubDate>
+    </item>
     <item>
       <title>【東方 LostWord】想當初</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/28/0004883328.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sat, 15 Aug 2020 17:00:14 +0800</pubDate>
-    </item>
-    <item>
-      <title>【鍊金工房Online】只有我不一樣</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4882159</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/59/0004882159.PNG"&gt;&lt;br&gt;一直都很喜歡鍊金術士系列的衣服設計...(繼續閱讀)</description>
-      <pubDate>Fri, 14 Aug 2020 17:00:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
