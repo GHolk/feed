@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 22 Sep 2020 16:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Sep 2020 02:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,32 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JS 記憶體是怎麼釋放的
+        ]]></title>
+            <description><![CDATA[
+            作用域JavaScript 的變數有作用域的範圍，意思是指「宣告的變數有作用的區域限制」，如果超出了作用域則變數無法再被取得，這樣的做法優點為：
+
+可以避免所有變數轉為全域變數
+有效限制變數的作用區域
+
+而變數作用域也會依據宣告的方式不同，產生不同的作用域：
+
+未宣告：全域變數
+var 宣告：作用域在 函式 中
+let、const 宣告：作用域在 {} 中
+
+var 宣告的變數
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/23/js-object/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/23/js-object/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Tue, 22 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_08.jpg?alt=media&amp;token=5559f38a-09aa-4a79-a232-ff9d3e3c9919" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         呼叫函式時，到底有多少個參數 / 變數可供使用？
@@ -188,22 +214,6 @@ Chrome 開發者工具的常見錯誤排解Chrome 開發者工具的 Console 相
             ]]></category>
             <pubDate>Tue, 24 Mar 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-import-export.png?alt=media&amp;token=b0833260-7033-4045-bd6d-4e74df3f6ad5" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        開公司的流程及雷點分享
-        ]]></title>
-            <description><![CDATA[
-            這次跟大家分享開公司上的一些心得，由於網路上可以找到許多開公司的流程，本篇會著重在心得的分享，當然我也並非專業的會計、法務，正確的流程建議可以詢問合作的會計。
-會計開公司如果要省時間，找一個好會計是必要的，因為開公司在學校並非必修課程，大部分人都不會有開公司的經驗，雖然說是「開公司」但林林總總的項目非常多，除了公司設立外還有包含發票、營業稅、勞健保這些項目都是需要獨立申請，如果沒有一個人引導將會花
-        ]]></description>
-            <link>https://wcc723.github.io/business/2020/03/18/how-to-register-a-company/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/business/2020/03/18/how-to-register-a-company/</guid>
-            <category><![CDATA[
-            business
-            ]]></category>
-            <pubDate>Tue, 17 Mar 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2F202003%2Fimg-register-company.png?alt=media&amp;token=c128c4a8-c657-4ffe-a872-03238d3c793f" length="0" type="image"/>
         </item>
     </channel>
 </rss>
