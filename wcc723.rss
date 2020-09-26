@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 25 Sep 2020 16:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 26 Sep 2020 16:27:53 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        閉包，原來這就是閉包啊！
+        ]]></title>
+            <description><![CDATA[
+            閉包，是一個 JavaScript 很常聽到的觀念，雖然會在不知不覺應用到閉包的基本概念，進階的用法在實戰中不一定很常用到，但這卻是面試中非常常見的問題，主要原因是它牽扯到許多的觀念，如詞法作用域、記憶體等觀念。
+原來這就是閉包：詞法作用域許多閉包文章都會提到「詞法作用域」的觀念，此觀念主要是說明 JavaScript 的作用域範圍由程式碼所定，所以程式碼在撰寫完成的同時，就已經先確立了作用域，運
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/26/js-closure/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/26/js-closure/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Fri, 25 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_11.jpg?alt=media&amp;token=6f0bb2b6-7d3a-42d5-a785-291c15680546" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         Chrome Console 中的 undefined 到底是哪來的？
@@ -196,25 +212,6 @@ var b = new Object();：使用 Object 建構函式產生物件。
             ]]></category>
             <pubDate>Thu, 17 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_03.jpg?alt=media&amp;token=bccf04b2-d14b-4578-89dc-200f838a40cd" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JavaScript 表達式觀念及運用 - JS Expression
-        ]]></title>
-            <description><![CDATA[
-            JavaScript 分為兩大的語句類型，就像是我們日常語言中的動詞、名詞、連接詞等概念，但在 JS 中僅分為兩大類型，分別為「陳述式」及「表達式」，其中表達式更為重要，如果能夠熟練表達式更能解決許多開發上的問題，也更能活用各種語法。
-
-JavaScript 中的表達式原文為 「Expression」，翻譯上常見的有表達式、表示式、運算式等等。
-
-表達式與陳述式的差異表達式及陳述式在各文件上都有概
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/17/js-expression/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/17/js-expression/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Wed, 16 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_02.jpg?alt=media&amp;token=a167272b-0a88-4b75-b2a5-73193b8e8b23" length="0" type="image"/>
         </item>
     </channel>
 </rss>
