@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 27 Sep 2020 00:27:09 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2020 08:27:11 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 《機械之心》</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4930353</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0004930353.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 27 Sep 2020 17:35:25 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 《劍之所指》</title>
       <link>
@@ -86,15 +95,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004783066.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 15 May 2020 15:17:49 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 失意時更要犒賞自己</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4775237</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004775237.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 8 May 2020 12:38:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
