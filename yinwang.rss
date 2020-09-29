@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 28 Sep 2020 00:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2020 03:27:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[计算机科学集体班（第二期）报名]]></title>
-            <description><![CDATA[从四月开始进行计算机科学基础教学，到现在已经快半年了。不论是集体班还是一对一教学，都取得了让人欣慰的效果。挺多人学到了真实的知识，我自己也更加清晰地理解了所教的内容。经过反复的迭代，思考和改进，教学的步骤和方式已经趋于成熟。]]></description>
+            <description><![CDATA[从四月开始进行计算机科学基础教学，到现在已经快半年了。不论是集体班还是一对一教学，都取得了让人欣慰的效果。挺多人学到了真实的知识，我自己也更加清晰地理解了所教的内容和教学方法。经过反复的迭代，思考和改进，教学的步骤和方式已经趋于成熟。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</guid>
             <pubDate>Wed, 23 Sep 2020 16:00:00 GMT</pubDate>

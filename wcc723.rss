@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 28 Sep 2020 00:28:00 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Sep 2020 03:27:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,38 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        箭頭函式常見陷阱題
+        ]]></title>
+            <description><![CDATA[
+            JavaScript ES6 以後加入了 ”箭頭函式“，就外觀看來它就像是一個縮寫，也因此許多新手會認為它是屬於傳統函式的縮寫形式；但其實不然，箭頭函式與傳統函式大不同，本篇僅列出最常見的 this 差異，並透過大量的範例題，並透過範例的方式讓新手避免踩到箭頭函式最常見的雷。
+傳統函式的 this 問題JS 中很常利用物件、方法的形式來建構組件，在物件中的方法也可透過 this 來取得物件中的其它
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/29/arrow-homework/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/29/arrow-homework/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Mon, 28 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_14.jpg?alt=media&amp;token=ba6d6297-030d-4495-a510-459963174ca1" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        透過練習題，摸熟 This 的運作
+        ]]></title>
+            <description><![CDATA[
+            JavaScript 的 this 會隨著調用的方式不同影響其指向的不同（ES6 的箭頭函式定義也會影響指向），網路上已經提供相當多的資源介紹 this 指向的觀念，本篇只著重在最常運用的物件方法調用做介紹，並且透過練習題的方式，帶大家一步一步認識 this 的指向。
+關於「物件方法調用」可以查看本文章：https://wcc723.github.io/javascript/2019/03/18/
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/09/28/this-homework/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/28/this-homework/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sun, 27 Sep 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_13.jpg?alt=media&amp;token=604172f5-9369-4dda-838b-98004eac855f" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         學好 this 前，先搞清楚 this 做什麼
@@ -172,45 +204,6 @@ var b = new Object();：使用 Object 建構函式產生物件。
             ]]></category>
             <pubDate>Sun, 20 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_06.jpg?alt=media&amp;token=29accf08-edf3-4bb8-9bdf-86026366a3a2" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JS 加不加分號差在哪？
-        ]]></title>
-            <description><![CDATA[
-            這個議題許多論壇、文件都有討論，在 ESlint 的規範中也可從加不加分號區分為兩大派系，至於加不加分號關鍵點則需要了解分號對於 JavaScript 的影響，開始之前可以先看看以下題目。
-下方程式碼的運行預期為：
-
-宣告 a 的值為 1
-執行立即函式
-於 console 中呈現 2
-
-請問這段程式碼運行是否正確？1234var a = 1(function() {  console.l
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/20/js-semi/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/20/js-semi/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sat, 19 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_05.jpg?alt=media&amp;token=a7055b63-fea5-4c67-a4b8-e8c8e6c61447" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        開發總是沒問題，上線老是各種錯
-        ]]></title>
-            <description><![CDATA[
-            不果是新手或老手都可能遇過這樣的狀況，程式碼在測試時運作上看起來都很正常，雖然有一些些地方還不是很熟悉，不過打從心裡認定它是正確的，但麻煩卻上線後才發現出錯，仔細檢查也看不出任何問題，殊不知是表達式的觀念錯誤。
-程式碼的問題千萬種，本篇就持續在「表達式的觀念」挑出常見的問題，看看是否大家有遇到類似的狀況勒。
-連續賦值這麼屌，為何文件都說這不好連續賦值（chain variable assignme
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/19/js-expression-3/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/19/js-expression-3/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 18 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_04.jpg?alt=media&amp;token=69f67bbb-c006-48cd-a2a2-b2f27424b280" length="0" type="image"/>
         </item>
     </channel>
 </rss>
