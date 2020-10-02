@@ -4,8 +4,18 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Sep 2020 11:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 2 Oct 2020 17:27:24 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>手札</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4932302</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/02/0004932302.JPG"&gt;&lt;br&gt;大家好，我是新彥。
+      最近達成了一件讓自己滿意的事，所以想分享一下，也許有些新讀者，先來自我介紹吧，我是新彥，以成為世界級漫畫家為目標的人，但現在只是個連業餘漫...(繼續閱讀)</description>
+      <pubDate>Tue, 29 Sep 2020 14:37:21 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 《機械之心》</title>
       <link>
@@ -86,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/22/0004790922.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 22 May 2020 16:28:43 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 還以為不用再面對他了。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4783066</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0004783066.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 15 May 2020 15:17:49 +0800</pubDate>
     </item>
   </channel>
 </rss>
