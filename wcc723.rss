@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 03 Oct 2020 02:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2020 08:27:56 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,49 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        AJAX 完整解說系列：輕鬆搞懂 HTTP 狀態碼（HTTP Status Code）
+        ]]></title>
+            <description><![CDATA[
+            AJAX 是前端與後端的介接，當跨越不同的環境時，所有的狀態會越來越難預期，接著就可能會發生錯誤，造成的錯誤狀態可能會如下：
+
+流程與設計不同
+資料格式不符合
+連線失敗、網路不穩定
+程式碼上的錯誤（這就不是本章節要討論的）
+
+錯誤在開發的過程中是非常常見的，只不過我們在開發的過程中容易「忽視錯誤」僅以「最完美個過程」進行開發，這樣的結果會導致使用者不知道正遭遇在錯誤的狀態中而苦苦等待，所以錯誤一定
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/02/about-ajax-4/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/02/about-ajax-4/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Thu, 01 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_18.jpg?alt=media&amp;token=ddebf02c-7873-436b-b737-04722e0981fc" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        AJAX 完整解說系列：使用 Chrome Devtools 檢視請求及回應
+        ]]></title>
+            <description><![CDATA[
+            從上一篇內容我們介紹到 AJAX 都是由瀏覽器發出請求，伺服器則會依據請求的內容進行回應。所以在這之中的 “請求”、“回應” 都會夾帶著不同資源，供瀏覽器及伺服器進行辨識及運用，所以此篇就針對瀏覽器與伺服器溝通的內容進行說明，帶大家更深入的認識 AJAX。
+
+
+發出請求到回應的過程示意圖
+
+注意：本篇以 “成功” 的請求為主，失敗不在本篇的介紹重點。
+所有的資訊都在 Chrome Network本
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/02/about-ajax-3/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/02/about-ajax-3/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Thu, 01 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_17.jpg?alt=media&amp;token=453d818d-ab2d-40ca-abca-d3c150a692d9" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         AJAX 完整解說系列：新增、更新、刪除（POST/PATCH/DELETE）
@@ -154,49 +197,6 @@ functions in that language are treated like a
             ]]></category>
             <pubDate>Wed, 23 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_09.jpg?alt=media&amp;token=354cf855-6cf6-4f73-82ce-65297eed1b40" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JS 記憶體釋放機制及驗證
-        ]]></title>
-            <description><![CDATA[
-            作用域JavaScript 的變數有作用域的範圍，意思是指「宣告的變數有作用的區域限制」，如果超出了作用域則變數無法再被取得，這樣的做法優點為：
-
-可以避免所有變數轉為全域變數
-有效限制變數的作用區域
-
-而變數作用域也會依據宣告的方式不同，產生不同的作用域：
-
-未宣告：全域變數
-var 宣告：作用域在 函式 中
-let、const 宣告：作用域在 {} 中
-
-var 宣告的變數
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/23/js-object/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/23/js-object/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Tue, 22 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_08.jpg?alt=media&amp;token=5559f38a-09aa-4a79-a232-ff9d3e3c9919" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        讓我們一起到達終點！超過 60% 完課率的直播課程 - JavaScript 作品實戰直播班
-        ]]></title>
-            <description><![CDATA[
-            2020 年 9 月 20 日是 「JavaScript 作品實戰直播班」開班滿三個月的時間，也同時是本課程最後一天的繳交期限，同學們在家中努力趕工最終作品，而我在電腦前準備這份心得。
-昨天，還收到學員的感謝訊息，提到透過這次的直播班的作品以及履歷健檢服務順利找到工作，我也訝異有同學這麼早就能順利求職，畢竟直播班還未正式結束，許多同學還在家中趕作業啊～
-這次的直播班經歷不少波折，洧杰提到：「第一次
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/22/javascript-training-1st/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/22/javascript-training-1st/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Mon, 21 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fblog%E6%96%87.jpg?alt=media&amp;token=ad974590-7bee-4d50-84eb-0ed76c20800e" length="0" type="image"/>
         </item>
     </channel>
 </rss>
