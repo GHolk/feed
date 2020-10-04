@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 04 Oct 2020 08:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 04 Oct 2020 16:27:52 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,26 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        JS 常見陣列方法 [push(), unshift(), pop(), shift(), splice(), reverse(), concat(), include(), indexOf(), join()]
+        ]]></title>
+            <description><![CDATA[
+            本篇陣列方法是延伸過去寫的 JavaScript 陣列處理方法，目前的框架主流觀念都是「關注點分離」，框架主要都是負責畫面上的渲染；資料面完全交由給原生的 JS 處理，因此，對於資料處理的語法就需要有更高的掌握度。
+熟悉陣列的方法，自然對於處理資料上會更得心應手，而先前的「陣列處理方法」是著重在迴圈的運用，而本篇則是介紹其餘常用的部分，本篇所會介紹的方法包含：
+
+push()
+unshift()
+
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/04/js-array-methods/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/04/js-array-methods/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 03 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_19.jpg?alt=media&amp;token=8d6a40c4-0b89-4e5c-b7cd-d512cc400264" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         AJAX 完整解說系列：輕鬆搞懂 HTTP 狀態碼（HTTP Status Code）
@@ -35,12 +55,12 @@
 
 錯誤在開發的過程中是非常常見的，只不過我們在開發的過程中容易「忽視錯誤」僅以「最完美個過程」進行開發，這樣的結果會導致使用者不知道正遭遇在錯誤的狀態中而苦苦等待，所以錯誤一定
         ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/02/about-ajax-4/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/02/about-ajax-4/</guid>
+            <link>https://wcc723.github.io/development/2020/10/03/about-ajax-4/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/03/about-ajax-4/</guid>
             <category><![CDATA[
             development
             ]]></category>
-            <pubDate>Thu, 01 Oct 2020 16:00:00 GMT</pubDate>
+            <pubDate>Fri, 02 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_18.jpg?alt=media&amp;token=ddebf02c-7873-436b-b737-04722e0981fc" length="0" type="image"/>
         </item>
         <item>
@@ -179,24 +199,6 @@
             ]]></category>
             <pubDate>Thu, 24 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_10.jpg?alt=media&amp;token=3c49f0d8-38a0-4581-8d63-d6c286226ac1" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JavaScript 一級函式 （First Class Functions）
-        ]]></title>
-            <description><![CDATA[
-            本篇重點是要介紹參數與函式的關係（尤其是常令人搞混的 callback function），但這個觀念又會扯到另一個常見的專有名詞（一級函式），因此在本篇就統一介紹。
-一級函式一級函式並非是 JavaScript 專有的特性，只要該語言的「函式可被視為與其它變數一樣時」，就可以稱為該語言有一級函式的特性。
-
-functions in that language are treated like a
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/24/first-class-function/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/24/first-class-function/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Wed, 23 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_09.jpg?alt=media&amp;token=354cf855-6cf6-4f73-82ce-65297eed1b40" length="0" type="image"/>
         </item>
     </channel>
 </rss>
