@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 07 Oct 2020 16:27:56 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Oct 2020 16:27:53 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,38 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        手把手自訂你的 Bootstrap 樣式
+        ]]></title>
+            <description><![CDATA[
+            Bootstrap 在第四版以後在介紹文檔，說明自己是一個函式庫而不是框架。樣式的框架代表載入後都是基於此架構開發，無論是否喜歡特定的內容，都需要先全盤接受後再自行調整；而函式庫代表你可以選用自己喜歡的部份，並且調整成合適的樣式，相對於框架來說有更高的彈性。
+本篇將會依據 Bootstrap 文檔及實戰的經驗，與大家分享開發中常用的客製化技巧，讓大家可以輕鬆的客製 Bootstrap 樣式。
+對於
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/08/custom-bootstrap-style/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/08/custom-bootstrap-style/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Wed, 07 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_23.jpg?alt=media&amp;token=57512023-4c18-42df-a2b6-e1521dc8caa8" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        JS - for 迴圈與 forEach 有什麼不同
+        ]]></title>
+            <description><![CDATA[
+            過去，當有一個陣列的內容需要依序取值時，都會使用 for... 迴圈(for loop)的形式將值一一取出，原始碼的結構如下：12345var array = ['小明', '杰倫', '漂亮阿姨', '小美']for (var i = 0; i < array.length; i++) {  cons
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/05/js-for-loop-vs-for-each/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/05/js-for-loop-vs-for-each/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sun, 04 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_20.jpg?alt=media&amp;token=fac330e3-b516-421d-b072-1ed4f70cab8a" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         JS 常見陣列方法 [push(), unshift(), pop(), shift(), splice(), reverse(), concat(), include(), indexOf(), join()]
@@ -165,40 +197,6 @@ unshift()
             ]]></category>
             <pubDate>Sat, 26 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_12.jpg?alt=media&amp;token=895d35d7-354b-4a38-b1c5-c0c99248b367" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        閉包，原來這就是閉包啊！
-        ]]></title>
-            <description><![CDATA[
-            閉包，是一個 JavaScript 很常聽到的觀念，雖然會在不知不覺應用到閉包的基本概念，進階的用法在實戰中不一定很常用到，但這卻是面試中非常常見的問題，主要原因是它牽扯到許多的觀念，如詞法作用域、記憶體等觀念。
-原來這就是閉包：詞法作用域許多閉包文章都會提到「詞法作用域」的觀念，此觀念主要是說明 JavaScript 的作用域範圍由程式碼所定，所以程式碼在撰寫完成的同時，就已經先確立了作用域，運
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/26/js-closure/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/26/js-closure/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 25 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_11.jpg?alt=media&amp;token=6f0bb2b6-7d3a-42d5-a785-291c15680546" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        Chrome Console 中的 undefined 到底是哪來的？
-        ]]></title>
-            <description><![CDATA[
-            教學的過程中，有許多學員會盡可能的搞懂程式碼運行過程中的各種結果，其中一個比較特別的案例就是想搞懂為什麼 Chrome Console 下方的 <· 會回傳 undefined。
-範例程式碼：1var a = 1
-本篇屬於不知道也不會怎樣的冷知識，但如果了解，你則會更清楚 JS 中的表達式觀念。
-說明：本篇所介紹的環境都是在 Chrome Console 的直接輸入直接運行，並非透過原始碼運
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/25/chrome-console/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/25/chrome-console/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Thu, 24 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_10.jpg?alt=media&amp;token=3c49f0d8-38a0-4581-8d63-d6c286226ac1" length="0" type="image"/>
         </item>
     </channel>
 </rss>
