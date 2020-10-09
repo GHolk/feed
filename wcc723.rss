@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 08 Oct 2020 16:27:53 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 09 Oct 2020 16:28:01 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,35 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        怎樣也不會失手的 Bootstrap 格線運用技巧
+        ]]></title>
+            <description><![CDATA[
+            
+
+
+.box {
+  height: 100px;
+  background-color: #69F0AE;
+}
+.form-row>.col, .form-row>[class*=col-] {
+  padding-right: 5px;
+  padding-left: 5px;
+}
+.form-row {
+  display: -ms-flexbox;
+  display: flex;
+  
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/09/bootstrap-grid/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/09/bootstrap-grid/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Thu, 08 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_24.jpg?alt=media&amp;token=eff1db4b-9fc3-4683-9e84-7794b0c8a58a" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         手把手自訂你的 Bootstrap 樣式
@@ -180,23 +209,6 @@ unshift()
             ]]></category>
             <pubDate>Sun, 27 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_13.jpg?alt=media&amp;token=604172f5-9369-4dda-838b-98004eac855f" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        學好 this 前，先搞清楚 this 做什麼
-        ]]></title>
-            <description><![CDATA[
-            過去到現在寫了很多 this 相關的文章，如果沒有實際運用過 this 的開發者可能會有疑惑「this 是不是只有在面試考題用到？」、「this 在實戰中會用到嗎？」、「為什麼要學 this？」。
-其實 this 在實戰中的應用非常廣，已經有接觸框架的開發者對此較不陌生，基本上所有的檔案都會存在 this，而本篇也就針對 this 的應用情境進行介紹。
-沒有使用元件的開發過去框架尚未盛行以前，開發
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/27/why-this/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/27/why-this/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sat, 26 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_12.jpg?alt=media&amp;token=895d35d7-354b-4a38-b1c5-c0c99248b367" length="0" type="image"/>
         </item>
     </channel>
 </rss>
