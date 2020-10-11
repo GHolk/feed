@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 09 Oct 2020 16:28:01 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Oct 2020 02:27:55 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,59 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        新手前端也不該犯的錯：圖片變形
+        ]]></title>
+            <description><![CDATA[
+            網頁常見錯誤的之一：圖片比例變形
+當網頁有此錯誤時，會大大的降低網頁的畫面水平，如果是作為一個求職作品，也會被貼上 “不細心” 的標籤，本篇介紹幾種簡單的方式來解決此問題。
+以下是原始圖片（圖片來自於 Unsplash，如果失連歡迎與我聯絡）。
+
+
+.box {
+  height: 400px !important;
+  width: 100% !important;
+}
+.object-cove
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/11/img-cover/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/11/img-cover/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 10 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_26.jpg?alt=media&amp;token=c70c3827-4da0-4b7c-bfcf-af46431d3c60" length="0" type="image"/>
+        </item>
+        <item>
+            <title><![CDATA[
+        Bootstrap 5 格線的運作原理
+        ]]></title>
+            <description><![CDATA[
+            
+
+
+.box {
+  height: 100px;
+  background-color: #69F0AE;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+
+Bootstrap 4 中我經常會建議學員不要自行調整水平間距，因為在不熟悉的情況下這可能會造成許多額外的問題，常見的情況有：
+
+整體的格線風格不
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/10/bootstrap-5-grid-whats-new/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/10/bootstrap-5-grid-whats-new/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Fri, 09 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_25.jpg?alt=media&amp;token=12703e8e-5550-4cee-938c-e735d0d060f0" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         怎樣也不會失手的 Bootstrap 格線運用技巧
@@ -177,38 +230,6 @@ unshift()
             ]]></category>
             <pubDate>Tue, 29 Sep 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_15.jpg?alt=media&amp;token=a02b7412-0768-436f-980f-31baf786a23a" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        箭頭函式常見陷阱題
-        ]]></title>
-            <description><![CDATA[
-            JavaScript ES6 以後加入了 ”箭頭函式“，就外觀看來它就像是一個縮寫，也因此許多新手會認為它是屬於傳統函式的縮寫形式；但其實不然，箭頭函式與傳統函式大不同，本篇僅列出最常見的 this 差異，並透過大量的範例題，並透過範例的方式讓新手避免踩到箭頭函式最常見的雷。
-傳統函式的 this 問題JS 中很常利用物件、方法的形式來建構組件，在物件中的方法也可透過 this 來取得物件中的其它
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/29/arrow-homework/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/29/arrow-homework/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Mon, 28 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_14.jpg?alt=media&amp;token=ba6d6297-030d-4495-a510-459963174ca1" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        透過練習題，摸熟 This 的運作
-        ]]></title>
-            <description><![CDATA[
-            JavaScript 的 this 會隨著調用的方式不同影響其指向的不同（ES6 的箭頭函式定義也會影響指向），網路上已經提供相當多的資源介紹 this 指向的觀念，本篇只著重在最常運用的物件方法調用做介紹，並且透過練習題的方式，帶大家一步一步認識 this 的指向。
-關於「物件方法調用」可以查看本文章：https://wcc723.github.io/javascript/2019/03/18/
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/09/28/this-homework/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/09/28/this-homework/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sun, 27 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_13.jpg?alt=media&amp;token=604172f5-9369-4dda-838b-98004eac855f" length="0" type="image"/>
         </item>
     </channel>
 </rss>
