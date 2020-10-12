@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 11 Oct 2020 10:26:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2020 11:26:40 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 19　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4945246</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/46/0004945246.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1602405422.A.70D.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 11 Oct 2020 16:36:09 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官27　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4945237</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0004945237.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1602404890.A.6E4.html
+      很微小的地方有翻譯(爆...(繼續閱讀)</description>
+      <pubDate>Sun, 11 Oct 2020 16:27:28 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 18　作者：ジングー</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/82/0004907682.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1599384974.A.A88.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 6 Sep 2020 17:35:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 13　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4899976</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/76/0004899976.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1598781757.A.540.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 30 Aug 2020 18:02:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 幼稚園北狐 今年五歲歲24　作者：高橋哲哉</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4891889</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004891889.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1598169408.A.871.html
-      多生一篇w...(繼續閱讀)</description>
-      <pubDate>Sun, 23 Aug 2020 15:56:19 +0800</pubDate>
     </item>
   </channel>
 </rss>
