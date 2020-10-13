@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 12 Oct 2020 03:27:55 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Oct 2020 04:27:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,29 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        VSCode JS 註解就是你的文件
+        ]]></title>
+            <description><![CDATA[
+            在使用文字編輯器時，你是否有以下狀況呢？
+
+搞不懂，為什麼文字編輯器總是沒跳提示
+函式庫沒有安裝插件就不知道如何輸入
+同事或過去自己寫的函式不知道在寫什麼，都要花上許多時間去理解
+想要為函式補充註解，但不知道如何著手
+
+那麼你可以試著使用 VSCode，強大的 Intellisense 搞定所有函式提示！
+函式的提示使用 Sublime Text 或 Atom 時，當載入外部的套件需要加上文字提示
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/13/vscode-intellisense/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/13/vscode-intellisense/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Mon, 12 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_28.jpg?alt=media&amp;token=6586b8c2-a8df-41a3-bb73-0ac0d344aee3" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         純 CSS 毛玻璃特效 - backdrop-filter 屬性介紹
@@ -213,23 +236,6 @@ unshift()
             ]]></category>
             <pubDate>Thu, 01 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_17.jpg?alt=media&amp;token=453d818d-ab2d-40ca-abca-d3c150a692d9" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        AJAX 完整解說系列：新增、更新、刪除（POST/PATCH/DELETE）
-        ]]></title>
-            <description><![CDATA[
-            AJAX 除了 GET 以外，其它幾個常見的請求方法通常都會對資料庫進行操作，尤其是 POST、PUT、PATCH 在發出請求的同時還會有附加資源傳送至伺服器。
-
-雖然相對於 GET 來說僅是多增加了 “資料”，但這個步驟卻讓許多新進的開發者困擾不已，可能是對於 JSON 結構不熟悉、或是對於 API 文件不清楚，這都可能造成請求的失敗，所以本篇帶大家從文件開始到發送，完整說明一次帶有資料的請求是
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/01/about-ajax-2/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/01/about-ajax-2/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Wed, 30 Sep 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_16.jpg?alt=media&amp;token=d434496f-5624-4784-8b8f-f3dbb1b5f3de" length="0" type="image"/>
         </item>
     </channel>
 </rss>
