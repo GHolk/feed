@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 16 Oct 2020 01:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Oct 2020 06:27:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,22 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        Async function / Await 深度介紹
+        ]]></title>
+            <description><![CDATA[
+            非同步在前端的做法不斷的在進行優化調整，先前介紹過 Promise 可以解決非同步過度巢狀的問題，而本篇要介紹的 async function（非同步函式） 及 await 則可以將非同步的程式碼寫成類似同步的形式。 
+Promise 與 async, awaitPromise 本篇不會詳細介紹，如果不熟悉可以先查看 本篇 文章，Promise 與非同步函式兩者是密不可分的，雖然 async fu
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/10/16/async-await/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/16/async-await/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Thu, 15 Oct 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fawait.jpg?alt=media&amp;token=a8539023-9aff-4118-b80f-7344f2d02548" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         VSCode JS 註解就是你的文件
@@ -215,27 +231,6 @@ unshift()
             ]]></category>
             <pubDate>Fri, 02 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_18.jpg?alt=media&amp;token=ddebf02c-7873-436b-b737-04722e0981fc" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        AJAX 完整解說系列：使用 Chrome Devtools 檢視請求及回應
-        ]]></title>
-            <description><![CDATA[
-            從上一篇內容我們介紹到 AJAX 都是由瀏覽器發出請求，伺服器則會依據請求的內容進行回應。所以在這之中的 “請求”、“回應” 都會夾帶著不同資源，供瀏覽器及伺服器進行辨識及運用，所以此篇就針對瀏覽器與伺服器溝通的內容進行說明，帶大家更深入的認識 AJAX。
-
-
-發出請求到回應的過程示意圖
-
-注意：本篇以 “成功” 的請求為主，失敗不在本篇的介紹重點。
-所有的資訊都在 Chrome Network本
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/02/about-ajax-3/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/02/about-ajax-3/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Thu, 01 Oct 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_17.jpg?alt=media&amp;token=453d818d-ab2d-40ca-abca-d3c150a692d9" length="0" type="image"/>
         </item>
     </channel>
 </rss>

@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 16 Oct 2020 09:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2020 14:25:13 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] A!</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4950489</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0004950489.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Fri, 16 Oct 2020 20:02:16 +0800</pubDate>
+    </item>
     <item>
       <title>城市裡的歐派</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/36/0004806536.JPG"&gt;&lt;br&gt;這兩個月一直看灰階上色的影片一直看一直看...(繼續閱讀)</description>
       <pubDate>Fri, 5 Jun 2020 19:42:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>繪圖者聯盟-女裝大老</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4769564</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0004769564.JPG"&gt;&lt;br&gt;【繪師換裝大挑戰!妳的衣服我來穿!】...(繼續閱讀)</description>
-      <pubDate>Sun, 3 May 2020 04:46:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
