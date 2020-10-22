@@ -5,15 +5,24 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 21 Oct 2020 09:27:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2020 09:27:48 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】激烈</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4955416</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/16/0004955416.PNG"&gt;&lt;br&gt;健身環玩家每天都被靈環操ㄉ咪咪帽帽...(繼續閱讀)</description>
+      <pubDate>Wed, 21 Oct 2020 15:11:59 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【日常】加友</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=4953993</link>
       <author>ㄇㄐ</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/93/0004953993.PNG?v=1603123303"&gt;&lt;br&gt;基本上除了信任的人我都不會加...(繼續閱讀)</description>
+      src="https://p2.bahamut.com.tw/HOME/creationCover/93/0004953993.PNG"&gt;&lt;br&gt;基本上除了信任的人我都不會加...(繼續閱讀)</description>
       <pubDate>Tue, 20 Oct 2020 00:01:43 +0800</pubDate>
     </item>
     <item>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/28/0004921328.PNG"&gt;&lt;br&gt;我當時害怕極了...(繼續閱讀)</description>
       <pubDate>Sat, 19 Sep 2020 03:19:29 +0800</pubDate>
-    </item>
-    <item>
-      <title>【跑跑卡丁車RUSH+】繪圖接龍挑戰</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4917568</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004917568.PNG"&gt;&lt;br&gt;和大家一起繪圖接龍挑戰！這次的主題是痞子妹！！...(繼續閱讀)</description>
-      <pubDate>Tue, 15 Sep 2020 15:59:11 +0800</pubDate>
     </item>
   </channel>
 </rss>
