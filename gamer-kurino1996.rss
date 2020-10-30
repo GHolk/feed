@@ -5,15 +5,24 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 30 Oct 2020 11:27:55 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 31 Oct 2020 00:27:49 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】修電腦</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4965048</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0004965048.PNG?v=1604046727"&gt;&lt;br&gt;半年份圖檔全部遺失的痛......(繼續閱讀)</description>
+      <pubDate>Fri, 30 Oct 2020 16:32:07 +0800</pubDate>
+    </item>
     <item>
       <title>【募戀英雄】萬聖節快樂！</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=4963968</link>
       <author>ㄇㄐ</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004963968.PNG?v=1603960283"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004963968.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 29 Oct 2020 16:31:23 +0800</pubDate>
     </item>
     <item>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/58/0004951858.PNG"&gt;&lt;br&gt;最近的成人向遊戲是不是太有特色了點啊救命...(繼續閱讀)</description>
       <pubDate>Sun, 18 Oct 2020 00:00:26 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【日常】睡吧</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4950891</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0004950891.PNG"&gt;&lt;br&gt;還是睡覺容易多了...(繼續閱讀)</description>
-      <pubDate>Sat, 17 Oct 2020 00:33:57 +0800</pubDate>
     </item>
   </channel>
 </rss>
