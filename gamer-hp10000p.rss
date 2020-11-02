@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 1 Nov 2020 00:25:14 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 2 Nov 2020 12:25:31 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>萬聖節火雞</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4967972</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004967972.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sun, 1 Nov 2020 19:38:32 +0800</pubDate>
+    </item>
     <item>
       <title>遜炮死神護士</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/11/0004832611.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 29 Jun 2020 16:05:01 +0800</pubDate>
-    </item>
-    <item>
-      <title>女生的桌遊</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4828800</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/00/0004828800.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 26 Jun 2020 01:01:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
