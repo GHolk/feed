@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 4 Nov 2020 10:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 5 Nov 2020 10:27:07 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【守望傳說】 星火燎原</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4970921</link>
+      <author>LawRen</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/21/0004970921.JPG?v=1604489915"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 4 Nov 2020 19:38:35 +0800</pubDate>
+    </item>
     <item>
       <title>公告，以後我會固定開實況！</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/84/0004806684.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 5 Jun 2020 21:51:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 男生的帥只有男生懂</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4798840</link>
-      <author>LawRen</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0004798840.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 29 May 2020 18:26:30 +0800</pubDate>
     </item>
   </channel>
 </rss>
