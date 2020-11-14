@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 13 Nov 2020 01:27:50 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 14 Nov 2020 01:28:04 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[中国的审美水平问题]]></title>
-            <description><![CDATA[看过了当今中国的种种丑陋的社会现象和城市建设，又看了一些中国历史，我有一个大胆的猜想：中国从古到今都有一个非常严重的问题，那就是审美水平有问题。]]></description>
+            <title><![CDATA[中国的审美问题]]></title>
+            <description><![CDATA[看过了当今中国的种种丑陋的社会现象和城市建设，又看了一些中国历史，我有一个猜想：中国从古到今都有一个非常严重的问题，那就是审美有问题。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/11/12/china-esthetics-problem</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/11/12/china-esthetics-problem</guid>
             <pubDate>Wed, 11 Nov 2020 16:00:00 GMT</pubDate>
