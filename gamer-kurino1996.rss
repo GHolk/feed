@@ -5,15 +5,24 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 17 Nov 2020 00:27:50 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2020 11:27:48 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】每天早上</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4984298</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/98/0004984298.PNG?v=1605595456"&gt;&lt;br&gt;神啊我想不工作就有錢拿...(繼續閱讀)</description>
+      <pubDate>Tue, 17 Nov 2020 14:44:16 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【日常】NG條件</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=4982512</link>
       <author>ㄇㄐ</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004982512.PNG"&gt;&lt;br&gt;憑實力單身desu...(繼續閱讀)</description>
+      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004982512.PNG?v=1605445107"&gt;&lt;br&gt;憑實力單身desu...(繼續閱讀)</description>
       <pubDate>Sun, 15 Nov 2020 20:58:27 +0800</pubDate>
     </item>
     <item>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004957585.PNG"&gt;&lt;br&gt;真的是要實際操作才知道那個煙火般彈幕的恐怖...(繼續閱讀)</description>
       <pubDate>Fri, 23 Oct 2020 16:30:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>【完美世界M】普通好聲音</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4956514</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/14/0004956514.PNG"&gt;&lt;br&gt;唱歌難聽至少對某些客群來說還是萌點......(繼續閱讀)</description>
-      <pubDate>Thu, 22 Oct 2020 16:02:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
