@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 18 Nov 2020 11:27:48 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2020 12:27:48 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】聽我說啦</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4985271</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/71/0004985271.PNG?v=1605677510"&gt;&lt;br&gt;我沒有要辯解ㄉ意思...(繼續閱讀)</description>
+      <pubDate>Wed, 18 Nov 2020 13:31:50 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【日常】每天早上</title>
       <link>
@@ -22,7 +31,7 @@
       http://home.gamer.com.tw/creationDetail.php?sn=4982512</link>
       <author>ㄇㄐ</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004982512.PNG?v=1605445107"&gt;&lt;br&gt;憑實力單身desu...(繼續閱讀)</description>
+      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004982512.PNG"&gt;&lt;br&gt;憑實力單身desu...(繼續閱讀)</description>
       <pubDate>Sun, 15 Nov 2020 20:58:27 +0800</pubDate>
     </item>
     <item>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/06/0004958706.PNG"&gt;&lt;br&gt;這次試著畫了王子藍寶！他腰上既然有配劍...(繼續閱讀)</description>
       <pubDate>Sat, 24 Oct 2020 16:30:22 +0800</pubDate>
-    </item>
-    <item>
-      <title>【東方 LostWord】兩回事</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4957585</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/85/0004957585.PNG"&gt;&lt;br&gt;真的是要實際操作才知道那個煙火般彈幕的恐怖...(繼續閱讀)</description>
-      <pubDate>Fri, 23 Oct 2020 16:30:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
