@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 23 Nov 2020 10:25:34 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2020 12:25:38 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【２０２０ 新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004911025.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 9 Sep 2020 19:23:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 本斥但…香</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=4990768</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0004990768.PNG?v=1606132892"&gt;&lt;br&gt;媽的軒轅劍柒女主角這麼好看、身材又棒，卻包這麼多是在衝三小一怒之下只好把她給畫成我喜歡的樣子...(繼續閱讀)</description>
+      <pubDate>Mon, 23 Nov 2020 20:01:32 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 破門緊急事件</title>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 25 May 2020 03:57:55 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 愛莉絲的泳衣</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4777335</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sun, 10 May 2020 06:57:40 +0800</pubDate>
     </item>
   </channel>
 </rss>
