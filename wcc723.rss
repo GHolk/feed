@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 11 Dec 2020 13:27:58 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Dec 2020 03:27:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        12 個前端愛用的 VSCode 擴充套件
+        ]]></title>
+            <description><![CDATA[
+            工欲善其事，缺乏好工具必定壞脾氣。
+身為一名工程師，將文字編輯器打造出具個人風格也是理所當然的。VSCode 是現在主流的文字編輯器，也因為使用者相當多，沒有特別打理的情況不乏會有撞衫的情況：
+「你也是用 VSCode 喔」「我也是耶…」（不知怎麼往下接）
+為了避免尷尬情境，並且突顯自己的高尚，將 VSCode 安裝一堆套件，讓它每次展示就像一款從未現身於世面的工具；在社群中將不會有撞衫感，更能顯
+        ]]></description>
+            <link>https://wcc723.github.io/development/2020/12/13/vscode-extension/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2020/12/13/vscode-extension/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 12 Dec 2020 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fvscode.jpg?alt=media&amp;token=4454d966-0526-44e6-b043-f488c2f97af4" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         Async function / Await 深度介紹
@@ -209,28 +227,6 @@ unshift()
             ]]></category>
             <pubDate>Sat, 03 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_19.jpg?alt=media&amp;token=8d6a40c4-0b89-4e5c-b7cd-d512cc400264" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        AJAX 完整解說系列：輕鬆搞懂 HTTP 狀態碼（HTTP Status Code）
-        ]]></title>
-            <description><![CDATA[
-            AJAX 是前端與後端的介接，當跨越不同的環境時，所有的狀態會越來越難預期，接著就可能會發生錯誤，造成的錯誤狀態可能會如下：
-
-流程與設計不同
-資料格式不符合
-連線失敗、網路不穩定
-程式碼上的錯誤（這就不是本章節要討論的）
-
-錯誤在開發的過程中是非常常見的，只不過我們在開發的過程中容易「忽視錯誤」僅以「最完美個過程」進行開發，這樣的結果會導致使用者不知道正遭遇在錯誤的狀態中而苦苦等待，所以錯誤一定
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/03/about-ajax-4/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/03/about-ajax-4/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 02 Oct 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_18.jpg?alt=media&amp;token=ddebf02c-7873-436b-b737-04722e0981fc" length="0" type="image"/>
         </item>
     </channel>
 </rss>
