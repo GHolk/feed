@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Mon, 14 Dec 2020 12:27:48 +0800</lastBuildDate>
+    <lastBuildDate>Tue, 15 Dec 2020 10:27:52 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】真的沒關係啦</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5011942</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/42/0005011942.PNG"&gt;&lt;br&gt;英Ｊ沒關係啦那個還會再長啦......(繼續閱讀)</description>
+      <pubDate>Mon, 14 Dec 2020 15:29:49 +0800</pubDate>
+    </item>
     <item>
       <title>【楓之谷M】選擇</title>
       <link>
@@ -87,15 +96,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/71/0004985271.PNG"&gt;&lt;br&gt;我沒有要辯解ㄉ意思...(繼續閱讀)</description>
       <pubDate>Wed, 18 Nov 2020 13:31:50 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【日常】每天早上</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4984298</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/98/0004984298.PNG"&gt;&lt;br&gt;神啊我想不工作就有錢拿...(繼續閱讀)</description>
-      <pubDate>Tue, 17 Nov 2020 14:44:16 +0800</pubDate>
     </item>
   </channel>
 </rss>
