@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 19 Dec 2020 00:26:39 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Dec 2020 15:26:37 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>四格翻譯) 森林裡的大野狼少女21　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5017683</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/83/0005017683.JPG?v=1608448687"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1608448718.A.D23.html
+      變冷了...(繼續閱讀)</description>
+      <pubDate>Sun, 20 Dec 2020 15:18:07 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 29　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5017666</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0005017666.JPG?v=1608448032"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1608448060.A.9E5.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 20 Dec 2020 15:07:12 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 幼稚園北狐 今年五歲歲25　作者：高橋哲哉</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/60/0004974760.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1604822255.A.717.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 8 Nov 2020 15:57:04 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官28　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4974753</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0004974753.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1604821448.A.E2D.html
-      這次的μ兵装全部都好強...(繼續閱讀)</description>
-      <pubDate>Sun, 8 Nov 2020 15:43:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 22　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4967729</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/29/0004967729.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1604214711.A.2D4.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 1 Nov 2020 15:11:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
