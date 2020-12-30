@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 29 Dec 2020 12:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 30 Dec 2020 10:28:53 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[廢文] 碧藍航線 虚畳なりし限象 20201229</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5027649</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/49/0005027649.JPG"&gt;&lt;br&gt;日記用
+      無編輯其實一直有打算每次記錄，然後每次都......(繼續閱讀)</description>
+      <pubDate>Tue, 29 Dec 2020 23:02:32 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 我家有隻妖精小燐10　作者：ま</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/42/0004989542.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1606031998.A.CAB.html
       蹲聯動資金中...(繼續閱讀)</description>
       <pubDate>Sun, 22 Nov 2020 15:59:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 25　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4989525</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004989525.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1606031080.A.280.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 22 Nov 2020 15:43:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
