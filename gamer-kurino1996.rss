@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 31 Dec 2020 10:27:49 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 1 Jan 2021 00:27:49 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】回答看看吧</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5029628</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/28/0005029628.PNG?v=1609420643"&gt;&lt;br&gt;這是以前別人問過我的問題我也來問問看大家！...(繼續閱讀)</description>
+      <pubDate>Thu, 31 Dec 2020 21:17:23 +0800</pubDate>
+    </item>
     <item>
       <title>【跑跑卡丁車 RUSH+】ㄚ肥的聖誕大餐</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/91/0004994491.PNG"&gt;&lt;br&gt;第2季大規模更新來啦！！...(繼續閱讀)</description>
       <pubDate>Fri, 27 Nov 2020 15:51:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>【完美世界M】雙人動作</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4986287</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/87/0004986287.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 19 Nov 2020 14:02:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
