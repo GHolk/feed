@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 30 Dec 2020 02:31:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 31 Dec 2020 02:27:52 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[吉他的正确调音方式]]></title>
+            <description><![CDATA[吉他是比钢琴的音符排布更科学的乐器，因为它的 12 个音是均匀分布的，每个间隔都是一个“半音”（semitone），但是昨天通过乐理分析发现，大部分吉他手正在用的传统吉他调音方式居然是错误的，而且错的方式有点离谱。虽然本质上比钢琴设计好，可是这个调音的“bug”导致了很多不必要的复杂性。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</guid>
+            <pubDate>Tue, 29 Dec 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[音乐的语言是很糟糕的]]></title>
-            <description><![CDATA[音乐理论破解了 90%，怒了。听起来美妙的音乐，背后原来有着如此糟糕的语言。其实我一开头就没指望音乐会有很好的语言，可是没想到它可以糟到这种程度，难怪这么多人讲来讲去也讲不清楚，很多人学音乐最后都是以放弃告终。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/12/19/music</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/12/19/music</guid>
             <pubDate>Fri, 18 Dec 2020 16:00:00 GMT</pubDate>
