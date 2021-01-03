@@ -4,8 +4,26 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 3 Jan 2021 00:27:55 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 4 Jan 2021 00:27:55 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part12</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5032768</link>
+      <author>にゃひ～や</author>
+      <description />
+      <pubDate>Sun, 3 Jan 2021 14:18:15 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 31　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5032756</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/56/0005032756.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1609653790.A.7F7.html
+      家庭訪問太太篇2設定也都太棒，會轉成太太...(繼續閱讀)</description>
+      <pubDate>Sun, 3 Jan 2021 14:02:34 +0800</pubDate>
+    </item>
     <item>
       <title>[廢文] 碧藍航線 虚畳なりし限象 20201229</title>
       <link>
@@ -85,26 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/16/0005003816.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1607242678.A.B1D.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 6 Dec 2020 16:17:25 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 26　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4996596</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/96/0004996596.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1606635087.A.5EA.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 29 Nov 2020 15:30:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官29　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4989542</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/42/0004989542.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1606031998.A.CAB.html
-      蹲聯動資金中...(繼續閱讀)</description>
-      <pubDate>Sun, 22 Nov 2020 15:59:28 +0800</pubDate>
     </item>
   </channel>
 </rss>
