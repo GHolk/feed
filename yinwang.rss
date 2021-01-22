@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 17 Jan 2021 16:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jan 2021 08:27:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[巴赫与莫扎特]]></title>
+            <description><![CDATA[很多人简单地以为“古典音乐”就是好的，是高雅艺术，可是古典音乐和古典音乐却是不一样的。音乐不能只是悦耳，它还需要有趣。很多人盲目崇拜古典音乐，却没有意识到某些古典音乐可以有多无聊。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</guid>
+            <pubDate>Mon, 18 Jan 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[吉他的正确调音方式]]></title>
-            <description><![CDATA[吉他是比钢琴的音符排布更科学的乐器，因为它的 12 个音是均匀分布的，每个间隔都是一个“半音”（semitone），但是昨天通过乐理分析发现，大部分吉他手正在用的传统吉他调音方式居然是错误的，而且错的方式有点离谱。虽然本质上比钢琴设计好，可是这个调音的“bug”导致了很多不必要的复杂性。这篇文章的目的是引导人们去理解和修正这个错误。]]></description>
             <link>http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</guid>
             <pubDate>Tue, 29 Dec 2020 16:00:00 GMT</pubDate>
