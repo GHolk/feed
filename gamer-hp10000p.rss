@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 22 Jan 2021 16:25:15 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 24 Jan 2021 00:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【天竺鼠車車】可怕的鼠</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5049753</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0005049753.JPG"&gt;&lt;br&gt;從那以後都覺得鼠類是種會不斷自相殘殺，動不動就吃掉自己小孩的物種看著很可愛但一點都不會想去養了．．．...(繼續閱讀)</description>
+      <pubDate>Fri, 22 Jan 2021 18:40:27 +0800</pubDate>
+    </item>
     <item>
       <title>陸海空三寶</title>
       <link>
@@ -89,15 +98,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004840518.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Thu, 1 Jan 1970 08:00:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 好久不見</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4837012</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/12/0004837012.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 3 Jul 2020 18:34:47 +0800</pubDate>
     </item>
   </channel>
 </rss>
