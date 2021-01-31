@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 25 Jan 2021 03:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 31 Jan 2021 06:27:52 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,7 +20,7 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[巴赫与莫扎特]]></title>
+            <title><![CDATA[巴赫，肖邦与莫扎特]]></title>
             <description><![CDATA[很多人简单地以为“古典音乐”就是好的，是高雅艺术，可是古典音乐和古典音乐却是不一样的。音乐不能只是悦耳，它还需要有趣。很多人盲目崇拜古典音乐，却没有意识到某些古典音乐可以有多无聊。]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</guid>
