@@ -4,15 +4,25 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 Jan 2021 14:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 6 Feb 2021 08:26:41 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[活動記錄] 碧藍航線 母港春節2021 20210204</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5061730</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/30/0005061730.JPG"&gt;&lt;br&gt;日記用
+      無編輯話說微速前進的BD好貴...(繼續閱讀)</description>
+      <pubDate>Thu, 4 Feb 2021 20:33:40 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 34　作者：ジングー</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=5057845</link>
       <author>にゃひ～や</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0005057845.JPG?v=1612074128"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1612074170.A.1AE.html
+      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0005057845.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1612074170.A.1AE.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 31 Jan 2021 14:22:08 +0800</pubDate>
     </item>
@@ -85,7 +95,7 @@
       <pubDate>Sun, 3 Jan 2021 14:02:34 +0800</pubDate>
     </item>
     <item>
-      <title>[廢文] 碧藍航線 虚畳なりし限象 20201229</title>
+      <title>[活動記錄] 碧藍航線 虚畳なりし限象 20201229</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=5027649</link>
       <author>にゃひ～や</author>
@@ -93,16 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/49/0005027649.JPG"&gt;&lt;br&gt;日記用
       無編輯其實一直有打算每次記錄，然後每次都......(繼續閱讀)</description>
       <pubDate>Tue, 29 Dec 2020 23:02:32 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐10　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5025463</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/63/0005025463.PNG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1609065327.A.7A4.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 27 Dec 2020 18:35:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
