@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 7 Feb 2021 00:27:47 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 11 Feb 2021 19:06:00 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>【天堂2M】遲來的童年</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5065140</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0005065140.JPG"&gt;&lt;br&gt;小時候只能看大人玩...(繼續閱讀)</description>
+      <pubDate>Mon, 8 Feb 2021 16:00:15 +0800</pubDate>
+    </item>
     <item>
       <title>【最後的克勞迪亞】不是問題</title>
       <link>
@@ -90,15 +99,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/33/0005039533.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Sun, 10 Jan 2021 23:27:59 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【日常】回答看看吧</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5029628</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/28/0005029628.PNG"&gt;&lt;br&gt;這是以前別人問過我的問題我也來問問看大家！...(繼續閱讀)</description>
-      <pubDate>Thu, 31 Dec 2020 21:17:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
