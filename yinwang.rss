@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 14 Feb 2021 03:27:57 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 21 Feb 2021 05:27:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,20 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[计算机科学阅读班（实验）]]></title>
+            <description><![CDATA[昨天发出计算机科学基础班（第三期）的信息，已经收到了好些同学的踊跃报名。请大家写申请不要有太大压力，我会在春节之后的一个星期才开始阅读这些申请。请注意我不是按照发送的时间顺序，而是综合考虑的，所以请大家写申请不要有时间压力，好好享受春节的最后几天。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/02/16/cs-reading-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/02/16/cs-reading-course</guid>
+            <pubDate>Mon, 15 Feb 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学基础班（第三期）报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/02/15/cs3</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/02/15/cs3</guid>
+            <pubDate>Sun, 14 Feb 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[巴赫，肖邦与莫扎特]]></title>
-            <description><![CDATA[很多人简单地以为“古典音乐”就是好的，是高雅艺术，可是古典音乐和古典音乐却是不一样的。音乐不能只是悦耳，它还需要有趣。很多人盲目崇拜古典音乐，却没有意识到某些古典音乐可以有多无聊。]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</guid>
             <pubDate>Mon, 18 Jan 2021 16:00:00 GMT</pubDate>

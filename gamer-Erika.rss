@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 14 Feb 2021 11:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Feb 2021 13:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 35+　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5070285</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/85/0005070285.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1613284137.A.3E6.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 14 Feb 2021 14:28:25 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 小赤城與指揮官31　作者：ぷち</title>
       <link>
@@ -93,16 +103,6 @@
       <author>にゃひ～や</author>
       <description />
       <pubDate>Sun, 3 Jan 2021 14:18:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 31　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5032756</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/56/0005032756.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1609653790.A.7F7.html
-      家庭訪問太太篇2設定也都太棒，會轉成太太...(繼續閱讀)</description>
-      <pubDate>Sun, 3 Jan 2021 14:02:34 +0800</pubDate>
     </item>
   </channel>
 </rss>
