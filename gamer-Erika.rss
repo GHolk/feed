@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 21 Feb 2021 13:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 09:26:40 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[活動記錄] 碧藍航線 暁射す氷華の嵐 20210225</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5080673</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/73/0005080673.JPG"&gt;&lt;br&gt;日記用
+      無編輯換手機所以截圖尺寸變了w...(繼續閱讀)</description>
+      <pubDate>Thu, 25 Feb 2021 22:49:05 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官32　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5076589</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0005076589.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1613889809.A.959.html
+      月底大活蹲資金~...(繼續閱讀)</description>
+      <pubDate>Sun, 21 Feb 2021 14:43:08 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 35+　作者：ジングー</title>
       <link>
@@ -85,24 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/77/0005039077.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1610267306.A.390.html
       冷死了，我也要抱可以取暖的尾巴...(繼續閱讀)</description>
       <pubDate>Sun, 10 Jan 2021 16:27:57 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 32　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5039069</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/69/0005039069.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1610266655.A.3C4.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 10 Jan 2021 16:17:06 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 奴隷との生活　作者：捨駒 part12</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5032768</link>
-      <author>にゃひ～や</author>
-      <description />
-      <pubDate>Sun, 3 Jan 2021 14:18:15 +0800</pubDate>
     </item>
   </channel>
 </rss>

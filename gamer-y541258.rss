@@ -5,8 +5,19 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 21 Feb 2021 13:26:14 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 27 Feb 2021 09:26:19 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>離心力短篇─未雨綢繆</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5078552</link>
+      <author>李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;「唔,要是哪天眼睛不行的話,還有什麼休閒活動?」
+      『好沉重的話題,感覺就像是小孩子突然問生命的盡頭是什麼這樣』
+      "就算不是小孩子問也很沉重"...(繼續閱讀)</description>
+      <pubDate>Tue, 23 Feb 2021 17:01:07 +0800</pubDate>
+    </item>
     <item>
       <title>離心力短篇─小說人物數量</title>
       <link>
@@ -91,15 +102,6 @@
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;目前,產生和弦成功,但有些爆音與雜訊
       https://github.com/y541258/HTML5/blob/master/MIDI_web/wav_pit...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 17:43:27 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/21,已完成動畫背景切換統計(需人工檢核),.wav檔產生波形與和弦未著手</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4168658</link>
-      <author>李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;今日目標或說問題有兩個1.動畫背景切換統計(已完成,但還沒全自動化,或者說不知道怎麼全自動化)(類似散步跟室內跑步機的差異...(繼續閱讀)</description>
-      <pubDate>Sun, 21 Oct 2018 11:28:29 +0800</pubDate>
     </item>
   </channel>
 </rss>
