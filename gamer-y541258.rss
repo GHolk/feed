@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 28 Feb 2021 00:26:15 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 6 Mar 2021 11:26:15 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>離心力短篇─覺得數學很厲害</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5086625</link>
+      <author>李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;『』靜靜的,""在旁邊晃來晃去""往『』走過去了些『有什麼事嗎?』...(繼續閱讀)</description>
+      <pubDate>Thu, 4 Mar 2021 12:37:29 +0800</pubDate>
+    </item>
     <item>
       <title>離心力短篇─未雨綢繆</title>
       <link>
@@ -92,16 +101,6 @@
       已經能辦到了(雖然目前操作不方便),但不清楚使用上是否會有些容量的限制
       可能到12月時會有成果吧,關鍵字是canva...(繼續閱讀)</description>
       <pubDate>Mon, 22 Oct 2018 18:27:23 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/22~24,藉由網頁檔來讓.wav檔產生波形(固定音高)與和弦,若能去除雜訊就算成功了</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4169993</link>
-      <author>李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;目前,產生和弦成功,但有些爆音與雜訊
-      https://github.com/y541258/HTML5/blob/master/MIDI_web/wav_pit...(繼續閱讀)</description>
-      <pubDate>Mon, 22 Oct 2018 17:43:27 +0800</pubDate>
     </item>
   </channel>
 </rss>
