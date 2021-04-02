@@ -4,15 +4,25 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 28 Mar 2021 00:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 2 Apr 2021 15:26:53 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 39　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5107259</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/59/0005107259.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1616908618.A.6B2.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 28 Mar 2021 13:16:31 +0800</pubDate>
+    </item>
     <item>
       <title>[活動記錄] 碧藍航線 開かれし紺碧の砂箱 20210325</title>
       <link>
       http://home.gamer.com.tw/creationDetail.php?sn=5104906</link>
       <author>にゃひ～や</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/06/0005104906.JPG?v=1616675006"&gt;&lt;br&gt;日記用
+      src="https://p2.bahamut.com.tw/HOME/creationCover/06/0005104906.JPG"&gt;&lt;br&gt;日記用
       無編輯還沒開新大活 中間記錄一下...(繼續閱讀)</description>
       <pubDate>Thu, 25 Mar 2021 20:23:26 +0800</pubDate>
     </item>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/89/0005076589.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1613889809.A.959.html
       月底大活蹲資金~...(繼續閱讀)</description>
       <pubDate>Sun, 21 Feb 2021 14:43:08 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 35+　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5070285</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/85/0005070285.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1613284137.A.3E6.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 14 Feb 2021 14:28:25 +0800</pubDate>
     </item>
   </channel>
 </rss>
