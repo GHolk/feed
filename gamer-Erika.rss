@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 2 Apr 2021 15:26:53 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 10 Apr 2021 14:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 40　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5113548</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/48/0005113548.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1617512732.A.FB7.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 4 Apr 2021 13:04:57 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 39　作者：ジングー</title>
       <link>
@@ -95,16 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/73/0005080673.JPG"&gt;&lt;br&gt;日記用
       無編輯換手機所以截圖尺寸變了w...(繼續閱讀)</description>
       <pubDate>Thu, 25 Feb 2021 22:49:05 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官32　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5076589</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/89/0005076589.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1613889809.A.959.html
-      月底大活蹲資金~...(繼續閱讀)</description>
-      <pubDate>Sun, 21 Feb 2021 14:43:08 +0800</pubDate>
     </item>
   </channel>
 </rss>
