@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 11 Apr 2021 04:27:51 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Apr 2021 08:27:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,23 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        VSCode Prettier 整合 ESLint 自動排版
+        ]]></title>
+            <description><![CDATA[
+            VSCode 中有一個非常不錯的格式化工具，可以透過一個按鍵將雜亂的程式碼排列的整整齊齊，無論是 HTML、CSS、JavaScript 均可以套用。而此工具稱為 “Prettier”，在 VSCode 中也是屬於預設工具，除了預設選項外也能有許多的客製化調整。
+而我們在開發的過程中，為了確保團隊的開發風格一致，JS 部分通常也會導入 ESLint 來統一撰寫風格。
+但是，ESlint 與 Pr
+        ]]></description>
+            <link>https://wcc723.github.io/development/2021/04/11/vscode-eslint-prettier/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/development/2021/04/11/vscode-eslint-prettier/</guid>
+            <category><![CDATA[
+            development
+            ]]></category>
+            <pubDate>Sat, 10 Apr 2021 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fvscode_eslint_prettier.jpg?alt=media&amp;token=fb98775e-0bfe-4d52-8dfe-96caf43641f5" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         Vue3 中使用 Event Bus
@@ -208,21 +225,6 @@ Bootstrap 4 中我經常會建議學員不要自行調整水平間距，因為�
             ]]></category>
             <pubDate>Wed, 07 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_23.jpg?alt=media&amp;token=57512023-4c18-42df-a2b6-e1521dc8caa8" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        JS - for 迴圈與 forEach 有什麼不同
-        ]]></title>
-            <description><![CDATA[
-            過去，當有一個陣列的內容需要依序取值時，都會使用 for... 迴圈(for loop)的形式將值一一取出，原始碼的結構如下：12345var array = ['小明', '杰倫', '漂亮阿姨', '小美']for (var i = 0; i < array.length; i++) {  cons
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/05/js-for-loop-vs-for-each/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/05/js-for-loop-vs-for-each/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Sun, 04 Oct 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_20.jpg?alt=media&amp;token=fac330e3-b516-421d-b072-1ed4f70cab8a" length="0" type="image"/>
         </item>
     </channel>
 </rss>
