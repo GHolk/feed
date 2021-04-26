@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 25 Apr 2021 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 26 Apr 2021 12:26:41 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 幼稚園北狐 今年五歲歲28　作者：高橋哲哉</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5131774</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/74/0005131774.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1619331668.A.7CE.html
+      鯊鯊終於混進幼稚園了...(繼續閱讀)</description>
+      <pubDate>Sun, 25 Apr 2021 14:20:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官33　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5131765</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/65/0005131765.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1619331243.A.6D0.html
+      小天城好可愛...(繼續閱讀)</description>
+      <pubDate>Sun, 25 Apr 2021 14:13:38 +0800</pubDate>
+    </item>
     <item>
       <title>[活動記錄] 碧藍航線 讃える復興の迷路 20210422</title>
       <link>
@@ -85,26 +105,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/50/0005095250.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1615703347.A.E0F.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 14 Mar 2021 14:28:19 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 幼稚園北狐 今年五歲歲27　作者：高橋哲哉</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5089461</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/61/0005089461.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1615105260.A.5A1.html
-      有北狐才會更新w...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Mar 2021 16:20:19 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 37　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5089450</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/50/0005089450.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1615104769.A.708.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 7 Mar 2021 16:11:50 +0800</pubDate>
     </item>
   </channel>
 </rss>
