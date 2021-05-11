@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 11 May 2021 02:27:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 16:27:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,7 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[《Ground-Up Computer Science》样章]]></title>
-            <description><![CDATA[经过两个月的阅读班实验，我的计算机科学入门教材已经完成了前面 6 章的草稿，还剩最后两章正在继续写。这本书暂命名为《Ground-Up Computer Science》，就是“从地而起”，不需要其它基础的意思。]]></description>
+            <title><![CDATA[『Ground-Up Computer Science』样章]]></title>
             <link>http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</guid>
             <pubDate>Mon, 10 May 2021 16:00:00 GMT</pubDate>
