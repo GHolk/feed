@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 10 May 2021 04:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 May 2021 02:27:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,20 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[《Ground-Up Computer Science》样章]]></title>
+            <description><![CDATA[经过两个月的阅读班实验，我的计算机科学入门教材已经完成了前面 6 章的草稿，还剩最后两章正在继续写。这本书暂命名为《Ground-Up Computer Science》，就是“从地而起”，不需要其它基础的意思。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</guid>
+            <pubDate>Mon, 10 May 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学基础班（第 4 期）报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/05/10/cs4</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/05/10/cs4</guid>
+            <pubDate>Sun, 09 May 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[大提琴为什么这么难学]]></title>
-            <description><![CDATA[（本文记录了我开始“破解大提琴计划”一个月以来的阶段性发现。图片比较多，虽然经过压缩，还是需要一定时间，请耐心等待加载。）]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/04/16/cello-technique</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/04/16/cello-technique</guid>
             <pubDate>Thu, 15 Apr 2021 16:00:00 GMT</pubDate>
