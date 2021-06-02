@@ -22,7 +22,7 @@ user_list="
 for user in $user_list
 do
     sleep 10s
-    php gamer/home-gamer.php $user >../gamer-$user.rss
+    gamer/home-gamer.php $user >../gamer-$user.rss
 done
 
 tidy -q -utf8 -xml -m -i ../gamer-*.rss
