@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Wed, 9 Jun 2021 00:27:07 +0800</lastBuildDate>
+    <lastBuildDate>Thu, 10 Jun 2021 13:27:09 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] Hololive 舞臺綻放</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5173563</link>
+      <author>新彥</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/63/0005173563.PNG?v=1623250283"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Wed, 9 Jun 2021 22:51:23 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] Hololive 頂級獵食者</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004829147.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Fri, 26 Jun 2020 12:48:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 兵不厭詐，這是戰爭。</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4821527</link>
-      <author>新彥</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/27/0004821527.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 19 Jun 2020 15:18:10 +0800</pubDate>
     </item>
   </channel>
 </rss>
