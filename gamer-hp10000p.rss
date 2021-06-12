@@ -5,8 +5,18 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 12 Jun 2021 00:25:12 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 13 Jun 2021 00:25:12 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 可可畢業</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5176187</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/87/0005176187.JPG"&gt;&lt;br&gt;那天看完天使直播完速速下播，想說原來是有可可重大發表，先去吃個早餐等等回來看是什麼事
+      結果吃一半朋友就密我說可可宣布畢業 當下真的超錯愕想說怎麼可能 應該是搞...(繼續閱讀)</description>
+      <pubDate>Sat, 12 Jun 2021 20:25:14 +0800</pubDate>
+    </item>
     <item>
       <title>【神魔三國志】開局就送一堆神魔</title>
       <link>
@@ -90,15 +100,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/44/0004964044.JPG"&gt;&lt;br&gt;GURA說CALI適合扮護士
       CALI很爽快說想嘗試 真不錯 ...(繼續閱讀)</description>
       <pubDate>Thu, 29 Oct 2020 18:15:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] bottomleft ねね</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4962960</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/60/0004962960.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Wed, 28 Oct 2020 16:20:33 +0800</pubDate>
     </item>
   </channel>
 </rss>
