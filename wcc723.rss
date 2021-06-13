@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 12 Jun 2021 16:27:52 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jun 2021 16:27:48 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        Mac 擷取系統音效 - 直播、錄影均適用
+        ]]></title>
+            <description><![CDATA[
+            直播遊戲或是錄影希望搭配系統的聲音，如果沒有另外進行設定，就只能透過麥克風接收系統所播放的聲音，這樣的品質對於聽眾來說真的不太好，且如果太大聲也會影響直播者 / 錄影者的思緒。
+因此，本篇介紹如何使用「軟體」的方式擷取系統的聲音，如果直播或錄影工具可接收多個收音裝置，將可使用系統的聲音進行錄影 / 直播，本篇所介紹的直播工具為 OBS，也是許多值播主所使用的軟體。
+
+請注意，本篇不支援「M1」的作
+        ]]></description>
+            <link>https://wcc723.github.io/life/2021/06/13/mac-reacord-by-soundflower/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/life/2021/06/13/mac-reacord-by-soundflower/</guid>
+            <category><![CDATA[
+            life
+            ]]></category>
+            <pubDate>Sat, 12 Jun 2021 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fmac_sound.jpg?alt=media&amp;token=67c79d98-633e-4f38-a09d-895d839ef5f9" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         NODE.JS 開 API 不求人 - 教學影片
@@ -208,35 +226,6 @@ Bootstrap 4 中我經常會建議學員不要自行調整水平間距，因為�
             ]]></category>
             <pubDate>Fri, 09 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_25.jpg?alt=media&amp;token=12703e8e-5550-4cee-938c-e735d0d060f0" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        怎樣也不會失手的 Bootstrap 格線運用技巧
-        ]]></title>
-            <description><![CDATA[
-            
-
-
-.box {
-  height: 100px;
-  background-color: #69F0AE;
-}
-.form-row>.col, .form-row>[class*=col-] {
-  padding-right: 5px;
-  padding-left: 5px;
-}
-.form-row {
-  display: -ms-flexbox;
-  display: flex;
-  
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/09/bootstrap-grid/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/09/bootstrap-grid/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Thu, 08 Oct 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_24.jpg?alt=media&amp;token=eff1db4b-9fc3-4683-9e84-7794b0c8a58a" length="0" type="image"/>
         </item>
     </channel>
 </rss>
