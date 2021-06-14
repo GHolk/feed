@@ -9,7 +9,7 @@
             <link>http://wcc723.github.io/</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 13 Jun 2021 16:27:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Jun 2021 16:27:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/wcc723.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 20 Oct 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,24 @@
         <category><![CDATA[javascript]]></category>
         <category><![CDATA[css]]></category>
         <category><![CDATA[html]]></category>
+        <item>
+            <title><![CDATA[
+        為什麼選擇使用 Mac 來進行開發
+        ]]></title>
+            <description><![CDATA[
+            我在求學過程中以及剛開始接觸開發跟許多人都一樣，是使用 Windows 作為剛開始起手的作業系統。
+但現在，我主力的開發環境轉移到了 Mac OS 至今已經約有六、七年以上的時間，而這些轉移的心得也跟大家分享一下。
+也先說明一下，正式進入職場以前接觸 Mac 的時間不算長，只有在職業學校中使用 Mac 操作繪圖軟體的經驗，之後很長的一段時間都沒有接觸過相關作業系統。
+第一份工作，Mac 主機搭配 
+        ]]></description>
+            <link>https://wcc723.github.io/life/2021/06/14/why-use-mac/</link>
+            <guid isPermaLink="true">https://wcc723.github.io/life/2021/06/14/why-use-mac/</guid>
+            <category><![CDATA[
+            life
+            ]]></category>
+            <pubDate>Sun, 13 Jun 2021 16:00:00 GMT</pubDate>
+            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Fwhy_mac.png?alt=media&amp;token=f51c313f-3617-42d6-a972-a10863802034" length="0" type="image"/>
+        </item>
         <item>
             <title><![CDATA[
         Mac 擷取系統音效 - 直播、錄影均適用
@@ -197,35 +215,6 @@ Promise 與 async, awaitPromise 本篇不會詳細介紹，如果不熟悉可以
             ]]></category>
             <pubDate>Sat, 10 Oct 2020 16:00:00 GMT</pubDate>
             <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_26.jpg?alt=media&amp;token=c70c3827-4da0-4b7c-bfcf-af46431d3c60" length="0" type="image"/>
-        </item>
-        <item>
-            <title><![CDATA[
-        Bootstrap 5 格線的運作原理
-        ]]></title>
-            <description><![CDATA[
-            
-
-
-.box {
-  height: 100px;
-  background-color: #69F0AE;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-}
-
-
-Bootstrap 4 中我經常會建議學員不要自行調整水平間距，因為在不熟悉的情況下這可能會造成許多額外的問題，常見的情況有：
-
-整體的格線風格不
-        ]]></description>
-            <link>https://wcc723.github.io/development/2020/10/10/bootstrap-5-grid-whats-new/</link>
-            <guid isPermaLink="true">https://wcc723.github.io/development/2020/10/10/bootstrap-5-grid-whats-new/</guid>
-            <category><![CDATA[
-            development
-            ]]></category>
-            <pubDate>Fri, 09 Oct 2020 16:00:00 GMT</pubDate>
-            <enclosure url="https://firebasestorage.googleapis.com/v0/b/casper-de5d5.appspot.com/o/images%2Fblog%2Firon2020_25.jpg?alt=media&amp;token=12703e8e-5550-4cee-938c-e735d0d060f0" length="0" type="image"/>
         </item>
     </channel>
 </rss>
