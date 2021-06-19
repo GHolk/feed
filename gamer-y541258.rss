@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 18 Jun 2021 00:26:13 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 19 Jun 2021 12:26:14 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>《離心力》短篇─為什麼合成不這樣設計?(突然想起來little Alchemy就類似這樣的)</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5182625</link>
+      <author>李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;「你不打電動嗎?」『打,只是現在在囤資源等個角色,所以一天不用花太多時間打電動』『一種長草期的概念』...(繼續閱讀)</description>
+      <pubDate>Sat, 19 Jun 2021 09:17:14 +0800</pubDate>
+    </item>
     <item>
       <title>近況與些想法雜談(繁衍後代的理由)</title>
       <link>
@@ -89,16 +98,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;這篇依然是先開放留言若出現不滿意的留言後,刪留言關評論...(繼續閱讀)</description>
       <pubDate>Wed, 7 Nov 2018 19:10:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>10/30起,研究電腦(自動)作圖的偶然發現,術語應該是成像,稍微有些方向</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4178486</link>
-      <author>李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;這次的檔案是寫在https://github.com/y541258/HTML5/blob/master/auto_draw.html
-      ...(繼續閱讀)</description>
-      <pubDate>Tue, 30 Oct 2018 13:22:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
