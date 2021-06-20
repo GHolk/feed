@@ -4,8 +4,17 @@
     <title>lnkkng 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=lnkkng</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 19 Jun 2021 12:27:05 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 20 Jun 2021 12:27:08 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] Hololive 送別會</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5183391</link>
+      <author>新彥</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005183391.PNG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Sat, 19 Jun 2021 23:30:05 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] Hololive 舞臺綻放</title>
       <link>
@@ -88,15 +97,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/83/0004836783.JPG"&gt;&lt;br&gt;大家好，我是新彥，自我2018年10月開始想把男怪出成原創漫畫，至今已經快兩年了，而在前陣子呢，終於，是將準備了這麼久的稿子全部捨棄了（咦-----??）。...(繼續閱讀)</description>
       <pubDate>Fri, 3 Jul 2020 13:29:42 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 作弊還輸可是會丟臉的</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4829147</link>
-      <author>新彥</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004829147.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 26 Jun 2020 12:48:21 +0800</pubDate>
     </item>
   </channel>
 </rss>
