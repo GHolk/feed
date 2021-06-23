@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hbl917070</link>
     <language>zh-tw</language>
-    <lastBuildDate>Tue, 22 Jun 2021 12:27:39 +0800</lastBuildDate>
+    <lastBuildDate>Wed, 23 Jun 2021 12:27:39 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【JS腳本】巴哈-深色主題（2021-05-14</title>
@@ -17,6 +17,17 @@
       （2020-02-19：修復快速回文的顏色 （2019-10-02：修復文章列表的顏色
       （20...(繼續閱讀)</description>
       <pubDate>Fri, 10 Apr 2015 01:17:47 +0800</pubDate>
+    </item>
+    <item>
+      <title>js能用來做什麼？ js的8種用法介紹</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5186068</link>
+      <author>深海異音</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/68/0005186068.JPG"&gt;&lt;br&gt;js
+      全名
+      JavaScript是一種用在「網頁」上的程式語言不過除了用來寫網頁，其實js還有很多用途...(繼續閱讀)</description>
+      <pubDate>Tue, 22 Jun 2021 19:39:11 +0800</pubDate>
     </item>
     <item>
       <title>嘗試捏了史萊姆</title>
@@ -95,15 +106,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/23/0004700023.PNG"&gt;&lt;br&gt;如果是有習慣整理瀏覽器書籤的使用者應該有不少人嘗試過，直接把分頁直接拖曳到書籤列裡面...(繼續閱讀)</description>
       <pubDate>Fri, 28 Feb 2020 01:58:24 +0800</pubDate>
-    </item>
-    <item>
-      <title>非官方「動態牆 網頁版」先行測試。新增圖片查詢</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4695720</link>
-      <author>深海異音</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/20/0004695720.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 24 Feb 2020 00:53:42 +0800</pubDate>
     </item>
   </channel>
 </rss>
