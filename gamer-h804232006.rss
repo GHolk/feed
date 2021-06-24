@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 24 Jun 2021 11:25:32 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 25 Jun 2021 00:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【２０２０ 新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004911025.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 9 Sep 2020 19:23:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 直播姊妹－上鏡頭</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5188049</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/49/0005188049.JPG"&gt;&lt;br&gt;0...(繼續閱讀)</description>
+      <pubDate>Thu, 24 Jun 2021 19:56:20 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 人類與AI的對決</title>
@@ -89,15 +98,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/64/0005027364.PNG"&gt;&lt;br&gt;對不起，我這就開台
       ...(繼續閱讀)</description>
       <pubDate>Tue, 29 Dec 2020 18:30:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>高雄FFK，我來啦！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5001061</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/61/0005001061.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Thu, 3 Dec 2020 20:44:05 +0800</pubDate>
     </item>
   </channel>
 </rss>
