@@ -17,6 +17,7 @@ user_list="
     zxp921
     hbl917070
     kurino1996
+    c2432565
 "
 
 for user in $user_list
