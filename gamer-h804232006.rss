@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=h804232006</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 1 Jul 2021 00:25:33 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 2 Jul 2021 12:25:33 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>【２０２０ 新刊上架】</title>
@@ -15,6 +15,15 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/25/0004911025.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Wed, 9 Sep 2020 19:23:39 +0800</pubDate>
+    </item>
+    <item>
+      <title>[達人專欄] 奶子相對論</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5194875</link>
+      <author>仙界大濕</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/75/0005194875.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
+      <pubDate>Thu, 1 Jul 2021 15:14:26 +0800</pubDate>
     </item>
     <item>
       <title>[達人專欄] 直播姊妹－上鏡頭</title>
@@ -88,16 +97,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/65/0005027365.PNG"&gt;&lt;br&gt;粉絲委託，色色服裝
       ...(繼續閱讀)</description>
       <pubDate>Tue, 29 Dec 2020 18:33:12 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 直播姊妹4－成熟的大人</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5027364</link>
-      <author>仙界大濕</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/64/0005027364.PNG"&gt;&lt;br&gt;對不起，我這就開台
-      ...(繼續閱讀)</description>
-      <pubDate>Tue, 29 Dec 2020 18:30:20 +0800</pubDate>
     </item>
   </channel>
 </rss>
