@@ -4,7 +4,7 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 4 Jul 2021 10:26:36 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 5 Jul 2021 13:26:41 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>奴隷との生活 -Teaching Feeling- 3.022中文化+換裝MOD掛件測試</title>
@@ -13,8 +13,18 @@
       <author>にゃひ～や</author>
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG"&gt;&lt;br&gt;*有更新時就會跳上來w2021
-      0627 第二次更新 換裝MOD追加大量場景與服裝對應...(繼續閱讀)</description>
+      0704 第三次更新 換裝MOD D立繪追加雙擊取消衣服功能...(繼續閱讀)</description>
       <pubDate>Sun, 13 Jun 2021 15:00:37 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 49+　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5197967</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/67/0005197967.JPG?v=1625383997"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1625384022.A.5E2.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 4 Jul 2021 15:33:17 +0800</pubDate>
     </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 48　作者：ジングー</title>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/53/0005160853.JPG"&gt;&lt;br&gt;日記用
       老樣子無編輯BD綾波鎮樓圖...(繼續閱讀)</description>
       <pubDate>Thu, 27 May 2021 21:16:29 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 45.1　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5156729</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/29/0005156729.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1621756109.A.5F5.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 23 May 2021 15:48:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
