@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 12 Jul 2021 05:28:11 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Jul 2021 04:28:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -19,6 +19,13 @@
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
+        <item>
+            <title><![CDATA[对爱因斯坦和相对论的怀疑]]></title>
+            <description><![CDATA[最近研究了一些历史，忽然对爱因斯坦和相对论产生了怀疑，结果昨天就有人告诉我，有中国学者声称“推翻”了相对论。我的直觉是，这值得大家重视。不管这个中国学者是对还是错，总的说来，对爱因斯坦和相对论的怀疑值得重视，而不应该盲目否定和嘲笑。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/07/12/einstein-relativity</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/12/einstein-relativity</guid>
+            <pubDate>Sun, 11 Jul 2021 16:00:00 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[『Ground-Up Computer Science』样章]]></title>
             <link>http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</link>
