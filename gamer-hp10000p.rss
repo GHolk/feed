@@ -5,8 +5,18 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=hp10000p</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 17 Jul 2021 12:25:13 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 18 Jul 2021 12:25:12 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>NENE腋</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5211317</link>
+      <author>枯鎖</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/17/0005211317.JPG"&gt;&lt;br&gt;NENE3D回實令人印象深刻的一幕
+      ...(繼續閱讀)</description>
+      <pubDate>Sat, 17 Jul 2021 21:57:19 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 最後的MTFK</title>
       <link>
@@ -91,15 +101,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/05/0004975605.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
       <pubDate>Mon, 9 Nov 2020 06:05:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>萬聖節火雞</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4967972</link>
-      <author>枯鎖</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/72/0004967972.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sun, 1 Nov 2020 19:38:32 +0800</pubDate>
     </item>
   </channel>
 </rss>
