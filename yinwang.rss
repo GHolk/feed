@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 24 Jul 2021 05:28:18 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Jul 2021 16:28:10 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[阿波罗登月是骗局]]></title>
+            <description><![CDATA[推荐一篇美国人自己写的关于阿波罗登月的文章《How High the Moon? or the Greatest Deception of Them All》。作者 Emanuel E. Garcia, MD 是一个心理医生和心理分析师，不过这篇文章不依赖专业知识，任何人都能明白。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/07/24/apollo</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/24/apollo</guid>
+            <pubDate>Fri, 23 Jul 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[对 Michelson-Morley 实验的怀疑]]></title>
-            <description><![CDATA[许多的经验告诉我，当所有的逻辑都完美地适配在一起，却只有一个“特例”的时候，你就应该思考对这个特例的理解是不是错了，所以才导致这个特例的存在。对于物理学，这个特例就是光速。]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/07/21/michelson-morley-experiment</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/21/michelson-morley-experiment</guid>
             <pubDate>Tue, 20 Jul 2021 16:00:00 GMT</pubDate>
