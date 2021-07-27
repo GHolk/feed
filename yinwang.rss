@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 27 Jul 2021 04:28:13 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 23:28:17 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[居里夫人，核物理和诺贝尔奖]]></title>
-            <description><![CDATA[故事是从居里夫人（Marie Curie）开始的。居里夫人是我们小时候“为科学献身”的偶像，各小学校舍的柱子上总会有居里夫人的像。她得过两个诺贝尔奖，传说最后死于“辐射”导致的某种病症。]]></description>
+            <title><![CDATA[居里夫人，核武器和诺贝尔奖]]></title>
+            <description><![CDATA[（本文的很多话题不完全是我自己的独创，而是经过查阅和分析大量公开网络信息之后的产物。我希望达到抛砖引玉之用，但它含有大量未经证实的说法。虽然我挑选了一些我觉得比较可信的说法，希望指出某些方向，但错误在所难免。请使用自己的判断，不要轻信任何这里的说法。）]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</guid>
             <pubDate>Mon, 26 Jul 2021 16:00:00 GMT</pubDate>
