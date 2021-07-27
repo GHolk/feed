@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 26 Jul 2021 05:28:19 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Jul 2021 04:28:13 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[居里夫人，核物理和诺贝尔奖]]></title>
+            <description><![CDATA[故事是从居里夫人（Marie Curie）开始的。居里夫人是我们小时候“为科学献身”的偶像，各小学校舍的柱子上总会有居里夫人的像。她得过两个诺贝尔奖，传说最后死于“辐射”导致的某种病症。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</guid>
+            <pubDate>Mon, 26 Jul 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[阿波罗登月是骗局]]></title>
-            <description><![CDATA[推荐一篇美国人自己写的关于阿波罗登月的文章《How High the Moon? or the Greatest Deception of Them All》。作者 Emanuel E. Garcia, MD 是一个心理医生和心理分析师，不过这篇文章不依赖专业知识，任何人都能明白。]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/07/24/apollo</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/24/apollo</guid>
             <pubDate>Fri, 23 Jul 2021 16:00:00 GMT</pubDate>
