@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 1 Aug 2021 12:26:39 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 2 Aug 2021 12:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 51　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5225357</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/57/0005225357.JPG?v=1627801650"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1627801727.A.85A.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 1 Aug 2021 15:07:30 +0800</pubDate>
+    </item>
     <item>
       <title>[活動記錄] 碧藍航線 THE IDOLM@STER 20210729</title>
       <link>
@@ -92,16 +102,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/38/0005183938.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1624171485.A.EC7.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 20 Jun 2021 14:44:15 +0800</pubDate>
-    </item>
-    <item>
-      <title>奴隷との生活 -Teaching Feeling- 3.022中文化+換裝MOD掛件測試</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5176934</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG"&gt;&lt;br&gt;*有更新時就會跳上來w2021
-      0711 第四次更新 換裝MOD 全部完成...(繼續閱讀)</description>
-      <pubDate>Sun, 13 Jun 2021 15:00:37 +0800</pubDate>
     </item>
   </channel>
 </rss>
