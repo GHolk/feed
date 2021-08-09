@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 6 Aug 2021 11:26:51 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 9 Aug 2021 11:26:43 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍檔案 泳裝鐵壁ヒナ　作者：しょうぶ / 鳩春</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5232352</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1628428409.A.2BF.html
+      四隻泳裝限定角真的把錢包榨乾 因為有色色的...(繼續閱讀)</description>
+      <pubDate>Sun, 8 Aug 2021 17:54:31 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 52　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5232334</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005232334.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1628421927.A.84D.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 8 Aug 2021 17:29:48 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 51　作者：ジングー</title>
       <link>
@@ -82,26 +102,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/55/0005188155.JPG"&gt;&lt;br&gt;四期科研前的寧靜我的微速前進BD2還沒來(敲...(繼續閱讀)</description>
       <pubDate>Thu, 24 Jun 2021 21:22:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐11　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5183944</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/44/0005183944.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1624171946.A.E96.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 20 Jun 2021 14:51:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 47.2　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5183938</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/38/0005183938.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1624171485.A.EC7.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 20 Jun 2021 14:44:15 +0800</pubDate>
     </item>
   </channel>
 </rss>
