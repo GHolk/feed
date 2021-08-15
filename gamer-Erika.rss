@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 15 Aug 2021 00:26:46 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 16 Aug 2021 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 53　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5238791</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005238791.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1629014652.A.802.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 15 Aug 2021 16:04:01 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍檔案 泳裝鐵壁ヒナ　作者：しょうぶ / 鳩春</title>
       <link>
@@ -93,15 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/97/0005190797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1624776043.A.2B8.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 27 Jun 2021 14:40:02 +0800</pubDate>
-    </item>
-    <item>
-      <title>[活動記錄] 碧藍航線 翳りし満ちる影の華 復刻 20210624</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5188155</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/55/0005188155.JPG"&gt;&lt;br&gt;四期科研前的寧靜我的微速前進BD2還沒來(敲...(繼續閱讀)</description>
-      <pubDate>Thu, 24 Jun 2021 21:22:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
