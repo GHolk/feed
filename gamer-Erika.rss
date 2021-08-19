@@ -4,8 +4,17 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 19 Aug 2021 11:26:37 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 20 Aug 2021 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[活動記錄] 碧藍航線 闇靄払う銀翼 復刻 20210819</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5242778</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/78/0005242778.JPG"&gt;&lt;br&gt;建　造　大　爆　死...(繼續閱讀)</description>
+      <pubDate>Thu, 19 Aug 2021 22:02:33 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 53　作者：ジングー</title>
       <link>
@@ -93,16 +102,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/67/0005197967.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1625384022.A.5E2.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 4 Jul 2021 15:33:17 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 48　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5190797</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/97/0005190797.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1624776043.A.2B8.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 27 Jun 2021 14:40:02 +0800</pubDate>
     </item>
   </channel>
 </rss>
