@@ -4,8 +4,19 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 27 Aug 2021 10:26:38 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 28 Aug 2021 09:26:41 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>奴隷との生活 -Teaching Feeling- 3.022中文化+換裝MOD掛件測試</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5176934</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG"&gt;&lt;br&gt;*有更新時就會跳上來w
+      2021 0828 第五次更新 修正了買點心會跳錯的bug
+      https://mega.nz/file/do4XESyK#asX4O-...(繼續閱讀)</description>
+      <pubDate>Sun, 13 Jun 2021 15:00:37 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 54　作者：ジングー</title>
       <link>
@@ -92,16 +103,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/75/0005209175.JPG"&gt;&lt;br&gt;這周應該沒稿可以更新趁偶像大師聯動前，記錄一下這個...(繼續閱讀)</description>
       <pubDate>Thu, 15 Jul 2021 20:51:06 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 50　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5204904</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/04/0005204904.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1625986471.A.484.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 11 Jul 2021 14:54:07 +0800</pubDate>
     </item>
   </channel>
 </rss>
