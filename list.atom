@@ -22,6 +22,27 @@
   <category term="atom"/>
   <generator>edit by emacs</generator>
 
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-chasedrea.rss</id>
+    <title>輕小說作家小鹿的巴哈姆特小屋</title>
+    <published>2021-09-03</published>
+    <link rel="alternate"
+          type="text/html"
+          title="輕小說作家小鹿的巴哈姆特小屋"
+          href="https://home.gamer.com.tw/chasedrea" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-chasedrea.rss"/>
+    <summary>
+      輕小說作家小鹿的巴哈姆特小屋，
+      因為《山海相喰異話》的歌《謊言的結晶》很好聽，
+      所以稍微認識了這個作家。
+      似乎還是個妹控，還是認為剪影片是宅男基礎技能的宅男。
+    </summary>
+    <category term="作家" />
+    <category term="acg" />
+    <category term="gamer" />
+  </entry>
 <entry>
     <id>http://gholk.github.io/feed/gamer-htpxr0337.rss</id>
     <title>深夜老司機 車神加護病 htpxr0337 的小屋</title>
@@ -397,6 +418,8 @@
       書看起來蠻有趣的，但不喜歡買書，
       至少先看看文筆，還沒買。
     </summary>
+    <category term="作家" />
+    <category term="acg" />
     <category term="gamer" />
   </entry>
   <entry>
