@@ -3,7 +3,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
   <id>http://gholk.github.io/feed/list.atom</id>
   <published>2018-04-21T15:25:29.565Z</published>
-  <updated>2019-05-31</updated>
+  <updated>2021-09-03</updated>
   <icon>http://gholk.github.io/ext/icon.png</icon>
   <title>anacron feed</title>
   <subtitle>自己用 anacron 排程維護的 rss 列表</subtitle>
@@ -16,12 +16,55 @@
   <author>
     <name>gholk</name>
     <uri>http://github.com/GHolk/</uri>
-    <email>85619andy@gmail.com</email>
+    <email>gholk@disroot.org</email>
   </author>
   <category term="rss"/>
   <category term="atom"/>
   <generator>edit by emacs</generator>
 
+<entry>
+    <id>http://gholk.github.io/feed/gamer-htpxr0337.rss</id>
+    <title>深夜老司機 車神加護病 htpxr0337 的小屋</title>
+    <published>2021-07-08</published>
+    <link rel="alternate"
+          type="text/html"
+          title="深夜老司機 車神加護病 htpxr0337 的小屋"
+          href="https://home.gamer.com.tw/htpxr0337" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-htpxr0337.rss"/>
+    <summary>
+      在臉書看到的繪師，作品有
+      《關於在最終決戰死去的勇者師傅被復活成美少女的這件事》。
+    </summary>
+    <category term="繪師" />
+    <category term="漫畫" />
+    <category term="acg" />
+    <category term="gamer" />
+  </entry>
+  <entry>
+    <id>http://gholk.github.io/feed/gamer-c2432565.rss</id>
+    <title>獨立遊戲設計師 狄娜雅 c2432565 的小屋</title>
+    <published>2021-07-23</published>
+    <link rel="alternate"
+          type="text/html"
+          title="獨立遊戲設計師 狄娜雅 c2432565 的小屋"
+          href="https://home.gamer.com.tw/c2432565" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/gamer-c2432565.rss"/>
+    <summary>
+      獨立遊戲設計師狄娜雅，知名作品：【飢餓地城】。
+      在巴哈姆特 ACG 創作大賽裡看到的遊戲《最後指令》，
+      覺得玩法蠻有趣的，有成功打動我。
+      之後又看到作者 blog ，會更新在巴哈姆特小屋和 ptt 上，
+      所以就幫他加了 rss 。
+    </summary>
+    <category term="acg" />
+    <category term="遊戲" />
+    <category term="程式" />
+    <category term="gamer" />
+  </entry>
   <entry>
     <id>http://gholk.github.io/feed/gamer-kurino1996.rss</id>
     <title>ㄇㄐ補坑作業小屋</title>
