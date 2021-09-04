@@ -13,6 +13,7 @@ run_all() {
         wcc723.js
         yinwang.js
         fe2x.js
+        yaoxuannn.js
     '
     ./anafeed.js $node_list
 }

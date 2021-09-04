@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Yaoxuannn's Blog]]></title>
+        <description><![CDATA[為Yaoxuannn做的 rss]]></description>
+        <link>https://yaoxuannn.com</link>
+        <image>
+            <url>https://yaoxuannn.com/images/logo.png</url>
+            <title>Yaoxuannn&apos;s Blog</title>
+            <link>https://yaoxuannn.com</link>
+        </image>
+        <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
+        <lastBuildDate>Sat, 04 Sep 2021 13:37:07 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/yaoxuannn.rss" rel="self" type="application/rss+xml"/>
+        <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
+        <language><![CDATA[zh-CN]]></language>
+        <managingEditor><![CDATA[yaoxuannn]]></managingEditor>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[program]]></category>
+        <category><![CDATA[computer]]></category>
+        <category><![CDATA[sysadmin]]></category>
+        <item>
+            <title><![CDATA[SchoolOfSRE笔记]]></title>
+            <description><![CDATA[SchoolOfSRE是Linkedin的一个SRE基础教程, 里面有一些零碎知识点在这里记录下.]]></description>
+            <link>https://yaoxuannn.com/2020/12/30/SchoolOfSRE%E7%AC%94%E8%AE%B0/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/12/30/SchoolOfSRE%E7%AC%94%E8%AE%B0/</guid>
+            <pubDate>Wed, 30 Dec 2020 08:34:01 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[HTTP发展史]]></title>
+            <link>https://yaoxuannn.com/2020/12/23/HTTP%E5%8F%91%E5%B1%95%E5%8F%B2/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/12/23/HTTP%E5%8F%91%E5%B1%95%E5%8F%B2/</guid>
+            <pubDate>Wed, 23 Dec 2020 13:56:42 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[监控系统与Zabbix]]></title>
+            <link>https://yaoxuannn.com/2020/08/21/%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E4%B8%8EZabbix/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/08/21/%E7%9B%91%E6%8E%A7%E7%B3%BB%E7%BB%9F%E4%B8%8EZabbix/</guid>
+            <pubDate>Fri, 21 Aug 2020 05:04:35 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[NoSQL概念和MongoDB]]></title>
+            <link>https://yaoxuannn.com/2020/05/30/NoSQL%E6%A6%82%E5%BF%B5%E5%92%8CMongoDB/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/05/30/NoSQL%E6%A6%82%E5%BF%B5%E5%92%8CMongoDB/</guid>
+            <pubDate>Sat, 30 May 2020 08:40:20 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL的主从复制架构]]></title>
+            <link>https://yaoxuannn.com/2020/05/09/MySQL%E7%9A%84%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E6%9E%B6%E6%9E%84/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/05/09/MySQL%E7%9A%84%E4%B8%BB%E4%BB%8E%E5%A4%8D%E5%88%B6%E6%9E%B6%E6%9E%84/</guid>
+            <pubDate>Sat, 09 May 2020 07:38:37 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MySQL的备份和恢复]]></title>
+            <link>https://yaoxuannn.com/2020/03/22/MySQL%E7%9A%84%E5%A4%87%E4%BB%BD%E5%92%8C%E6%81%A2%E5%A4%8D/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/03/22/MySQL%E7%9A%84%E5%A4%87%E4%BB%BD%E5%92%8C%E6%81%A2%E5%A4%8D/</guid>
+            <pubDate>Sun, 22 Mar 2020 06:29:29 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[MariaDB存储引擎和事务]]></title>
+            <link>https://yaoxuannn.com/2020/03/03/MariaDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/03/03/MariaDB%E5%AD%98%E5%82%A8%E5%BC%95%E6%93%8E/</guid>
+            <pubDate>Tue, 03 Mar 2020 13:28:47 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kubernetes架构基础]]></title>
+            <link>https://yaoxuannn.com/2020/01/10/Kubernetes%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2020/01/10/Kubernetes%E6%9E%B6%E6%9E%84%E5%9F%BA%E7%A1%80/</guid>
+            <pubDate>Fri, 10 Jan 2020 06:37:08 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ELK栈初见-2]]></title>
+            <link>https://yaoxuannn.com/2019/07/30/ELK%E6%A0%88%E5%88%9D%E8%A7%81-2/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2019/07/30/ELK%E6%A0%88%E5%88%9D%E8%A7%81-2/</guid>
+            <pubDate>Tue, 30 Jul 2019 05:22:23 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[ELK栈初见-1]]></title>
+            <link>https://yaoxuannn.com/2019/07/25/ELK%E6%A0%88%E5%88%9D%E8%A7%81-1/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2019/07/25/ELK%E6%A0%88%E5%88%9D%E8%A7%81-1/</guid>
+            <pubDate>Thu, 25 Jul 2019 06:09:24 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Docker容器技术入门]]></title>
+            <link>https://yaoxuannn.com/2019/03/24/Docker%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2019/03/24/Docker%E5%AE%B9%E5%99%A8%E6%8A%80%E6%9C%AF%E5%85%A5%E9%97%A8/</guid>
+            <pubDate>Mon, 25 Mar 2019 02:21:40 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初识Opensatck_2]]></title>
+            <link>https://yaoxuannn.com/2019/03/12/%E5%88%9D%E8%AF%86OpenStack_2/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2019/03/12/%E5%88%9D%E8%AF%86OpenStack_2/</guid>
+            <pubDate>Wed, 13 Mar 2019 02:14:58 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[初识OpenStack_1]]></title>
+            <link>https://yaoxuannn.com/2019/03/11/%E5%88%9D%E8%AF%86OpenStack_1/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2019/03/11/%E5%88%9D%E8%AF%86OpenStack_1/</guid>
+            <pubDate>Tue, 12 Mar 2019 01:40:54 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[KVM初识]]></title>
+            <link>https://yaoxuannn.com/2018/12/15/KVM%E5%88%9D%E8%AF%86/</link>
+            <guid isPermaLink="true">https://yaoxuannn.com/2018/12/15/KVM%E5%88%9D%E8%AF%86/</guid>
+            <pubDate>Sat, 15 Dec 2018 11:19:39 GMT</pubDate>
+        </item>
+    </channel>
+</rss>

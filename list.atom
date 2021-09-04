@@ -23,6 +23,26 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/yaoxuannn.rss</id>
+    <title>Yaoxuannn's Blog</title>
+    <published>2021-09-05</published>
+    <link rel="alternate"
+          type="text/html"
+          title="Yaoxuannn's Blog"
+          href="https://yaoxuannn.com/" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/yaoxuannn.rss"/>
+    <summary>
+      一個中國程序員的簡單 blog ，主要是 linux system admin 方面的文章。
+      像 docker 、 open stack 、 MySQL 、 NoSQL 等。
+    </summary>
+    <category term="linux" />
+    <category term="computer" />
+    <category term="program" />
+    <category term="sysadmin" />
+  </entry>
+  <entry>
     <id>http://gholk.github.io/feed/gamer-chasedrea.rss</id>
     <title>輕小說作家小鹿的巴哈姆特小屋</title>
     <published>2021-09-03</published>
