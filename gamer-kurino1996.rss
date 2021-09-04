@@ -5,8 +5,18 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 3 Sep 2021 09:28:17 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 4 Sep 2021 08:27:47 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】來玩</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5256476</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/76/0005256476.JPG"&gt;&lt;br&gt;？不就是繪圖接龍嗎
+      FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)</description>
+      <pubDate>Fri, 3 Sep 2021 17:39:23 +0800</pubDate>
+    </item>
     <item>
       <title>【街頭籃球2：正宗續作】跟我認知的不一樣</title>
       <link>
@@ -94,16 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/19/0005195819.JPG"&gt;&lt;br&gt;人……終究無法背叛自己的慾望……
       ...(繼續閱讀)</description>
       <pubDate>Fri, 2 Jul 2021 12:30:38 +0800</pubDate>
-    </item>
-    <item>
-      <title>[達人專欄] 【日常】慣用語</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5194540</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/40/0005194540.JPG"&gt;&lt;br&gt;真ㄉ是救命
-      FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)</description>
-      <pubDate>Thu, 1 Jul 2021 01:55:30 +0800</pubDate>
     </item>
   </channel>
 </rss>

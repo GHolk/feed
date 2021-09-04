@@ -5,7 +5,7 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=y541258</link>
     <language>zh-tw</language>
-    <lastBuildDate>Fri, 3 Sep 2021 09:26:29 +0800</lastBuildDate>
+    <lastBuildDate>Sat, 4 Sep 2021 08:26:13 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
       <title>《離心力》短篇─為什麼合成不這樣設計?續</title>
@@ -17,6 +17,15 @@
       「關於上次提的合成問題,我發現其實起始四個角色就很難設計」 「勉強想出,愛心同時損血、方塊二動、梅花自爆、黑桃毒傷」
       「...(繼續閱讀)</description>
       <pubDate>Wed, 14 Jul 2021 13:11:13 +0800</pubDate>
+    </item>
+    <item>
+      <title>《離心力》─如果有小孩</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5256488</link>
+      <author>李兒諳</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;『突然想到,如果有小孩,你們會讓他讀什麼科系?』*這不應該讓小孩自己選嗎?避免日後怨懟*!怨懟,這詞也太~!...(繼續閱讀)</description>
+      <pubDate>Fri, 3 Sep 2021 17:53:22 +0800</pubDate>
     </item>
     <item>
       <title>7/14,《離心力》小說中提到的程式(HTML檔)初版,日後有進展的話會另外再發篇文章</title>
@@ -93,15 +102,6 @@
       <description>&lt;img
       src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;「對於自己來說,怎樣算不留遺憾?」古代有說三不朽:立德,立功,立言有人說是死人活在活人的記憶中...(繼續閱讀)</description>
       <pubDate>Sat, 8 Dec 2018 18:09:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>12/2,推薦影片,額外加分(Extra Credits)的《製作你的第一個遊戲》</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4213724</link>
-      <author>李兒諳</author>
-      <description>&lt;img
-      src="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png"&gt;&lt;br&gt;可以點齒輪設定語言為中文(Chinese繁體或簡體)...(繼續閱讀)</description>
-      <pubDate>Sun, 2 Dec 2018 19:59:18 +0800</pubDate>
     </item>
   </channel>
 </rss>
