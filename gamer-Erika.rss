@@ -4,18 +4,27 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 4 Sep 2021 08:26:34 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 6 Sep 2021 00:26:37 +0800</lastBuildDate>
     <ttl>20</ttl>
     <item>
-      <title>奴隷との生活 -Teaching Feeling- 3.022中文化+換裝MOD掛件測試</title>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 56　作者：ジングー</title>
       <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5176934</link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5258173</link>
       <author>にゃひ～や</author>
       <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG"&gt;&lt;br&gt;*有更新時就會跳上來w
-      2021 0828 第五次更新 修正了買點心會跳錯的bug
-      https://mega.nz/file/do4XESyK#asX4O-...(繼續閱讀)</description>
-      <pubDate>Sun, 13 Jun 2021 15:00:37 +0800</pubDate>
+      src="https://p2.bahamut.com.tw/HOME/creationCover/73/0005258173.JPG?v=1630823504"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1630823516.A.7C8.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 5 Sep 2021 14:31:44 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官35　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5258166</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/66/0005258166.JPG?v=1630822934"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1630822948.A.711.html
+      夏天毛絨絨就變很熱w...(繼續閱讀)</description>
+      <pubDate>Sun, 5 Sep 2021 14:22:14 +0800</pubDate>
     </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 55　作者：ジングー</title>
@@ -94,16 +103,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/82/0005216082.JPG"&gt;&lt;br&gt;內文隨便了!...(繼續閱讀)</description>
       <pubDate>Thu, 22 Jul 2021 20:25:43 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 碧藍航線 小赤城與指揮官34　作者：ぷち</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5212007</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/07/0005212007.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1626594422.A.96E.html
-      有新的了w...(繼續閱讀)</description>
-      <pubDate>Sun, 18 Jul 2021 15:46:35 +0800</pubDate>
     </item>
   </channel>
 </rss>

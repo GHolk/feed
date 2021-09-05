@@ -9,7 +9,7 @@
             <link>https://yaoxuannn.com</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 04 Sep 2021 13:37:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 05 Sep 2021 16:28:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yaoxuannn.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sat, 04 Sep 2021 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -17,6 +17,7 @@
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
+        <category><![CDATA[linux]]></category>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <category><![CDATA[sysadmin]]></category>
