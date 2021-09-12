@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 12 Sep 2021 00:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 13 Sep 2021 00:26:34 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 鯛魚燒的同級生3　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5264037</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0005264037.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1631428980.A.217.html
+      夏祭...(繼續閱讀)</description>
+      <pubDate>Sun, 12 Sep 2021 14:42:30 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 森林裡的大野狼少女24　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5264030</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/30/0005264030.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1631428585.A.C34.html
+      老師開始畫小說插圖後就很少更了(倒 需要更...(繼續閱讀)</description>
+      <pubDate>Sun, 12 Sep 2021 14:36:00 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 少女戰車幼稚園RETURNS 56　作者：ジングー</title>
       <link>
@@ -84,25 +104,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/34/0005232334.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1628421927.A.84D.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 8 Aug 2021 17:29:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 51　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5225357</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/57/0005225357.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1627801727.A.85A.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 1 Aug 2021 15:07:30 +0800</pubDate>
-    </item>
-    <item>
-      <title>[活動記錄] 碧藍航線 THE IDOLM@STER 20210729</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5216082</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/82/0005216082.JPG"&gt;&lt;br&gt;內文隨便了!...(繼續閱讀)</description>
-      <pubDate>Thu, 22 Jul 2021 20:25:43 +0800</pubDate>
     </item>
   </channel>
 </rss>
