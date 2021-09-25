@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 24 Sep 2021 16:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Sep 2021 16:32:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[科学和伪科学]]></title>
+            <description><![CDATA[今天的所谓“科学家”，把无法（或只是没有）用他们的狭隘方式证明的做法，一概叫做“伪科学”，然而他们所谓“科学证实”的理论，很多却缺乏确切的“因果关系”证明。艾滋病（AIDS）的研究就是这样一个例子。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</guid>
+            <pubDate>Fri, 24 Sep 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[“AI 超人类视觉”是骗局]]></title>
-            <description><![CDATA[我想再向大众解释一下，人工智能（AI）领域的“历史性突破”——“超人类视觉”是怎么来的。之前的文章解释过，但可能信息被埋在比较长的内容里，很多人没看到，以至于仍然蒙在鼓里。对于这种关键问题，简洁易懂是非常重要的，所以我决定在极短的篇幅之内把它解释清楚。]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</guid>
             <pubDate>Wed, 28 Jul 2021 16:00:00 GMT</pubDate>
