@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 26 Sep 2021 16:28:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Sep 2021 16:28:27 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,10 +21,18 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[科学和伪科学]]></title>
-            <description><![CDATA[今天的所谓“科学家”，把无法（或只是没有）用他们的狭隘方式证明的做法，一概叫做“伪科学”，然而他们所谓“科学证实”的理论，很多却缺乏确切的“因果关系”证明，甚至可以完全是骗局。艾滋病（AIDS）的研究就是这样一个例子。]]></description>
+            <description><![CDATA[
+  这篇文章是我近一个月的研究。我花费了大量的时间和精力，查阅和分析了很多文章，书籍和视频，提取了其中精华的部分。我分享出来的目的在于惠及社会，消除人们长久以来存在的不必要的焦虑。希望大家认真对待这里的信息，虽然主题看似阴暗，却蕴含着获得真正光明的希望。
+]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</guid>
             <pubDate>Fri, 24 Sep 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一位“计算机科学少年班”学生毕业]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</guid>
+            <pubDate>Wed, 15 Sep 2021 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[“AI 超人类视觉”是骗局]]></title>
