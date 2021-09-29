@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 29 Sep 2021 01:28:34 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 29 Sep 2021 16:28:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -22,7 +22,7 @@
         <item>
             <title><![CDATA[科学和伪科学]]></title>
             <description><![CDATA[
-  这篇文章是我近一个月的研究。我花费了大量的时间和精力，查阅和分析了很多文章，书籍和视频，提取了其中精华的部分。我分享出来的目的在于惠及社会，消除人们长久以来存在的不必要的焦虑。希望大家认真对待这里的信息，虽然主题看似阴暗，却蕴含着获得真正光明的希望。
+  这篇文章是我近一个月的研究。我花费了大量的时间和精力，查阅和分析了很多文章，书籍和视频，提取了其中精华的部分。希望大家认真对待这里的信息，虽然主题看似阴暗，却蕴含着获得真正光明的希望。
 ]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</guid>
