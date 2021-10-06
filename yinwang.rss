@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 05 Oct 2021 00:28:26 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Oct 2021 04:28:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,10 +20,13 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[地平说是“心理烟幕弹”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/10/06/flat-earth-theory</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/10/06/flat-earth-theory</guid>
+            <pubDate>Tue, 05 Oct 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[科学和伪科学]]></title>
-            <description><![CDATA[
-  这篇文章是我近一个月对于医学的研究。我花费了大量的时间和精力，查阅和分析了很多文章，书籍和视频，提取了其中精华的部分。我清楚地知道，这些信息指出的方向将惠及我的一生。虽然主题看似阴暗，却蕴含着获得真正光明的希望。虽然不指望很多人能认真对待这些信息，我还是决定把它们写出来，给那些寻觅中的灵魂指出一点方向。
-]]></description>
             <link>http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</guid>
             <pubDate>Fri, 24 Sep 2021 16:00:00 GMT</pubDate>
