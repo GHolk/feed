@@ -23,6 +23,27 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/wind945.rss</id>
+    <title>wind945 的小屋</title>
+    <published>2021-10-14</published>
+    <link rel="alternate"
+          type="text/html"
+          title="wind945 的小屋"
+          href="https://home.gamer.com.tw/wind945" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/wind945.rss"/>
+    <summary>
+      巴哈的一個日文漫畫譯者，有很多有趣的內容；
+      像《爸爸變成媽媽的故事》、女裝聖女。
+    </summary>
+    <category term="gamer" />
+    <category term="acg" />
+    <category term="翻譯" />
+    <category term="hentai" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/yaoxuannn.rss</id>
     <title>Yaoxuannn's Blog</title>
     <published>2021-09-05</published>

@@ -20,6 +20,7 @@ user_list="
     c2432565
     htpxr0337
     chasedrea
+    wind945
 "
 
 for user in $user_list
