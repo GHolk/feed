@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 17 Oct 2021 13:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 18 Oct 2021 11:26:37 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 我家有隻妖精小燐12　作者：ま</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5292991</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005292991.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1634456029.A.94F.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 17 Oct 2021 15:33:23 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 碧藍航線 小赤城與指揮官36　作者：ぷち</title>
       <link>
@@ -93,16 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/30/0005264030.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1631428585.A.C34.html
       老師開始畫小說插圖後就很少更了(倒 需要更...(繼續閱讀)</description>
       <pubDate>Sun, 12 Sep 2021 14:36:00 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 56　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5258173</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/73/0005258173.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1630823516.A.7C8.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 5 Sep 2021 14:31:44 +0800</pubDate>
     </item>
   </channel>
 </rss>
