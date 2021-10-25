@@ -4,8 +4,28 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 24 Oct 2021 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 25 Oct 2021 14:26:33 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 放課後的聖女 應援短篇　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5298262</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/62/0005298262.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1635054060.A.2CD.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 24 Oct 2021 13:40:45 +0800</pubDate>
+    </item>
+    <item>
+      <title>(四格翻譯) 鯛魚燒的同級生4　作者：わたあめ</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5298258</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/58/0005298258.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1635053475.A.C5B.html
+      夏祭2...(繼續閱讀)</description>
+      <pubDate>Sun, 24 Oct 2021 13:30:48 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 我家有隻妖精小燐12　作者：ま</title>
       <link>
@@ -83,26 +103,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005267491.JPG"&gt;&lt;br&gt;提醒，圖多只是屋主日服活動記錄用的文章，流量注意XD...(繼續閱讀)</description>
       <pubDate>Thu, 16 Sep 2021 20:48:03 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 鯛魚燒的同級生3　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5264037</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/37/0005264037.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1631428980.A.217.html
-      夏祭...(繼續閱讀)</description>
-      <pubDate>Sun, 12 Sep 2021 14:42:30 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 森林裡的大野狼少女24　作者：わたあめ</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5264030</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/30/0005264030.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1631428585.A.C34.html
-      老師開始畫小說插圖後就很少更了(倒 需要更...(繼續閱讀)</description>
-      <pubDate>Sun, 12 Sep 2021 14:36:00 +0800</pubDate>
     </item>
   </channel>
 </rss>
