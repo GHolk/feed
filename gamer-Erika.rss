@@ -4,8 +4,17 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Thu, 28 Oct 2021 12:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Fri, 29 Oct 2021 00:26:36 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[活動記錄] 碧藍航線 神穹を衝く聖歌 復刻 20211028</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5301645</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/45/0005301645.JPG?v=1635426899"&gt;&lt;br&gt;長草長好久...(繼續閱讀)</description>
+      <pubDate>Thu, 28 Oct 2021 21:14:59 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 放課後的聖女 應援短篇　作者：わたあめ</title>
       <link>
@@ -94,15 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/04/0005269604.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1632026839.A.4D3.html
       ...(繼續閱讀)</description>
       <pubDate>Sun, 19 Sep 2021 12:46:56 +0800</pubDate>
-    </item>
-    <item>
-      <title>[活動記錄] 碧藍航線 駆けよ碧海の吹き風 20210916</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5267491</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005267491.JPG"&gt;&lt;br&gt;提醒，圖多只是屋主日服活動記錄用的文章，流量注意XD...(繼續閱讀)</description>
-      <pubDate>Thu, 16 Sep 2021 20:48:03 +0800</pubDate>
     </item>
   </channel>
 </rss>
