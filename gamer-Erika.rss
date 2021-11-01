@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 31 Oct 2021 00:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 1 Nov 2021 11:26:38 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 少女戰車幼稚園RETURNS 60　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5303953</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/53/0005303953.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1635657807.A.47A.html
+      ...(繼續閱讀)</description>
+      <pubDate>Sun, 31 Oct 2021 13:22:58 +0800</pubDate>
+    </item>
     <item>
       <title>[活動記錄] 碧藍航線 神穹を衝く聖歌 復刻 20211028</title>
       <link>
@@ -93,16 +103,6 @@
       <description>&lt;img
       src="https://p2.bahamut.com.tw/HOME/creationCover/60/0005273460.JPG"&gt;&lt;br&gt;四週年後半戰...(繼續閱讀)</description>
       <pubDate>Thu, 23 Sep 2021 21:46:20 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 57　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5269604</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/04/0005269604.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1632026839.A.4D3.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 19 Sep 2021 12:46:56 +0800</pubDate>
     </item>
   </channel>
 </rss>
