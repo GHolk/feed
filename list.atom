@@ -23,6 +23,28 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/b775232000.rss</id>
+    <title>b775232000 的小屋</title>
+    <published>2021-11-02</published>
+    <link rel="alternate"
+          type="text/html"
+          title="b775232000 的小屋"
+          href="https://home.gamer.com.tw/b775232000" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/b775232000.rss"/>
+    <summary>
+      巴哈的一個日文漫畫譯者，有很多有趣的內容；
+      像《被推銷買下奇怪的壺，結果出現一個能夠消除疲勞的少年》、
+      《男高中生暑假去游泳池的漫畫》。
+    </summary>
+    <category term="gamer" />
+    <category term="acg" />
+    <category term="翻譯" />
+    <category term="hentai" />
+  </entry>
+
+  <entry>
     <id>http://gholk.github.io/feed/wind945.rss</id>
     <title>wind945 的小屋</title>
     <published>2021-10-14</published>

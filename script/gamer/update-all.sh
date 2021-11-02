@@ -21,6 +21,7 @@ user_list="
     htpxr0337
     chasedrea
     wind945
+    b775232000
 "
 
 for user in $user_list
