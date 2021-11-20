@@ -5,8 +5,17 @@
     <link>
     http://home.gamer.com.tw/creation.php?owner=kurino1996</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sat, 20 Nov 2021 00:27:48 +0800</lastBuildDate>
+    <lastBuildDate>Sun, 21 Nov 2021 00:27:49 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>[達人專欄] 【日常】沉重的話題</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5320351</link>
+      <author>ㄇㄐ</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/51/0005320351.JPG"&gt;&lt;br&gt;太沉重了吧我選牛肉便當...(繼續閱讀)</description>
+      <pubDate>Sat, 20 Nov 2021 18:30:53 +0800</pubDate>
+    </item>
     <item>
       <title>[達人專欄] 【日常】驚天動地的半周年更新</title>
       <link>
@@ -94,16 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/49/0005289949.JPG"&gt;&lt;br&gt;勇者......好壞......
       FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)</description>
       <pubDate>Wed, 13 Oct 2021 19:17:07 +0800</pubDate>
-    </item>
-    <item>
-      <title>【最後的克勞迪亞】雷伊進化</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5284008</link>
-      <author>ㄇㄐ</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/08/0005284008.JPG"&gt;&lt;br&gt;......哦！？雷伊的樣子......！
-      順帶一提、雖然神獸雷伊很香 不過我覺得神徒莉莉也超Ａㄉ...... ...(繼續閱讀)</description>
-      <pubDate>Wed, 6 Oct 2021 16:10:01 +0800</pubDate>
     </item>
   </channel>
 </rss>
