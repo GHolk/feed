@@ -4,8 +4,18 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 28 Nov 2021 12:26:35 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 29 Nov 2021 12:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(四格翻譯) 碧藍航線 小赤城與指揮官37　作者：ぷち</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5326522</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://p2.bahamut.com.tw/HOME/creationCover/22/0005326522.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1638076975.A.C3B.html
+      話說這次聯動的全裝備六花也太強w...(繼續閱讀)</description>
+      <pubDate>Sun, 28 Nov 2021 13:22:25 +0800</pubDate>
+    </item>
     <item>
       <title>[活動記錄] 碧藍航線 弧光は交わる世界にて 20211125</title>
       <link>
@@ -93,16 +103,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/14/0005287314.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AzurLane/M.1633846545.A.305.html
       總算回到長草期了...(繼續閱讀)</description>
       <pubDate>Sun, 10 Oct 2021 14:15:18 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 少女戰車幼稚園RETURNS 59　作者：ジングー</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5287304</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/04/0005287304.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1633845386.A.69F.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 10 Oct 2021 13:55:54 +0800</pubDate>
     </item>
   </channel>
 </rss>
