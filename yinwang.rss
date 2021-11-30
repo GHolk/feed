@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 29 Nov 2021 04:28:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 30 Nov 2021 04:29:01 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -27,18 +27,6 @@
             <pubDate>Thu, 07 Oct 2021 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[地平说是“心理烟幕弹”]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/10/06/flat-earth-theory</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/10/06/flat-earth-theory</guid>
-            <pubDate>Tue, 05 Oct 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[艾滋病，中医，科学和伪科学]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/25/science-and-pseudoscience</guid>
-            <pubDate>Fri, 24 Sep 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[第一位“计算机科学少年班”学生毕业]]></title>
             <link>http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</guid>
@@ -49,30 +37,6 @@
             <link>http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</guid>
             <pubDate>Wed, 28 Jul 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[居里夫人，核武器和诺贝尔奖]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/27/marie-curie-nobel-prize</guid>
-            <pubDate>Mon, 26 Jul 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[阿波罗登月是骗局]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/07/24/apollo</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/24/apollo</guid>
-            <pubDate>Fri, 23 Jul 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对 Michelson-Morley 实验的怀疑]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/07/21/michelson-morley-experiment</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/21/michelson-morley-experiment</guid>
-            <pubDate>Tue, 20 Jul 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[对爱因斯坦和相对论的怀疑]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/07/12/einstein-relativity</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/12/einstein-relativity</guid>
-            <pubDate>Sun, 11 Jul 2021 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[『Ground-Up Computer Science』样章]]></title>
@@ -105,58 +69,16 @@
             <pubDate>Sun, 14 Feb 2021 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[巴赫，肖邦与莫扎特]]></title>
-            <link>http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/01/19/bach-mozart</guid>
-            <pubDate>Mon, 18 Jan 2021 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[吉他的正确调音方式]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/12/30/guitar-tuning</guid>
-            <pubDate>Tue, 29 Dec 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[音乐的语言是很糟糕的]]></title>
             <link>http://www.yinwang.org/blog-cn/2020/12/19/music</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/12/19/music</guid>
             <pubDate>Fri, 18 Dec 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[中国的审美问题]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/11/12/china-esthetics-problem</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/11/12/china-esthetics-problem</guid>
-            <pubDate>Wed, 11 Nov 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[计算机科学集体班（第二期）报名]]></title>
             <link>http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</guid>
             <pubDate>Wed, 23 Sep 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[生活模仿艺术]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/08/28/life-imitating-art</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/28/life-imitating-art</guid>
-            <pubDate>Thu, 27 Aug 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[干货]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/24/ganhuo</guid>
-            <pubDate>Sun, 23 Aug 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[学霸]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/08/23/xueba</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/08/23/xueba</guid>
-            <pubDate>Sat, 22 Aug 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[新丑陋的中国人]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/06/10/new-ugly-chinese</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/06/10/new-ugly-chinese</guid>
-            <pubDate>Tue, 09 Jun 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[几个需要避免的美国英语习惯]]></title>
@@ -189,22 +111,10 @@
             <pubDate>Thu, 05 Mar 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[知识星球试运营]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/03/05/zsxq</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/05/zsxq</guid>
-            <pubDate>Wed, 04 Mar 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[计算机科学课程]]></title>
             <link>http://www.yinwang.org/blog-cn/2020/03/03/cs-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/03/cs-course</guid>
             <pubDate>Mon, 02 Mar 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[谈职场中的命令口气]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/02/17/work-culture</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/17/work-culture</guid>
-            <pubDate>Sun, 16 Feb 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[一道 Java 面试题]]></title>
@@ -219,70 +129,10 @@
             <pubDate>Tue, 04 Feb 2020 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[顾问业务试运营（v2.0）]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/01/17/advising</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/17/advising</guid>
-            <pubDate>Thu, 16 Jan 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[我的事业计划]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/01/16/plan</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/16/plan</guid>
-            <pubDate>Wed, 15 Jan 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[未来的事业]]></title>
-            <link>http://www.yinwang.org/blog-cn/2020/01/15/future</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/01/15/future</guid>
-            <pubDate>Tue, 14 Jan 2020 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[2020新年寄语]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/12/31/2020-new-year</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/31/2020-new-year</guid>
-            <pubDate>Mon, 30 Dec 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[所谓“成功”]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/12/26/success</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/26/success</guid>
-            <pubDate>Wed, 25 Dec 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[我不是编译器专家]]></title>
             <link>http://www.yinwang.org/blog-cn/2019/12/24/compilers</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/24/compilers</guid>
             <pubDate>Mon, 23 Dec 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[抱怨与观察的差别]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/12/23/complaint-observation</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/23/complaint-observation</guid>
-            <pubDate>Sun, 22 Dec 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[自动化服务的误区]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/12/15/automation</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/15/automation</guid>
-            <pubDate>Sat, 14 Dec 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[永恒]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/11/05/timeless</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/11/05/timeless</guid>
-            <pubDate>Mon, 04 Nov 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[写在 1024 程序员节]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/10/24/1024</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/24/1024</guid>
-            <pubDate>Wed, 23 Oct 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[免费食物不是好事]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/10/17/free-food</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/10/17/free-food</guid>
-            <pubDate>Wed, 16 Oct 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
@@ -319,12 +169,6 @@
             <link>http://www.yinwang.org/blog-cn/2019/08/19/microkernel</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/08/19/microkernel</guid>
             <pubDate>Sun, 18 Aug 2019 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[中国人的信任危机]]></title>
-            <link>http://www.yinwang.org/blog-cn/2019/08/17/trust</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/08/17/trust</guid>
-            <pubDate>Fri, 16 Aug 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[关于人的素质]]></title>
