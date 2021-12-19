@@ -4,8 +4,17 @@
     <title>Erika 的小屋創作 RSS</title>
     <link>http://home.gamer.com.tw/creation.php?owner=Erika</link>
     <language>zh-tw</language>
-    <lastBuildDate>Sun, 19 Dec 2021 00:26:41 +0800</lastBuildDate>
+    <lastBuildDate>Mon, 20 Dec 2021 00:26:35 +0800</lastBuildDate>
     <ttl>20</ttl>
+    <item>
+      <title>(沒有翻譯) 少女們飆戰車 沒有幼稚園 SP　作者：ジングー</title>
+      <link>
+      http://home.gamer.com.tw/creationDetail.php?sn=5343294</link>
+      <author>にゃひ～や</author>
+      <description>&lt;img
+      src="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png"&gt;&lt;br&gt;好讀　沒有，請務必在安全的地方點開...(繼續閱讀)</description>
+      <pubDate>Sun, 19 Dec 2021 14:59:52 +0800</pubDate>
+    </item>
     <item>
       <title>(四格翻譯) 鯛魚燒的同級生5　作者：わたあめ</title>
       <link>
@@ -93,16 +102,6 @@
       src="https://p2.bahamut.com.tw/HOME/creationCover/58/0005298258.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/C_Chat/M.1635053475.A.C5B.html
       夏祭2...(繼續閱讀)</description>
       <pubDate>Sun, 24 Oct 2021 13:30:48 +0800</pubDate>
-    </item>
-    <item>
-      <title>(四格翻譯) 我家有隻妖精小燐12　作者：ま</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5292991</link>
-      <author>にゃひ～や</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/91/0005292991.JPG"&gt;&lt;br&gt;好讀　https://www.ptt.cc/bbs/AC_In/M.1634456029.A.94F.html
-      ...(繼續閱讀)</description>
-      <pubDate>Sun, 17 Oct 2021 15:33:23 +0800</pubDate>
     </item>
   </channel>
 </rss>
