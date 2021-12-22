@@ -2,12 +2,13 @@
   "name": "anafeed",
   "version": "1.0.0",
   "description": "anathor feed crawler power by anacron",
-  "main": "update.js",
+  "main": "anafeed.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "update": "./update-feed.sh"
   },
   "dependencies": {
-      "jsdom": "^11.10.0",
+      "jsdom": "^19.0.0",
       "rss": "^1.2.2"
   },
   "repository": {
