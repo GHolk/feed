@@ -1,76 +1,79 @@
-<?xml version="1.0" encoding="utf-8"?>
-<rss version="2.0">
-  <channel>
-    <title>c2432565 的小屋創作 RSS</title>
-    <link>
-    http://home.gamer.com.tw/creation.php?owner=c2432565</link>
-    <language>zh-tw</language>
-    <lastBuildDate>Wed, 22 Dec 2021 00:27:59 +0800</lastBuildDate>
-    <ttl>20</ttl>
-    <item>
-      <title>《最後指令》Last Command 中繼點 — 遊戲預購募資開始囉！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5046204</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/04/0005046204.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Mon, 18 Jan 2021 19:46:28 +0800</pubDate>
-    </item>
-    <item>
-      <title>《最後指令》貪吃蛇×彈幕 新感覺動作闖關遊戲！募資問卷蒐集開始！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=5019754</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/54/0005019754.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Tue, 22 Dec 2020 18:24:54 +0800</pubDate>
-    </item>
-    <item>
-      <title>最後指令 Last Command 開發進度報告 - 04</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4951319</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/19/0004951319.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Sat, 17 Oct 2020 16:02:19 +0800</pubDate>
-    </item>
-    <item>
-      <title>最後指令 Last Command 開發進度報告 - 03</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4892859</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/59/0004892859.JPG"&gt;&lt;br&gt;[
-      03 ]...(繼續閱讀)</description>
-      <pubDate>Mon, 24 Aug 2020 12:12:21 +0800</pubDate>
-    </item>
-    <item>
-      <title>最後指令 Last Command 開發進度報告 - 02</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4828818</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/18/0004828818.JPG"&gt;&lt;br&gt;...(繼續閱讀)</description>
-      <pubDate>Fri, 26 Jun 2020 01:29:58 +0800</pubDate>
-    </item>
-    <item>
-      <title>最後指令 Last Command 開發進度報告 - 01</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=4789647</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/47/0004789647.GIF"&gt;&lt;br&gt;[
-      01 ]...(繼續閱讀)</description>
-      <pubDate>Thu, 21 May 2020 11:16:51 +0800</pubDate>
-    </item>
-    <item>
-      <title>獨立遊戲《飢餓地城》更新1.1版－少女聖職者版本，新角色陸續登場！</title>
-      <link>
-      http://home.gamer.com.tw/creationDetail.php?sn=3445539</link>
-      <author>狄娜雅</author>
-      <description>&lt;img
-      src="https://p2.bahamut.com.tw/HOME/creationCover/39/0003445539.PNG"&gt;&lt;br&gt;由台灣開發團隊《不卡關遊戲設計工作室》所製作的MOBA遊戲《飢餓地城》於最新1.1版－《少女聖職者版本》中陸續增加了多名冒險者參戰！同時也優化了配對系統，讓玩家...(繼續閱讀)</description>
-      <pubDate>Thu, 12 Jan 2017 10:56:30 +0800</pubDate>
-    </item>
-  </channel>
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[狄娜雅的小屋]]></title>
+        <description><![CDATA[狄娜雅的小屋]]></description>
+        <link>https://home.gamer.com.tw/creation.php?owner=c2432565</link>
+        <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
+        <lastBuildDate>Wed, 22 Dec 2021 10:40:11 GMT</lastBuildDate>
+        <atom:link href="http://gholk.github.io/feed/gamer-c2432565.rss" rel="self" type="application/rss+xml"/>
+        <author><![CDATA[c2432565 (狄娜雅)]]></author>
+        <language><![CDATA[zh-TW]]></language>
+        <webMaster><![CDATA[gholk]]></webMaster>
+        <docs>http://gholk.github.io/feed/</docs>
+        <ttl>1440</ttl>
+        <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 《最後指令》Last Command 中繼點 — 遊戲預購募資開始囉！]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5046204</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5046204</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Mon, 18 Jan 2021 11:46:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005046204.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 《最後指令》貪吃蛇×彈幕 新感覺動作闖關遊戲！募資問卷蒐集開始！]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5019754</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5019754</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Tue, 22 Dec 2020 10:24:54 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/54/0005019754.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 最後指令 Last Command 開發進度報告 - 04]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=4951319</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4951319</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Sat, 17 Oct 2020 08:02:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0004951319.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 最後指令 Last Command 開發進度報告 - 03]]></title>
+            <description><![CDATA[[ 03 ]...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=4892859</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4892859</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Mon, 24 Aug 2020 04:12:21 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0004892859.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 最後指令 Last Command 開發進度報告 - 02]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=4828818</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4828818</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Thu, 25 Jun 2020 17:29:58 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0004828818.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 最後指令 Last Command 開發進度報告 - 01]]></title>
+            <description><![CDATA[[ 01 ]...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=4789647</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4789647</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Thu, 21 May 2020 03:16:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0004789647.GIF" length="0" type="image/gif"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 獨立遊戲《飢餓地城》更新1.1版－少女聖職者版本，新角色陸續登場！]]></title>
+            <description><![CDATA[由台灣開發團隊《不卡關遊戲設計工作室》所製作的MOBA遊戲《飢餓地城》於最新1.1版－《少女聖職者版本》中陸續增加了多名冒險者參戰！同時也優化了配對系統，讓玩家...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=3445539</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=3445539</guid>
+            <dc:creator><![CDATA[c2432565 (狄娜雅)]]></dc:creator>
+            <pubDate>Thu, 12 Jan 2017 02:56:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0003445539.PNG" length="0" type="image/png"/>
+        </item>
+    </channel>
 </rss>
