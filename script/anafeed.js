@@ -5,8 +5,8 @@ const RSS = require('rss')
 const fs = require('fs')
 const util = require('util')
 
-function sleep(second) {
-    return new Promise(wake => setTimeout(wake, second))
+function sleep(ms) {
+    return new Promise(wake => setTimeout(wake, ms))
 }
 
 const anafeed = {
@@ -103,7 +103,9 @@ const anafeed = {
 
 if (require.main == module) {
     for (const sitePath of process.argv.slice(2)) {
-        anafeed.requireAndRun(sitePath)
+        anafeed.busy = anafeed.busy
+            .then(() => anafeed.requireAndRun(sitePath))
+            .then(() => sleep(1000))
     }
 }
 else module.exports = anafeed
