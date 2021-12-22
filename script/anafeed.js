@@ -35,6 +35,7 @@ const anafeed = {
         const content = this.feed.xml({indent: true})
         await this.promiseWriteContent(path, content, 'utf8')
     },
+    sleep: sleep,
     busy: sleep(1),
     loadInterval: 1,
     loadWindowLimit(url = this.crawlUrl) {
