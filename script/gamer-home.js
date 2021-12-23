@@ -21,7 +21,7 @@ const gamer = {
         }
 
         if (!this.nick) {
-            let author = info.querySelector('a')
+            const author = info.querySelector('a')
             if (author) this.nick = author.textContent
         }
 
@@ -31,20 +31,22 @@ const gamer = {
 
         return {title, url, description, date, enclosure}
     },
-    async extractArticleList() {
-        await super.extractArticleList()
-        if (this.nick) {
-            this.feedOption.author += ` (${this.nick})`
-        }
+    get rssPath() {
+        return `gamer-${this.user}.rss`
     },
-    rssPath: `gamer.rss`,
-    feedOption: {
-        __proto__: anafeed.feedOption,
-        title: `巴哈小屋`,
-        feed_url: `http://gholk.github.io/feed/gamer.rss`,
-        site_url: `https://home.gamer.com.tw/creation.php?owner=`,
-        language: 'zh-TW',
-        categories: ['gamer'],
+    get feedOption() {
+        const user = this.user
+        const author = this.nick ? `${user} (${this.nick})` : user
+        return {
+            __proto__: super.feedOption,
+            title: `${user} 的小屋`,
+            feed_url: `http://gholk.github.io/feed/gamer-${user}.rss`,
+            site_url: `https://home.gamer.com.tw/creation.php?owner=${user}`,
+            author: author,
+            description: `${author} 的小屋`,
+            language: 'zh-TW',
+            categories: ['gamer']
+        }
     },
     parseTitle(h1) {
         // https://i2.bahamut.com.tw/css/basic.css
@@ -60,24 +62,18 @@ const gamer = {
         'IMG-C09': '日誌',
         'IMG-C08': '小說',
         'IMG-C07': '插畫',
-        'IMG-C07-comic': '插畫',
+        'IMG-C07-comic': '漫畫',
     },
-    async runUser(user) {
+    create(user) {
         const home = {
             __proto__: this,
             user: user,
-            articleList: [],
-            rssPath: `gamer-${user}.rss`,
-            feedOption: {
-                __proto__: this.feedOption,
-                title: `${user} 的小屋`,
-                feed_url: `http://gholk.github.io/feed/gamer-${user}.rss`,
-                site_url: `https://home.gamer.com.tw/creation.php?owner=${user}`,
-                author: user,
-                language: 'zh-TW',
-                categories: ['gamer'],
-            }
+            articleList: []
         }
+        return home
+    },
+    async runUser(user) {
+        const home = this.create(user)
         await home.generateFeed()
         await home.write('../' + home.rssPath)
     }
