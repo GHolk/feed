@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[新彥的小屋]]></title>
-        <description><![CDATA[新彥的小屋]]></description>
+        <title><![CDATA[lnkkng 的小屋]]></title>
+        <description><![CDATA[lnkkng (新彥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lnkkng</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 23 Dec 2021 00:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 16:03:30 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lnkkng.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lnkkng (新彥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -23,7 +23,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005318059.PNG" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] Hololive 送別會]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] Hololive 送別會]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5183391</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5183391</guid>
@@ -32,7 +32,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005183391.PNG" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] Hololive 舞臺綻放]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] Hololive 舞臺綻放]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5173563</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5173563</guid>
@@ -41,7 +41,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005173563.PNG" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] Hololive 頂級獵食者]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] Hololive 頂級獵食者]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5153896</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5153896</guid>
@@ -50,7 +50,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005153896.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] 日本出道紀念]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] 日本出道紀念]]></title>
             <description><![CDATA[大家好，我是新彥，雖然沒看上次更新是什麼時候，應該是相當久之前了。最近發生了很多事，總結來講，
 我在日本的青年漫畫雜誌ヤングキングアワーズ上，以《機械之心》出道...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5101845</link>
@@ -60,7 +60,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/45/0005101845.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] 【守望傳說】 星火燎原]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] 【守望傳說】 星火燎原]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=4970921</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4970921</guid>
@@ -89,7 +89,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0004932302.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] 《機械之心》]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] 《機械之心》]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=4930353</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4930353</guid>
@@ -98,7 +98,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0004930353.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[插畫] [達人專欄] 《劍之所指》]]></title>
+            <title><![CDATA[[漫畫] [達人專欄] 《劍之所指》]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=4853373</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4853373</guid>

@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
-        <title><![CDATA[小鈴a的小屋]]></title>
-        <description><![CDATA[小鈴a的小屋]]></description>
+        <title><![CDATA[chocolatebox 的小屋]]></title>
+        <description><![CDATA[chocolatebox (小鈴a) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 23 Dec 2021 00:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 23 Dec 2021 16:03:27 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chocolatebox.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[chocolatebox (小鈴a)]]></author>
         <language><![CDATA[zh-TW]]></language>
