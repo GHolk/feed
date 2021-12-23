@@ -34,7 +34,6 @@ const gamer = {
     async extractArticleList() {
         await super.extractArticleList()
         if (this.nick) {
-            this.feedOption.title = this.nick + '的小屋'
             this.feedOption.author += ` (${this.nick})`
         }
     },
