@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 23 Dec 2021 16:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Dec 2021 16:03:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,60 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぜろよん-不怎麼想讓她知死的平安夜美式餓鬼]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347681</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347681</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 13:53:22 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/81/0005347681.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】kamicat-耶誕的那個她In南洋]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347662</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347662</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 13:46:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0005347662.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】カネコナオヤ-TS圖繪№112 耶誕TS快樂2021]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347236</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347236</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 05:41:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005347236.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ふみたん-搞笑漫畫中男對女的吐槽分寸好難抓]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347232</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347232</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 05:34:56 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/32/0005347232.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【IM@S】サラマンダ-幸子越來越機靈了]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347226</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347226</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 05:22:37 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0005347226.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぽよ-池水女神]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5347219</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5347219</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 24 Dec 2021 05:11:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0005347219.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】シンクロマン-妖眼女士喜被喊姊]]></title>
@@ -49,60 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 23 Dec 2021 02:44:24 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0005346319.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-聖女♂遭遇復活的魔王]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5345507</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5345507</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 21 Dec 2021 23:49:11 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005345507.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【PSO2】nanagi-瑪托伊對誰都很親切所以很常讓人會錯意]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5345506</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5345506</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 21 Dec 2021 23:46:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005345506.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【Fate】南ふに。-志度內替妖精騎士蘭斯洛特加油打氣]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5344726</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5344726</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 21 Dec 2021 00:46:46 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0005344726.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】影武者-遊民大小姐⑭]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5344722</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5344722</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 21 Dec 2021 00:42:53 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005344722.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】とい-更加馬虎草率的男性艦娘化漫畫#11]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5344719</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5344719</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 21 Dec 2021 00:39:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0005344719.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ナツイチ-死黨與約會]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5344178</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5344178</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Mon, 20 Dec 2021 08:44:44 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0005344178.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
