@@ -4,7 +4,7 @@
         <description><![CDATA[htpxr0337 (加護 人生靈基三) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=htpxr0337</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 25 Dec 2021 16:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 26 Dec 2021 16:03:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-htpxr0337.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[htpxr0337 (加護 人生靈基三)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【勇者的牛女僕今日也面癱的在OO 四格】 EP 03 你是否也在等待......]]></title>
+            <description><![CDATA[安安～我是加護...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5349581</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5349581</guid>
+            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
+            <pubDate>Sun, 26 Dec 2021 11:23:19 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【勇者的牛女僕今日也面癱的在OO 四格】身為女僕的興趣]]></title>
             <description><![CDATA[安安我是加護～...(繼續閱讀)]]></description>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5226309</guid>
             <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
             <pubDate>Mon, 02 Aug 2021 06:13:28 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【投稿用作品】末世的群星小姐 試看(重發)]]></title>
-            <description><![CDATA[因為今年似乎不會有FF了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5224083</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5224083</guid>
-            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
-            <pubDate>Sat, 31 Jul 2021 00:11:10 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
         </item>
     </channel>
