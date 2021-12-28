@@ -4,7 +4,7 @@
         <description><![CDATA[chasedrea (小鹿) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chasedrea</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 27 Dec 2021 16:03:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 28 Dec 2021 16:03:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chasedrea.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[chasedrea (小鹿)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 我當獨立遊戲製作人的血淚史]]></title>
+            <description><![CDATA[《我當獨立遊戲製作人的血淚史》（前言）在這裡簡單分享一下製作《湛藍牢籠 Rail of Möbius》的經驗。...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5351142</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5351142</guid>
+            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
+            <pubDate>Tue, 28 Dec 2021 12:00:04 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005351142.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 國產AVG遊戲《湛藍牢籠》SD原畫---摩科老師訪談全紀錄]]></title>
             <description><![CDATA[摩科老師是擔當《湛藍牢籠》所有SD原畫的繪師！...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
             <pubDate>Tue, 05 Dec 2017 06:28:18 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0003810804.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 【企劃短篇】《花落冬陽》有病特別篇完整版]]></title>
-            <description><![CDATA[之前為花落冬陽這部遊戲寫的劇本，現在出了手機版了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=3777103</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=3777103</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Fri, 03 Nov 2017 11:52:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/03/0003777103.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
