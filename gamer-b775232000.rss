@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 02 Jan 2022 16:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jan 2022 16:03:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #31]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 31 紫咲シオン（如果Holomem是敵人的話第31彈．紫咲詩音）】
+作者：白米キムチ（@momo_kimuchi008）
+來源：...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5356444</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5356444</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Mon, 03 Jan 2022 09:42:31 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/44/0005356444.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - POKOBE保護委員會]]></title>
             <description><![CDATA[作品：ぽこべぇ保護委員会
@@ -21,7 +32,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5355923</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 13:53:16 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005355923.JPG?v=1641131596" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005355923.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #114]]></title>
@@ -31,7 +42,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5355742</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 10:55:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005355742.JPG?v=1641120919" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005355742.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #30]]></title>
@@ -41,7 +52,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5355702</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 09:52:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005355702.JPG?v=1641117138" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005355702.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】 カコミスル - 被繳械了]]></title>
@@ -108,17 +119,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Thu, 30 Dec 2021 14:14:56 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0005352747.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #27]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 27 星街すいせい（如果Holomem是敵人的話第彈．星街彗星）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5352540</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5352540</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Thu, 30 Dec 2021 09:40:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005352540.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
