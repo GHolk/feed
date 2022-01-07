@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 06 Jan 2022 03:50:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Jan 2022 03:13:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫轉載．Hololive】白米キムチ - 如果Holomem是敵人系列 #34]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 34 がうる・ぐら（如果Holomem是敵人的話第34彈．Gawr Gura）】
+作者：白米キムチ（@momo_kimuchi00...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5358625</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5358625</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Thu, 06 Jan 2022 10:40:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005358625.PNG" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】比宮じょーず - 馬上就把新表情差分拿來惡用的沙花叉愛了]]></title>
             <description><![CDATA[作品：新しい表情差分をすぐ悪用する沙花叉すき
@@ -108,17 +118,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 04:33:05 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005355529.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #29]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 29 はあちゃま（如果Holomem是敵人的話第29彈．哈洽馬）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5354801</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5354801</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Sat, 01 Jan 2022 09:27:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005354801.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
