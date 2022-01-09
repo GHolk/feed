@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 08 Jan 2022 16:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jan 2022 16:03:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,38 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #115]]></title>
+            <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
+來源：https://twitter.com/araidokagir...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5360829</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360829</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sun, 09 Jan 2022 11:11:02 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005360829.JPG?v=1641726662" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #37]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 37 風真いろは（如果Holomem是敵人的話第37彈．風真伊呂波）】
+作者：白米キムチ（@momo_kimuchi008）
+來源...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5360726</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360726</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sun, 09 Jan 2022 08:43:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0005360726.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 那些年，曾經清楚過的女孩們。]]></title>
+            <description><![CDATA[作品：かつて清楚だった者たち
+作者：しろた（@takoyaki_110721）
+來源：https://twitter.com/takoyaki_110721/s...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5360661</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360661</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sun, 09 Jan 2022 06:17:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0005360661.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】早志コウ - 滿等版本的桃太郎⑱]]></title>
             <description><![CDATA[作品：レベルMAXバージョンの桃太郎
@@ -21,7 +53,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360150</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sat, 08 Jan 2022 12:26:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005360150.JPG?v=1641644807" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005360150.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 試著在懲罰遊戲中讓沙花叉說喜歡]]></title>
@@ -32,7 +64,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360095</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sat, 08 Jan 2022 10:38:41 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005360095.JPG?v=1641638321" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005360095.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #36]]></title>
@@ -43,7 +75,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360068</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sat, 08 Jan 2022 09:53:57 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/68/0005360068.JPG?v=1641635637" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/68/0005360068.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】およねこ  - 武士是也]]></title>
@@ -87,39 +119,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Thu, 06 Jan 2022 10:40:38 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005358625.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】比宮じょーず - 馬上就把新表情差分拿來惡用的沙花叉愛了]]></title>
-            <description><![CDATA[作品：新しい表情差分をすぐ悪用する沙花叉すき
-作者：比宮じょーず（@ramune_himiya）
-來源：https://twitter.com/ramune_h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5358056</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5358056</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Wed, 05 Jan 2022 13:53:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0005358056.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #33]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 33 雪花ラミィ（如果Holomem是敵人的話第33彈．雪花菈米）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5357855</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5357855</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Wed, 05 Jan 2022 09:43:46 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005357855.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 鯨真KISS]]></title>
-            <description><![CDATA[作品：いろクロキス
-作者：しろた（@takoyaki_110721）
-來源：https://twitter.com/takoyaki_110721/status...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5357339</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5357339</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Tue, 04 Jan 2022 14:09:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005357339.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
