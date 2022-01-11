@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 10 Jan 2022 16:03:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 16:03:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】影武者-遊民大小姐⑰]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5362008</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5362008</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Tue, 11 Jan 2022 03:57:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005362008.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】とい-更加馬虎草率的男性艦娘化漫畫#艦娘化體驗徵選]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5362004</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5362004</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Tue, 11 Jan 2022 03:48:33 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005362004.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ナツイチ-可愛娚孩漫畫③]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Sat, 08 Jan 2022 14:03:28 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005360236.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【東方】futa-沙沙白黑「新春正裝」]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5360220</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360220</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Sat, 08 Jan 2022 13:46:49 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0005360220.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】サカヤマ ヨシヒト-避難艙]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5359437</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5359437</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Fri, 07 Jan 2022 12:30:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/37/0005359437.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

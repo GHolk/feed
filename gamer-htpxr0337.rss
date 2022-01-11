@@ -4,7 +4,7 @@
         <description><![CDATA[htpxr0337 (加護 人生靈基三) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=htpxr0337</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 10 Jan 2022 16:03:35 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 16:03:36 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-htpxr0337.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[htpxr0337 (加護 人生靈基三)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【勇者的牛女僕今日也面癱的在OO 四格】 EP 05 勇者選擇了先吃飯再洗澡]]></title>
+            <description><![CDATA[安安～我是加護～...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5361886</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5361886</guid>
+            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
+            <pubDate>Mon, 10 Jan 2022 18:21:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0005361886.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【勇者的牛女僕今日也面癱的在OO 四格】 EP 04 夢想的萌芽]]></title>
             <description><![CDATA[安安～我是加護...(繼續閱讀)]]></description>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5280957</guid>
             <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
             <pubDate>Sat, 02 Oct 2021 14:06:07 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 水着ヒナ]]></title>
-            <description><![CDATA[好了，畫完了，完整內容是做為贊助用限定的，...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5230126</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5230126</guid>
-            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
-            <pubDate>Fri, 06 Aug 2021 08:03:33 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
         </item>
     </channel>

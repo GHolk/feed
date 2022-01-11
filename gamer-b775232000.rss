@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 10 Jan 2022 16:03:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 11 Jan 2022 16:03:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #39]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 39 パヴォリア・レイネ（如果Holomem是敵人的話第39彈．Pavolia Reine）】
+作者：白米キムチ（@momo_ki...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5362201</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5362201</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Tue, 11 Jan 2022 10:51:21 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005362201.PNG?v=1641898281" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】早志コウ - 滿等版本的桃太郎⑲]]></title>
             <description><![CDATA[作品：レベルMAXバージョンの桃太郎
@@ -109,17 +119,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Fri, 07 Jan 2022 14:33:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/37/0005359537.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #35]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 35 癒月ちょこ（如果Holomem是敵人的話第35彈．癒月巧可）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5359270</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5359270</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Fri, 07 Jan 2022 08:00:49 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005359270.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
