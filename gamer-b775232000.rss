@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 14 Jan 2022 16:03:57 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 15 Jan 2022 16:03:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,35 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯】早志コウ - 滿等版本的桃太郎㉑]]></title>
+            <description><![CDATA[作品：レベルMAXバージョンの桃太郎
+作者：早志コウ（@kou88450）
+來源：https://twitter.com/kou88450/status/148...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365170</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365170</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sat, 15 Jan 2022 14:01:54 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005365170.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #43]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 43 戌神ころね（如果Holomem是敵人的話第43彈．戌神沁音）】
+作者：白米キムチ（@momo_kimuchi008）
+來源：...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5364987</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5364987</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sat, 15 Jan 2022 10:05:59 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/87/0005364987.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】Noise - 家庭崩壞之日]]></title>
             <description><![CDATA[作者：Noise（@St_noi3）來源：https://twitter.com/St_noi3/status/1481841205755650051 ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5364389</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5364389</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Fri, 14 Jan 2022 13:43:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005364389.JPG?v=1642167836" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005364389.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #42]]></title>
@@ -29,7 +51,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5364324</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Fri, 14 Jan 2022 12:38:22 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005364324.JPG?v=1642163902" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005364324.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 想穿耳洞]]></title>
@@ -95,27 +117,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Mon, 10 Jan 2022 11:43:09 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005361597.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #38]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 38 大神ミオ（如果Holomem是敵人的話第38彈．大神澪）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：ht...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5361552</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5361552</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Mon, 10 Jan 2022 10:39:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/52/0005361552.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #115]]></title>
-            <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
-來源：https://twitter.com/araidokagir...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5360829</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5360829</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Sun, 09 Jan 2022 11:11:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005360829.JPG?v=1641726662" length="0" type="false"/>
         </item>
     </channel>
 </rss>
