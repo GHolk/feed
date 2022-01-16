@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 15 Jan 2022 16:03:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 16:03:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 62.2　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1642319045.A.84A.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365688</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365688</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 16 Jan 2022 07:43:39 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005365688.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 62.1　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1641714260.A.4FD.html ...(繼續閱讀)]]></description>
@@ -92,18 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 14 Nov 2021 06:45:07 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005315469.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 幼稚園北狐 今年五歲歲29　作者：高橋哲哉]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1636263373.A.A1B.html 
-
-今更(8/29)
-作者很久沒新圖結果發現當...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5309783</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5309783</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 07 Nov 2021 05:35:46 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005309783.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

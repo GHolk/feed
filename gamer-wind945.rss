@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 15 Jan 2022 16:03:37 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Jan 2022 16:03:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-變成直擊好友性癖的女生後莫名覺醒了某種情緒]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365993</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365993</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 16 Jan 2022 13:54:39 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005365993.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】たけみつ-與雙胞胎青梅竹馬縮短距離]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365972</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365972</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 16 Jan 2022 13:38:31 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/72/0005365972.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】コーポ-攻守兼具的最強作業環境]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Fri, 14 Jan 2022 10:03:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/92/0005364192.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】しろりゆ-終於等到這一天了]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5363762</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5363762</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 13 Jan 2022 14:37:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0005363762.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】シンクロマン-妖眼女士想被喊more than ~10 years ago~]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5363587</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5363587</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 13 Jan 2022 11:03:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/87/0005363587.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
