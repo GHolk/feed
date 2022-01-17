@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 16 Jan 2022 16:03:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jan 2022 16:03:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #45]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 45 セレス・ファウナ（如果Holomem是敵人的話第45彈．Ceres Fauna）】
+作者：白米キムチ（@momo_kimuc...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5366613</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5366613</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Mon, 17 Jan 2022 10:58:39 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005366613.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #116]]></title>
             <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
@@ -106,17 +116,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Wed, 12 Jan 2022 11:48:14 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/81/0005362981.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #40]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 40 さくらみこ（如果Holomem是敵人的話第40彈．櫻巫女）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5362929</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5362929</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Wed, 12 Jan 2022 10:54:32 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005362929.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
