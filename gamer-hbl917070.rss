@@ -4,7 +4,7 @@
         <description><![CDATA[hbl917070 (深海異音) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=hbl917070</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 18 Jan 2022 16:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:03:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-hbl917070.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[hbl917070 (深海異音)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,11 +13,10 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 【JS腳本】巴哈-深色主題（2021-05-14]]></title>
-            <description><![CDATA[（2021/05/14：修復使用阻擋廣告的軟體導致腳本失效的問題
-（2020-02-19：修復快速回文的顏色
-（2019-10-02：修復文章列表的顏色
-（20...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 【JS腳本】巴哈-深色主題（2022-01-19 隱藏下面的公會區塊]]></title>
+            <description><![CDATA[（2022/01/19：隱藏下面的公會區塊、刪除已失效的公會腳本
+（2021/05/14：修復使用阻擋廣告的軟體導致腳本失效的問題
+（2020-02-19：修復...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=2803391</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=2803391</guid>
             <dc:creator><![CDATA[hbl917070 (深海異音)]]></dc:creator>

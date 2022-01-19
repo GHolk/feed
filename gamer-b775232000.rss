@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 18 Jan 2022 16:03:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:03:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,28 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯】早志コウ - 滿等版本的桃太郎㉒]]></title>
+            <description><![CDATA[作品：レベルMAXバージョンの桃太郎
+作者：早志コウ（@kou88450）
+來源：https://twitter.com/kou88450/status/148...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368134</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368134</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 11:11:54 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005368134.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #47]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 47 七詩ムメイ（如果Holomem是敵人的話第47彈．七詩無名）】
+作者：白米キムチ（@momo_kimuchi008）
+來源：...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368099</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368099</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 10:15:55 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005368099.PNG" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #46]]></title>
             <description><![CDATA[【もしもホロメンが敵だったら 46 アキ・ローゼンタール（如果Holomem是敵人的話第46彈．亞綺·羅森塔爾）】
@@ -93,28 +115,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Fri, 14 Jan 2022 12:38:22 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005364324.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 想穿耳洞]]></title>
-            <description><![CDATA[作品：ピアス開けたい…からの…
-作者：しろた（@takoyaki_110721）
-來源：https://twitter.com/takoyaki_110721/...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5364004</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5364004</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Fri, 14 Jan 2022 02:15:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005364004.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #41]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 41 IRyS（如果Holomem是敵人的話第41彈．IRyS）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5363550</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5363550</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Thu, 13 Jan 2022 10:14:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005363550.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

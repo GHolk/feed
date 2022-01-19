@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 18 Jan 2022 16:03:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Jan 2022 16:03:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-對朋友性癖瞭解得太透徹導致被其他人誤解的男生]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368057</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368057</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 09:27:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005368057.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【PSO2】nanagi-與此同時，瑪托伊這邊]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368051</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368051</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Wed, 19 Jan 2022 09:20:13 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/51/0005368051.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】とい-更加馬虎草率的男性艦娘化漫畫#14]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Sat, 15 Jan 2022 13:05:34 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005365115.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】ジャックローズ-男性艦娘時空「最上」]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365105</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365105</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Sat, 15 Jan 2022 12:51:49 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005365105.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】切裂 シーカー-被艦娘討厭到了極點系列⑳吹雪]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365101</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365101</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Sat, 15 Jan 2022 12:48:07 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005365101.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
