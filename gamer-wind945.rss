@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 20 Jan 2022 16:03:46 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Jan 2022 16:03:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,13 +24,40 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 【漫畫】サカヤマ ヨシヒト-變形計程車]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5369777</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5369777</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 21 Jan 2022 13:37:23 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005369777.PNG" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【JOJO】サラマンダ-黃金體驗安魂曲真是太可怕了]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5369771</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5369771</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 21 Jan 2022 13:25:27 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0005369771.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぽよ-異世界交換留學生艾瑞莎6.5]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5369764</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5369764</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Fri, 21 Jan 2022 13:16:10 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0005369764.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 【遊戲王】しろりゆ-在遊戲王看到綁人就會想起那一幕]]></title>
             <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5368973</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368973</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 20 Jan 2022 13:15:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005368973.JPG?v=1642684512" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005368973.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】シンクロマン-不笑的雙『白』]]></title>
@@ -39,7 +66,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368969</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 20 Jan 2022 13:11:50 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005368969.JPG?v=1642684310" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005368969.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【IM@S】アキ-樋口圓香的憂鬱 #15]]></title>
@@ -48,7 +75,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368958</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 20 Jan 2022 12:52:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005368958.JPG?v=1642683167" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005368958.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-對朋友性癖瞭解得太透徹導致被其他人誤解的男生]]></title>
@@ -76,33 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 18 Jan 2022 04:47:46 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/41/0005367141.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】小林 キナ-初戀是把自己吃得死死的美少女♂第14話下①]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5367115</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5367115</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Tue, 18 Jan 2022 03:46:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005367115.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ナツイチ-可愛娚孩漫畫④]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5366325</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5366325</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Sun, 16 Jan 2022 23:57:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005366325.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-鳳翔太太支支吾吾不知如何開口]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5366315</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5366315</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Sun, 16 Jan 2022 22:57:13 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005366315.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
