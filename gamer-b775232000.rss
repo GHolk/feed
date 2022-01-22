@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 21 Jan 2022 16:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Jan 2022 16:03:43 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #50]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 50 百鬼あやめ（如果Holomem是敵人的話第50彈．百鬼綾目）】
+作者：白米キムチ（@momo_kimuchi008）
+來源：...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5370353</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5370353</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sat, 22 Jan 2022 09:11:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005370353.JPG?v=1642842666" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #49]]></title>
             <description><![CDATA[【もしもホロメンが敵だったら 49 夏色まつり（如果Holomem是敵人的話第49彈．夏色祭）】
@@ -107,17 +118,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sat, 15 Jan 2022 14:01:54 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005365170.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #43]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 43 戌神ころね（如果Holomem是敵人的話第43彈．戌神沁音）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5364987</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5364987</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Sat, 15 Jan 2022 10:05:59 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/87/0005364987.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
