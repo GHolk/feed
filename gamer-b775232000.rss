@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 23 Jan 2022 16:03:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Jan 2022 16:03:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #52]]></title>
+            <description><![CDATA[【もしもホロメンが敵だったら 52 潤羽るしあ（如果Holomem是敵人的話第52彈．潤羽露西婭）】
+作者：白米キムチ（@momo_kimuchi008）
+來源...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5372129</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5372129</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Mon, 24 Jan 2022 10:46:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005372129.JPG?v=1643021200" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #117]]></title>
             <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
@@ -106,16 +117,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Mon, 17 Jan 2022 10:58:39 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005366613.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #116]]></title>
-            <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
-來源：https://twitter.com/araidokagir...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5365855</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5365855</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Sun, 16 Jan 2022 11:37:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005365855.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
