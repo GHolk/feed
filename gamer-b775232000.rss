@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 26 Jan 2022 16:03:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Jan 2022 16:03:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #1]]></title>
+            <description><![CDATA[【続・全員ママ化 1人目 ときのそら ママ（第二季Holomem全員媽媽化第1彈．時乃空媽媽）】
+作者：白米キムチ（@momo_kimuchi008）
+來源：h...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5374410</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5374410</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Thu, 27 Jan 2022 10:48:29 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0005374410.PNG?v=1643280509" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】しろた - 記號]]></title>
             <description><![CDATA[作品：マーキング
@@ -53,7 +64,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5372129</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Mon, 24 Jan 2022 10:46:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005372129.JPG?v=1643021200" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005372129.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #117]]></title>
@@ -107,17 +118,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Thu, 20 Jan 2022 09:59:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005368836.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯】早志コウ - 滿等版本的桃太郎㉒]]></title>
-            <description><![CDATA[作品：レベルMAXバージョンの桃太郎
-作者：早志コウ（@kou88450）
-來源：https://twitter.com/kou88450/status/148...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368134</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368134</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Wed, 19 Jan 2022 11:11:54 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005368134.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
