@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 27 Jan 2022 16:03:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jan 2022 16:04:02 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #2]]></title>
+            <description><![CDATA[【続・全員ママ化 2人目 不知火フレア ママ（第二季Holomem全員媽媽化第2彈．不知火芙蕾雅）】
+作者：白米キムチ（@momo_kimuchi008）
+來源...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5375329</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5375329</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Fri, 28 Jan 2022 13:57:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005375329.JPG?v=1643378260" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #1]]></title>
             <description><![CDATA[【続・全員ママ化 1人目 ときのそら ママ（第二季Holomem全員媽媽化第1彈．時乃空媽媽）】
@@ -53,7 +64,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5372881</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Tue, 25 Jan 2022 10:46:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/81/0005372881.PNG?v=1643107618" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/81/0005372881.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #52]]></title>
@@ -107,17 +118,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Fri, 21 Jan 2022 09:43:22 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005369583.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 如果Holomem是敵人系列 #48]]></title>
-            <description><![CDATA[【もしもホロメンが敵だったら 48 鷹嶺ルイ（如果Holomem是敵人的話第48彈．鷹嶺琉依）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：h...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5368836</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5368836</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Thu, 20 Jan 2022 09:59:16 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005368836.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
