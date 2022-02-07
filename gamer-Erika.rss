@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 06 Feb 2022 03:46:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:51:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 64　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1644132359.A.826.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5381839</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5381839</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 06 Feb 2022 07:25:33 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005381839.JPG?v=1644132333" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 森林裡的大野狼少女25　作者：わたあめ]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1643526774.A.092.html 準備過年了...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 19 Dec 2021 06:59:52 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 鯛魚燒的同級生5　作者：わたあめ]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1638684654.A.F98.html 已經像小情侶了~...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5332179</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5332179</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 05 Dec 2021 06:10:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005332179.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

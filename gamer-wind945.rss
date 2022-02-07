@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 06 Feb 2022 03:46:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:51:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,13 +24,31 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 【漫畫】ナツイチ-娚孩遭到搭訕]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5382502</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5382502</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 07 Feb 2022 02:23:24 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005382502.JPG?v=1644200604" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-燒酒雞好好吃]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5382499</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5382499</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 07 Feb 2022 02:18:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005382499.PNG?v=1644200296" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-不會啦，我又沒等到！]]></title>
             <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5381702</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5381702</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Sun, 06 Feb 2022 03:33:50 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/96/creation_wind945.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005381702.JPG?v=1644199508" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ぜろよん-蛭女『人家將來要跟叔叔結婚！』]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Fri, 04 Feb 2022 05:34:27 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005380321.PNG?v=1643952867" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】サラマンダ-馬面]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5380232</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5380232</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Fri, 04 Feb 2022 02:16:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/32/0005380232.JPG?v=1643940966" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ぽよ-小魔王]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5380230</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5380230</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Fri, 04 Feb 2022 02:09:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005380230.JPG?v=1643940543" length="0" type="false"/>
         </item>
     </channel>
 </rss>

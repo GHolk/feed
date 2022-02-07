@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 06 Feb 2022 03:46:40 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 03:51:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,26 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #119]]></title>
+            <description><![CDATA[系列：じいさんばあさん若返る作者：あらいどかぎり（新挑限）／（@araidokagiri）
+來源：https://twitter.com/araidokagir...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5382014</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5382014</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sun, 06 Feb 2022 11:30:34 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0005382014.JPG?v=1644147034" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #11]]></title>
+            <description><![CDATA[【続・全員ママ化 11人目 ラプラス・ダークネス ママ（第二季Holomem全員媽媽化第11彈．拉普拉斯·達克尼斯）】
+作者：白米キムチ（@momo_kimuc...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5381931</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5381931</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Sun, 06 Feb 2022 09:24:08 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005381931.JPG?v=1644139448" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #10]]></title>
             <description><![CDATA[【続・全員ママ化 10人目 セレス・ファウナ（第二季Holomem全員媽媽化第10彈．Ceres Fauna）】
@@ -42,7 +62,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5379679</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Thu, 03 Feb 2022 09:42:24 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005379679.PNG?v=1643881344" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005379679.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #7]]></title>
@@ -95,27 +115,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Sun, 30 Jan 2022 09:44:47 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005376739.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #3]]></title>
-            <description><![CDATA[【続・全員ママ化 3人目 がうる・ぐら ママ（第二季Holomem全員媽媽化第3彈．Gawr Gura）】
-作者：白米キムチ（@momo_kimuchi008）...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5375923</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5375923</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Sat, 29 Jan 2022 09:54:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005375923.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #2]]></title>
-            <description><![CDATA[【続・全員ママ化 2人目 不知火フレア ママ（第二季Holomem全員媽媽化第2彈．不知火芙蕾雅）】
-作者：白米キムチ（@momo_kimuchi008）
-來源...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5375329</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5375329</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Fri, 28 Jan 2022 13:57:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005375329.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
