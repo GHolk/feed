@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 07 Feb 2022 03:51:06 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Feb 2022 16:03:06 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,11 +20,11 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[计算机科学阅读班继续招生]]></title>
-            <description><![CDATA[每一期的计算机科学基础班，在教别人的同时，似乎都会伴随着我自己新一轮的探索。不仅在于改进教学质量，而且通过学习和研究新的东西，进一步理解知识和教育到底是怎么回事。从计算机科学，到艺术，外语，音乐，科学…… 每一个领域的教育，我都发现很多的误区和可以改进的地方，最后被我挖掘出鲜为人知的核心基础知识。]]></description>
-            <link>http://www.yinwang.org/blog-cn/2021/10/08/reading-class</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/10/08/reading-class</guid>
-            <pubDate>Thu, 07 Oct 2021 16:00:00 GMT</pubDate>
+            <title><![CDATA[计算机科学阅读班招生说明]]></title>
+            <description><![CDATA[计算机科学阅读班，是一门零基础，目标在于短期内掌握计算机科学精髓的课程。它是我 20 多年的计算机学术和工程实践，加上两年面向社会的教学实验的结晶。课程吸取了世界上主要的计算机入门教学方式的优点，避免了它们阻碍初学者理解的各种问题，以至于完全零基础的学生也可以在短短两个月之内，掌握大学博士阶段才可能学到的精华内容。这些内容足以建立起坚实的知识基础，使得他们对于理解计算机科学的其他方面从容自如。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/02/07/reading-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/07/reading-course</guid>
+            <pubDate>Sun, 06 Feb 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[第一位“计算机科学少年班”学生毕业]]></title>
