@@ -4,7 +4,7 @@
         <description><![CDATA[b775232000 (喵哈哈) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=b775232000</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 10 Feb 2022 04:07:42 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 10 Feb 2022 16:03:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-b775232000.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[b775232000 (喵哈哈)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #15]]></title>
+            <description><![CDATA[【続・全員ママ化 15人目 アイラニ・イオフィフティーン ママ（第二季Holomem全員媽媽化第15彈．Airani Iofifteen）】
+作者：白米キムチ（...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5384979</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5384979</guid>
+            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
+            <pubDate>Thu, 10 Feb 2022 10:44:54 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005384979.JPG?v=1644489894" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #14]]></title>
             <description><![CDATA[【続・全員ママ化 14人目 にのまえイナニス ママ（第二季Holomem全員媽媽化第14彈．一伊那爾棲）】
@@ -42,7 +52,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5382746</guid>
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Mon, 07 Feb 2022 10:44:49 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0005382746.JPG?v=1644230689" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0005382746.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫翻譯】新挑限 - 老夫老妻重返青春 #119]]></title>
@@ -105,17 +115,6 @@
             <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
             <pubDate>Wed, 02 Feb 2022 10:23:52 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005378993.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫翻譯．Hololive】白米キムチ - 第二季Holomem全員媽媽化 #6]]></title>
-            <description><![CDATA[【続・全員ママ化 6人目 癒月ちょこ ママ（第二季Holomem全員媽媽化第6彈．癒月巧可）】
-作者：白米キムチ（@momo_kimuchi008）
-來源：ht...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5378375</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5378375</guid>
-            <dc:creator><![CDATA[b775232000 (喵哈哈)]]></dc:creator>
-            <pubDate>Tue, 01 Feb 2022 11:06:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005378375.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
