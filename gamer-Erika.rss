@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 12 Feb 2022 16:03:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Feb 2022 16:03:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官38　作者：ぷち]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1644734631.A.A49.html 
+
+那一天 人們想起了世界被毛絨絨征服的恐...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5387157</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5387157</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 13 Feb 2022 06:43:20 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005387157.JPG?v=1644734600" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 64　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1644132359.A.826.html ...(繼續閱讀)]]></description>
@@ -92,15 +103,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 26 Dec 2021 09:40:10 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005349513.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (沒有翻譯) 少女們飆戰車 沒有幼稚園 SP　作者：ジングー]]></title>
-            <description><![CDATA[好讀　沒有，請務必在安全的地方點開...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5343294</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5343294</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 19 Dec 2021 06:59:52 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
