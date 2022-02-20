@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 19 Feb 2022 16:03:25 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 20 Feb 2022 16:03:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,24 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 鯛魚燒的同級生6　作者：わたあめ]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1645337082.A.BC0.html 情人節篇...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5392788</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5392788</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 20 Feb 2022 06:04:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005392788.JPG?v=1645337059" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 森林裡的大野狼少女26　作者：わたあめ]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1645336718.A.427.html 新角登場...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5392785</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5392785</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 20 Feb 2022 05:58:04 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005392785.JPG?v=1645336684" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官38　作者：ぷち]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1644734631.A.A49.html 
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 07:41:56 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0005355626.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 遡望せし虹彩の塔 20211229]]></title>
-            <description><![CDATA[這次造完就...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5351882</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5351882</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Wed, 29 Dec 2021 12:50:24 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005351882.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 奴隷との生活　其它四格部份9@豚嶋じょん part3]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AC_In/M.1640511652.A.5B2.html 這篇拖更大約3年程度(抱頭...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5349513</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5349513</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 26 Dec 2021 09:40:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005349513.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
