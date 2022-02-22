@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 21 Feb 2022 16:03:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Feb 2022 16:03:08 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,20 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[近视防治指南]]></title>
+            <description><![CDATA[防治近视是一个非常简单的事情，然而我也是最近才发现。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia-prevention-and-reverse</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia-prevention-and-reverse</guid>
+            <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学进阶班招生]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</guid>
+            <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[计算机科学阅读班招生说明]]></title>
-            <description><![CDATA[计算机科学阅读班，是一门零基础，目标在于短期内掌握计算机科学精髓的课程。它是我 20 多年的计算机学术和工程实践，加上两年面向社会的教学实验的结晶。课程吸取了世界上主要的计算机入门教学方式的优点，避免了它们阻碍初学者理解的各种问题，以至于完全零基础的学生也可以在短短两个月之内，掌握大学博士阶段才可能学到的精华内容。这些内容足以建立起坚实的知识基础，使得他们对于理解计算机科学的其他方面从容自如。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/07/reading-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/07/reading-course</guid>
             <pubDate>Sun, 06 Feb 2022 16:00:00 GMT</pubDate>
