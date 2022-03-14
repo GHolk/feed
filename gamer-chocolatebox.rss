@@ -1,23 +1,32 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[chocolatebox 的小屋]]></title>
-        <description><![CDATA[chocolatebox (小鈴a) 的小屋]]></description>
+        <description><![CDATA[chocolatebox (喜多川-鈴a) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 12 Mar 2022 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 14 Mar 2022 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chocolatebox.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[chocolatebox (小鈴a)]]></author>
+        <author><![CDATA[chocolatebox (喜多川-鈴a)]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[日誌] 屏東市-梓村拉麵]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5409240</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5409240</guid>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
+            <pubDate>Sun, 13 Mar 2022 13:08:11 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] HoHoHo]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5349287</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5349287</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Sun, 26 Dec 2021 02:56:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -26,7 +35,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5344045</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5344045</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Mon, 20 Dec 2021 03:12:04 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -35,7 +44,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5306804</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5306804</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Wed, 03 Nov 2021 12:24:31 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -44,7 +53,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5304232</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5304232</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Sun, 31 Oct 2021 11:18:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -53,7 +62,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5297557</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297557</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Sat, 23 Oct 2021 08:18:39 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -62,7 +71,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5297092</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297092</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Fri, 22 Oct 2021 15:11:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -71,7 +80,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5297079</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297079</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Fri, 22 Oct 2021 14:59:25 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -80,7 +89,7 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5297068</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297068</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Fri, 22 Oct 2021 14:49:23 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
@@ -89,17 +98,8 @@
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5280197</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5280197</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
+            <dc:creator><![CDATA[chocolatebox (喜多川-鈴a)]]></dc:creator>
             <pubDate>Fri, 01 Oct 2021 15:27:31 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 旗山老街-洪家鴉片飯]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5268842</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5268842</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴a)]]></dc:creator>
-            <pubDate>Sat, 18 Sep 2021 05:31:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
     </channel>
