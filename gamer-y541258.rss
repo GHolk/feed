@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 25 Mar 2022 17:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Mar 2022 05:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5207897</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 14 Jul 2021 05:11:13 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/27,《離心力》短篇─順其自然]]></title>
+            <description><![CDATA[『』於假日時早上第二次入眠,剛睡醒*怎麼醒來沒多久就睡了*『想遊戲設計的事情想到睡著』...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5419589</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5419589</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 27 Mar 2022 02:41:07 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -97,17 +106,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5086625</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 04 Mar 2021 04:37:29 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 離心力短篇─未雨綢繆]]></title>
-            <description><![CDATA[「唔,要是哪天眼睛不行的話,還有什麼休閒活動?」
-『好沉重的話題,感覺就像是小孩子突然問生命的盡頭是什麼這樣』
-"就算不是小孩子問也很沉重"...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5078552</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5078552</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 23 Feb 2021 09:01:07 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
