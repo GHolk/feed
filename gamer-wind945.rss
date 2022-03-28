@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 27 Mar 2022 16:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 16:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ナツイチ-伸縮自在的夏日娚孩]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5420640</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5420640</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2022 07:11:24 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005420640.JPG?v=1648451484" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-推特vs鹿島美眉]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5420606</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5420606</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2022 05:54:23 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005420606.PNG?v=1648446863" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-(你怎麼會都沒有注意到啦…)]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5418275</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Fri, 25 Mar 2022 11:18:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005418275.JPG?v=1648207101" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ぽよ-1999年7月]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5418270</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5418270</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Fri, 25 Mar 2022 11:13:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005418270.JPG?v=1648206820" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】シンクロマン-白色情人節的後話]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5417654</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5417654</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 24 Mar 2022 13:41:54 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/54/0005417654.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005418275.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

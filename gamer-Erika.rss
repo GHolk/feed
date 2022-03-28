@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 27 Mar 2022 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 28 Mar 2022 16:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] [PVC] B'full 碧藍航線 拉菲 白兔迎春Ver.]]></title>
+            <description><![CDATA[為了老婆大人開一篇保存
+
+ラフィー 春待ちウサギver. 1/7 PVC製 スケールフィギュア 株式会社B’full
+https://be-full.jp/wp...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5420536</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5420536</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Mon, 28 Mar 2022 02:47:08 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005420536.PNG?v=1648435628" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 67.2　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1648363565.A.CD8.html ...(繼續閱讀)]]></description>
@@ -95,17 +107,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 20 Feb 2022 05:58:04 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005392785.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官38　作者：ぷち]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1644734631.A.A49.html 
-
-那一天 人們想起了世界被毛絨絨征服的恐...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5387157</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5387157</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 13 Feb 2022 06:43:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005387157.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
