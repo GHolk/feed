@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 02 Apr 2022 16:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Apr 2022 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-(你還真的喜歡他噢…)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5425458</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5425458</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 03 Apr 2022 01:31:36 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005425458.JPG?v=1648949496" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぜろよん-美式餓鬼奴隸]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5425454</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5425454</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 03 Apr 2022 01:27:13 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/54/0005425454.JPG?v=1648949232" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】しろりゆ-很識相的翼龍]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5422839</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 31 Mar 2022 00:36:37 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005422839.JPG?v=1648686997" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【IM@S】アキ-樋口圓香的憂鬱 #25]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5422836</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5422836</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 31 Mar 2022 00:25:48 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005422836.JPG?v=1648686348" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-私人空間的聖女♂]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5422030</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5422030</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2022 01:41:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005422030.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005422839.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
