@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 08 Apr 2022 16:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Apr 2022 16:25:06 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -39,7 +39,7 @@
             <pubDate>Wed, 15 Sep 2021 16:00:00 GMT</pubDate>
         </item>
         <item>
-            <title><![CDATA[“AI 超人类视觉”是骗局]]></title>
+            <title><![CDATA[“超人类机器视觉”是不存在的]]></title>
             <link>http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision-hoax</guid>
             <pubDate>Wed, 28 Jul 2021 16:00:00 GMT</pubDate>
