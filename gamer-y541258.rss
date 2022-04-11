@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 09 Apr 2022 16:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Apr 2022 01:25:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,19 +13,7 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 《離心力》短篇─為什麼合成不這樣設計?續]]></title>
-            <description><![CDATA[『』剛看完動畫《我們的重製人生》第一集
-「關於上次提的合成問題,我發現其實起始四個角色就很難設計」
-「勉強想出,愛心同時損血、方塊二動、梅花自爆、黑桃毒傷」
-「...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5207897</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5207897</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 14 Jul 2021 05:11:13 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/7~未知,短期計劃,實作曹操傳或者說是SRPG系統,第一天,淺析移動系統,變色完成]]></title>
+            <title><![CDATA[[日誌] 4/7~未知,短期計劃,實作SRPG移動系統,淺析曹操傳移動,可行路徑變色完成]]></title>
             <description><![CDATA[呀,其實標題是過份了點
 因為SRPG那麼多款,就算是最基礎的移動,也分魔喚精靈式的或一般式的
 (魔喚精靈是早期有高低差概念的SRPG,此外也是少數正六邊形格子的...(繼續閱讀)]]></description>
@@ -99,6 +87,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5207958</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 14 Jul 2021 07:19:40 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 《離心力》短篇─為什麼合成不這樣設計?續]]></title>
+            <description><![CDATA[『』剛看完動畫《我們的重製人生》第一集
+「關於上次提的合成問題,我發現其實起始四個角色就很難設計」
+「勉強想出,愛心同時損血、方塊二動、梅花自爆、黑桃毒傷」
+「...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5207897</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5207897</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 14 Jul 2021 05:11:13 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
