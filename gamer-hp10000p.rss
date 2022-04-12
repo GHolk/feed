@@ -1,120 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[hp10000p 的小屋]]></title>
-        <description><![CDATA[hp10000p (枯鎖) 的小屋]]></description>
+        <description><![CDATA[hp10000p 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=hp10000p</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 11 Apr 2022 01:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Apr 2022 02:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-hp10000p.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[hp10000p (枯鎖)]]></author>
+        <author><![CDATA[hp10000p]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[插畫] 火柴人也有美女]]></title>
-            <description><![CDATA[以前只要是火柴人系列的遊戲都還滿好玩的，不過因為角色就是火柴人所以沒啥去注意過
-
-現在的火柴人居然都有人設了，還很多美女，說是叫碳系畫風（某種程度上的黑肉嗎？）...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5424988</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5424988</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Sat, 02 Apr 2022 11:31:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005424988.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 波弟的奇妙冒險]]></title>
-            <description><![CDATA[那隻魚的造型跟使用方式真的很像替身呢
-這款遊戲品質還不錯  優秀的國產作品
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5340917</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5340917</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Thu, 16 Dec 2021 09:36:37 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005340917.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 原來股票100元就能買呀]]></title>
-            <description><![CDATA[每天都期待能實現夢想做自己的想做的事
-但靠工作好像很困難，還是得做點投資存股什麼的才行
-最近想投資開戶都因為上班時間卡住實在很麻煩
-而且那銀行在你家附近還不一定...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5325985</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5325985</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Sat, 27 Nov 2021 13:07:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005325985.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【枯鎖ＫＵＳＯ】終於作了第一支動畫]]></title>
-            <description><![CDATA[這幾年很多圖文作家都轉去做動畫，也慢慢變成了主流雖然也想做做看但是我的畫圖速度實在很慢終於這個月在別人催促之下產出了一片...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5306848</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5306848</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Wed, 03 Nov 2021 13:17:13 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0005306848.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] NENE腋]]></title>
-            <description><![CDATA[NENE3D回實令人印象深刻的一幕
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5211317</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5211317</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Sat, 17 Jul 2021 13:57:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005211317.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 最後的MTFK]]></title>
-            <description><![CDATA[好想聽LIVE的MTFK唱出來呀
-但是沒機會了
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5196299</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5196299</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Fri, 02 Jul 2021 13:41:53 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005196299.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 可可畢業]]></title>
-            <description><![CDATA[那天看完天使直播完速速下播，想說原來是有可可重大發表，先去吃個早餐等等回來看是什麼事
-結果吃一半朋友就密我說可可宣布畢業
-當下真的超錯愕想說怎麼可能  應該是搞...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5176187</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5176187</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Sat, 12 Jun 2021 12:25:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/87/0005176187.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【神魔三國志】開局就送一堆神魔]]></title>
-            <description><![CDATA[我一直以為雲州大儒俠是個已經結束的老布袋戲影集，沒想到原來是一直還在繼續演的連續劇嗎!?話說這遊戲登入就送角色連這次史豔文也是，這麼佛心沒問題嗎??...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5130198</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5130198</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Fri, 23 Apr 2021 11:52:48 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/98/0005130198.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 脆弱的環保]]></title>
-            <description><![CDATA[各位有推薦什麼可重複使用的吸管嗎
-不太喜歡鐵的  好像只剩塑膠的可以選...?
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5060305</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5060305</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Tue, 02 Feb 2021 16:06:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005060305.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] ねねち爆裂]]></title>
-            <description><![CDATA[這張圖讓我第一次在推特讚數破萬呢被座長跟NENE雙轉推...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5056274</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5056274</guid>
-            <dc:creator><![CDATA[hp10000p (枯鎖)]]></dc:creator>
-            <pubDate>Fri, 29 Jan 2021 11:51:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/74/0005056274.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>
