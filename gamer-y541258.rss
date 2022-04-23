@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 22 Apr 2022 11:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Apr 2022 04:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,8 +24,8 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 4/20,訂下五月前目標,用MongoDB做好帳號註冊登入頁面,今天就先閒聊下吧,個人理想中的遊戲]]></title>
-            <description><![CDATA[呼嗯其實連MongoDB已經成功了,只是現在是新版的所以以前的程式還要改下...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 4/20,目標帳號註冊登入頁面使用MongoDB已達成,與閒聊個人理想中的遊戲]]></title>
+            <description><![CDATA[4/23一陣子努力之後,以前的程式稍加修改後可以作用於現在的Google Cloud Platform虛擬機了不過目前我的帳號密碼是明文儲存...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5439196</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5439196</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
