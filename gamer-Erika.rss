@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Apr 2022 16:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Apr 2022 11:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 69.2　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1650777304.A.369.html 
+
+
+天氣熱，來點冷             ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5442339</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5442339</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 24 Apr 2022 05:14:41 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005442339.JPG?v=1650777281" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 69.1　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1650174442.A.F6A.html ...(繼續閱讀)]]></description>
@@ -95,18 +107,6 @@ https://be-full.jp/wp...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 06 Mar 2022 05:56:19 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005403524.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 65　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1645940741.A.845.html 
-
-
-原創新老師 カルヴァドス / 卡爾瓦多斯...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5398140</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5398140</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 27 Feb 2022 05:45:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005398140.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
