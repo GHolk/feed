@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 15 May 2022 16:25:53 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 17 May 2022 02:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ナツイチ-好想看到與娚孩的友情崩壞那瞬間①]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5461680</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5461680</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 16 May 2022 13:02:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005461680.JPG?v=1652706158" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-賢妻良母鳳翔點起了戀愛的火苗]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5461670</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5461670</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Mon, 16 May 2022 12:51:48 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005461670.PNG?v=1652705508" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-……(也只能是朋友了吧……我……)]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5458721</guid>
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Fri, 13 May 2022 05:58:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005458721.PNG?v=1652421501" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ぽよ-轉生去遊戲世界…]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5458709</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5458709</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Fri, 13 May 2022 05:27:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0005458709.PNG?v=1652419654" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】シンクロマン-烙印迴戰0(阿不思&艾克蕾西亞vs死望鄉的大導劇神)]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5457816</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5457816</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 12 May 2022 03:08:09 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0005457816.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005458721.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
