@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Not Fusion) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 28 May 2022 16:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 30 May 2022 11:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Not Fusion)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-(嗯—哼……)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5472440</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5472440</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 29 May 2022 13:24:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005472440.JPG?v=1653830649" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】おてるこ-就算滿身瘡痍嘴上也照樣不饒人的類型真棒]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5472406</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5472406</guid>
+            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
+            <pubDate>Sun, 29 May 2022 12:56:52 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005472406.JPG?v=1653829012" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【ウマ娘】サラマンダ-香菇占卜]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
             <pubDate>Thu, 26 May 2022 03:47:58 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005469621.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【IM@S】アキ-樋口圓香的憂鬱 #33]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5469620</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5469620</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Thu, 26 May 2022 03:45:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0005469620.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】トバ口-來彌秀Factor服裝給弟弟看]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5468822</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5468822</guid>
-            <dc:creator><![CDATA[wind945 (Not Fusion)]]></dc:creator>
-            <pubDate>Wed, 25 May 2022 04:02:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005468822.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
