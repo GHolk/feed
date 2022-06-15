@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 13 Jun 2022 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 15 Jun 2022 11:25:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[同人] [百合原創] 白子與魔女番外《假如她們交往了!?》新刊特典大公開！]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5485621</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5485621</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Tue, 14 Jun 2022 13:19:00 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005485621.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [百合原創] 新刊-白子與魔女番外篇《假如她們交往了!?》預購開始！]]></title>
             <description><![CDATA[【新刊】【 白子與魔女番外篇《假如她們交往了!?》】大家久等了，久違的新刊 今起開放通販預購！ 預計6月中旬發貨~...(繼續閱讀)]]></description>
@@ -92,17 +101,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Tue, 19 Feb 2019 13:29:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0004299984.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [百合原創]《白子與魔女》CWT51場宣及白子日記3試閱part3]]></title>
-            <description><![CDATA[#CWT51兩天都在M79及M80　#白子與魔女#白子日記3草稿先行本試閱part3完
-#請注意先行本內容多為草稿　#此本驚嚇注意
-草稿先行本相關說明請見：ht...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4293060</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4293060</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 13 Feb 2019 13:30:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/60/0004293060.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
