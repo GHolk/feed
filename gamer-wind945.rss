@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 16 Jun 2022 13:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 16 Jun 2022 16:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【SD鋼彈 World】群英集ED「今日まで生きたあなたへ」]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5487033</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5487033</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Thu, 16 Jun 2022 09:35:45 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/33/0005487033.JPG?v=1655372145" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】シンクロマン-拯救在墓地徬徨之魂魄的少女！驅魔修女]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Mon, 13 Jun 2022 11:02:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0005484678.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-怎麼會這麼難受啦……]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5483858</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5483858</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Sun, 12 Jun 2022 10:43:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005483858.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
