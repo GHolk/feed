@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 23 Jun 2022 16:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jun 2022 16:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】シロサワ -跟別班的女同學喵喵汪汪一整晚(2/4)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5493078</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5493078</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Fri, 24 Jun 2022 00:51:29 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0005493078.PNG?v=1656031889" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぽよ-骰子女孩]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5493073</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5493073</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Fri, 24 Jun 2022 00:45:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005493073.JPG?v=1656031551" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【IM@S】アキ-樋口圓香的憂鬱 #37]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Mon, 20 Jun 2022 10:57:33 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005490317.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【東方】桐谷-閉上眼之前]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5490316</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5490316</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Mon, 20 Jun 2022 10:54:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0005490316.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-(哈哈哈……)]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5489749</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5489749</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Sun, 19 Jun 2022 15:03:16 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005489749.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
