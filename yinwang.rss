@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 24 Jun 2022 16:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 25 Jun 2022 16:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[疫情是怎么回事]]></title>
+            <description><![CDATA[之前批评上海对疫情的封控的时候，有人说我“到现在才在看疫情的事”，其实我一年前就知道了。当时我花了很多时间来研究这个事，到今天我的看法仍然没有改变。简言之，整个疫情就是一场骗局，人类有史以来规模空前的，世界性的骗局。难以置信，两年多以来的每一天，全世界的每一个人，都生活在这场骗局中。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/06/25/covid-19</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/06/25/covid-19</guid>
+            <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[近视防治指南]]></title>
-            <description><![CDATA[防治近视是一个非常简单的事情，然而我也是最近才发现。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia-prevention-and-reverse</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia-prevention-and-reverse</guid>
             <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
