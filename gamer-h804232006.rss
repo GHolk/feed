@@ -4,7 +4,7 @@
         <description><![CDATA[h804232006 (仙界大濕) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=h804232006</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 25 Jun 2022 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 Jun 2022 13:25:14 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-h804232006.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[h804232006 (仙界大濕)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 怠惰的怪獸公主不想工作　賀圖]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5495830</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5495830</guid>
+            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
+            <pubDate>Mon, 27 Jun 2022 07:04:43 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] [達人專欄] 狐狸巫女]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Sun, 02 Jan 2022 12:51:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005355858.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 高雄FFK宣傳圖！]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5324098</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5324098</guid>
-            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
-            <pubDate>Thu, 25 Nov 2021 06:05:00 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/98/0005324098.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
