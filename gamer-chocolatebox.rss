@@ -4,7 +4,7 @@
         <description><![CDATA[chocolatebox (小鈴@) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Jul 2022 11:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 16:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chocolatebox.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[chocolatebox (小鈴@)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] Lego-21334-爵士四重奏]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5503272</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5503272</guid>
+            <dc:creator><![CDATA[chocolatebox (小鈴@)]]></dc:creator>
+            <pubDate>Wed, 06 Jul 2022 15:34:34 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 我妹妹他⋯]]></title>
             <description><![CDATA[醒來吧肥宅，你沒有妹妹！
@@ -92,15 +101,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297557</guid>
             <dc:creator><![CDATA[chocolatebox (小鈴@)]]></dc:creator>
             <pubDate>Sat, 23 Oct 2021 08:18:39 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 屏東九如-水明漾活蝦景觀餐廳]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5297092</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5297092</guid>
-            <dc:creator><![CDATA[chocolatebox (小鈴@)]]></dc:creator>
-            <pubDate>Fri, 22 Oct 2021 15:11:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Jul 2022 11:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Jul 2022 16:25:06 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[近视防治指南]]></title>
+            <description><![CDATA[防治近视是一个非常简单的事情，然而我也是最近才发现。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia</guid>
+            <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[计算机科学进阶班招生]]></title>
-            <description><![CDATA[自从开设计算机科学基础班（集体班，一对一，阅读班）以来，收到了很多学生的好评。我很高兴地看到很多完全零基础的人，真正从零开始，学会了计算机科学最精华的部分。这让我大受鼓舞。从我自己的探索，遇到的各种社会问题，我再次深刻地认识到教育的价值和意义。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</guid>
             <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
