@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 10 Jul 2022 16:25:51 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Jul 2022 16:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ナツイチ-好想看到與娚孩的友情崩壞那瞬間⑨]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5506809</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5506809</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Mon, 11 Jul 2022 07:04:57 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0005506809.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【東方】桐谷-會招來誤解的說法]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5506804</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5506804</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Mon, 11 Jul 2022 06:58:24 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005506804.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-喔噢你綁那樣很好看耶！]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Thu, 07 Jul 2022 20:20:29 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0005504214.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ぽよ-為了向她報復而從頭來過…15]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5504210</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5504210</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Thu, 07 Jul 2022 20:10:16 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0005504210.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】シンクロマン-死望鄉絕望廚房★]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5503766</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5503766</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Thu, 07 Jul 2022 11:02:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/66/0005503766.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
