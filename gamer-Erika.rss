@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 13 Jul 2022 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Jul 2022 11:25:29 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 特別計画艦Ⅴ期 20220714]]></title>
+            <description><![CDATA[期間限定海域イベント「刹那観る胡蝶の夢」復刻要補抽大狐狸的別錯過了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5509452</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5509452</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Thu, 14 Jul 2022 14:28:11 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/52/0005509452.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 森林裡的大野狼少女28　作者：わたあめ]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1657426871.A.C31.html 好想把臉埋進狼狼頭髮裡深呼吸...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Thu, 26 May 2022 12:37:12 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005469957.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 71.1　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1653196437.A.F33.html ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5466370</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5466370</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 22 May 2022 05:13:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005466370.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
