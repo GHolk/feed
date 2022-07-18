@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 16 Jul 2022 16:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Jul 2022 11:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 73.2　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1658037201.A.4B5.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5511504</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5511504</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 17 Jul 2022 05:52:54 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005511504.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 特別計画艦Ⅴ期 20220714]]></title>
             <description><![CDATA[期間限定海域イベント「刹那観る胡蝶の夢」復刻要補抽大狐狸的別錯過了...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 29 May 2022 04:48:40 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005472079.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 誠閃の剣 搖光の城 20220526]]></title>
-            <description><![CDATA[其實這次我很喜歡陸版的活動名【泠誓光庭】...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5469957</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5469957</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 26 May 2022 12:37:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005469957.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
