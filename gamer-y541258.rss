@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 19 Jul 2022 01:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Jul 2022 12:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/19,《離心力》短篇─自在地飛翔]]></title>
+            <description><![CDATA[我有些忘記除了*,!標點符號代表誰了,就隨意著用!!...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5513204</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5513204</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 19 Jul 2022 10:28:20 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -98,15 +107,6 @@ Go語言中是設為2,如果是None的話必須再設Secure為ture...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5293082</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 17 Oct 2021 09:40:52 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《離心力》─如果有小孩]]></title>
-            <description><![CDATA[『突然想到,如果有小孩,你們會讓他讀什麼科系?』*這不應該讓小孩自己選嗎?避免日後怨懟*!怨懟,這詞也太~!...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5256488</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5256488</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 03 Sep 2021 09:53:22 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
