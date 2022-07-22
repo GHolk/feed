@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 21 Jul 2022 16:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Jul 2022 16:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】めかくり-本以為轉生成了惡勢力千金結果卻是她的○○○○(2/2)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5515607</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5515607</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Fri, 22 Jul 2022 11:24:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005515607.JPG?v=1658489046" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぽよ-被放逐的不死劍士與原隊友僧侶女孩及毀了隊伍的死靈術師女孩…回顧]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5515583</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5515583</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Fri, 22 Jul 2022 11:09:20 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005515583.JPG?v=1658488160" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】シンクロマン-不受常識所拘束]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 19 Jul 2022 12:43:15 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005513315.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ナツイチ-常常把「我要是女的」給掛在嘴邊的女裝男仔]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5512316</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5512316</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Mon, 18 Jul 2022 05:55:13 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0005512316.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【東方】桐谷-感覺好像會不自覺地一直寵下去]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5512311</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5512311</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Mon, 18 Jul 2022 05:49:32 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005512311.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
