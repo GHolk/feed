@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 25 Jul 2022 16:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 26 Jul 2022 16:25:36 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】到底為什麼]]></title>
+            <description><![CDATA[你是鯨魚嗎！！！？？？！？！？
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5518899</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5518899</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 26 Jul 2022 14:11:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005518899.JPG?v=1658844679" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】多休息]]></title>
             <description><![CDATA[但還是身體重要所以最近在控制工作時間了
@@ -105,18 +117,6 @@ https://bit.ly/3vYgBei...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Thu, 31 Mar 2022 06:10:31 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005422995.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】吐槽我啊]]></title>
-            <description><![CDATA[99有時候我真的很擔心你
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5422506</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5422506</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 30 Mar 2022 14:40:15 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005422506.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
