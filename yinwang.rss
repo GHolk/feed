@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 26 Jul 2022 16:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Jul 2022 16:25:09 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,7 +20,7 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[近视防治指南]]></title>
+            <title><![CDATA[自然视力恢复法]]></title>
             <description><![CDATA[防止和逆转近视是一个相当简单的事情，理解其中的原理只需要高中光学知识，具体操作方法只需要另外配一副眼镜，然而我也是最近才发现。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia</guid>
