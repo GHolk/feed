@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 06 Aug 2022 16:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Aug 2022 11:25:29 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] [晶片產業難在哪邊]─part 1,簡單初步研究(職業病,與晶片材料初步獲取手法epitaxy)]]></title>
+            <description><![CDATA[承上篇,雖然大陸討論得很熱烈,但具體難在哪還是不清楚所以就花些時間找些資料我想先不管難不難,晶片產業或說半導體產業本身是吸引人的嗎?...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5528783</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5528783</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 07 Aug 2022 10:29:04 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -98,15 +107,6 @@ Go語言中是設為2,如果是None的話必須再設Secure為ture...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5366587</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 17 Jan 2022 10:23:13 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《離心力》─幸福的一天]]></title>
-            <description><![CDATA[「今天真是幸福的一天」『怎說』「有水有電」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5345811</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5345811</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 22 Dec 2021 10:18:48 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
