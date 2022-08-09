@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 09 Aug 2022 10:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 16:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】nanagi-轉生到猶如要收山網遊的世界的異世界作弊轉生者]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5530523</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5530523</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Tue, 09 Aug 2022 14:35:55 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005530523.JPG?v=1660056171" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】為什麼大家會對隊長的點擊有反應]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5530515</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5530515</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Tue, 09 Aug 2022 14:23:02 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005530515.JPG?v=1660054982" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ナツイチ-路過的辣妹♂②]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Sat, 06 Aug 2022 01:42:11 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0005527584.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【東方】ジェット虚無僧-靈夢絕對不會被逮到]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5527582</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5527582</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2022 01:38:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005527582.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】めかくり-本以為轉生成了惡勢力千金結果卻是她的○○○○②(2/5)]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5526623</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5526623</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Thu, 04 Aug 2022 23:03:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005526623.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
