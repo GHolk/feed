@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 08 Aug 2022 11:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 09 Aug 2022 10:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -30,7 +30,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5529182</guid>
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Sun, 07 Aug 2022 17:17:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005529182.JPG?v=1659892653" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005529182.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-跟宅友一起出來玩好開心]]></title>
@@ -39,7 +39,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5529177</guid>
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Sun, 07 Aug 2022 17:12:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005529177.PNG?v=1659892348" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005529177.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-(變得比之前還要更有女人味了耶…雖然內裏是個男的)]]></title>
