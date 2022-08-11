@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 09 Aug 2022 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Aug 2022 11:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/11,近況雜談─主要是福建到新竹鐵路跟化學氣相沉積法]]></title>
+            <description><![CDATA[結果我的生活還是沒什麼變化只是最近比起打電動,更多的時間是躺著休息不說這個了,我在關於臺灣何時統一的問題底下...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5531848</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5531848</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 11 Aug 2022 10:11:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -98,15 +107,6 @@ Go語言中是設為2,如果是None的話必須再設Secure為ture...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5419589</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 27 Mar 2022 02:41:07 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2022目標]]></title>
-            <description><![CDATA[沒什麼比較有建設性的目標1.原神練雲雲鍾申或申雲刻萬...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5366587</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5366587</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 17 Jan 2022 10:23:13 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
