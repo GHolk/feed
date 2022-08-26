@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 26 Aug 2022 11:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 26 Aug 2022 16:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -30,7 +30,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5543095</guid>
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Fri, 26 Aug 2022 05:33:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005543095.JPG?v=1661491986" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005543095.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ぽよ-被放逐的不死劍士與原隊友僧侶女孩及毀了隊伍的死靈術師女孩…新規]]></title>
@@ -39,7 +39,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5542990</guid>
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Fri, 26 Aug 2022 00:20:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/90/0005542990.JPG?v=1661473218" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/90/0005542990.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】シンクロマン-教導學園 姊姊組4格]]></title>
