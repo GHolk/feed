@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 03 Sep 2022 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Sep 2022 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官42　作者：ぷち]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1662265801.A.8A2.html 續上回...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5550163</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5550163</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 04 Sep 2022 04:29:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005550163.JPG?v=1662265778" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 76-77　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1661663391.A.9E0.html ...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 17 Jul 2022 05:52:54 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0005511504.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 特別計画艦Ⅴ期 20220714]]></title>
-            <description><![CDATA[期間限定海域イベント「刹那観る胡蝶の夢」復刻要補抽大狐狸的別錯過了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5509452</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5509452</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 14 Jul 2022 14:28:11 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/52/0005509452.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
