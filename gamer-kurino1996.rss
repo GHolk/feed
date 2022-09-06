@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 05 Sep 2022 11:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Sep 2022 12:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】狀態]]></title>
+            <description><![CDATA[不是急事的話通常是閒下來才會回啦
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5551997</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5551997</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 06 Sep 2022 11:32:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005551997.JPG?v=1662463950" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] [達人專欄] 【繪圖】ONE PIECE FILM RED]]></title>
             <description><![CDATA[看完電影回來忍不住畫了UTA......好喜歡.........(繼續閱讀)]]></description>
@@ -105,18 +117,6 @@ https://bit.ly/3MP7YYF
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Thu, 28 Apr 2022 09:04:42 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/92/0005445992.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】反應]]></title>
-            <description><![CDATA[嗯嗯你好完美
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5440052</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5440052</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 21 Apr 2022 12:47:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/52/0005440052.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
