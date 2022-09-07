@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 06 Sep 2022 12:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Sep 2022 12:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/7,關於大學教育的文章分享]]></title>
+            <description><![CDATA[中国大学的现实是：大学层次越低，上课越多，学生读书越少 - 知乎 (zhihu.com) ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5552607</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5552607</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 07 Sep 2022 08:36:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -98,15 +107,6 @@ Go語言中是設為2,如果是None的話必須再設Secure為ture...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428135</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 06 Apr 2022 07:45:30 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/27,《離心力》短篇─順其自然]]></title>
-            <description><![CDATA[『』於假日時早上第二次入眠,剛睡醒*怎麼醒來沒多久就睡了*『想遊戲設計的事情想到睡著』...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5419589</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5419589</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 27 Mar 2022 02:41:07 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
