@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 07 Sep 2022 12:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Sep 2022 11:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】わたりさえ-父親帶了未婚妻回家②]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5553237</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5553237</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2022 05:36:10 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/37/0005553237.JPG?v=1662615370" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【IM@S】アキ-甘奈的喜怒哀ㄌ～甜花視角~]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5553185</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5553185</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Thu, 08 Sep 2022 03:49:53 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005553185.JPG?v=1662608993" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】はまけん。-想跟裝得一副老江湖但其實根本沒經驗的辣妹同學去約]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Sat, 03 Sep 2022 16:57:41 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0005549948.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ふみたん-這樣的TS，您覺得如何呢？]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5549944</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5549944</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Sat, 03 Sep 2022 16:51:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/44/0005549944.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】切裂 シーカー-知道提督不幹提督時的艦娘反應⑪榛名]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5549282</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5549282</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Sat, 03 Sep 2022 01:53:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005549282.JPG?v=1662170036" length="0" type="false"/>
         </item>
     </channel>
 </rss>
