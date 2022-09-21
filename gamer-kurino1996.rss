@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 20 Sep 2022 11:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 Sep 2022 12:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【新瑪奇英雄傳】蕾媞想幫上忙]]></title>
+            <description><![CDATA[對啊而且這樣就不能享受在出征船亂丟東西的時光
+
+也不能打那個吊起來的魚了耶
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5562829</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5562829</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Wed, 21 Sep 2022 04:00:34 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005562829.JPG?v=1663732834" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】被甜點耽誤的壽司店]]></title>
             <description><![CDATA[人家中秋節烤肉你吃壽司而且還在壽司店吃哈密瓜...(繼續閱讀)]]></description>
@@ -108,15 +120,6 @@ https://bit.ly/3MP7YYF
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 06 May 2022 10:40:21 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/38/0005452938.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] 【日常】生日賀圖]]></title>
-            <description><![CDATA[今天我生日！耶！！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5451990</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5451990</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 05 May 2022 08:19:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/90/0005451990.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
