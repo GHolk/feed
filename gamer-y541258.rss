@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 23 Sep 2022 16:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Sep 2022 16:25:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/24,太平盛世(與些近況雜談,主要是談在打的電動)]]></title>
+            <description><![CDATA[其實想一想,所謂的太平盛世也不過現在這樣吧
+雖然可能會有人抱怨物價還有很多事情
+不過有水有電有瓦斯、沒被震災、戰爭直接影響到
+時常幻想著不用工作時有多美好這樣虛...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5565145</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5565145</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 24 Sep 2022 11:27:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -99,17 +111,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5441736</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 23 Apr 2022 11:11:56 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/20,目標帳號註冊登入頁面使用MongoDB已達成,與閒聊個人理想中的遊戲]]></title>
-            <description><![CDATA[於4/23達成目標
-現代主要會遇到的坑是Cookies需要設定SameSite屬性為Lax
-Go語言中是設為2,如果是None的話必須再設Secure為ture...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5439196</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5439196</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 20 Apr 2022 11:48:51 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
