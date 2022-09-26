@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 24 Sep 2022 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 26 Sep 2022 11:25:27 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,22 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 78-79　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1664079644.A.98E.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5565677</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5565677</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 25 Sep 2022 04:20:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005565677.JPG?v=1664079606" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 アズレン五周年  20220922]]></title>
             <description><![CDATA[後半戰!前篇太長了，再開一篇...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5563663</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5563663</guid>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Thu, 22 Sep 2022 11:47:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005563663.JPG?v=1663847246" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005563663.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官43　作者：ぷち]]></title>
@@ -43,7 +52,7 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005558691.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 78.1　作者：ジングー]]></title>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 77.2　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1662873579.A.203.html ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5555525</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5555525</guid>
@@ -95,15 +104,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 14 Aug 2022 04:55:29 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005533929.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 74.2　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1659846100.A.07C.html ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5528534</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5528534</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 07 Aug 2022 04:21:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005528534.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
