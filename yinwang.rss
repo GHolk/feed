@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 27 Sep 2022 11:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 28 Sep 2022 12:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,14 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[疫情封控是违反宪法的]]></title>
-            <description><![CDATA[（由于网络封锁，很多国内人可能看不到我的博客了。欢迎大家拷贝转载。）]]></description>
-            <link>http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</guid>
-            <pubDate>Sun, 11 Sep 2022 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[自然视力恢复法]]></title>
+            <description><![CDATA[防止和逆转近视是一个相当简单的事情，理解其中的原理只需要高中光学知识，具体操作方法只需要另外配一副眼镜，然而我也是最近才发现。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia</guid>
             <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
