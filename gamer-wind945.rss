@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (便便小雞雞) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 04 Oct 2022 11:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 05 Oct 2022 13:25:46 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (便便小雞雞)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-看到提督山積中還是買新模型回來時的反應‧朝潮篇]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5572893</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5572893</guid>
+            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2022 06:18:20 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005572893.JPG?v=1664950700" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】秋季的美食享受]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
             <pubDate>Fri, 30 Sep 2022 19:42:56 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005569889.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-感覺Twinkle Series攻略起來很簡單的DSK]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5569888</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5569888</guid>
-            <dc:creator><![CDATA[wind945 (便便小雞雞)]]></dc:creator>
-            <pubDate>Fri, 30 Sep 2022 19:37:15 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005569888.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
