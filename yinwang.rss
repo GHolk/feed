@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 06 Oct 2022 11:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 10 Oct 2022 10:28:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[相对论推导练习]]></title>
+            <description><![CDATA[这篇文章里是我设计的几个用于推导相对论的练习，它们只需要少量初中数学和物理基础。如果做出前三个，你就能推导出正确的相对论公式。这些练习已经通过了好几个文科生，理科生，还有一个医生的试验。他们都能在一小时之内独立推导和理解相对论。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/10/09/relativity</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/10/09/relativity</guid>
+            <pubDate>Sat, 08 Oct 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[自然视力恢复法]]></title>
-            <description><![CDATA[防止和逆转近视是一个相当简单的事情，理解其中的原理只需要高中光学知识，具体操作方法只需要另外配一副眼镜，然而我也是最近才发现。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia</guid>
             <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
