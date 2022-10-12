@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 11 Oct 2022 12:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 12:25:30 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[同人] [百合原創]《白子與魔女》CH12百合ONLY場前宣傳]]></title>
+            <description><![CDATA[【CH12百合ONLY 場宣】 這次會新出一本草稿小冊！
+《白子與魔女日常小故事》-會場限量搶先看小冊
+
+這次出的小冊，是希望讓來場支持購買的人有機會可以搶先看...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5577580</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5577580</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Tue, 11 Oct 2022 15:18:11 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005577580.JPG?v=1665501491" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[同人] [百合原創]《白子與魔女》CWT61場前宣傳，有新刊／掛軸！]]></title>
             <description><![CDATA[【CWT61場前宣傳】 #白子與魔女  #原創百合 　這周末就是CWT61啦~暑假的最後一個活動了!!※這場有留最後一點少量新刊特典，送完就全數沒囉...(繼續閱讀)]]></description>
@@ -92,15 +104,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Mon, 12 Aug 2019 12:10:35 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0004492958.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] [百合原創]《白子與魔女》CWT52場宣+新刊試閱]]></title>
-            <description><![CDATA[新刊總算是趕上啦QQQQ，標題有稍微改過，在CWT等著大家囉！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4483864</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4483864</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Sun, 04 Aug 2019 13:19:29 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/m/i/mitsueyn/mitsueyn.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 11 Oct 2022 12:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 12:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 10/12,近況與對教育的一些想法(主要是技職教育),SIFT目前對我來說太難了]]></title>
+            <description><![CDATA[唔,我如果認真的話,應該三四個月可以湊一隻原神滿命但我其實玩原神的時間不算多那如果這筆錢用在教育或者自己學習上呢?嗯,很少想過...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5577999</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5577999</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 12 Oct 2022 10:16:11 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -108,15 +117,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5528783</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 07 Aug 2022 10:29:04 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/6,近來看新聞有感閒聊,讓想讀書的人讀書,不讀書的人直接工作會怎樣?]]></title>
-            <description><![CDATA[一個人如果讀了大學、碩士但工作是在做保全、清潔一類的,會被認為是浪費教育資源我以前也是這麼覺得,直到最近...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5527874</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5527874</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 06 Aug 2022 10:25:46 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

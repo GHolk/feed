@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 11 Oct 2022 12:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Oct 2022 12:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】無糖-人生轉蛋]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5577901</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5577901</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 12 Oct 2022 06:58:44 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005577901.JPG?v=1665557924" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-看到提督山積中還是買新模型回來時的反應‧阿霞篇]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5577883</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5577883</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 12 Oct 2022 06:23:10 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005577883.JPG?v=1665555790" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【PSO2】nanagi-庫娜]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sun, 09 Oct 2022 14:59:06 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005576021.PNG?v=1665327546" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】切裂 シーカー-知道提督不幹提督時的艦娘反應⑯天津風]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5574850</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5574850</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 08 Oct 2022 02:36:22 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005574850.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-DSK新解①]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5574766</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5574766</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 07 Oct 2022 23:25:50 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/66/0005574766.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
