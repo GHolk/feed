@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 22 Oct 2022 08:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 22 Oct 2022 16:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -93,7 +93,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5582857</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Wed, 19 Oct 2022 11:49:31 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005582857.JPG?v=1666180171" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005582857.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-荒潮老師指點不懂男人的妹妹如何掌握男人心]]></title>
@@ -102,7 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5582803</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Wed, 19 Oct 2022 10:12:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/03/0005582803.JPG?v=1666174365" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/03/0005582803.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
