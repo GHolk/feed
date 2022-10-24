@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 22 Oct 2022 16:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Oct 2022 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,11 +24,11 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 10/13起一個月計劃,以HTML5完成邊緣檢測(試用NovelAI,卷積不是矩陣乘法)]]></title>
-            <description><![CDATA[10/22更新:
-沉寂了好一段時間,主要原因是最近電動太忙了
-我可能原神不玩分身了,因為現在三星手機又開始原神幾分鐘閃退了
-這樣我手機跟電腦開解每日或者是主帳號...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 10/13起一個月計劃,以HTML5完成邊緣檢測(Sobel算子算梯度是差分不是微分,卷積不是矩陣乘法)]]></title>
+            <description><![CDATA[10/24更新:
+Sobel算子卷積計算為什麼是梯度
+可參考這篇图像梯度计算 - _yanghh - 博客园 (cnblogs.com) 
+連續才是微分方程,離...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5578396</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5578396</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -78,6 +78,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5568716</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 29 Sep 2022 10:04:11 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/24,太平盛世(與些近況雜談,主要是談在打的電動)]]></title>
+            <description><![CDATA[其實想一想,所謂的太平盛世也不過現在這樣吧
+雖然可能會有人抱怨物價還有很多事情
+不過有水有電有瓦斯、沒被震災、戰爭直接影響到
+時常幻想著不用工作時有多美好這樣虛...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5565145</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5565145</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 24 Sep 2022 11:27:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
