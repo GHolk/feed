@@ -4,7 +4,7 @@
         <description><![CDATA[lnkkng (新彥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lnkkng</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 03 Nov 2022 11:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 05 Nov 2022 08:25:30 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lnkkng.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lnkkng (新彥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 跟Hololive合作的HoloweEN Episode 3]]></title>
+            <description><![CDATA[我跟HololiveEN組合作的萬聖節企劃第三部 已經公開了，能夠收到合作邀請實在非常幸運。
+整體來說是超急件，在非常吃緊的狀況下完成的，只能說盡力了，希望大家...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5593940</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5593940</guid>
+            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
+            <pubDate>Fri, 04 Nov 2022 06:04:20 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005593940.PNG?v=1667541860" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 我出書囉！]]></title>
             <description><![CDATA[我出書囉，人生中的第一本單行本《機械之心》，雖然叫《機械之心》其實是本短篇集，內容收錄了《機械之心》《機械之心 續》《骯髒天使》《輪迴殺手》《Angel...(繼續閱讀)]]></description>
@@ -94,15 +104,6 @@
             <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
             <pubDate>Wed, 04 Nov 2020 11:38:35 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0004970921.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 公告，以後我會固定開實況！]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4949361</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4949361</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Thu, 15 Oct 2020 09:42:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0004949361.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
