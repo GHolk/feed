@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 06 Nov 2022 02:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Nov 2022 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,24 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 81.3　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1667707465.A.253.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5595357</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5595357</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2022 04:03:56 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005595357.JPG?v=1667707436" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官44　作者：ぷち]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1667707130.A.E9B.html ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5595348</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5595348</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 06 Nov 2022 03:58:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0005595348.JPG?v=1667707120" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 81.2　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1667102782.A.22E.html ...(繼續閱讀)]]></description>
@@ -83,27 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 25 Sep 2022 04:20:06 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005565677.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 アズレン五周年  20220922]]></title>
-            <description><![CDATA[後半戰!前篇太長了，再開一篇...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5563663</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5563663</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 22 Sep 2022 11:47:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005563663.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官43　作者：ぷち]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1663479678.A.5F6.html 
-
-其實這次我最喜歡的是酒匂
-女僕裝好可愛...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5560656</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5560656</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 18 Sep 2022 05:40:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0005560656.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
