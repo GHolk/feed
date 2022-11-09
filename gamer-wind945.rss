@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 08 Nov 2022 12:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Nov 2022 11:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【鍊金】ふみたん-好奧克之日]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5597368</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5597368</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 09 Nov 2022 04:12:13 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/68/0005597368.JPG?v=1667967133" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】無糖-穿萬聖特別服裝的反應差]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5597340</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5597340</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 09 Nov 2022 03:08:18 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005597340.JPG?v=1667963298" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】nanagi-憶起過去美好的時光]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Fri, 04 Nov 2022 23:48:38 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005594513.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】コーポ-好了啦]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5594512</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5594512</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2022 23:46:15 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/12/0005594512.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】トバ口-隊長的錢包、死去！]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5594511</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5594511</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2022 23:38:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005594511.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
