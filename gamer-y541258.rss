@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 23 Nov 2022 12:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Nov 2022 16:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -45,6 +45,18 @@ Sobel算子卷積計算為什麼是梯度
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 10/5,近況與圖片特徵提取(SIFT,尺度不變特徵變換)文章推薦分享]]></title>
+            <description><![CDATA[AI是怎麼畫圖的?
+我們可以先想下AI是怎麼作曲的
+我是用隨機音符,但正常是從現有風格(爵士樂、鄉村、搖滾等)挑一個來隨機進行
+因為隨機音符實在看不出來智能體現...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5573035</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5573035</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 05 Oct 2022 11:15:11 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 10/1,原神深淵滿星與接下來的計劃,七七 雷電將軍 行秋 雲堇]]></title>
             <description><![CDATA[查了下,久岐忍打超綻放好像也不錯,繼續思考
 10/3更新
@@ -81,12 +93,33 @@ Sobel算子卷積計算為什麼是梯度
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 9/17,打電動的理由]]></title>
+            <description><![CDATA[活著本身就是生命一點一點的流逝著(有段時間是在茁壯著啦)那打電動能把注意力轉移到期待下次更新
+或者是預期哪天達成怎樣的目標
+日子就不會那麼難熬
+雖然我現在整體打...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5560150</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5560150</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 17 Sep 2022 12:13:04 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 9/7,關於大學教育的文章分享]]></title>
             <description><![CDATA[中国大学的现实是：大学层次越低，上课越多，学生读书越少 - 知乎 (zhihu.com) ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5552607</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5552607</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 07 Sep 2022 08:36:14 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/11,近況雜談─主要是福建到新竹鐵路跟化學氣相沉積法]]></title>
+            <description><![CDATA[結果我的生活還是沒什麼變化只是最近比起打電動,更多的時間是躺著休息不說這個了,我在關於臺灣何時統一的問題底下...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5531848</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5531848</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 11 Aug 2022 10:11:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
