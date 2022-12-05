@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 03 Dec 2022 16:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Dec 2022 11:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,26 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【天涯明月刀】房子如何蓋]]></title>
+            <description><![CDATA[全新的家園系統，想蓋什麼就蓋什麼，據說還可以支援最多五人同蓋！太嗨了吧！！
+全新別業-豪宅落成： http://bit.ly/3AQXncb 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5615034</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5615034</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Mon, 05 Dec 2022 10:00:20 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005615034.JPG?v=1670234420" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】這很合理吧]]></title>
+            <description><![CDATA[正常人：呼好險只是夢！ㄇㄐ：幹不行我要回去揍他...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5614242</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5614242</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 04 Dec 2022 05:30:52 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005614242.JPG?v=1670131852" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】SOLO萬歲]]></title>
             <description><![CDATA[難得出現與世無爭的單人手遊
@@ -100,27 +120,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 21 Sep 2022 04:00:34 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005562829.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】被甜點耽誤的壽司店]]></title>
-            <description><![CDATA[人家中秋節烤肉你吃壽司而且還在壽司店吃哈密瓜...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5554091</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5554091</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 09 Sep 2022 09:13:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005554091.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】狀態]]></title>
-            <description><![CDATA[不是急事的話通常是閒下來才會回啦
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5551997</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5551997</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 06 Sep 2022 11:32:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005551997.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
