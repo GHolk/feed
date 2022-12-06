@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 05 Dec 2022 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Dec 2022 12:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】地方特色]]></title>
+            <description><![CDATA[這樣不是比較能留下深刻的印象嗎
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5615686</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5615686</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 06 Dec 2022 09:51:25 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0005615686.JPG?v=1670320285" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【天涯明月刀】房子如何蓋]]></title>
             <description><![CDATA[全新的家園系統，想蓋什麼就蓋什麼，據說還可以支援最多五人同蓋！太嗨了吧！！
@@ -108,18 +120,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 23 Sep 2022 08:00:27 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005564225.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【新瑪奇英雄傳】蕾媞想幫上忙]]></title>
-            <description><![CDATA[對啊而且這樣就不能享受在出征船亂丟東西的時光
-
-也不能打那個吊起來的魚了耶
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5562829</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5562829</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 21 Sep 2022 04:00:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005562829.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
