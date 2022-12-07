@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 06 Dec 2022 12:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Dec 2022 11:25:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】知識就是力量]]></title>
+            <description><![CDATA[身為一個學者用學到的知識進行（物理）攻擊也是很合理的吧！
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5616306</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5616306</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Wed, 07 Dec 2022 10:00:13 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005616306.JPG?v=1670407213" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】地方特色]]></title>
             <description><![CDATA[這樣不是比較能留下深刻的印象嗎
@@ -42,7 +52,7 @@ FB專頁：ㄇㄐ補坑作業室
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5614242</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 04 Dec 2022 05:30:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005614242.JPG?v=1670131852" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005614242.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】SOLO萬歲]]></title>
@@ -108,18 +118,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 25 Oct 2022 16:41:32 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0005587147.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 【FFBE幻影戰爭】戰士們的假日]]></title>
-            <description><![CDATA[【FFBE幻影戰爭】
-2.5周年的FFXIII聯動是屬於雷光跟冰雪的時刻
-所以試著畫了大家難得聚餐休息的樣子！
-現在加入的話到10/5有每天10連必中UR可以抽...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5564225</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5564225</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 23 Sep 2022 08:00:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005564225.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
