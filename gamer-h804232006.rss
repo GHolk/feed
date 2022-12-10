@@ -4,7 +4,7 @@
         <description><![CDATA[h804232006 (仙界大濕) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=h804232006</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 09 Dec 2022 16:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 10 Dec 2022 16:25:17 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-h804232006.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[h804232006 (仙界大濕)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] [達人專欄] 【直播姊妹-氣象武器】]]></title>
+            <description><![CDATA[我相信台灣有氣象武器，深信不疑...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5618400</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5618400</guid>
+            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
+            <pubDate>Sat, 10 Dec 2022 13:37:41 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005618400.JPG?v=1670679461" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 周末去高雄動漫展]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
@@ -94,15 +103,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5443261</guid>
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Mon, 25 Apr 2022 03:19:44 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] Vtuber 歐妲、塔芭絲可]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5420432</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5420432</guid>
-            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
-            <pubDate>Sun, 27 Mar 2022 22:11:13 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
         </item>
     </channel>
