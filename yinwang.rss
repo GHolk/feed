@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 10 Dec 2022 16:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 12 Dec 2022 12:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[continuation 和并发计算专项班]]></title>
+            <description><![CDATA[进阶班的内容在短时间的内覆盖面很广。虽然每个主题都讲的很深入浅出，整个课程也需要两个多月，所有的内容都很烧脑，所以再次开课可能不大方便。我在考虑把进阶班的内容分成小块，对每一块进行专项讲座。这样整个过程会大大缩短，时间安排会更加灵活，脑力负担会减轻。专门针对一小块内容，会大大增强认知效果。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</guid>
+            <pubDate>Sun, 11 Dec 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[计算机科学阅读班提供疫情特价]]></title>
-            <description><![CDATA[由于疫情封控给大家带来的经济和生活困难，我决定从今天起，直到中国完全放开，计算机科学阅读班的学费对国内的同学一律实行半价，也就是 ¥5120。国外的同学如果最近失去了工作，也可以申请这个疫情特价。经济特别困难的同学，经过核实之后可以提供更低的学费。希望大家平安度过难关。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</guid>
             <pubDate>Wed, 30 Nov 2022 16:00:00 GMT</pubDate>
