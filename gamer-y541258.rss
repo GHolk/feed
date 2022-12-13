@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 12 Dec 2022 12:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 Dec 2022 13:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] [遊戲心得]神姬Project若要純單人遊玩之心得分享]]></title>
+            <description><![CDATA[我神姬應該是五年前就玩了神姬是仿GBF的遊戲,但GBF是4人隊伍
+而且我玩了一陣子之後帳號資料消失就懶得再玩了
+最近會回鍋的原因主要是
+買了台桌上型電腦,電腦比...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5620131</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5620131</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 13 Dec 2022 04:36:45 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -114,15 +126,6 @@ Sobel算子卷積計算為什麼是梯度
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5560150</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 17 Sep 2022 12:13:04 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/7,關於大學教育的文章分享]]></title>
-            <description><![CDATA[中国大学的现实是：大学层次越低，上课越多，学生读书越少 - 知乎 (zhihu.com) ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5552607</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5552607</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 07 Sep 2022 08:36:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
