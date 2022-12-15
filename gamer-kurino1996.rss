@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 13 Dec 2022 16:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 Dec 2022 12:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】出乎意料]]></title>
+            <description><![CDATA[欸不是你看看那個腰身、那個肚肚......哇賽......
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5620963</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5620963</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Wed, 14 Dec 2022 10:00:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005620963.JPG?v=1671012016" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】外國朋友]]></title>
             <description><![CDATA[侯......
@@ -22,7 +32,7 @@ FB專頁：ㄇㄐ補坑作業室
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5618977</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 11 Dec 2022 10:08:37 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005618977.JPG?v=1670753317" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005618977.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】知識就是力量]]></title>
@@ -106,18 +116,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 01 Nov 2022 14:19:59 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005592230.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】日常到不知道取什麼標題]]></title>
-            <description><![CDATA[上班不上班是在衝三小
-
-FB專頁:ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5590271</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5590271</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 30 Oct 2022 09:11:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0005590271.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
