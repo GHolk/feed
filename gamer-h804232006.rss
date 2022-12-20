@@ -4,7 +4,7 @@
         <description><![CDATA[h804232006 (仙界大濕) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=h804232006</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 18 Dec 2022 16:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Dec 2022 11:25:16 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-h804232006.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[h804232006 (仙界大濕)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,22 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[插畫] [達人專欄] Aoi Hinamori 2022年賀圖]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5623984</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5623984</guid>
+            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
+            <pubDate>Mon, 19 Dec 2022 04:38:52 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[插畫] 《因夢想而死的我們》賀圖]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5622794</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5622794</guid>
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Sat, 17 Dec 2022 08:40:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0005622794.JPG?v=1671266451" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0005622794.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[插畫] [達人專欄] 【直播姊妹-氣象武器】]]></title>
@@ -95,15 +104,6 @@
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Tue, 03 May 2022 00:29:42 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] 健身的動力]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5446743</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5446743</guid>
-            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
-            <pubDate>Fri, 29 Apr 2022 06:40:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/43/0005446743.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
