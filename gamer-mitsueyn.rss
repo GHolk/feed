@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 23 Dec 2022 11:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 23 Dec 2022 16:25:29 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 「水星的魔女」隨筆塗鴉#2]]></title>
+            <description><![CDATA[天天倒數度日 還有1天又19個小時......#スレミオ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5626736</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5626736</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Fri, 23 Dec 2022 14:08:41 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005626736.JPG?v=1671804521" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 「水星的魔女」隨筆塗鴉]]></title>
             <description><![CDATA[還要等4天又21個小時......最近好喜歡這兩人喔嗚嗚嗚...(繼續閱讀)]]></description>
@@ -98,15 +107,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Wed, 24 Nov 2021 12:00:02 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0005323562.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] [百合原創]《隨筆樹》CH10百合only場宣+新刊試閱 *久違了]]></title>
-            <description><![CDATA[很久沒回小屋了，大家久違了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5317959</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5317959</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 17 Nov 2021 11:45:54 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005317959.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
