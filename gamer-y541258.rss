@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 26 Dec 2022 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Dec 2022 14:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -75,18 +75,6 @@ Sobel算子卷積計算為什麼是梯度
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5577999</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 12 Oct 2022 10:16:11 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/5,近況與圖片特徵提取(SIFT,尺度不變特徵變換)文章推薦分享]]></title>
-            <description><![CDATA[AI是怎麼畫圖的?
-我們可以先想下AI是怎麼作曲的
-我是用隨機音符,但正常是從現有風格(爵士樂、鄉村、搖滾等)挑一個來隨機進行
-因為隨機音符實在看不出來智能體現...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5573035</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5573035</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 05 Oct 2022 11:15:11 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
