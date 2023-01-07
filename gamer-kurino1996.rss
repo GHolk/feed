@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 05 Jan 2023 16:25:33 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 13:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】令人矚目的更新內容]]></title>
+            <description><![CDATA[抱歉但是像素羊羊真的很吸引我......好可愛歐......
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5636571</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5636571</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 06 Jan 2023 11:39:22 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0005636571.JPG?v=1673005162" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】家鄉味]]></title>
             <description><![CDATA[你可能帶我去吃7-11或麥當勞我比較有感觸
@@ -22,7 +32,7 @@ FB專頁：ㄇㄐ補坑作業室
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5635370</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 04 Jan 2023 08:58:31 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005635370.JPG?v=1672822711" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005635370.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【永恆靈魂】薇奧蕾特]]></title>
@@ -107,18 +117,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 07 Dec 2022 10:00:13 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005616306.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】地方特色]]></title>
-            <description><![CDATA[這樣不是比較能留下深刻的印象嗎
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5615686</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5615686</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 06 Dec 2022 09:51:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0005615686.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
