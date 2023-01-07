@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 07 Jan 2023 13:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 07 Jan 2023 16:25:31 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 「水星的魔女」隨筆塗鴉#5 +廢文碎碎唸]]></title>
+            <description><![CDATA[塗鴉是最近在試著用自己的畫風抓人物手感...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5637283</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5637283</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Sat, 07 Jan 2023 14:16:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005637283.JPG?v=1673100990" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 「水星的魔女」隨筆塗鴉#4]]></title>
             <description><![CDATA[塗塗鴨
@@ -99,15 +108,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Fri, 08 Jul 2022 12:19:54 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005504636.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] [百合原創] 白子與魔女番外《假如她們交往了!?》新刊特典大公開！]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5485621</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5485621</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Tue, 14 Jun 2022 13:19:00 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005485621.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
