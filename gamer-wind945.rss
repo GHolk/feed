@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 10 Jan 2023 13:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 11 Jan 2023 12:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-時雨改三超得意]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5639630</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5639630</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 11 Jan 2023 11:17:42 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005639630.JPG?v=1673435862" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】へんだらす-東京母艦大寒流與隊長真理]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5639628</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5639628</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 11 Jan 2023 11:10:40 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005639628.JPG?v=1673435440" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】nanagi-帶著左輪手槍的艾爾芙小姐#19]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Thu, 05 Jan 2023 05:12:58 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005635849.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【IM@S】きょうさる-告訴我吧！圓香博士！]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5635845</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5635845</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Thu, 05 Jan 2023 04:54:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/45/0005635845.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-各自的跨年麵吃法]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5635405</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5635405</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Wed, 04 Jan 2023 10:13:24 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005635405.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
