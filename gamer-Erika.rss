@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 15 Jan 2023 03:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 15 Jan 2023 16:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 86　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1673757703.A.EEF.html 河邊玩雪篇2...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5641840</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5641840</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 15 Jan 2023 04:41:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005641840.JPG?v=1673757676" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 85　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1673153564.A.DE5.html FBI回來上工啦!...(繼續閱讀)]]></description>
@@ -95,15 +104,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 27 Nov 2022 03:48:23 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/33/0005609533.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 錬金術士と謎の遺跡群島 20221124]]></title>
-            <description><![CDATA[期間限定イベント「ライザのアトリエ」コラボ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5607743</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5607743</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 24 Nov 2022 11:40:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/43/0005607743.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
