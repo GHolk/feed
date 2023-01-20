@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 18 Jan 2023 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 20 Jan 2023 16:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 1/19,振奮(主要是遊戲)]]></title>
+            <description><![CDATA[昨天逛了下youtube發現了這幾個影片...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5644520</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5644520</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 19 Jan 2023 10:57:10 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -110,18 +119,6 @@ Sobel算子卷積計算為什麼是梯度
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5570204</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 01 Oct 2022 09:14:27 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/29,明天假日目標─原神坎蒂絲跟溫迪80等,30樹脂結果80等跟79等]]></title>
-            <description><![CDATA[本來是要囤著等小吉祥草王的但想了想,溫迪還是抽著以防萬一
-然後六命坎蒂斯也很動心,一時衝動就抽了,所以只好開始練了
-到底要不要抽六命四星是個很難決定的問題
-因為...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5568716</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5568716</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 29 Sep 2022 10:04:11 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
