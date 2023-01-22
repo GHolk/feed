@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 20 Jan 2023 16:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 22 Jan 2023 12:26:03 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,22 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 87　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1674362040.A.96B.html 河邊玩雪篇3...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5646219</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5646219</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 22 Jan 2023 04:33:32 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0005646219.JPG?v=1674362012" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 母港春節 20230118]]></title>
             <description><![CDATA[SKIN的數量怎麼每次都那麼可怕...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5644042</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5644042</guid>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Wed, 18 Jan 2023 14:09:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005644042.JPG?v=1674050965" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005644042.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 86　作者：ジングー]]></title>
@@ -95,15 +104,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 04 Dec 2022 03:10:30 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005614175.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 碧藍航線 小赤城與指揮官45　作者：ぷち]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/AzurLane/M.1670123097.A.B4C.html ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5614173</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5614173</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 04 Dec 2022 03:04:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005614173.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
