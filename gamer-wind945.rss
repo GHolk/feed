@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 22 Jan 2023 12:26:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jan 2023 01:26:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【鋼彈】桐谷-暱稱]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5646801</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5646801</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 23 Jan 2023 00:19:58 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005646801.PNG?v=1674433198" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-我完全不知情什麼都沒看到]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5646776</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5646776</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Sun, 22 Jan 2023 22:56:18 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/76/0005646776.PNG?v=1674428178" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-提督「真是得了，有夠沒禮貌的。」]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 21 Jan 2023 23:07:42 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005646100.JPG?v=1674342462" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】トバ口-平安引退的Actress寄來的賀年卡讓身心在新年就飽受挫折]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5645605</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5645605</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 21 Jan 2023 05:11:04 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005645605.JPG?v=1674277864" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-DSK新解 今霄突襲練馬師家篇 始動]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5645600</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5645600</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 21 Jan 2023 05:00:32 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005645600.PNG?v=1674277232" length="0" type="false"/>
         </item>
     </channel>
 </rss>
