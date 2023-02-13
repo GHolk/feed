@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 11 Feb 2023 16:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 13 Feb 2023 12:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,7 +19,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5657763</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 10 Feb 2023 08:40:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005657763.JPG?v=1676018456" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005657763.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】推薦美食]]></title>
@@ -28,7 +28,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5657267</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Thu, 09 Feb 2023 10:57:16 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0005657267.JPG?v=1675940236" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0005657267.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】真的髒]]></title>
