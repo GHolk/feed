@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 03 Mar 2023 12:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Mar 2023 03:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【東方】ジェット虚無僧-八雲家今年的女兒節也還是那麼和平呢]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5670990</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5670990</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Fri, 03 Mar 2023 16:05:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/90/0005670990.JPG?v=1677859528" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】シロサワ -三石同學與過去④(5/6)]]></title>
@@ -84,7 +93,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5669122</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 28 Feb 2023 14:20:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005669122.JPG?v=1677594028" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005669122.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【遊戲王】nanagi-忙裡偷閒]]></title>
@@ -93,16 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5669110</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 28 Feb 2023 14:08:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0005669110.JPG?v=1677593300" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【東方】桐谷-姊姊論外箭頭向著聖的女苑]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5668162</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5668162</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Mon, 27 Feb 2023 07:11:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0005668162.PNG" length="0" type="image/png"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0005669110.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
