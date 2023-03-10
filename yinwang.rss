@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 08 Mar 2023 16:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 10 Mar 2023 15:25:08 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -37,6 +37,18 @@
             <link>http://www.yinwang.org/blog-cn/2022/10/09/relativity</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/10/09/relativity</guid>
             <pubDate>Sat, 08 Oct 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[疫情封控是违反宪法的]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</guid>
+            <pubDate>Sun, 11 Sep 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[疫情是怎么回事]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/06/25/covid-19</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/06/25/covid-19</guid>
+            <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[自然视力恢复法]]></title>
@@ -153,6 +165,12 @@
             <pubDate>Mon, 23 Dec 2019 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</guid>
+            <pubDate>Sun, 29 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[机器与人类视觉能力的差距（3）]]></title>
             <link>http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</guid>
@@ -213,10 +231,28 @@
             <pubDate>Wed, 21 Feb 2018 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[成都的雾霾]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</guid>
+            <pubDate>Thu, 15 Feb 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天才是不存在的]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/11/genius</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/11/genius</guid>
+            <pubDate>Fri, 10 Nov 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[网络用语]]></title>
             <link>http://www.yinwang.org/blog-cn/2017/11/05/words</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/05/words</guid>
             <pubDate>Sat, 04 Nov 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AlphaGo Zero 和强人工智能]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/04/alphago-zero</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/04/alphago-zero</guid>
+            <pubDate>Fri, 03 Nov 2017 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[理性的力量]]></title>
@@ -309,6 +345,12 @@
             <pubDate>Tue, 13 Sep 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[Tesla autopilot 引起致命车祸]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</guid>
+            <pubDate>Sat, 09 Jul 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[养生节目的危害]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</guid>
@@ -327,16 +369,52 @@
             <pubDate>Sun, 05 Jun 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[正面思维的误区]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/05/22/positive-thinking</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/05/22/positive-thinking</guid>
+            <pubDate>Sat, 21 May 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[博文的自愿付费方式]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/04/13/pay-blog</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/04/13/pay-blog</guid>
             <pubDate>Tue, 12 Apr 2016 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[为什么自动车完全不可以犯错误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability</guid>
+            <pubDate>Fri, 18 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AlphaGo与人工智能]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</guid>
+            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我看自动驾驶技术]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/02/12/self-driving-car</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/02/12/self-driving-car</guid>
+            <pubDate>Thu, 11 Feb 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[给Java说句公道话]]></title>
             <link>http://www.yinwang.org/blog-cn/2016/01/18/java</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/18/java</guid>
             <pubDate>Sun, 17 Jan 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Autopilot]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</guid>
+            <pubDate>Sat, 09 Jan 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Model X的车门设计问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</guid>
+            <pubDate>Sun, 20 Dec 2015 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[编程的智慧]]></title>
@@ -573,10 +651,22 @@
             <pubDate>Fri, 12 Apr 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
+            <title><![CDATA[什么是启发]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/12/inspiration</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/12/inspiration</guid>
+            <pubDate>Thu, 11 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[Scheme 编程环境的设置]]></title>
             <link>http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</guid>
             <pubDate>Wed, 10 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我为什么离开 Cornell]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/10/cornell</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/10/cornell</guid>
+            <pubDate>Tue, 09 Apr 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[测试驱动开发]]></title>
@@ -594,6 +684,12 @@
             <title><![CDATA[惰性求值]]></title>
             <link>http://www.yinwang.org/blog-cn/2013/04/01/lazy-evaluation</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/01/lazy-evaluation</guid>
+            <pubDate>Sun, 31 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hindley-Milner 类型系统的根本性错误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/01/hindley-milner</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/01/hindley-milner</guid>
             <pubDate>Sun, 31 Mar 2013 16:00:00 GMT</pubDate>
         </item>
         <item>
