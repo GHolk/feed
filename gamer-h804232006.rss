@@ -4,7 +4,7 @@
         <description><![CDATA[h804232006 (仙界大濕) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=h804232006</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 17 Mar 2023 11:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Mar 2023 16:25:14 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-h804232006.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[h804232006 (仙界大濕)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 與經紀人戀愛是絕對禁止2]]></title>
+            <description><![CDATA[幫紳士遊戲「與經紀人戀愛是絕對禁止2」繪製的宣傳圖...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5679520</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5679520</guid>
+            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
+            <pubDate>Fri, 17 Mar 2023 14:59:44 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 與姊姊同住的時光　宣傳圖]]></title>
             <description><![CDATA[幫遊戲「與姊姊同住的時光」畫的宣傳圖...(繼續閱讀)]]></description>
@@ -92,18 +101,6 @@
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Sun, 23 Oct 2022 10:03:50 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/8/h804232006/h804232006.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] OL白博士]]></title>
-            <description><![CDATA[
-
-心血來潮畫一波，趁著案子有空檔的時候！
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5509845</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5509845</guid>
-            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
-            <pubDate>Fri, 15 Jul 2022 06:34:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/45/0005509845.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
