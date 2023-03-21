@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 20 Mar 2023 12:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 21 Mar 2023 11:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【七龍珠】阿井上夫-人造人篇結局定案的瞬間]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5681515</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5681515</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 20 Mar 2023 14:03:26 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005681515.JPG?v=1679321006" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【鋼彈】桐谷-未婚夫衫]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5681508</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5681508</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 20 Mar 2023 14:00:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005681508.PNG?v=1679320806" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-雖然嘴上抱怨個沒完但還是願意扮成啦啦隊給我看的太太]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 18 Mar 2023 12:26:39 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005680055.JPG?v=1679142399" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】亘井-自掘墳墓的稻荷一與玉藻十字]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5679293</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5679293</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2023 08:10:59 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005679293.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】シロサワ -別班女生宣稱不會自己一個人上廁所(1/4)]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5679291</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5679291</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 17 Mar 2023 07:59:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005679291.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
