@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 06 Apr 2023 11:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 07 Apr 2023 14:25:58 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ぽよ-異世界轉生申辦處7]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5693215</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5693215</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Fri, 07 Apr 2023 13:58:37 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005693215.JPG?v=1680875917" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】シロサワ-別班女生宣稱不會自己一個人上廁所(4/4)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5693209</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5693209</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Fri, 07 Apr 2023 13:50:46 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0005693209.PNG?v=1680875446" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【VOCALOID】切裂 シーカー-佔有慾強烈的爛醉弱音哈庫]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 04 Apr 2023 11:47:34 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005691102.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】蛙山芳隆-因為你很厲害所以全世界只給你一個人看]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5690385</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5690385</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2023 11:03:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005690385.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【超人力霸王】阿井上夫-2023愚人節]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5690306</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5690306</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Mon, 03 Apr 2023 09:01:04 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005690306.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
