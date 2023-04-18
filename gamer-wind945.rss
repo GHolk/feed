@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 17 Apr 2023 11:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Apr 2023 11:26:00 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【PM】ぱげらった-魔幻假面喵漫畫]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5699715</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5699715</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2023 15:17:50 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005699715.JPG?v=1681744670" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【超人力霸王】阿井上夫-莉莉‧阿卡伊娃來分辨超人力霸王<超人力霸王？篇>]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5699545</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5699545</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 17 Apr 2023 11:56:59 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/45/0005699545.JPG?v=1681732619" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-別給我撒嬌！！]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 15 Apr 2023 15:08:42 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005698401.JPG?v=1681571322" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-JKDSK 邊作事邊用手機很危險請別這樣做哦]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5698393</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5698393</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 15 Apr 2023 15:01:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005698393.PNG?v=1681570912" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】桜二等兵-玉藻十字&稻荷一 vs 小栗帽]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5698266</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5698266</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 15 Apr 2023 12:06:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/66/0005698266.JPG?v=1681560411" length="0" type="false"/>
         </item>
     </channel>
 </rss>
