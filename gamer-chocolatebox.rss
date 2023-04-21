@@ -4,7 +4,7 @@
         <description><![CDATA[chocolatebox (BlackRed-小鈴@) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chocolatebox</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 20 Apr 2023 16:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 21 Apr 2023 16:25:31 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chocolatebox.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[chocolatebox (BlackRed-小鈴@)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 鳳山區-豐王拉麵]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5701932</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5701932</guid>
+            <dc:creator><![CDATA[chocolatebox (BlackRed-小鈴@)]]></dc:creator>
+            <pubDate>Fri, 21 Apr 2023 09:08:47 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 看完阿凡達2的心得報告]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5409240</guid>
             <dc:creator><![CDATA[chocolatebox (BlackRed-小鈴@)]]></dc:creator>
             <pubDate>Sun, 13 Mar 2022 13:08:11 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] HoHoHo]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5349287</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5349287</guid>
-            <dc:creator><![CDATA[chocolatebox (BlackRed-小鈴@)]]></dc:creator>
-            <pubDate>Sun, 26 Dec 2021 02:56:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/c/h/chocolatebox/chocolatebox.png" length="0" type="image/png"/>
         </item>
     </channel>
