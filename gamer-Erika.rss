@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 22 Apr 2023 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Apr 2023 11:25:33 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 95.2　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1682218966.A.DC5.html 拍賣會篇3...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5703163</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5703163</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 23 Apr 2023 03:02:13 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005703163.JPG?v=1682218933" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 95.1　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1681615722.A.EB1.html 拍賣會篇2...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 26 Feb 2023 03:30:06 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005667507.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 黙示の遺構 20230223]]></title>
-            <description><![CDATA[圖很多  流量ry期間限定イベント「黙示の遺構」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5665967</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5665967</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 23 Feb 2023 11:37:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0005665967.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
