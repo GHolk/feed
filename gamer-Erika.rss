@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 26 Apr 2023 12:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 27 Apr 2023 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 DOAXVV コラボイベント 20230427]]></title>
+            <description><![CDATA[泳裝!!!期間限定イベント「DEAD OR ALIVE Xtreme Venus Vacation」...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5705934</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5705934</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Thu, 27 Apr 2023 11:38:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005705934.JPG?v=1682595489" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 95.2　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1682218966.A.DC5.html 拍賣會篇3...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 05 Mar 2023 05:27:08 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005671899.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 91　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1677382232.A.B68.html 大家的新年篇3...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5667507</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5667507</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 26 Feb 2023 03:30:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005667507.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
