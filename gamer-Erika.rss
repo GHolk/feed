@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 02 May 2023 16:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 03 May 2023 16:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,7 +19,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5707580</guid>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 30 Apr 2023 03:31:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005707580.PNG?v=1682825502" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005707580.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 DOAXVV コラボイベント 20230427]]></title>
