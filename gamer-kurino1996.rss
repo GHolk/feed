@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 03 May 2023 16:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 04 May 2023 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,24 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] [達人專欄] 【繪圖】祝我生日快樂！]]></title>
+            <description><![CDATA[對！今天是我生日！！好久沒有撥出時間好好給自己畫畫了！開心！！！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5710715</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5710715</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Thu, 04 May 2023 16:01:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005710715.JPG?v=1683216090" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】還是要吃一下的吧]]></title>
+            <description><![CDATA[：說到推薦還有這個包餡魚丸，你吃吃看！SORA：...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5710369</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5710369</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Thu, 04 May 2023 06:54:47 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005710369.JPG?v=1683183287" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】啊不是很飽]]></title>
             <description><![CDATA[你再喝一口你試試看
@@ -91,28 +109,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 20 Jan 2023 05:56:01 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005644988.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】你要不要聽聽看自己在說什麼]]></title>
-            <description><![CDATA[夢還沒醒的話我直接讓你夢碎
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5643884</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5643884</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 18 Jan 2023 10:08:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0005643884.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【歧路旅人：大陸的霸者】令人矚目的更新內容]]></title>
-            <description><![CDATA[抱歉但是像素羊羊真的很吸引我......好可愛歐......
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5636571</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5636571</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 06 Jan 2023 11:39:22 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0005636571.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
