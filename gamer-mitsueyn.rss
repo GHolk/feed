@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 18 May 2023 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 May 2023 12:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,22 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[同人] 本週週末5/20 IF創集繪 場宣 - 《水星的魔女》]]></title>
+            <description><![CDATA[【本週週末5/20 IF創集繪 場宣】攤位號碼：T43,T44攤上會有刊物請見DM...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5719430</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5719430</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Thu, 18 May 2023 13:31:57 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005719430.JPG?v=1684416717" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[漫畫] 場前宣傳 - 《水星的魔女》新刊試閱及預購+抽獎活動]]></title>
             <description><![CDATA[【水星新刊試閱及預購+抽獎活動】 【5/20 IF創集繪+6/3 CooMIC場場宣】不好意思讓大家久等，新刊試閱出爐！-----...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5717528</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5717528</guid>
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Mon, 15 May 2023 12:14:08 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005717528.JPG?v=1684152848" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005717528.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[插畫] 「水星的魔女」隨筆塗鴉#5 +廢文碎碎唸]]></title>
@@ -99,15 +108,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Tue, 09 Aug 2022 12:29:05 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/19/0005530419.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] [百合原創]《白子與魔女》FF39場前宣傳，有新刊／掛軸！]]></title>
-            <description><![CDATA[【FF39場前宣傳】 #白子與魔女 #原創百合　※請注意新刊特典的量不多囉※特典也會留一點量給CWT61販售...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5508658</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5508658</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 13 Jul 2022 14:43:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005508658.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
