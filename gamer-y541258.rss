@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 22 May 2023 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 May 2023 12:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 5/23,沉迷於星穹鐵道中,簡略感想(若資源不夠建議跳景元)]]></title>
+            <description><![CDATA[其實也沒有很沉迷,鋤大地鋤得不是很勤勞我目前玩五個帳號.四個帳號囤抽
+主帳號應該是全圖鑑黨,但不是全專武黨
+雖然是75%跟頂多歪一次,但它武器池保底抽數也還是很...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5722556</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5722556</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 23 May 2023 11:52:08 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -98,18 +109,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5620131</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 13 Dec 2022 04:36:45 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 如果是生命的最後一天]]></title>
-            <description><![CDATA[『如果今天是生命的最後一天,你會怎麼過?』!別想不開啊!
-『單純只是想問一下』
-「其實我覺得想開的人才會自殺,真想不開是隔段時間又在想這問題」
-「雖然也可能跟想...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5614528</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5614528</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 04 Dec 2022 12:26:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
