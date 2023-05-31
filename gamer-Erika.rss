@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 May 2023 12:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 May 2023 11:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,7 +19,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5725364</guid>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 28 May 2023 03:54:44 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0005725364.JPG?v=1685246084" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0005725364.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 覆天せし万象の塵 20230525]]></title>
