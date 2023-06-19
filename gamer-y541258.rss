@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Jun 2023 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 11:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,8 +24,17 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 6/11~,今年第二段電動日記(主要星穹鐵道),銀狼駭得好]]></title>
-            <description><![CDATA[剛從花蓮回來(雖然之前應該說是回花蓮)星穹還是用電腦鋤大地比較有動力玩不然拿著手機手太酸了,放著手機點又會滑動...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 6/19,2023電動筆記part 3,依然是星穹鐵道]]></title>
+            <description><![CDATA[電動日記一星期一篇好了,避免太長上篇忘記說,好像是今年年初,花蓮的大呼過癮改成自助式的了那沙茶醬我不清楚要怎麼加才跟之前的一樣...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5739325</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5739325</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2023 10:43:53 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/11~18,今年第二段電動日記(主要星穹鐵道),銀狼駭得好,完美結束這週]]></title>
+            <description><![CDATA[亞服,80650774780等0+0希兒助戰更具體的戰力再附兩張圖...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5734358</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5734358</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -95,15 +104,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5702685</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 22 Apr 2023 09:56:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/19,振奮(主要是遊戲),3/25更新現有與預計打機獸的陣容]]></title>
-            <description><![CDATA[昨天逛了下youtube發現了這幾個影片...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5644520</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5644520</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 19 Jan 2023 10:57:10 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

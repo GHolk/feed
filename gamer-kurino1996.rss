@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Jun 2023 16:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Jun 2023 11:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,27 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 【光與夜之戀】蕭逸]]></title>
+            <description><![CDATA[帥哥多到太容易選擇困難了
+雖然性格上喜歡夏鳴星但是論臉的話我偏好蕭逸
+總之我是全都要了（我不是花心只是心碎成了很多片每一片都愛上了不同的人.jpg）
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5739262</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5739262</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Mon, 19 Jun 2023 09:00:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0005739262.JPG?v=1687165216" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] 【休養日記-1】]]></title>
+            <description><![CDATA[我的手似乎出了點問題其實目前的狀況也還沒有穩定、手很容易發麻使不上力恢復有可能花上半年一年、也有可能就這樣了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5738521</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5738521</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 18 Jun 2023 04:35:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005738521.JPG?v=1687062906" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 【光與夜之戀】夏鳴星]]></title>
             <description><![CDATA[終於開服啦！事前有觀望一點點實況
@@ -21,7 +42,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5737259</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 16 Jun 2023 06:01:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005737259.JPG?v=1686895274" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005737259.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【跑跑卡丁車 RUSH+】歡慶三周年]]></title>
@@ -93,24 +114,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Mon, 08 May 2023 07:03:26 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005712979.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] 【繪圖】祝我生日快樂！]]></title>
-            <description><![CDATA[對！今天是我生日！！好久沒有撥出時間好好給自己畫畫了！開心！！！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5710715</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5710715</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 04 May 2023 16:01:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005710715.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】還是要吃一下的吧]]></title>
-            <description><![CDATA[：說到推薦還有這個包餡魚丸，你吃吃看！SORA：...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5710369</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5710369</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 04 May 2023 06:54:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005710369.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
