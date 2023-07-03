@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 02 Jul 2023 03:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 12:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-拉麵Perth]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5748573</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5748573</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2023 11:04:07 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005748573.JPG?v=1688382247" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ヴァエ-要重新封印時才發現魔王]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5748564</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5748564</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2023 10:58:32 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0005748564.JPG?v=1688381912" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-讓姊姊來帶你轉大人吧]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Fri, 30 Jun 2023 21:25:14 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005746873.JPG?v=1688160314" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】シロサワ-戴著項圈跟別班女生一起夜間校園散步(2/5)]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5746555</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746555</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2023 12:48:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005746555.PNG?v=1688129286" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】おてるこ-無想像力]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5746227</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746227</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2023 02:47:53 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0005746227.JPG?v=1688093273" length="0" type="false"/>
         </item>
     </channel>
 </rss>

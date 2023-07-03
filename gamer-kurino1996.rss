@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 02 Jul 2023 03:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 03 Jul 2023 12:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,25 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【光與夜之戀】陸沉]]></title>
+            <description><![CDATA[我真的不是花心但是有誰能抗拒溫柔daddy......
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5748496</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5748496</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2023 09:01:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005748496.JPG?v=1688374869" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] 【休養日記-4】]]></title>
+            <description><![CDATA[我那努力維持的人設崩壞了～～～不～～～～～～...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5747814</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5747814</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 02 Jul 2023 07:49:10 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0005747814.JPG?v=1688284150" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【跑跑卡丁車：飄移】關於氣球太可愛的這檔事]]></title>
             <description><![CDATA[氣球這麼可愛怎麼可以用導彈打它！！！
@@ -94,26 +113,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 16 Jun 2023 06:01:14 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005737259.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【跑跑卡丁車 RUSH+】歡慶三周年]]></title>
-            <description><![CDATA[做卡丁車造型蛋糕已經不夠看了
-要做就把整台卡丁車做成蛋糕
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5733480</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5733480</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 10 Jun 2023 04:55:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005733480.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】喜好不同的時候]]></title>
-            <description><![CDATA[雖然是很簡單的道理但也很重要不要迎合別人...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5725608</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5725608</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 28 May 2023 10:58:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005725608.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
