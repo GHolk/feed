@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 03 Jul 2023 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 04 Jul 2023 11:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-北上的生日請求]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5748674</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5748674</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Mon, 03 Jul 2023 13:30:12 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/74/0005748674.JPG?v=1688391012" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-拉麵Perth]]></title>
@@ -75,7 +84,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5747208</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 01 Jul 2023 10:10:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005747208.JPG?v=1688206226" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005747208.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】無糖-中二病勢不可擋]]></title>
@@ -84,7 +93,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5747200</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 01 Jul 2023 10:02:55 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005747200.JPG?v=1688205775" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005747200.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】担当K-太太是(前)女優 深沙希篇]]></title>
@@ -93,16 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746876</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Fri, 30 Jun 2023 21:58:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/76/0005746876.JPG?v=1688162313" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】ひよりり-HOME SWEET HOME]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5746873</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746873</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2023 21:25:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005746873.JPG?v=1688160314" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/76/0005746876.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
