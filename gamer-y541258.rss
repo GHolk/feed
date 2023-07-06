@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 05 Jul 2023 11:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 06 Jul 2023 11:26:18 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/6,星穹鐵道渾沌回憶滿星,有機會的話再錄視頻吧]]></title>
+            <description><![CDATA[我是全員生存跟勝利在回合數以內分開凹的
+這期打滿,但下期可能也沒辦法立刻滿,因為祝福更換的關係
+唔,前陣子試前七層滿星,第八層0星,第九層1星,第10層2星
+努...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5750338</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5750338</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 06 Jul 2023 09:56:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -103,15 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5714389</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 10 May 2023 13:01:15 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/29,抽象代數─對稱群(預告寫錯,是對稱不是對換) part 1,屬性相剋與滑動式拼圖]]></title>
-            <description><![CDATA[今天看到個不錯的說法說數學許多領域一開始都不實用,之所以會研究它只是因為足夠有趣但數學覺得有趣的往往會導致它能應用在其它領域上...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5707090</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5707090</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 29 Apr 2023 10:34:38 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
