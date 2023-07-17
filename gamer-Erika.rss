@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 16 Jul 2023 02:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS END　作者：ジングー]]></title>
+            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1689479509.A.39D.html 最終回...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5756324</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5756324</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2023 03:51:08 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005756324.JPG?v=1689479468" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 特別開発艦船 第六期 20230713]]></title>
             <description><![CDATA[第一天造不出來  實裝紀錄w...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Thu, 01 Jun 2023 10:14:52 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005728115.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 97.2　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1685246116.A.D63.html 短篇 安齋家的一日...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5725364</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5725364</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 28 May 2023 03:54:44 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0005725364.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

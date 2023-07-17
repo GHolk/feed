@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 16 Jul 2023 02:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jul 2023 11:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,16 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/16,臥龍吟魏國遊玩簡短建議]]></title>
+            <description><![CDATA[只有一個建議,efun平台的話,魏國玩S07 鐵臂潼關好像是跟1046區合服(但我不知道怎麼選1046區),所以每日封賞是152金幣
+(這值是根據國政,鑄幣的數...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5756481</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5756481</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 16 Jul 2023 09:49:21 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -106,17 +116,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5727535</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 31 May 2023 11:43:47 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 5/23,沉迷於星穹鐵道中,簡略感想(若資源不夠建議跳景元)]]></title>
-            <description><![CDATA[其實也沒有很沉迷,鋤大地鋤得不是很勤勞我目前玩五個帳號.四個帳號囤抽
-主帳號應該是全圖鑑黨,但不是全專武黨
-雖然是75%跟頂多歪一次,但它武器池保底抽數也還是很...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5722556</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5722556</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 23 May 2023 11:52:08 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
