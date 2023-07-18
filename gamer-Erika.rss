@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 17 Jul 2023 11:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 18 Jul 2023 11:25:30 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 奴隷との生活 -Teaching Feeling- 4.06中文化+換裝MOD掛件測試]]></title>
+            <description><![CDATA[對，你沒看錯w  *有更新時就會跳上來
+
+2023 0716  第六次更新  TF4.06 夏蟲語冰中文化
+https://mega.nz/file/p0gAj...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5176934</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5176934</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Sun, 13 Jun 2021 07:00:37 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS END　作者：ジングー]]></title>
             <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1689479509.A.39D.html 最終回...(繼續閱讀)]]></description>
@@ -92,15 +104,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 04 Jun 2023 04:12:12 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/74/0005729874.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 ドレス夏2023シリーズ 20230601]]></title>
-            <description><![CDATA[連續課金課到要懷疑人生ry...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5728115</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5728115</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 01 Jun 2023 10:14:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005728115.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
