@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 19 Jul 2023 12:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Jul 2023 12:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/19~,星穹鐵道,刃培養中,目前感想是不適合當第一個主C,接著還有待觀察]]></title>
+            <description><![CDATA[均衡六,1.2大地全鋤好像是62900經驗,不過最新的兩地圖難打一截...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5758351</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5758351</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 19 Jul 2023 12:31:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -107,15 +116,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5729436</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 03 Jun 2023 11:52:54 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 直播預告與電動日記 6月7日晚上六點整星穹鐵道直播抽銀狼]]></title>
-            <description><![CDATA[嗯,目前其實星瓊還不太夠9176星瓊跟保底已有12抽左右我這幾天再看看要不要補有補的話就抽到有為止...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5727535</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5727535</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 31 May 2023 11:43:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
