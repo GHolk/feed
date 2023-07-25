@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 24 Jul 2023 12:25:59 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Jul 2023 12:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-秋雲:我還能說什麼……]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5761883</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5761883</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Tue, 25 Jul 2023 05:15:47 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005761883.JPG?v=1690262147" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】へんだらす-深沙希搶了綾香的女騎士裝]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5761877</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5761877</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Tue, 25 Jul 2023 04:58:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0005761877.JPG?v=1690261131" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】ひすでー-出場了耶(聲音)]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sun, 23 Jul 2023 06:07:09 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0005760561.JPG?v=1690092429" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【洛克人洛克人】蘿露篇-八大BOSS]]></title>
-            <description><![CDATA[因為剛好關卡有十三關所以我每一關都會讓蘿露穿不同的服裝...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5760153</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5760153</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 22 Jul 2023 12:52:13 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005760153.PNG?v=1690030333" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】切裂 シーカー-本以為她不會做結果阿霞還是做了]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5759912</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5759912</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 22 Jul 2023 03:53:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/12/0005759912.JPG?v=1689998001" length="0" type="false"/>
         </item>
     </channel>
 </rss>
