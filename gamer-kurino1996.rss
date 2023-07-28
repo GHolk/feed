@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 27 Jul 2023 11:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jul 2023 12:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【HIT2】找工作嗎？那就去參加HIT2攻城當傭兵吧！]]></title>
+            <description><![CDATA[這傭兵單該簽了吧這還不簽！！
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5763707</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5763707</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 28 Jul 2023 04:00:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005763707.JPG?v=1690516819" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【日常】關於稿件修改]]></title>
             <description><![CDATA[看那麼近有點太赤裸了我會害羞啦
@@ -102,15 +112,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 23 Jun 2023 07:14:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005741853.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【休養日記-2】]]></title>
-            <description><![CDATA[雖然說有問題就要快點看醫生但我那陣子已經因為其他問題到處求診求到麻木了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5740346</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5740346</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 21 Jun 2023 01:10:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0005740346.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
