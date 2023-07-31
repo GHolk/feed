@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 29 Jul 2023 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 31 Jul 2023 11:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,16 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/30,創作大廳手機版跟電腦版內容不同呢]]></title>
+            <description><![CDATA[唔,嘗試了一陣子,可能是我操作有誤,但換成電腦版網站也會自動跳成appapp的創作大廳就算選全部創作,也只會跳達人的創作
+所以只好不甘不願滴用回電腦,不然看不到...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5765349</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5765349</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 30 Jul 2023 10:22:06 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -109,15 +119,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5734358</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 11 Jun 2023 10:42:25 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 近期目標二選一,大窮衍觀陣實作或隨機圖像生成(關鍵字:相似度計算,但怎麼隨機出相似的?)]]></title>
-            <description><![CDATA[嗯,關於抽象代數證畢氏定理不能同時為奇數的那件事給我的啟發還是從問題直接著手會比妄想試圖從基本功開始然後一通百通來得實在些...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5729436</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5729436</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 03 Jun 2023 11:52:54 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
