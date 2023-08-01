@@ -4,7 +4,7 @@
         <description><![CDATA[htpxr0337 (加護 人生靈基三) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=htpxr0337</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 31 Jul 2023 11:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 01 Aug 2023 12:25:57 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-htpxr0337.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[htpxr0337 (加護 人生靈基三)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] 【通販預購】FF41星野本通販預購開囉～]]></title>
+            <description><![CDATA[>買動漫預購網站< ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5766453</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5766453</guid>
+            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
+            <pubDate>Tue, 01 Aug 2023 04:06:58 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] FF41新刊 某老師把星野的色色塗鴉做成的小本本(有修試看]]></title>
             <description><![CDATA[安安我是加護...(繼續閱讀)]]></description>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5598130</guid>
             <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
             <pubDate>Thu, 10 Nov 2022 10:39:57 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【買下不喜歡自己的奴隸的蘿莎莉亞大小姐】EP22 管不住的手 (有修)]]></title>
-            <description><![CDATA[安安我是加護劇情到這也會慢慢解開些謎題...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5596251</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5596251</guid>
-            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
-            <pubDate>Mon, 07 Nov 2022 08:33:35 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
         </item>
     </channel>
