@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 08 Aug 2023 03:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 09 Aug 2023 11:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -19,5 +19,780 @@
         <ttl>1440</ttl>
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
+        <item>
+            <title><![CDATA[continuation 和并发计算专项班]]></title>
+            <description><![CDATA[进阶班的内容在短时间的内覆盖面很广。虽然每个主题都讲的很深入浅出，整个课程也需要两个多月，所有的内容都很烧脑，所以再次开课可能不大方便。我在考虑把进阶班的内容分成小块，对每一块进行专项讲座。这样整个过程会大大缩短，时间安排会更加灵活，脑力负担会减轻。专门针对一小块内容，会大大增强认知效果。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</guid>
+            <pubDate>Sun, 11 Dec 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学阅读班提供疫情特价]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</guid>
+            <pubDate>Wed, 30 Nov 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[相对论推导练习]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/10/09/relativity</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/10/09/relativity</guid>
+            <pubDate>Sat, 08 Oct 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[疫情封控是违反宪法的]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</guid>
+            <pubDate>Sun, 11 Sep 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[疫情是怎么回事]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/06/25/covid-19</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/06/25/covid-19</guid>
+            <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自然视力恢复法]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/02/22/myopia</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/myopia</guid>
+            <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学进阶班招生]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/22/advanced-cs-course</guid>
+            <pubDate>Mon, 21 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学阅读班招生说明]]></title>
+            <link>http://www.yinwang.org/blog-cn/2022/02/07/reading-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/02/07/reading-course</guid>
+            <pubDate>Sun, 06 Feb 2022 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[第一位“计算机科学少年班”学生毕业]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/09/16/youth-cs-student</guid>
+            <pubDate>Wed, 15 Sep 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“超人类机器视觉”是不存在的]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/07/29/super-human-level-vision</guid>
+            <pubDate>Wed, 28 Jul 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[『Ground-Up Computer Science』样章]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/05/11/gucs-sample</guid>
+            <pubDate>Mon, 10 May 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学基础班（第 4 期）报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/05/10/cs4</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/05/10/cs4</guid>
+            <pubDate>Sun, 09 May 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学阅读班（实验）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/02/16/cs-reading-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/02/16/cs-reading-course</guid>
+            <pubDate>Mon, 15 Feb 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学基础班（第三期）报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2021/02/15/cs3</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2021/02/15/cs3</guid>
+            <pubDate>Sun, 14 Feb 2021 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学集体班（第二期）报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/09/24/cs-class2</guid>
+            <pubDate>Wed, 23 Sep 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[几个需要避免的美国英语习惯]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/05/23/american-english-problems</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/05/23/american-english-problems</guid>
+            <pubDate>Fri, 22 May 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一对一教学计划]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/04/30/individualized-learning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/04/30/individualized-learning</guid>
+            <pubDate>Wed, 29 Apr 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学入门班报名]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/03/26/entry-level-class</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/26/entry-level-class</guid>
+            <pubDate>Wed, 25 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对智商的怀疑]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/23/wisdom-of-intelligence</guid>
+            <pubDate>Sun, 22 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英语学习的一些经验]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/06/english-learning-tips</guid>
+            <pubDate>Thu, 05 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[计算机科学课程]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/03/03/cs-course</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/03/03/cs-course</guid>
+            <pubDate>Mon, 02 Mar 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一道 Java 面试题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/13/java-type-system</guid>
+            <pubDate>Wed, 12 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[如何阅读别人的代码]]></title>
+            <link>http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2020/02/05/how-to-read-code</guid>
+            <pubDate>Tue, 04 Feb 2020 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我不是编译器专家]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/12/24/compilers</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/12/24/compilers</guid>
+            <pubDate>Mon, 23 Dec 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[自动驾驶车的责任和风险分析]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/30/autopilot-responsibility</guid>
+            <pubDate>Sun, 29 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（3）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/16/machine-vs-human-3</guid>
+            <pubDate>Sun, 15 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（2）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/15/machine-vs-human-2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/15/machine-vs-human-2</guid>
+            <pubDate>Sat, 14 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[机器与人类视觉能力的差距（1）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/14/machine-vs-human</guid>
+            <pubDate>Fri, 13 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Talk is not cheap]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/09/11/talk-is-not-cheap</guid>
+            <pubDate>Tue, 10 Sep 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于微内核的对话]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/08/19/microkernel</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/08/19/microkernel</guid>
+            <pubDate>Sun, 18 Aug 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[再谈“P vs NP”问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/07/21/pnp2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/21/pnp2</guid>
+            <pubDate>Sat, 20 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[学习的智慧]]></title>
+            <link>http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2019/07/12/learning-philosophy</guid>
+            <pubDate>Thu, 11 Jul 2019 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[解谜英语语法]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/11/23/grammar</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/11/23/grammar</guid>
+            <pubDate>Thu, 22 Nov 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[解谜计算机科学]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/04/13/computer-science</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/04/13/computer-science</guid>
+            <pubDate>Thu, 12 Apr 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智能合约和形式验证]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/02/22/smart-contract</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/02/22/smart-contract</guid>
+            <pubDate>Wed, 21 Feb 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[成都的雾霾]]></title>
+            <link>http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2018/02/16/chengdu-pollution</guid>
+            <pubDate>Thu, 15 Feb 2018 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[天才是不存在的]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/11/genius</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/11/genius</guid>
+            <pubDate>Fri, 10 Nov 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[网络用语]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/05/words</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/05/words</guid>
+            <pubDate>Sat, 04 Nov 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AlphaGo Zero 和强人工智能]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/04/alphago-zero</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/04/alphago-zero</guid>
+            <pubDate>Fri, 03 Nov 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[理性的力量]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/11/01/power-of-reasoning</guid>
+            <pubDate>Tue, 31 Oct 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人体工学]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/10/16/ergonomics</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/10/16/ergonomics</guid>
+            <pubDate>Sun, 15 Oct 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[旅行的智慧]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/08/14/travel-wisdom</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/08/14/travel-wisdom</guid>
+            <pubDate>Sun, 13 Aug 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[生活的智慧]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/07/08/living-philosophy</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/08/living-philosophy</guid>
+            <pubDate>Fri, 07 Jul 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[如何掌握所有的程序语言]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/07/06/master-pl</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/06/master-pl</guid>
+            <pubDate>Wed, 05 Jul 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[带猫回国经历]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/07/06/cat-travel-china</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/07/06/cat-travel-china</guid>
+            <pubDate>Wed, 05 Jul 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DSL 的误区]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/05/25/dsl</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/05/25/dsl</guid>
+            <pubDate>Wed, 24 May 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Kotlin 和 Checked Exception]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/05/23/kotlin</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/05/23/kotlin</guid>
+            <pubDate>Mon, 22 May 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是现实理想主义者]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/05/17/practical-idealism</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/05/17/practical-idealism</guid>
+            <pubDate>Tue, 16 May 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[人工智能的局限性]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/04/23/ai</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/04/23/ai</guid>
+            <pubDate>Sat, 22 Apr 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[经验和洞察力]]></title>
+            <link>http://www.yinwang.org/blog-cn/2017/04/14/experience-and-insight</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2017/04/14/experience-and-insight</guid>
+            <pubDate>Thu, 13 Apr 2017 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C# 的 IDisposable 接口]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/10/13/c-sharp-disposable</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/10/13/c-sharp-disposable</guid>
+            <pubDate>Wed, 12 Oct 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[C 编译器优化的 Bug]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/10/12/compiler-bug</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/10/12/compiler-bug</guid>
+            <pubDate>Tue, 11 Oct 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对 Rust 语言的分析]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/09/18/rust</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/09/18/rust</guid>
+            <pubDate>Sat, 17 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[测试的道理]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/09/14/tests</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/09/14/tests</guid>
+            <pubDate>Tue, 13 Sep 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla autopilot 引起致命车祸]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/07/10/tesla-autopilot-fatal-crash</guid>
+            <pubDate>Sat, 09 Jul 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[养生节目的危害]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/28/yangsheng</guid>
+            <pubDate>Mon, 27 Jun 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Java 有值类型吗？]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/06/08/java-value-type</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/08/java-value-type</guid>
+            <pubDate>Tue, 07 Jun 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Swift 语言的设计错误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/06/06/swift</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/06/06/swift</guid>
+            <pubDate>Sun, 05 Jun 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[正面思维的误区]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/05/22/positive-thinking</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/05/22/positive-thinking</guid>
+            <pubDate>Sat, 21 May 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[博文的自愿付费方式]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/04/13/pay-blog</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/04/13/pay-blog</guid>
+            <pubDate>Tue, 12 Apr 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[为什么自动车完全不可以犯错误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/03/19/self-driving-car-liability</guid>
+            <pubDate>Fri, 18 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[AlphaGo与人工智能]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/03/09/alpha-go</guid>
+            <pubDate>Tue, 08 Mar 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我看自动驾驶技术]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/02/12/self-driving-car</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/02/12/self-driving-car</guid>
+            <pubDate>Thu, 11 Feb 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[给Java说句公道话]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/01/18/java</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/18/java</guid>
+            <pubDate>Sun, 17 Jan 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Autopilot]]></title>
+            <link>http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2016/01/10/tesla-autopilot</guid>
+            <pubDate>Sat, 09 Jan 2016 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Tesla Model X的车门设计问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/12/21/tesla-model-x</guid>
+            <pubDate>Sun, 20 Dec 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[编程的智慧]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/11/21/programming-philosophy</guid>
+            <pubDate>Fri, 20 Nov 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[图灵的光环]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/10/18/turing</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/10/18/turing</guid>
+            <pubDate>Sat, 17 Oct 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对 Parser 的误解]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/09/19/parser</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/09/19/parser</guid>
+            <pubDate>Fri, 18 Sep 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[数学和编程]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/07/04/math</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/07/04/math</guid>
+            <pubDate>Fri, 03 Jul 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谈程序的正确性]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/07/02/program-correctness</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/07/02/program-correctness</guid>
+            <pubDate>Wed, 01 Jul 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[DRY原则的误区]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/06/14/dry-principle</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/06/14/dry-principle</guid>
+            <pubDate>Sat, 13 Jun 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[所谓软件工程]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/06/07/software-engineering</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/06/07/software-engineering</guid>
+            <pubDate>Sat, 06 Jun 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[编程的宗派]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/04/03/paradigms</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/04/03/paradigms</guid>
+            <pubDate>Thu, 02 Apr 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[英语口音]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/03/21/accent</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/03/21/accent</guid>
+            <pubDate>Fri, 20 Mar 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[智商的圈套]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/03/20/trap-of-intelligence</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/03/20/trap-of-intelligence</guid>
+            <pubDate>Thu, 19 Mar 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[设计的重要性]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/03/17/design</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/03/17/design</guid>
+            <pubDate>Mon, 16 Mar 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于Git的礼节]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/03/11/git-etiquette</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/03/11/git-etiquette</guid>
+            <pubDate>Tue, 10 Mar 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[怎样尊重一个程序员]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/03/03/how-to-respect-a-programmer</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/03/03/how-to-respect-a-programmer</guid>
+            <pubDate>Mon, 02 Mar 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[所谓“人为错误”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/02/24/human-errors</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/02/24/human-errors</guid>
+            <pubDate>Mon, 23 Feb 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[其他人的BUG]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/02/20/other-peoples-bug</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/02/20/other-peoples-bug</guid>
+            <pubDate>Thu, 19 Feb 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[创造者的思维方式]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/02/01/creative-thinking</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/02/01/creative-thinking</guid>
+            <pubDate>Sat, 31 Jan 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[小费和中国人的尊严]]></title>
+            <link>http://www.yinwang.org/blog-cn/2015/01/19/tips</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2015/01/19/tips</guid>
+            <pubDate>Sun, 18 Jan 2015 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[恶评《星际穿越》]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/11/12/interstellar</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/11/12/interstellar</guid>
+            <pubDate>Tue, 11 Nov 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关系式模型的实质]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/04/24/relational</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/04/24/relational</guid>
+            <pubDate>Wed, 23 Apr 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[对 Go 语言的综合评价]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/04/18/golang</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/04/18/golang</guid>
+            <pubDate>Thu, 17 Apr 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一个对 Dijkstra 的采访视频]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/02/18/dijkstra-interview</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/02/18/dijkstra-interview</guid>
+            <pubDate>Mon, 17 Feb 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[程序员的心理疾病]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/02/09/programmer-mental</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/02/09/programmer-mental</guid>
+            <pubDate>Sat, 08 Feb 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[程序语言与它们的工具]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/02/04/pl-tool</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/02/04/pl-tool</guid>
+            <pubDate>Mon, 03 Feb 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[RubySonar：一个 Ruby 静态分析器]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/01/28/rubysonar</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/01/28/rubysonar</guid>
+            <pubDate>Mon, 27 Jan 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我和权威的故事]]></title>
+            <link>http://www.yinwang.org/blog-cn/2014/01/04/authority</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2014/01/04/authority</guid>
+            <pubDate>Fri, 03 Jan 2014 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[PySonar2 与 Sourcegraph 集成完毕]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/11/25/pysonar2-sg</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/11/25/pysonar2-sg</guid>
+            <pubDate>Sun, 24 Nov 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[丘奇和图灵]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/07/13/church-turing</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/07/13/church-turing</guid>
+            <pubDate>Fri, 12 Jul 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pydiff Python结构化程序比较工具]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/07/06/PyDiff-Python%E7%BB%93%E6%9E%84%E5%8C%96%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83%E5%B7%A5%E5%85%B7</guid>
+            <pubDate>Fri, 05 Jul 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[原因与证明]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/26/reason-and-proof</guid>
+            <pubDate>Thu, 25 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Ydiff 结构化的程序比较]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/21/ydiff-%E7%BB%93%E6%9E%84%E5%8C%96%E7%9A%84%E7%A8%8B%E5%BA%8F%E6%AF%94%E8%BE%83</guid>
+            <pubDate>Sat, 20 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[编辑器与IDE]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/20/editor-ide</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/20/editor-ide</guid>
+            <pubDate>Fri, 19 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[程序语言的常见设计错误(2) - 试图容纳世界]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/18/language-design-mistake2</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/18/language-design-mistake2</guid>
+            <pubDate>Wed, 17 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[关于语言的思考]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/17/languages</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/17/languages</guid>
+            <pubDate>Tue, 16 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Yoda 表示法错在哪里]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/16/yoda-notation</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/16/yoda-notation</guid>
+            <pubDate>Mon, 15 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[几个超炫的专业词汇]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/15/terminology</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/15/terminology</guid>
+            <pubDate>Sun, 14 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[标准化试卷标记语言]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/14/standard-exam-language</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/14/standard-exam-language</guid>
+            <pubDate>Sat, 13 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[一种新的操作系统设计]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/14/os-design</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/14/os-design</guid>
+            <pubDate>Sat, 13 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Markdown 的一些问题]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/14/markdown</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/14/markdown</guid>
+            <pubDate>Sat, 13 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谈程序的“通用性”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/13/generality</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/13/generality</guid>
+            <pubDate>Fri, 12 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是启发]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/12/inspiration</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/12/inspiration</guid>
+            <pubDate>Thu, 11 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Scheme 编程环境的设置]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/11/scheme-setup</guid>
+            <pubDate>Wed, 10 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我为什么离开 Cornell]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/10/cornell</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/10/cornell</guid>
+            <pubDate>Tue, 09 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[测试驱动开发]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/07/test-driven-dev</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/07/test-driven-dev</guid>
+            <pubDate>Sat, 06 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Currying 的局限性]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/02/currying</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/02/currying</guid>
+            <pubDate>Mon, 01 Apr 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[惰性求值]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/01/lazy-evaluation</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/01/lazy-evaluation</guid>
+            <pubDate>Sun, 31 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Hindley-Milner 类型系统的根本性错误]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/04/01/hindley-milner</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/04/01/hindley-milner</guid>
+            <pubDate>Sun, 31 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[函数式语言的宗教]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/31/purely-functional</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/31/purely-functional</guid>
+            <pubDate>Sat, 30 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是“脚本语言”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/29/scripting-language</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/29/scripting-language</guid>
+            <pubDate>Thu, 28 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Chez Scheme 的传说]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/28/chez-scheme</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/28/chez-scheme</guid>
+            <pubDate>Wed, 27 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Lisp 已死，Lisp 万岁！]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/26/lisp-dead-alive</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/26/lisp-dead-alive</guid>
+            <pubDate>Mon, 25 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[论对东西的崇拜]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/24/tools</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/24/tools</guid>
+            <pubDate>Sat, 23 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[“解决问题”与“消灭问题”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/19/eliminate-problems</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/19/eliminate-problems</guid>
+            <pubDate>Mon, 18 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[程序语言的常见设计错误(1) - 片面追求短小]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/15/language-design-mistake1</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/15/language-design-mistake1</guid>
+            <pubDate>Thu, 14 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谈语法]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/08/on-syntax</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/08/on-syntax</guid>
+            <pubDate>Thu, 07 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Oberon 操作系统：被忽略的珍宝]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/07/oberon</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/07/oberon</guid>
+            <pubDate>Wed, 06 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[谈 Linux，Windows 和 Mac]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/07/linux-windows-mac</guid>
+            <pubDate>Wed, 06 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[解密“设计模式”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/07/design-patterns</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/07/design-patterns</guid>
+            <pubDate>Wed, 06 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Braid - 一个发人深思的游戏]]></title>
+            <link>http://www.yinwang.org/blog-cn/2013/03/04/braid</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2013/03/04/braid</guid>
+            <pubDate>Sun, 03 Mar 2013 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[TeXmacs：一个真正“所见即所得”的排版系统]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/09/18/texmacs</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/09/18/texmacs</guid>
+            <pubDate>Mon, 17 Sep 2012 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[怎样写一个解释器]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/08/01/interpreter</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/08/01/interpreter</guid>
+            <pubDate>Tue, 31 Jul 2012 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是语义学]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/07/25/semantics</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/07/25/semantics</guid>
+            <pubDate>Tue, 24 Jul 2012 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[GTF - Great Teacher Friedman]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/07/04/dan-friedman</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/07/04/dan-friedman</guid>
+            <pubDate>Tue, 03 Jul 2012 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[什么是“对用户友好”]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/05/18/user-friendliness</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/05/18/user-friendliness</guid>
+            <pubDate>Thu, 17 May 2012 16:00:00 GMT</pubDate>
+        </item>
     </channel>
 </rss>
