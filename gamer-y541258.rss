@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 15 Aug 2023 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 16 Aug 2023 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/16,近況─忙星穹鐵道,計劃再動用一個分身抽虛數主C]]></title>
+            <description><![CDATA[今天我放假原神4.0更新了,但可能撥不出時間來玩
+但星穹也只肝了一個帳號的地城尋寶活動跟主帳號的渾沌回憶
+地城尋寶大概是08:03到11:31
+中間有休息幾段眼...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5775978</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5775978</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 16 Aug 2023 09:41:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -107,17 +119,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5745810</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 29 Jun 2023 11:10:12 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/26~7/2,電動日記,主要依然是星穹鐵道,之後電動日記改為渾沌回憶記錄]]></title>
-            <description><![CDATA[今天臥龍吟總算180等了,還真是漫長啊感想是,當敵人減士氣的一堆時,就不用強求四鼓隊了
-現在繽紛沒有銀曦石那些,月亮騎短時間是沒希望的
-我臥龍吟目前是完全無課所...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5743976</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5743976</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 26 Jun 2023 10:07:58 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
