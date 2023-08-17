@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 16 Aug 2023 11:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 14:25:29 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@ https://mega.nz...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 13 Jun 2021 07:00:37 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 愚者の天秤 20230817]]></title>
+            <description><![CDATA[期間限定イベント「愚者の天秤」...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5776639</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5776639</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Thu, 17 Aug 2023 11:51:00 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005776639.JPG?v=1692273060" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] (四格翻譯) 我家有隻妖精小燐15　作者：ま]]></title>
@@ -94,15 +103,6 @@ https://mega.nz...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Sun, 25 Jun 2023 03:30:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0005743071.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] (四格翻譯) 少女戰車幼稚園RETURNS 98.2　作者：ジングー]]></title>
-            <description><![CDATA[好讀　https://www.ptt.cc/bbs/C_Chat/M.1687057136.A.40C.html 這就是我們的戰車道2...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5738473</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5738473</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 18 Jun 2023 02:58:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/73/0005738473.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 16 Aug 2023 11:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 17 Aug 2023 14:25:54 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-讓提督免於異靈重複購買的荒潮]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5776198</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5776198</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 16 Aug 2023 15:28:46 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/98/0005776198.JPG?v=1692199726" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【遊戲王】nanagi-噯悉多、既然熱到要衣服開開那胸部這個要不要乾脆脫掉算了？]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5776192</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5776192</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 16 Aug 2023 15:15:37 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/92/0005776192.JPG?v=1692198937" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-各位同學你們還要走多久？]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sun, 13 Aug 2023 06:02:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/68/0005773968.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-我得先跟他道歉賠罪才行]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5773966</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5773966</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sun, 13 Aug 2023 05:58:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/66/0005773966.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】ジャックローズ-艦娘卸妝概念16]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5773491</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5773491</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 12 Aug 2023 11:02:00 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005773491.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
