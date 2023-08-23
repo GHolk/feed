@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 21 Aug 2023 11:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 23 Aug 2023 00:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【新瑪奇英雄傳】乖巧坐等]]></title>
+            <description><![CDATA[我沒事也喜歡掛在村莊發呆看狗跟人跑來跑去
+
+或是外面溫泉欣賞內......我是說海景！
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5779597</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5779597</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 22 Aug 2023 05:05:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005779597.JPG?v=1692680728" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】拜託不是我想的那樣]]></title>
             <description><![CDATA[不要啊啊啊啊啊啊啊啊啊
@@ -22,7 +34,7 @@ FB專頁：ㄇㄐ補坑作業室
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5777831</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 19 Aug 2023 11:47:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005777831.JPG?v=1692445667" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005777831.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【楓之谷M】出乎意料的變化]]></title>
@@ -108,16 +120,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 11 Jul 2023 09:37:34 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0005753394.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【光與夜之戀】陸沉]]></title>
-            <description><![CDATA[我真的不是花心但是有誰能抗拒溫柔daddy......
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5748496</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5748496</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Mon, 03 Jul 2023 09:01:09 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005748496.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
