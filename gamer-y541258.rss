@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 23 Aug 2023 00:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 25 Aug 2023 12:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/25,星穹鐵道，推薦抽卡芙卡(唔,推薦是推薦,但能跳的理由還蠻多的)]]></title>
+            <description><![CDATA[說真的，這遊戲除了羅剎是真得抽了體驗極大改善外大多數角色都可有可無...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5781527</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5781527</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 25 Aug 2023 08:17:02 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -106,18 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5750338</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 06 Jul 2023 09:56:53 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/29,關於課稅的事情,大前研一曾提倡過課稅簡化,現在來看可能還算應景]]></title>
-            <description><![CDATA[唔,不知道是選舉快到了還是什麼事情這邊課稅主要指的是最近有人在談的空屋稅
-寫這篇的主因是,這幾天看到有人覺得空屋稅是餿主意
-因為會影響建商蓋房的意願
-只會讓政府...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5745810</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5745810</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 29 Jun 2023 11:10:12 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
