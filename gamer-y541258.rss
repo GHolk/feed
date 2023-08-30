@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 29 Aug 2023 11:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 30 Aug 2023 11:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/30,星穹1.3虛數大C初步感想(不推薦資源有限的在不中意角色本身情況下抽取)]]></title>
+            <description><![CDATA[我本來以為寰宇蝗災會今天開的也對,要是一次更新那麼多系統,同時不只一個出事的話會很麻煩
+嗯,關於1.3虛數大C我有一個好消息跟一個壞消息
+好消息是我主帳號還沒抽...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5784601</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5784601</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 30 Aug 2023 09:16:17 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -106,18 +117,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5753403</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 11 Jul 2023 09:49:58 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/6,星穹鐵道渾沌回憶滿星,有機會的話再錄視頻吧]]></title>
-            <description><![CDATA[我是全員生存跟勝利在回合數以內分開凹的
-這期打滿,但下期可能也沒辦法立刻滿,因為祝福更換的關係
-唔,前陣子試前七層滿星,第八層0星,第九層1星,第10層2星
-努...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5750338</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5750338</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 06 Jul 2023 09:56:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
