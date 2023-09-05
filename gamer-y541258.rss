@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 04 Sep 2023 12:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Sep 2023 12:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/5,巴哈逛完逛知乎,關於遊戲設計中應對巨型怪物的處理方式(這篇沒寫細節,技術不到)]]></title>
+            <description><![CDATA[嗯,想說逛巴哈看有沒有趣的事情因為前幾天有逛到有些在做深度學習和遊戲模型的雖然沒寫得很細,但也算是意外有收穫不過那種小概率事件今天果然沒遇上就是了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5788260</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5788260</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 05 Sep 2023 02:24:38 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -105,16 +114,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5758351</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 19 Jul 2023 12:31:14 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/16,臥龍吟魏國遊玩簡短建議]]></title>
-            <description><![CDATA[只有一個建議,efun平台的話,魏國玩S07 鐵臂潼關好像是跟1046區合服(但我不知道怎麼選1046區),所以每日封賞是152金幣
-(這值是根據國政,鑄幣的數...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5756481</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5756481</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 16 Jul 2023 09:49:21 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
