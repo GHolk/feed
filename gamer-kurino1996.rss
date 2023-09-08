@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Sep 2023 16:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 08 Sep 2023 12:25:36 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,30 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【無名騎士團：像素的英雄】自主練習]]></title>
+            <description><![CDATA[道理我都懂
+但是為什麼他裡面的像素麵包可以看起來這麼好吃
+
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5790036</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5790036</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 08 Sep 2023 05:00:16 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005790036.JPG?v=1694149217" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】突然明白的真相]]></title>
+            <description><![CDATA[是沒到寫得超好看的地步但不至於看不懂吧！欸！！！
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5789717</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5789717</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Thu, 07 Sep 2023 13:59:57 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005789717.JPG?v=1694095197" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【新瑪奇英雄傳】乖巧坐等]]></title>
             <description><![CDATA[我沒事也喜歡掛在村莊發呆看狗跟人跑來跑去
@@ -99,27 +123,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 18 Jul 2023 07:02:28 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0005757618.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】不要亂借錢]]></title>
-            <description><![CDATA[不借朋友錢　朋友會不見借朋友錢　朋友跟錢會一起不見所以給錢就好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5754460</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5754460</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 13 Jul 2023 06:36:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/60/0005754460.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】奇怪客人]]></title>
-            <description><![CDATA[合理懷疑繪師也是一種服務業
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5753394</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5753394</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 11 Jul 2023 09:37:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0005753394.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
