@@ -39,6 +39,7 @@ gamer_list='
     chasedrea
     wind945
     b775232000
+    lizard0723
 '
 
 network_on() {

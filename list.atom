@@ -23,6 +23,30 @@
   <generator>edit by emacs</generator>
 
   <entry>
+    <id>http://gholk.github.io/feed/lizard0723.rss</id>
+    <title>lizard0723 的小屋</title>
+    <published>2023-09-10</published>
+    <link rel="alternate"
+          type="text/html"
+          title="lizard0723 的小屋"
+          href="https://home.gamer.com.tw/lizard0723" />
+    <link rel="alternate"
+          type="application/rss+xml"
+          href="http://gholk.github.io/feed/lizard0723.rss"/>
+    <summary>
+      小說《眾神水箱：禁錮之龍》的玩家，
+      龍人、蜥蜴人阿律耶德的玩家，暱稱大獵蜥。
+      搬家來巴哈姆特後，也把舊部落格的文章一一搬來，
+      也有自己寫一些小說。
+    </summary>
+    <category term="gamer" />
+    <category term="acg" />
+    <category term="trpg" />
+    <category term="fantasy" />
+    <category term="author" />
+    <category term="novel" />
+  </entry>
+  <entry>
     <id>http://gholk.github.io/feed/b775232000.rss</id>
     <title>b775232000 的小屋</title>
     <published>2021-11-02</published>
