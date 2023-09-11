@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 09 Sep 2023 17:21:28 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Sep 2023 11:25:47 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 《人類滅亡古卷～關於人類進化成殭屍的一些考證手稿～》閱讀心得：我們與殭屍的距離]]></title>
+            <description><![CDATA[
+書寫就有趣的讓想像力馳騁，那寫書呢？大概就是往深淵走一遭。
+最近友人們共同創作故事，然後編撰成電子書上架出版。
+非常厲害啊！真的，我知道那種可怕的感覺，也因此...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5791467</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5791467</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Sun, 10 Sep 2023 13:03:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0005791467.JPG?v=1694350999" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 柏德之門3之我搞不清楚隊友(微雷注意)]]></title>
             <description><![CDATA[柏德三完全對我的胃，這個星期下班到家後就立刻當柏德廢人，目前玩到第二章開頭，豎琴手營地。
@@ -110,15 +122,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Sun, 11 Jun 2023 12:35:23 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005734430.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 人文科技的幻想：許倍鳴《百年》]]></title>
-            <description><![CDATA[發現痞克那邊還可以的文章快要搬完了，寫那麼多年的書心得，沒想到其實也沒多少。心情有點複雜...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5726637</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5726637</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Tue, 30 May 2023 02:00:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/37/0005726637.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
