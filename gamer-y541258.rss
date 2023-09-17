@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 17 Sep 2023 04:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 17 Sep 2023 16:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/17,簡短的星穹鐵道抱怨文跟未來抽卡計劃]]></title>
+            <description><![CDATA[這週主帳號大多在用0+0 1.3虛數大C繁育命途刷模擬宇宙沒注意到模擬宇宙次高難度變難了好多
+一開始以為是錯覺,因為印象中次高難度就算用分身打三個王都死蠻快的
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5795437</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5795437</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 17 Sep 2023 09:51:03 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -103,17 +114,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5765349</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 30 Jul 2023 10:22:06 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/19~,星穹鐵道,刃培養完成,0+1可主C,打週本劣勢大,鋤大地沒辦法一帶三,其它尚可]]></title>
-            <description><![CDATA[我發現,星穹主C沒0+1會很難受,像0+0希兒在均衡六就不夠力
-克拉拉是規格外的角色,但以後可能會有些反擊不了的怪
-(像機兵灰熊就不好打,不過除去它以外幾乎都可...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5758351</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5758351</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 19 Jul 2023 12:31:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
