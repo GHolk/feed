@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 17 Sep 2023 16:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Sep 2023 13:25:46 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【宣傳】典藏克蘇魯神話月曆]]></title>
+            <description><![CDATA[
+喔喔，克蘇魯神話月曆準備要上線了，我有參與其中一個月份喔~
+至於是哪個月份呢？就先不說了，反正出了就知道。
+另外，出版社有辦填問卷抽獎，就轉貼來這裡，讓大家來...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5795922</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5795922</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Mon, 18 Sep 2023 06:19:24 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005795922.JPG?v=1695017964" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 《人類滅亡古卷～關於人類進化成殭屍的一些考證手稿～》閱讀心得：我們與殭屍的距離]]></title>
             <description><![CDATA[
@@ -110,18 +122,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Sun, 11 Jun 2023 23:00:08 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005734708.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 算生活抱怨吧]]></title>
-            <description><![CDATA[
-我現在的表情大概就跟這張圖的河狸一樣吧。
-最近工作不斷被調時間，雖然還算可以應付，但整個人很疲憊就是了。
-我知道不單是時間問題，還有很多零零總總的事情。說實在...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5734430</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5734430</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Sun, 11 Jun 2023 12:35:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005734430.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
