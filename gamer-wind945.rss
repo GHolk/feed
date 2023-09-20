@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 19 Sep 2023 13:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 20 Sep 2023 09:25:53 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】担当K-千本櫻【初音鼓】]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5797085</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5797085</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 20 Sep 2023 06:51:29 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/85/0005797085.JPG?v=1695192689" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-手腳慢了最後才到福利社]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5797046</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5797046</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 20 Sep 2023 05:06:37 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0005797046.JPG?v=1695186397" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-天龍美眉覺得最近熱得很不尋常]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sun, 17 Sep 2023 10:25:53 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005795455.JPG?v=1694946353" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】ひよりり-邀請中意學妹參加自己生日派對的女人]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5795382</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5795382</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sun, 17 Sep 2023 08:30:11 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0005795382.JPG?v=1694939411" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-香菇占卜DSK]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5794868</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5794868</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 16 Sep 2023 10:38:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/68/0005794868.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
