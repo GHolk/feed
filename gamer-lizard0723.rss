@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 21 Sep 2023 11:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 22 Sep 2023 11:25:43 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 《同步戰紀：失竊的原型機》心得：一場「The name of the game」的自我旅程]]></title>
+            <description><![CDATA[
+
+ 
+因故有機會先行閱讀到台灣Cyberpunk作品《同步戰紀：失竊的原型機》，故事一開場就讓我非常欣喜，作者成功地操作Cyberpunk的元素，藉由典型的英...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5798080</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5798080</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Fri, 22 Sep 2023 01:17:05 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005798080.JPG?v=1695345425" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【宣傳】典藏克蘇魯神話月曆]]></title>
             <description><![CDATA[
@@ -112,16 +124,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Wed, 14 Jun 2023 02:00:03 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0005735918.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 關於孤單的靈魂相愛：《水底情深》有雷感想]]></title>
-            <description><![CDATA[發現書心得真的慢慢搬完了，花那麼多年寫的文字，一下子就搬完了，感覺文字真的是很難生產的東西。
-不過我驚覺還有一些觀影心得，應該也可以持續搬，雖然我觀影心得比書心...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5734708</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5734708</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Sun, 11 Jun 2023 23:00:08 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005734708.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
