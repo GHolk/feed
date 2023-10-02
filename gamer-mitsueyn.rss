@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 01 Oct 2023 02:25:52 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 02 Oct 2023 12:25:34 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 10/7 百合only - 新刊試閱及特典]]></title>
+            <description><![CDATA[10/7 百合only 水星的魔女新刊 - A5/20P/一般向/會場150元
+
+
+此新刊會隨書附送10x10cm貼紙特典如下，但特典數量有限，會先預留通販預購...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5803776</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5803776</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Sun, 01 Oct 2023 14:00:45 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/76/0005803776.JPG?v=1696168845" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[同人] 本週末 FF41 場宣Day2+Day3 -《水星的魔女》+《白子與魔女》]]></title>
             <description><![CDATA[第二日及第三日攤位號碼：i03,04攤上會有刊物請見DM...(繼續閱讀)]]></description>
@@ -93,18 +105,6 @@
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Tue, 20 Dec 2022 12:17:20 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005624797.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] CWT62 場宣 - 這次有《水星的魔女》免費明信片發送！]]></title>
-            <description><![CDATA[【CWT62 場宣來啦】 詳細品項請看DM
-這次有《水星的魔女》免費明信片發送！
-明信片是CWT62此場限定且限量的唷～
-兩天都有分配量，第一天如果領完了，也會...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5617123</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5617123</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Thu, 08 Dec 2022 13:28:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005617123.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
