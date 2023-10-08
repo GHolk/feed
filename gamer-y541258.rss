@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 07 Oct 2023 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 08 Oct 2023 16:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 10/8,雜談─時間與心情、熱情(順帶談下永生跟時間停止)]]></title>
+            <description><![CDATA[最近多夢,思緒有些繁亂,可說心神不寧
+沒做什麼正事,主要在拚臥龍吟,但怕用眼過度應該是要節制些
+回正題,我覺得死亡是件很恐怖的事情,可能啦,也許啦
+是因為死亡,...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5807615</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5807615</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 08 Oct 2023 10:19:37 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,17 +114,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5770363</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 07 Aug 2023 11:15:03 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/5,思考未來(休閒活動的分配這樣)]]></title>
-            <description><![CDATA[8/3颱風假,不過我被通知要加班就是了理論上來說這樣算賺到,可是意外是很難說的
-因為我本來就是戶外工作,但若是颱風大多數時間在車內或建築物裡面
-應該是會比平常工...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5769112</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5769112</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 05 Aug 2023 11:07:31 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
