@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 11 Oct 2023 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 12 Oct 2023 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 10/12,近況電動雜談,更改星穹抽卡規劃]]></title>
+            <description><![CDATA[星穹鐵道我如果不鋤大地,不容易維持遊戲熱情結果期待已久的1.4,好像新地圖沒有小怪啊
+但鋤大地有點傷眼
+加上最近忙著臥龍吟,亟需早日能單刷300混沌
+所以我可能...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5809756</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5809756</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 12 Oct 2023 01:10:52 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -105,15 +117,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5775978</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 16 Aug 2023 09:41:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/7,3+1卡芙卡體驗計劃開放報名與一些關於繭居族的碎碎念]]></title>
-            <description><![CDATA[--8/13-- 分身變3+1了,但除非運氣很好,不然應該也就3+1了可加好友,809739802...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5770363</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5770363</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 07 Aug 2023 11:15:03 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
