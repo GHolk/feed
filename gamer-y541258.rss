@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 15 Oct 2023 04:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Oct 2023 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 10/15,進度稍微往前推進些,近期計劃與遊戲設計的第一道高牆跟第二道高牆]]></title>
+            <description><![CDATA[--10/16更新--戰鬥系統想得差不多了,下次更新索敵矩陣可能有實作,也可能只打下想法...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5811790</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5811790</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 15 Oct 2023 09:18:17 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -106,17 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5781527</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 25 Aug 2023 08:17:02 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/16,近況─忙星穹鐵道,計劃再動用一個分身抽虛數主C]]></title>
-            <description><![CDATA[8/20,開始回來玩原神,但不解每日,因為再不玩逛知乎的時候都要被劇透光了
-好不容易再過完間章第三幕,第三章第六幕估計還要一陣子才能解完
-一陣子沒逛知乎,手機版...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5775978</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5775978</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 16 Aug 2023 09:41:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
