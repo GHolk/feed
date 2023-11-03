@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 01 Nov 2023 16:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 03 Nov 2023 12:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 《嘉年華大街》（Carnival Row）不專業推坑。]]></title>
+            <description><![CDATA[
+
+
+亞馬遜有很多好看而且呼聲很高的奇幻劇，像是《時光之輪》、《力量之戒》，不過這部《嘉年華大街》台灣這邊好像比較少人討論，不同前面提到的《時光之輪》跟《力量之...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5822963</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5822963</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Fri, 03 Nov 2023 10:11:04 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005822963.JPG?v=1699006264" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 《同步戰紀：失竊的原型機》心得：一場「The name of the game」的自我旅程]]></title>
             <description><![CDATA[
@@ -113,17 +125,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Fri, 16 Jun 2023 23:00:04 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/60/0005737760.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《念力》：魯跟能力無關，跟心態有關]]></title>
-            <description><![CDATA[舊文一篇。
-其實我個人蠻喜歡韓國電影的，不過因為韓國片有些題材蠻激烈的，適合自己一人默默看。
-不過這讓我想起，我曾經招待我媽去看奉俊昊的《非常母親》，然後看完被...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5735918</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5735918</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Wed, 14 Jun 2023 02:00:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0005735918.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
