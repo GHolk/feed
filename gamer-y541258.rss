@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 10 Nov 2023 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Nov 2023 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,7 +24,7 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 11/10~11/11,先簡述這兩天的目標─播放戰鬥過程,跟反奧卡姆剃刀原則]]></title>
+            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,fetch函數圖檔載入之預計解決方案]]></title>
             <description><![CDATA[最近寫些async(非同步)網頁檔的話可能會遇到這個錯誤
 Unchecked runtime.lastError: The message port close...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
