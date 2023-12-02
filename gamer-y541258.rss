@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 01 Dec 2023 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 02 Dec 2023 16:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/2,星穹鐵道─我所追求的隊伍]]></title>
+            <description><![CDATA[能在沒命途迴響的狀況下,自動刷模擬宇宙的陣容
+(也就是追求能跳怪,保護眼睛的隊伍)
+今天試了幾個陣容
+目前在測 歡愉 6+0藿藿,0+1刃,3+3克拉拉,0+0...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5839703</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5839703</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 02 Dec 2023 10:19:30 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -108,15 +120,6 @@ Unchecked runtime.lastError: The message port close...(繼續閱讀)]]></descrip
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5795437</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 17 Sep 2023 09:51:03 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/5,巴哈逛完逛知乎,關於遊戲設計中應對巨型怪物的處理方式(這篇沒寫細節,技術不到)]]></title>
-            <description><![CDATA[嗯,想說逛巴哈看有沒有趣的事情因為前幾天有逛到有些在做深度學習和遊戲模型的雖然沒寫得很細,但也算是意外有收穫不過那種小概率事件今天果然沒遇上就是了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5788260</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5788260</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 05 Sep 2023 02:24:38 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
