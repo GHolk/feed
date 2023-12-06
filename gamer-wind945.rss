@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Dec 2023 11:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Dec 2023 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】刻印ふれーず-聖女♂祈禱中]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5842088</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5842088</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Wed, 06 Dec 2023 11:26:00 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0005842088.JPG?v=1701861960" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】サカヤマ ヨシヒト潛入]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sun, 03 Dec 2023 00:28:00 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005840117.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-希望你說出那句話]]></title>
-            <description><![CDATA[偉大的來源！ 被誇說可愛就會感到開心於是不知不覺間變得在等對方講出那句話的TS女孩好棒...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5840114</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5840114</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sun, 03 Dec 2023 00:05:32 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0005840114.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
