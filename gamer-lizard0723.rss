@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 09 Dec 2023 16:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 11 Dec 2023 12:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 關於傷害，我們知道得太少---簡感張耀升《彼岸的女人》中的雕刻家、雕刻家妻]]></title>
+            <description><![CDATA[
+最近在整理自己過去寫的書心得，發現這篇《彼岸的女人》心得居然沒有搬到巴哈小屋。
+這本書心得寫法算是剛學文本分析訓練時候所寫的，看起來很拘謹，有點像文學評論。
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5844124</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5844124</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Sun, 10 Dec 2023 02:45:50 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005844124.JPG?v=1702176350" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 《嘉年華大街》（Carnival Row）不專業推坑。]]></title>
             <description><![CDATA[
@@ -113,18 +125,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Tue, 20 Jun 2023 02:00:03 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005739749.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 翱翔是為追逐信念：《飄翎故事》閱讀心得]]></title>
-            <description><![CDATA[舊文。
-據我所知，這本《飄翎故事》目前是絕版的。要看可以到圖書館借來看看。
-趁機偷談幾句關於自己目前正在等待進排程的小說。
-其實算是初稿完成，故事劇情跟文字大抵...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5737760</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5737760</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 16 Jun 2023 23:00:04 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/60/0005737760.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
