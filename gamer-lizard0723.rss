@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 11 Dec 2023 12:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:25:47 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【工商】《從那本沒有出版的《沙丘前傳》談起：科/奇幻翻譯、出版與文化殖民/去殖民》]]></title>
+            <description><![CDATA[這次，我幫忙的學會請到了灰鷹爵士演講喔~~~...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5845149</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5845149</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Mon, 11 Dec 2023 16:45:08 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005845149.JPG?v=1702313108" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 關於傷害，我們知道得太少---簡感張耀升《彼岸的女人》中的雕刻家、雕刻家妻]]></title>
             <description><![CDATA[
@@ -115,16 +124,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Thu, 29 Jun 2023 15:49:20 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005746029.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《血與冰淇淋》三部曲：cult片的入門款]]></title>
-            <description><![CDATA[舊文。
-老實說，我是因為男友的關係才開始大量看電影的，據說他是會去二輪片。我其實平常看得電影量沒有很多，這部《血與冰淇淋三部曲》也是他推薦給我看的。跟他交往後，...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5739749</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5739749</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Tue, 20 Jun 2023 02:00:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005739749.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

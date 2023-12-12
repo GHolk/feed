@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 11 Dec 2023 12:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Dec 2023 11:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/12,一些雜談(大多是身體健康相關)]]></title>
+            <description><![CDATA[今天聽廣播,12/16,高中生英文聽力測驗,考試時須帶身分證或健保卡
+有3萬幾千多人參加(嗯,少子化的情況似乎也還好嘛)
+(簡單來說就是不行用學生證取代身分證明...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5845389</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5845389</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 12 Dec 2023 10:13:01 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -108,15 +119,6 @@ Unchecked runtime.lastError: The message port close...(繼續閱讀)]]></descrip
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5807615</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 08 Oct 2023 10:19:37 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/20,星穹鐵道,她已閉上雙眼使用感跟鋤大地心得,治療量加成25%可以每波滿血開戰]]></title>
-            <description><![CDATA[抽了兩個，主要測試下損血時增傷效果可以多個已閉上雙眼疊(看狀態欄判斷的)但是增傷效果不明顯...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5797053</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5797053</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 20 Sep 2023 05:28:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
