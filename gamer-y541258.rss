@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 20 Dec 2023 14:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Dec 2023 13:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,16 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/21,星穹鐵道跟原神近況,更改刷模擬宇宙的陣容與抽卡規劃]]></title>
+            <description><![CDATA[有些晚了,但這期混沌回憶沒打滿的人,別著急抽銀枝我6魂藿藿,6魂停雲,3魂寒鴉,0+0銀枝,10層下半還是打了6還7回合
+總之最後是正好在20輪之內過的(只差幾...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5850205</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5850205</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 21 Dec 2023 03:34:08 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -107,18 +117,6 @@ Unchecked runtime.lastError: The message port close...(繼續閱讀)]]></descrip
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5809756</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 12 Oct 2023 01:10:52 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/8,雜談─時間與心情、熱情(順帶談下永生跟時間停止)]]></title>
-            <description><![CDATA[最近多夢,思緒有些繁亂,可說心神不寧
-沒做什麼正事,主要在拚臥龍吟,但怕用眼過度應該是要節制些
-回正題,我覺得死亡是件很恐怖的事情,可能啦,也許啦
-是因為死亡,...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5807615</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5807615</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 08 Oct 2023 10:19:37 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
