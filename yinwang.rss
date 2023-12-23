@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Dec 2023 07:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 23 Dec 2023 16:25:08 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -31,24 +31,6 @@
             <link>http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/01/tuition-for-covid</guid>
             <pubDate>Wed, 30 Nov 2022 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[相对论推导练习]]></title>
-            <link>http://www.yinwang.org/blog-cn/2022/10/09/relativity</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/10/09/relativity</guid>
-            <pubDate>Sat, 08 Oct 2022 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[疫情封控是违反宪法的]]></title>
-            <link>http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/09/12/lockdown-unconstitutional</guid>
-            <pubDate>Sun, 11 Sep 2022 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[疫情是怎么回事]]></title>
-            <link>http://www.yinwang.org/blog-cn/2022/06/25/covid-19</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/06/25/covid-19</guid>
-            <pubDate>Fri, 24 Jun 2022 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[自然视力恢复法]]></title>
