@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Dec 2023 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 11:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,14 +13,26 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 4/7~未知,短期計劃,實作SRPG移動系統,淺析曹操傳移動,可行路徑變色完成]]></title>
-            <description><![CDATA[呀,其實標題是過份了點
-因為SRPG那麼多款,就算是最基礎的移動,也分魔喚精靈式的或一般式的
-(魔喚精靈是早期有高低差概念的SRPG,此外也是少數正六邊形格子的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5428953</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5428953</guid>
+            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,更新用來修改圖檔透明度的網頁檔]]></title>
+            <description><![CDATA[下次直播寫網頁檔的時間訂在12/30,估計是早上9點左右
+沒意外的話應該寫很快就關台了!!
+我通常若不是播打電動都撐不了太久
+不過碰到bug修不好的話大概會實況...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 07 Apr 2022 10:58:15 GMT</pubDate>
+            <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/25,想做的遊戲─關於詞條、遊戲內集資做更新]]></title>
+            <description><![CDATA[最近網速換成300M的,所以能開始實況了
+但基本上一週會先把遊戲週常解完再考慮遊戲設計相關的事情
+(12/25這星期於10:04時解完了,我星期一正好休假,等週...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5852704</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5852704</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 24 Dec 2023 19:24:13 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -74,16 +86,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5830247</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 16 Nov 2023 05:52:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,fetch函數圖檔載入之預計解決方案]]></title>
-            <description><![CDATA[最近寫些async(非同步)網頁檔的話可能會遇到這個錯誤
-Unchecked runtime.lastError: The message port close...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>

@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Dec 2023 16:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 11:25:36 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,25 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】當個乖寶寶]]></title>
+            <description><![CDATA[今天平安夜要乖一點聖誕老公公才會來
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5852228</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5852228</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 24 Dec 2023 09:27:01 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005852228.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】他騙了我27年]]></title>
             <description><![CDATA[我從小就叫他醃黃瓜欸原來這不叫醃黃瓜嗎！！！！這世界還有什麼是可以相信的？？！...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5850905</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5850905</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 22 Dec 2023 09:17:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005850905.JPG?v=1703236676" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005850905.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【楓之谷M】氣氛正好]]></title>
@@ -116,18 +128,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 22 Aug 2023 05:05:28 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0005779597.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】拜託不是我想的那樣]]></title>
-            <description><![CDATA[不要啊啊啊啊啊啊啊啊啊
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5777831</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5777831</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 19 Aug 2023 11:47:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005777831.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 23 Dec 2023 16:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 25 Dec 2023 11:25:08 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[计算机科学基础班（第5期，现实接轨班）招生]]></title>
+            <description><![CDATA[计算机科学基础班，是一门零基础，目标在于短期内掌握计算机科学精髓的课程。它是我 20 多年的计算机学术和工程实践，加上两年面向社会的教学实验的结晶。课程吸取了世界上主要的计算机入门教学方式的优点，避免了它们阻碍初学者理解的各种问题，以至于完全零基础的学生也可以在短短两个月之内，掌握大学博士阶段才可能学到的精华内容。这些内容足以建立起坚实的知识基础，使得他们对于理解计算机科学的其他方面从容自如。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2023/12/23/cs-course-5</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2023/12/23/cs-course-5</guid>
+            <pubDate>Fri, 22 Dec 2023 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[continuation 和并发计算专项班]]></title>
-            <description><![CDATA[进阶班的内容在短时间的内覆盖面很广。虽然每个主题都讲的很深入浅出，整个课程也需要两个多月，所有的内容都很烧脑，所以再次开课可能不大方便。我在考虑把进阶班的内容分成小块，对每一块进行专项讲座。这样整个过程会大大缩短，时间安排会更加灵活，脑力负担会减轻。专门针对一小块内容，会大大增强认知效果。]]></description>
             <link>http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2022/12/12/continuation-course</guid>
             <pubDate>Sun, 11 Dec 2022 16:00:00 GMT</pubDate>
