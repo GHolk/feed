@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 28 Dec 2023 11:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 29 Dec 2023 11:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -75,7 +75,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5853617</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Dec 2023 10:50:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005853617.JPG?v=1703587842" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005853617.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ぱげらった-黑耶誕的耶誕節 2023(完)]]></title>
@@ -84,7 +84,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5853293</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Mon, 25 Dec 2023 15:53:41 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005853293.JPG?v=1703519621" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005853293.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】nueco-阿霞不想辜負提督的期待]]></title>
@@ -93,7 +93,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5853105</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Mon, 25 Dec 2023 12:05:31 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005853105.JPG?v=1703505931" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005853105.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-拉麵伯斯(耶誕夜)]]></title>
@@ -102,7 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5853093</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Mon, 25 Dec 2023 11:50:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005853093.JPG?v=1703505020" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005853093.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
