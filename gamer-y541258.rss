@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 29 Dec 2023 11:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Dec 2023 05:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,15 +13,23 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,更新用來修改圖檔透明度的網頁檔]]></title>
-            <description><![CDATA[下次直播寫網頁檔的時間訂在12/30,估計是早上9點左右
-沒意外的話應該寫很快就關台了!!
-我通常若不是播打電動都撐不了太久
-不過碰到bug修不好的話大概會實況...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,透明度範圍選取滑鼠位置尚待修正]]></title>
+            <description><![CDATA[12/30寫網頁的實況已經結束下次實況寫網頁是1/1 18:00~18:50(因為沒休假)有需要我在開麥克風,不過我是想說我家可能有點吵...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/30,近況,最近在放養twitch實況頻道,星穹鐵道0+1跟4+0阮‧梅 體驗感想]]></title>
+            <description><![CDATA[嗯,我知道我的實況很無聊不過要即時聯繫我的話,可以透過實況雖然我估計要聯繫我可能不是什麼好事就是了!!
+要看的話推薦只在寫網頁的時候看
+不然我通常是關麥克風的,...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5855648</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5855648</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 30 Dec 2023 03:38:22 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -107,18 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5811790</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 15 Oct 2023 09:18:17 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/12,近況電動雜談,更改星穹抽卡規劃]]></title>
-            <description><![CDATA[星穹鐵道我如果不鋤大地,不容易維持遊戲熱情結果期待已久的1.4,好像新地圖沒有小怪啊
-但鋤大地有點傷眼
-加上最近忙著臥龍吟,亟需早日能單刷300混沌
-所以我可能...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5809756</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5809756</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 12 Oct 2023 01:10:52 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
