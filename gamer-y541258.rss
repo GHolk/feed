@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 31 Dec 2023 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jan 2024 11:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,8 +13,11 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,透明度範圍選取滑鼠位置尚待修正]]></title>
-            <description><![CDATA[12/30寫網頁的實況已經結束下次實況寫網頁是1/1 18:00~18:50(因為沒休假)有需要我在開麥克風,不過我是想說我家可能有點吵...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,開始著手戰鬥,先是圖片載入]]></title>
+            <description><![CDATA[1/1實況主要是在處理圖片檔載入,但還沒完成
+所以這次的檔案就先不貼上來了
+fetch的非同步載入真得很麻煩,雖然載入速度很快
+下次實況寫網頁是1/6 13:0...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
