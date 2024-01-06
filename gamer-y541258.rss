@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 05 Jan 2024 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Jan 2024 16:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,10 +14,10 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,開始著手戰鬥,先是圖片載入]]></title>
-            <description><![CDATA[1/1實況主要是在處理圖片檔載入,但還沒完成
-所以這次的檔案就先不貼上來了
-fetch的非同步載入真得很麻煩,雖然載入速度很快
-下次實況寫網頁是1/6 13:0...(繼續閱讀)]]></description>
+            <description><![CDATA[下次寫網頁實況時間,1/12(五) 13:00~15:00
+1/6實況已經處理好圖片檔非同步載入
+呃,其實還沒"完整"處理好,只是暫時夠用
+...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -25,8 +25,8 @@ fetch的非同步載入真得很麻煩,雖然載入速度很快
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 12/30,近況,最近在放養twitch實況頻道,星穹鐵道0+1跟4+0阮‧梅 體驗感想]]></title>
-            <description><![CDATA[1.6版本鋤大地,如果沒漏怪的話經驗至少是 67652封閉艙段經驗是1620,共六組怪...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 12/30,近況,最近在放養twitch實況頻道,星穹鐵道 阮‧梅 在我方陣容中的感想(新增6+1)]]></title>
+            <description><![CDATA[6+1阮‧梅 亞服(asia) UID:809955002 暱稱:看劇情...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5855648</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5855648</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
