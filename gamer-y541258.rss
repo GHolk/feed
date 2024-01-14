@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 12 Jan 2024 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Jan 2024 03:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 1/13~,逐步增加各國銀行之研究,跟選舉後有些想說的話可以說了也列在這篇]]></title>
+            <description><![CDATA[美國的銀行大約有4500多家不過看了下,美國的銀行種類還蠻多的
+好像有些銀行是宗教銀行和非營利銀行
+我不清楚是不是每家銀行在中央銀行裡面都有銀行準備金
+( fr...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5864409</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5864409</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 13 Jan 2024 09:56:23 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -103,18 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5830247</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 16 Nov 2023 05:52:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/31,聊下近況,今天好像是萬聖節,不管了,我星穹抽卡規劃又調回來了]]></title>
-            <description><![CDATA[又更了,這次比較長,個人猜測,就算帶六魂藿藿
-或者說只帶六魂藿藿跟單個1.4版本以前的0+1主力
-鋤大地高等地圖時碰到五單位不用終結技還是沒辦法一招秒
-不過鋤大...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5821109</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5821109</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 31 Oct 2023 09:17:42 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
