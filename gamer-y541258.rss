@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 14 Jan 2024 03:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 15 Jan 2024 12:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,11 +22,20 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 1/13~,逐步增加各國銀行之研究,跟選舉後有些想說的話可以說了也列在這篇]]></title>
-            <description><![CDATA[美國的銀行大約有4500多家不過看了下,美國的銀行種類還蠻多的
-好像有些銀行是宗教銀行和非營利銀行
-我不清楚是不是每家銀行在中央銀行裡面都有銀行準備金
-( fr...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 1/12實況產出之網頁檔簡略講解,還需搭配修改透明度的網頁檔使用,兩三天後我再補上]]></title>
+            <description><![CDATA[該網頁檔的作用是 非同步載入多個圖檔並依時間播放損血文字由於實況時目的僅是測試播放損血文字,所以不涉及攻防與血量計算...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5865547</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5865547</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 15 Jan 2024 10:34:30 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 1/13~,逐步增加各國銀行之研究,補些國貿基礎 關於進出口統計,跟一些選舉想法]]></title>
+            <description><![CDATA[1/15更新,這邊先補些國貿基礎
+中華民國有著優秀的政府單位,它們會提供很多公開的資料
+好吧,其實我也不清楚優不優秀
+但重點落在後半句,政府單位大多有很多公開的...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5864409</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5864409</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -46,7 +55,7 @@
         </item>
         <item>
             <title><![CDATA[[日誌] 12/30,近況,最近在放養twitch實況頻道,星穹鐵道 阮‧梅 在我方陣容中的感想(新增6+1)]]></title>
-            <description><![CDATA[6+1阮‧梅 亞服(asia) UID:809955002 暱稱:看劇情...(繼續閱讀)]]></description>
+            <description><![CDATA[跳過寰宇蝗災教學可以拿到對應的星瓊和其它細項獎勵6+1阮‧梅 亞服(asia) UID:809955002 暱稱:看劇情...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5855648</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5855648</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -103,18 +112,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5839703</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 02 Dec 2023 10:19:30 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 11/16,星穹鐵道─六魂藿藿初步感想,有想要測什麼傷害陣容的也可以說一下]]></title>
-            <description><![CDATA[1.5绥園更新後,鋤完大地經驗是66032,新地圖3132點經驗
-因為藿藿的AI在我方血多時不治療
-所以放著自動打的話,需要裝備─暖夜不會漫長
-若追求一回合秒的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5830247</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5830247</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 16 Nov 2023 05:52:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
