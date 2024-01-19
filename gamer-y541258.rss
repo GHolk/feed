@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 18 Jan 2024 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 19 Jan 2024 14:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,23 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放戰鬥過程,跟反奧卡姆剃刀原則,下次是角色行動順序與回合輪替]]></title>
-            <description><![CDATA[下次寫網頁實況時間1/20(六) 13:00~15:00...(繼續閱讀)]]></description>
+            <description><![CDATA[下次寫網頁實況時間 明天1/20(六) 13:00~15:00...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 用來修改圖片透明度的網頁檔]]></title>
+            <description><![CDATA[<!DOCTYPE>
+<meta charset="utf-8"> 
+<html>
+<head&g...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5867712</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5867712</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 19 Jan 2024 10:48:39 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -104,17 +116,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5845389</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 12 Dec 2023 10:13:01 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 12/11,星穹1.5版本─銀枝簡易感想]]></title>
-            <description><![CDATA[其實我剛抽出來時,本來是非常想發文推薦別人抽的但星期三那天太累了,且想說還是等幾天好了
-在用了幾天後,有比較冷靜些,至於你問我推不推薦抽
-我很難回答,當然也沒人...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5844924</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5844924</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 11 Dec 2023 10:34:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
