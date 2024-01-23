@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 22 Jan 2024 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 23 Jan 2024 11:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-時雨瞭解保全防範有多重要]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5869883</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5869883</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Tue, 23 Jan 2024 03:26:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005869883.JPG?v=1705980388" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】nanagi-去海邊玩]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5869881</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5869881</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Tue, 23 Jan 2024 03:20:10 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/81/0005869881.JPG?v=1705980010" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】カネコナオヤ-潮潮同學不知道十天後就會變不回男人依然純真地在捉弄宅宅同學]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5868096</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Sat, 20 Jan 2024 03:33:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005868096.PNG?v=1705721597" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】へんだらす-小怜偷看河岸邊的廢棄]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5868063</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5868063</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Sat, 20 Jan 2024 01:58:57 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005868063.JPG?v=1705715937" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ブルアカ】サラマンダ-送禮送到最後手段]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5867739</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5867739</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Fri, 19 Jan 2024 11:24:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005867739.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005868096.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
