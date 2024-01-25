@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 24 Jan 2024 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 25 Jan 2024 12:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 關於1/20實況的 仿臥龍吟戰鬥系統 之網頁檔 (只做到我方全員攻擊目標的決定與行動順序)]]></title>
+            <description><![CDATA[我一星期的開始,跟星穹鐵道一版本的結束時會優先忙電動所以如果要看我實況寫網頁,大概挑週末看就行...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5871145</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5871145</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 25 Jan 2024 08:24:19 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -108,17 +117,6 @@ negotiable instrum...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5864409</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 13 Jan 2024 09:56:23 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/12,近期更新計劃─有關一些事務各國的處理方式之研究,暫定─各國銀行與信用卡發卡機構]]></title>
-            <description><![CDATA[「一切知識必須如貨幣般流通」──博識學會
-標題後來改了,各國這個目標有點大,我一開始會集中一點突破
-那關於銀行,我第一個鎖定美國,再來鎖定沙烏地阿拉伯,之後再看...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5863661</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5863661</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 12 Jan 2024 05:00:34 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
