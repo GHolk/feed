@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 28 Jan 2024 04:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 29 Jan 2024 13:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,29 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[1/28星期天 14:00~16:00繼續實況仿臥龍吟戰鬥系統我到明天應該能忙完五個帳號的1.6活動(不過虛構敘事可能要等下星期)...(繼續閱讀)]]></description>
+            <description><![CDATA[1/28實況已結束班表沒動的話,下次實況應該是2/2 星期五 13:00~15:00其實我也不太確定...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 1/29,如果你是政府單位,你能決定考化學科目的話,會考什麼?]]></title>
+            <description><![CDATA[這篇比較簡短,因為我今天比較累,打算早點睡化學有丙級檢定我一開始也很好奇考些什麼後來查了下大陸資料後,就對搜尋到的結果有比較清醒的認知...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5873586</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5873586</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 29 Jan 2024 10:51:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 1/28實況產出,仿臥龍吟戰鬥系統實作─依序播放戰鬥動畫 的部份]]></title>
+            <description><![CDATA[如果不考慮replay(遊戲戰鬥過程重播功能)那應該只要間隔一定秒數依序呼叫draw_damage即可...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5872875</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5872875</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 28 Jan 2024 06:14:55 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -93,27 +111,6 @@ negotiable instrum...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5867712</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 19 Jan 2024 10:48:39 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/18,各國網頁資源─關於證照考古題、一些社群網站]]></title>
-            <description><![CDATA[東亞文化圈就中國大陸的線上題庫特別難找
-大概只能找到駕照的
-會韓文、日文的人有福了,大部份的證照考古題都在網路上能找到
-韓文:Dotabi 題庫 ：： Nati...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5867146</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5867146</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 18 Jan 2024 09:59:50 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/12實況產出之網頁檔簡略講解,還需搭配修改透明度的網頁檔使用,兩三天後我再補上]]></title>
-            <description><![CDATA[該網頁檔的作用是 非同步載入多個圖檔並依時間播放損血文字由於實況時目的僅是測試播放損血文字,所以不涉及攻防與血量計算...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5865547</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5865547</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 15 Jan 2024 10:34:30 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
