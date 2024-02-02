@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 02 Feb 2024 11:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 16:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【Fate/Grand Order】森永らむね-藏尾不藏頭]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5876111</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5876111</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Fri, 02 Feb 2024 15:12:49 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005876111.JPG?v=1706886769" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【IM@S】あまー-倒數]]></title>
+            <description><![CDATA[偉大的來源！ #女子大生輿水幸子19才...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5876047</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5876047</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Fri, 02 Feb 2024 13:32:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0005876047.JPG?v=1706880729" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】夜ト★海産物は敵-已被遺忘的過去bug又被挖了出來]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874153</guid>
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 30 Jan 2024 11:40:08 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005874153.JPG?v=1706614809" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】nanagi-沒有感覺]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5874149</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874149</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Tue, 30 Jan 2024 11:34:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005874149.JPG?v=1706614488" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】ひすでー-阿光跟巴潔好像很容易搞混]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5873784</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5873784</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Mon, 29 Jan 2024 15:59:41 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0005873784.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005874153.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
