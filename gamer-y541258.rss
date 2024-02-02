@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 01 Feb 2024 11:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 02 Feb 2024 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,22 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[1/28實況已結束班表沒動的話,下次實況應該是2/2 星期五 13:00~15:00其實我也不太確定...(繼續閱讀)]]></description>
+            <description><![CDATA[2/2實況已提前結束,下次實況是2/5 13:00~15:00
+2/2完成了一場戰鬥直到我方或敵方全數陣亡
+但還沒進行些資料異動後的測試(例如調整一下血量跟攻防...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/2實況產出─仿臥龍吟戰鬥系統,一場完整的戰鬥(但目前沒動畫與僅自動普攻而已)]]></title>
+            <description><![CDATA[詳細說明可能改天再補雖然簡短說明打了後,也想不太到有什麼詳細說明要補充簡短說明的話就是...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5875815</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5875815</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 02 Feb 2024 06:34:18 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -31,7 +42,7 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 1/31,星穹鐵道,於個人而言,今年是景元年,但鋤大地規劃只到2月]]></title>
+            <title><![CDATA[[日誌] 1/31,星穹鐵道,於個人而言,今年是景元年,但鋤大地規劃只到2月,1.6版本199組怪]]></title>
             <description><![CDATA[我鋤大地大概只鋤到2/9,也就是藿藿寒鴉滿等因為要撥時間做其它事情,像可能是準備檢定或者是練習其它語言的聽讀...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5874637</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874637</guid>
@@ -94,18 +105,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5868948</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 21 Jan 2024 11:01:05 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/20,國貿基礎─支付方式(只列些關鍵字跟網路參考文章)  更新:小切手]]></title>
-            <description><![CDATA[簡略更新:維基百科的中英對照是比較籠統的
-使用維基百科來了解時要注意下
-像 匯票,money order也導向 匯票 頁面
-negotiable instrum...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5868206</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5868206</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 20 Jan 2024 08:26:21 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
