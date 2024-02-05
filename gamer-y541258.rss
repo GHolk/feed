@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 02 Feb 2024 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 Feb 2024 12:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,13 +14,31 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[2/2實況已提前結束,下次實況是2/5 13:00~15:00
-2/2完成了一場戰鬥直到我方或敵方全數陣亡
-但還沒進行些資料異動後的測試(例如調整一下血量跟攻防...(繼續閱讀)]]></description>
+            <description><![CDATA[呼,版本更新後,AI繪圖能用的安裝順序是這篇
+Stable Diffusion 安裝不失敗！官方安裝指南,看這篇就夠了！ (pcschool.com.tw) 
+...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/4,延續之前 機率是否是比例 的暴擊設計─為什麼一般來說遊戲要撐暴擊,追求通解還特解]]></title>
+            <description><![CDATA[一般來說,遊戲有暴擊就要撐暴擊但要撐到多少比較合適就看情況而定了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5877135</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5877135</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 04 Feb 2024 10:59:45 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/3,新年新希望與小屋更新方向(會寫這篇主要是抒發些我對2D跟3D的意見)]]></title>
+            <description><![CDATA[我仿臥龍吟戰鬥系統最終結束時,會採用載入3D模型的來結束之前不提3D有兩個原因...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5876570</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5876570</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 03 Feb 2024 11:24:32 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -87,24 +105,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5871145</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 25 Jan 2024 08:24:19 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/23,跨國貿易常見的惡劣手段與平時的撈寶機會,跟一些雜談(各國海關資料不好找)]]></title>
-            <description><![CDATA[有個笑話是這樣說的有兩個學生吵架,「十分鐘後你給我在校門口等著」一個學生在校門口等了十分鐘,結果來的是Pizza hot找他收10份大披薩的錢...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5870046</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5870046</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 23 Jan 2024 10:55:35 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/21,雜談─專利、文官制度期刊、青年局、面試]]></title>
-            <description><![CDATA[這篇是寫給學生看的因為學生比較有機會首先是科系未來如果有考慮往專利、大陸發展的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5868948</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5868948</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 21 Jan 2024 11:01:05 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
