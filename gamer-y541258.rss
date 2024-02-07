@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 06 Feb 2024 12:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 07 Feb 2024 12:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,13 +14,22 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[呼,版本更新後,AI繪圖能用的安裝順序是這篇
-Stable Diffusion 安裝不失敗！官方安裝指南,看這篇就夠了！ (pcschool.com.tw) 
-...(繼續閱讀)]]></description>
+            <description><![CDATA[2/12 13:00~15:00,繼續研究webgpu載入3D模型
+呼,版本更新後,AI繪圖能用的安裝順序是這篇
+Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/7,簡短文,星穹鐵道─關於黑天鵝]]></title>
+            <description><![CDATA[最近NGA在推薦黑天鵝2魂我還沒到2魂,但先講一下黑天鵝初步感想黑天鵝2魂強是建立在敵人死得掉的狀況下一般來說要小怪才死得掉2魂才會強...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5878699</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5878699</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 07 Feb 2024 10:21:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -96,15 +105,6 @@ Stable Diffusion 安裝不失敗！官方安裝指南,看這篇就夠了！ (pcs
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5871822</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 26 Jan 2024 11:27:59 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 關於1/20實況的 仿臥龍吟戰鬥系統 之網頁檔 (只做到我方全員攻擊目標的決定與行動順序)]]></title>
-            <description><![CDATA[我一星期的開始,跟星穹鐵道一版本的結束時會優先忙電動所以如果要看我實況寫網頁,大概挑週末看就行...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5871145</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5871145</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 25 Jan 2024 08:24:19 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
