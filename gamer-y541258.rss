@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 08 Feb 2024 17:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 11 Feb 2024 05:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,15 @@ Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/10,回合制遊戲設計問題-黑天鵝揭露boss轉階段保不保留]]></title>
+            <description><![CDATA[先說聲新年快樂過年，人目前在花蓮本來應該是要解剩下三個帳號的主線與活動...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5880374</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5880374</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 10 Feb 2024 11:56:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -71,8 +80,8 @@ Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 1/31,星穹鐵道,於個人而言,今年是景元年,但鋤大地規劃只到2月,1.6版本199組怪]]></title>
-            <description><![CDATA[我鋤大地大概只鋤到2/9,也就是藿藿寒鴉滿等因為要撥時間做其它事情,像可能是準備檢定或者是練習其它語言的聽讀...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 1/31,星穹鐵道,於個人而言,今年是景元年,2.0版本281組怪,全鋤99296經驗]]></title>
+            <description><![CDATA[三張新圖共31644 exp,各圖詳細經驗這篇有統計共82組怪，還不知道有沒有漏怪...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5874637</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874637</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -95,18 +104,6 @@ Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5872875</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 28 Jan 2024 06:14:55 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/26,法律和道德哪個比較重要?]]></title>
-            <description><![CDATA[唔,其實我的主要問題是法律重要在哪邊
-但上網查了下,這似乎是道常見的辯論題目
-雖然這種題目跟遊戲的"角色技能機制重要還是數值重要"有些類似
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5871822</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5871822</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 26 Jan 2024 11:27:59 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
