@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 11 Feb 2024 05:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 14 Feb 2024 12:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,13 +14,25 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[2/12 13:00~15:00,繼續研究webgpu載入3D模型
-呼,版本更新後,AI繪圖能用的安裝順序是這篇
-Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
+            <description><![CDATA[2/12,實況,將webGPU的範例畫個紅色三角形的那個
+Hello Triangle - WebGPU Samples 
+修改了下shader(因為用webG...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/12,今年GDC(遊戲開發者大會) 2024在3/18~3/22,其中關於nVIDIA的部份]]></title>
+            <description><![CDATA[最近在找學3D的資源
+其中程式的部份找得不算很順利
+(13:35更新,webGPU找到一個目測還不錯的學習資源,李金磊的github
+模型加载 | 学习 wgp...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5881112</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5881112</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 12 Feb 2024 03:33:09 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -95,15 +107,6 @@ Stable Diffusion 安裝不失敗！...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5873586</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 29 Jan 2024 10:51:15 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/28實況產出,仿臥龍吟戰鬥系統實作─依序播放戰鬥動畫 的部份]]></title>
-            <description><![CDATA[如果不考慮replay(遊戲戰鬥過程重播功能)那應該只要間隔一定秒數依序呼叫draw_damage即可...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5872875</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5872875</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 28 Jan 2024 06:14:55 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
