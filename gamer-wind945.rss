@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Feb 2024 11:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 Feb 2024 04:25:43 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】ジャックローズ-艦娘卸妝概念26 成長期？]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5884279</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5884279</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Sat, 17 Feb 2024 16:01:17 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005884279.JPG?v=1708185677" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】どぅーゆー-好想把頭上的飾品裝在這邊]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5884275</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5884275</guid>
+            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
+            <pubDate>Sat, 17 Feb 2024 15:58:39 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005884275.PNG?v=1708185519" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】ひすでー-好想吃別人請的燒烤]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
             <pubDate>Wed, 14 Feb 2024 07:21:24 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0005882209.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】az:u-軟Q]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5882200</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5882200</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Wed, 14 Feb 2024 06:54:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0005882200.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-另一方面，次女正在給提督施壓]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5881959</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5881959</guid>
-            <dc:creator><![CDATA[wind945 (想成為巨莖怪的鐵啞鈴)]]></dc:creator>
-            <pubDate>Tue, 13 Feb 2024 18:02:48 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005881959.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
