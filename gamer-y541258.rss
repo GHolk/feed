@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 18 Feb 2024 04:25:26 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Feb 2024 12:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/19,米哈游罪大惡極,這期星穹鐵道混沌回憶有夠難]]></title>
+            <description><![CDATA[這篇主要講的是─2.0第一期混沌回憶 難捨夢鄉 有夠難
+我記得開服的時候,文案是寫 渾沌回憶所以之前打渾沌回憶,但好像到1.5還1.X時
+又仔細看了下變成 混沌...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885118</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885118</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 19 Feb 2024 03:27:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -100,15 +111,6 @@ https://bbs.nga.cn/read.php?tid=39316737
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874637</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 31 Jan 2024 09:23:22 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/29,如果你是政府單位,你能決定考化學科目的話,會考什麼?]]></title>
-            <description><![CDATA[這篇比較簡短,因為我今天比較累,打算早點睡化學有丙級檢定我一開始也很好奇考些什麼後來查了下大陸資料後,就對搜尋到的結果有比較清醒的認知...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5873586</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5873586</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 29 Jan 2024 10:51:15 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
