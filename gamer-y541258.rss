@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 19 Feb 2024 12:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 20 Feb 2024 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,30 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/20實況產出,three.js載入MMD模型與舞步嘗試成功(也就是在讓MMD模型在網頁上動作)]]></title>
+            <description><![CDATA[嗯,這兩三星期研究下來,我覺得3D其實門檻沒有說很高
+如果2D卷不過別人,是很值得考慮3D的
+但3D渲染程式實作難度高,如果要使用WebGPU
+有很多渲染的細節...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885760</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885760</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 20 Feb 2024 06:46:00 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/20,星穹鐵道開第六個帳號,重回偽新手的簡易感想]]></title>
+            <description><![CDATA[現在這個版本新手有真理醫生
+3天多可以跑完目前的全主線(間章不算,大多比較難)
+(六日一,這3天我也只休一天就是了,不過天數會影響開拓力
+還有這三天正好有跨週)...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885689</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885689</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 20 Feb 2024 03:25:51 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,26 +115,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5875815</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 02 Feb 2024 06:34:18 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/1,你所設計的遊戲,機率就是比例嗎?談魔獸的木桶理論與圓桌理論,與朝三暮四,朝四暮三]]></title>
-            <description><![CDATA[前陣子,NGA論壇有在討論星穹鐵道暴擊率的問題說法是:沒有百暴,很常不暴,因此它懷疑有不暴率的設計它認為在多少次暴擊之後,就必然會出現不暴擊...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5875312</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5875312</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 01 Feb 2024 10:53:54 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 1/31,星穹鐵道,於個人而言,今年是景元年,2.0版本285組怪,全鋤101240經驗]]></title>
-            <description><![CDATA[鋤大地除去路線外的詳細資料推薦這篇
-https://bbs.nga.cn/read.php?tid=39316737 
-大原則是,入場時除去迷路撲滿的怪,一個1...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5874637</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5874637</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 31 Jan 2024 09:23:22 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
