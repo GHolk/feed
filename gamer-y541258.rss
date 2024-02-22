@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 21 Feb 2024 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Feb 2024 11:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/22,問題─星穹鐵道 景元 的痣是怎麼做的?(與一些3D相關的)]]></title>
+            <description><![CDATA[米哈遊的3D建模說是建模,但其實還是有很大程度是材質貼圖的
+那材質貼圖就是一般的2D圖片
+這篇推薦閱讀
+为什么似乎还有很多米哈游玩家会认为鸣潮质量不如米哈游？ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5887017</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887017</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 22 Feb 2024 10:22:01 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -106,15 +118,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5876570</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 03 Feb 2024 11:24:32 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/2實況產出─仿臥龍吟戰鬥系統,一場完整的戰鬥(但目前沒動畫與僅自動普攻而已)]]></title>
-            <description><![CDATA[詳細說明可能改天再補雖然簡短說明打了後,也想不太到有什麼詳細說明要補充簡短說明的話就是...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5875815</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5875815</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 02 Feb 2024 06:34:18 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
