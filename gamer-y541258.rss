@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 23 Feb 2024 12:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 24 Feb 2024 04:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 2/23,實況事前規劃]]></title>
+            <description><![CDATA[這次實況是用3D模型仿臥龍吟戰鬥系統
+先說些題外話:我星穹鐵道2.1會抽砂金六魂,可以留個好友位
+(不過要是沒抽到或差一點的話要不要補還不清楚)
+為什麼不是抽黃...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5887923</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887923</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 24 Feb 2024 01:33:25 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -109,15 +121,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5877135</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 04 Feb 2024 10:59:45 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/3,新年新希望與小屋更新方向(會寫這篇主要是抒發些我對2D跟3D的意見)]]></title>
-            <description><![CDATA[我仿臥龍吟戰鬥系統最終結束時,會採用載入3D模型的來結束之前不提3D有兩個原因...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5876570</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5876570</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 03 Feb 2024 11:24:32 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
