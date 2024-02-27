@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 26 Feb 2024 11:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 27 Feb 2024 12:25:46 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【原神】推薦隊伍]]></title>
+            <description><![CDATA[我不否認但不是這樣
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5889469</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5889469</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Mon, 26 Feb 2024 14:47:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005889469.JPG?v=1708958858" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】所以爸爸是誰]]></title>
             <description><![CDATA[你是妮妮嗎
@@ -22,7 +34,7 @@ FB專頁：ㄇㄐ補坑作業室
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5888212</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 24 Feb 2024 12:24:53 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/12/0005888212.JPG?v=1708777493" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/12/0005888212.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第3話-化鯨]]></title>
@@ -106,18 +118,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 06 Jan 2024 13:24:19 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0005860465.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】當個乖寶寶]]></title>
-            <description><![CDATA[今天平安夜要乖一點聖誕老公公才會來
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5852228</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5852228</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 24 Dec 2023 09:27:01 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005852228.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
