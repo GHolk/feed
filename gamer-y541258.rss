@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 29 Feb 2024 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Mar 2024 12:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/1,2.0版本下半鋤大地簡易心得,期待日後的星穹鐵道]]></title>
+            <description><![CDATA[有花火之後我的景元鋤大地體驗好一大截
+對,花火是很強,但沒有強到能一發秒怪
+主要的體驗優化是在於,穿過客四件有足夠戰技點時
+能把一發秒怪的門檻降低成花火、布洛妮...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5891643</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5891643</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 01 Mar 2024 09:20:41 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -111,15 +123,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5878699</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 07 Feb 2024 10:21:14 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/4,延續之前 機率是否是比例 的暴擊設計─為什麼一般來說遊戲要撐暴擊,追求通解還特解]]></title>
-            <description><![CDATA[一般來說,遊戲有暴擊就要撐暴擊但要撐到多少比較合適就看情況而定了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5877135</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5877135</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 04 Feb 2024 10:59:45 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
