@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 01 Mar 2024 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 05:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,9 +14,10 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[下次研究如何用MMD模型進行遊戲是2/24(六) 13:00~15:00
-2/15,實況,景元能跳MMD舞蹈了,主要卡點是
-沒有把標籤視窗按出來的話,就算有安裝...(繼續閱讀)]]></description>
+            <description><![CDATA[下次研究如何用MMD模型進行遊戲是3/9(六) 13:00~15:00
+3/2實況產出晚些再新增文章
+對我而言3D比較燒腦,所以這次實況到14點多就提早結束了
+...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -24,11 +25,20 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 3/2,推薦影片─什麼是法線貼圖(順帶解釋什麼是烘焙)、遊戲實際運用、一些考古]]></title>
+            <description><![CDATA[查了一下,法線貼圖是很古老的3D遊戲技術
+至少在2008年的中文書籍就有提及(我手頭的那本買了吃灰這樣)
+雖然感覺沒影片講得清楚!!
+或者是當年的書籍默認讀者是...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5892061</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5892061</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2024 02:30:47 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 3/1,2.0版本下半鋤大地簡易心得,期待日後的星穹鐵道]]></title>
-            <description><![CDATA[有花火之後我的景元鋤大地體驗好一大截
-對,花火是很強,但沒有強到能一發秒怪
-主要的體驗優化是在於,穿過客四件有足夠戰技點時
-能把一發秒怪的門檻降低成花火、布洛妮...(繼續閱讀)]]></description>
+            <description><![CDATA[星穹鐵道以後我應該可以放心抽了原神4.5前瞻多了種池子,六個五星角色三個很久沒UP過得跟三個常駐角色...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5891643</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5891643</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -37,9 +47,7 @@
         </item>
         <item>
             <title><![CDATA[[日誌] 2/23,實況事前規劃及今日實況產出(.vmd很難節選片段舞蹈播放,用取巧方式供參考)]]></title>
-            <description><![CDATA[原神模型官方載點キャラクター3Dモデル無料配布中！ (hoyoverse.com) 
-這次實況是用3D模型仿臥龍吟戰鬥系統
-先說些題外話:我星穹鐵道2.1會抽砂...(繼續閱讀)]]></description>
+            <description><![CDATA[對之前被我坑的說聲抱歉我之前貼的原神官網MMD模型是日文的如果你語言不用日文模型會載入失敗...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5887923</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887923</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -112,17 +120,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5880374</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 10 Feb 2024 11:56:57 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/7,簡短文,星穹鐵道─關於黑天鵝]]></title>
-            <description><![CDATA[2/8更新,我黑天鵝二魂了,雖然是在卡芙卡的那個帳號
-這次黑天鵝二魂後,我景元復刻跟花火專屬光錐應該是不用抽了
-要留著避免2.1版本兩個新角和花火連吃超大保底的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5878699</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5878699</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 07 Feb 2024 10:21:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 01 Mar 2024 16:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 03 Mar 2024 05:25:34 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第4話-孤獨的鯨詠]]></title>
+            <description><![CDATA[這次是稍微有些沉重的故事！第5話會在3/16(六)發佈！請多指教了！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5892342</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5892342</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sat, 02 Mar 2024 13:08:38 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005892342.JPG?v=1709384994" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【原神】推薦隊伍]]></title>
             <description><![CDATA[我不否認但不是這樣
@@ -109,15 +118,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 14 Jan 2024 11:30:39 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0005865025.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】序章]]></title>
-            <description><![CDATA[新的原創漫畫連載！預定每兩週更新一次！第一話會在1/20(六)發佈！請多指教了！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5860465</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5860465</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 06 Jan 2024 13:24:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0005860465.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
