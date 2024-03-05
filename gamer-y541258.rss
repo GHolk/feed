@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 04 Mar 2024 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 05 Mar 2024 11:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/5,星穹鐵道關於砂金光錐─命運從未公平V3的妄想,分身到底能不能順利拚到呢?]]></title>
+            <description><![CDATA[其實砂金光錐v1,v2,v3應該是只有做基礎數值改動因為2.1前瞻是3/15的樣子,前瞻時就關測試服了所以這次v3應該是最後一版了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5893821</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5893821</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 05 Mar 2024 01:00:44 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -111,15 +120,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5881112</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 12 Feb 2024 03:33:09 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/10,回合制遊戲設計問題-黑天鵝揭露boss轉階段保不保留]]></title>
-            <description><![CDATA[先說聲新年快樂過年，人目前在花蓮本來應該是要解剩下三個帳號的主線與活動...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5880374</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5880374</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 10 Feb 2024 11:56:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
