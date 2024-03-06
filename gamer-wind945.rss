@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Butter fly會游蝶式了！) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 05 Mar 2024 11:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 06 Mar 2024 11:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Butter fly會游蝶式了！)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-哀傷的摩耶大大]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5894199</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5894199</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Tue, 05 Mar 2024 15:15:23 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0005894199.JPG?v=1709651723" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【遊戲王】nanagi-得償所願]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5894078</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5894078</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Tue, 05 Mar 2024 11:45:15 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0005894078.JPG?v=1709639115" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-維護延長與西北風級的反應]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5892389</guid>
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Sat, 02 Mar 2024 14:19:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005892389.JPG?v=1709389180" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】すずきとと-房務是闇屬性]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5892365</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5892365</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Sat, 02 Mar 2024 13:40:52 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/w/i/wind945/wind945.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】cahf/find-連愛哭鬼也嚇到噤聲的主管年輕過往]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5891895</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5891895</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Fri, 01 Mar 2024 15:58:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005891895.PNG" length="0" type="image/png"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005892389.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
