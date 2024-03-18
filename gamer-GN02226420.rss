@@ -4,7 +4,7 @@
         <description><![CDATA[GN02226420 (搞什麼喵啊) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=GN02226420</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 16 Mar 2024 16:25:13 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Mar 2024 11:25:13 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-GN02226420.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[GN02226420 (搞什麼喵啊)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 貳零貳肆年貳月裏番心得]]></title>
+            <description><![CDATA[大家好...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5900489</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5900489</guid>
+            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
+            <pubDate>Sun, 17 Mar 2024 05:32:32 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 貳零貳肆年壹月裏番心得]]></title>
             <description><![CDATA[大家好...(繼續閱讀)]]></description>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5756354</guid>
             <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
             <pubDate>Sun, 16 Jul 2023 04:52:19 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 貳零貳叁年伍月裏番心得]]></title>
-            <description><![CDATA[大家好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5734540</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5734540</guid>
-            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
-            <pubDate>Sun, 11 Jun 2023 14:48:55 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
         </item>
     </channel>
