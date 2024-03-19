@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Butter fly會游蝶式了！) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 18 Mar 2024 16:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 16:25:48 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Butter fly會游蝶式了！)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-實質上是最受優待的一位]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5901893</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901893</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2024 13:35:12 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005901893.JPG?v=1710855312" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】nanagi-長髮艾爾芙與諾亞防具店]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5901807</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901807</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2024 11:07:12 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0005901807.JPG?v=1710846432" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-沒有逼到最後一刻我可是不要的哦]]></title>
@@ -84,25 +102,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5899850</guid>
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Sat, 16 Mar 2024 02:22:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005899850.JPG?v=1710555722" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【Fate】南ふに。-兄弟姊妹一起睡是很正常的事沒什麼好害羞的]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5899839</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5899839</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Sat, 16 Mar 2024 01:47:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005899839.JPG?v=1710553638" length="0" type="false"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-造出機率0.25%的下流個體不知火]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5899353</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5899353</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Fri, 15 Mar 2024 04:20:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005899353.JPG" length="0" type="image/jpeg"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0005899850.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

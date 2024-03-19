@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 18 Mar 2024 16:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Mar 2024 16:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -25,11 +25,20 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] 3/19~,短期計劃─星穹鐵道詞條取捨,算延續之前為何遊戲有暴擊暴傷就要撐暴擊暴傷的那篇]]></title>
+            <description><![CDATA[18:02更新
+下個待檢測的題目是:為何 疊5與行星相會 比 疊1遊戲塵寰的傷害 低
+真得有比較低嗎?其實我也不確定
+但我印象中我把停雲的光錐換掉之後,景元的傷...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5901756</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901756</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 19 Mar 2024 09:49:35 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] 3/5,星穹鐵道關於砂金光錐─命運從未公平V3的妄想,分身到底能不能順利拚到呢?]]></title>
-            <description><![CDATA[3/17,看了前瞻後,其實跟前瞻沒太大關係
-(這次前瞻是真得有些久,好在我隔天放假)
-但我可能還是會囤抽,之前想抽2+1黃泉是因為怕以後出新造型
-不過新造型遲遲...(繼續閱讀)]]></description>
+            <description><![CDATA[3/19實測,易傷(敵人受到的傷害增加)確實是直接結算傷害*(100%+易傷%)我打王蟲難度3，用百暴1.3虛數大C...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5893821</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5893821</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -111,18 +120,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885118</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 19 Feb 2024 03:27:57 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/12,今年GDC(遊戲開發者大會) 2024在3/18~3/22,其中關於nVIDIA的部份]]></title>
-            <description><![CDATA[最近在找學3D的資源
-其中程式的部份找得不算很順利
-(13:35更新,webGPU找到一個目測還不錯的學習資源,李金磊的github
-模型加载 | 学习 wgp...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5881112</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5881112</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 12 Feb 2024 03:33:09 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
