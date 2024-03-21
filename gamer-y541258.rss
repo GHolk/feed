@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 19 Mar 2024 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 21 Mar 2024 12:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -26,10 +26,10 @@
         </item>
         <item>
             <title><![CDATA[[日誌] 3/19~,短期計劃─星穹鐵道詞條取捨,算延續之前為何遊戲有暴擊暴傷就要撐暴擊暴傷的那篇]]></title>
-            <description><![CDATA[18:02更新
-下個待檢測的題目是:為何 疊5與行星相會 比 疊1遊戲塵寰的傷害 低
-真得有比較低嗎?其實我也不確定
-但我印象中我把停雲的光錐換掉之後,景元的傷...(繼續閱讀)]]></description>
+            <description><![CDATA[勘誤內容我晚些再想要怎麼修正
+已確認完畢,屬性是加基礎數值的,就是那數值直接加在綠字上
+屬性是加%數的,就是根據黑字(人物屬性+光錐數值),再乘上該比例
+覺得數...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5901756</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901756</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
