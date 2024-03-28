@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 27 Mar 2024 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Mar 2024 12:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/28,星穹鐵道未來主帳號開拓力使用規劃與黃泉2+1初步感想]]></title>
+            <description><![CDATA[我主帳號可能接下來要抽兩個托帕光錐「煩惱著、幸福著」
+現在命運的足跡可以用星芒換了,雖然有點貴所以我下一步是打算把全角色的行跡點滿
+當然我現在命運的足跡還不夠
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5906698</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5906698</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 28 Mar 2024 09:19:34 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -109,17 +121,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885689</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 20 Feb 2024 03:25:51 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/19,米哈游罪大惡極,這期星穹鐵道混沌回憶有夠難]]></title>
-            <description><![CDATA[這篇主要講的是─2.0第一期混沌回憶 難捨夢鄉 有夠難
-我記得開服的時候,文案是寫 渾沌回憶所以之前打渾沌回憶,但好像到1.5還1.X時
-又仔細看了下變成 混沌...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885118</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885118</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 19 Feb 2024 03:27:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
