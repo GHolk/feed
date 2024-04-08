@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 05 Apr 2024 02:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 08 Apr 2024 12:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,14 +14,31 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 11/10~,目標播放仿臥龍吟戰鬥過程,跟反奧卡姆剃刀原則,下個計劃是仿星穹鐵道─模擬宇宙]]></title>
-            <description><![CDATA[下次實況找3D戰鬥動畫的資料,4/6(六) 13:00~15:00
-4/3,完成手邊全帳號主線,但活動都還沒肝
-我應該4/7以前能忙完2.1版本上半
-下次程式實...(繼續閱讀)]]></description>
+            <description><![CDATA[思考了一陣子後,這個月不回花蓮了!!本來是想回花蓮帶家人去散步雖然散步的地方蠻空曠的,應該是還可以...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5826946</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 4/6,實況產出,研究3D攻擊動畫的成果,如何在網頁上節選播放3D攻擊動畫(使用MMD)]]></title>
+            <description><![CDATA[大家記得偶爾要運動下,這樣才不會衰老得太快若不運動也要伸展下,長時間用螢幕時眼睛要休息下或看遠方調節下...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5911829</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911829</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 06 Apr 2024 06:09:49 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 4/5,星穹鐵道2.2跟2.3似乎是蠻省錢的版本]]></title>
+            <description><![CDATA[看了下2.2兩位角色的實機視頻(觀看的時候小心被劇透,雖然只是找新角色戰鬥資料
+但會因此時常被劇透,我2.1之前就被劇透得差不多了
+大概就是還不清楚 啞巴角色指...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5911350</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911350</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 05 Apr 2024 09:29:16 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -50,9 +67,7 @@
         </item>
         <item>
             <title><![CDATA[[日誌] 3/5,星穹鐵道關於砂金光錐─命運從未公平V3的妄想,分身到底能不能順利拚到呢?]]></title>
-            <description><![CDATA[文章內容可能要修正,能不能疊似乎主要取決於是不是同個角色掛的
-就算是陷入某狀態,似乎除去卡芙卡專屬光錐游絲外(我還沒實測)
-都是不同角色可以同時掛上兩個效果相同...(繼續閱讀)]]></description>
+            <description><![CDATA[想了一陣子，我分身大概不抽砂金了我短期內只有這一帳號有機會拿高魂角色再留陣子好了...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5893821</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5893821</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -99,30 +114,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887017</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 22 Feb 2024 10:22:01 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/20實況產出,three.js載入MMD模型與舞步嘗試成功(也就是在讓MMD模型在網頁上動作)]]></title>
-            <description><![CDATA[嗯,這兩三星期研究下來,我覺得3D其實門檻沒有說很高
-如果2D卷不過別人,是很值得考慮3D的
-但3D渲染程式實作難度高,如果要使用WebGPU
-有很多渲染的細節...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885760</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885760</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 20 Feb 2024 06:46:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/20,星穹鐵道開第六個帳號,重回偽新手的簡易感想]]></title>
-            <description><![CDATA[現在這個版本新手有真理醫生
-3天多可以跑完目前的全主線(間章不算,大多比較難)
-(六日一,這3天我也只休一天就是了,不過天數會影響開拓力
-還有這三天正好有跨週)...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5885689</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5885689</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 20 Feb 2024 03:25:51 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
