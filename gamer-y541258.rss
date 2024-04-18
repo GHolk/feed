@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 17 Apr 2024 11:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 18 Apr 2024 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 4/18,星穹鐵道之後抽卡規劃─應該會只以喜好來抽]]></title>
+            <description><![CDATA[由於之前想說送真理醫生期限快到了開了很多帳號在玩玩了一陣子後我發現副本降難度打比起提升自己強度來說實在很多...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5918524</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5918524</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 18 Apr 2024 03:57:21 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,18 +111,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887923</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 24 Feb 2024 01:33:25 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/22,問題─星穹鐵道 景元 的痣是怎麼做的?(與一些3D相關的)]]></title>
-            <description><![CDATA[米哈遊的3D建模說是建模,但其實還是有很大程度是材質貼圖的
-那材質貼圖就是一般的2D圖片
-這篇推薦閱讀
-为什么似乎还有很多米哈游玩家会认为鸣潮质量不如米哈游？ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5887017</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887017</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 22 Feb 2024 10:22:01 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
