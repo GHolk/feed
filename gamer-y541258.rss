@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 20 Apr 2024 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Apr 2024 11:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5826946</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 10 Nov 2023 08:48:01 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 4/22,科學與迷信]]></title>
+            <description><![CDATA[今天想藉由 星穹鐵道 號品來談談科學與迷信...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5920730</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5920730</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 22 Apr 2024 00:30:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -105,15 +114,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5891643</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 01 Mar 2024 09:20:41 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 2/23,實況事前規劃及今日實況產出(.vmd很難節選片段舞蹈播放,用取巧方式供參考)]]></title>
-            <description><![CDATA[對之前被我坑的說聲抱歉我之前貼的原神官網MMD模型是日文的如果你語言不用日文模型會載入失敗...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5887923</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5887923</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 24 Feb 2024 01:33:25 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
