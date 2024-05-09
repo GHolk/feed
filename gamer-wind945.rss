@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Butter fly會游蝶式了！) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 08 May 2024 13:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 09 May 2024 11:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Butter fly會游蝶式了！)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】nueco-好喜歡阿霞11周年語音的這部分]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5930332</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5930332</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Wed, 08 May 2024 16:01:33 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/32/0005930332.JPG?v=1715184093" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-58之日]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5930283</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5930283</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Wed, 08 May 2024 15:26:34 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005930283.JPG?v=1715181994" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【超人力霸王】阿井上夫-老七從賽文加裏頭跑出來啦]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Sun, 05 May 2024 08:25:27 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0005928357.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【鋼彈】担当K-分身是那樣用的啊…]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5928013</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5928013</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Sat, 04 May 2024 15:57:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005928013.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】切裂 シーカー-退役後艦娘After⑨]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5928006</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5928006</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Sat, 04 May 2024 15:55:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005928006.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
