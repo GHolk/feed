@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 16 May 2024 11:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 May 2024 14:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -15,13 +15,22 @@
         <item>
             <title><![CDATA[[日誌] 5/4~,仿星穹鐵道─模擬宇宙,現階段戰鬥跳過,因為戰鬥系統還沒做或說沒仿]]></title>
             <description><![CDATA[下次實況仿模擬宇宙可能要6月,5月只剩三天假
-這星期剩四個分身要衝開拓等級65
+這星期剩四個分身要衝開拓等級65(已於5/17完成)
 星穹鐵道 亞服(Asia服)
-UID 806507747 主帳號 6慢速百抗藿藿...(繼續閱讀)]]></description>
+UID 806507747 主...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5927560</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 5/16,最近時常對自己說]]></title>
+            <description><![CDATA[「雖然這個角色高星魂很契合我的隊伍但難道下個想抽的角色就不想抽高星魂了嗎?」...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5934520</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5934520</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 16 May 2024 11:54:45 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -104,18 +113,6 @@ UID 806507747 主帳號 6慢速百抗藿藿...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5893821</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 05 Mar 2024 01:00:44 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/2,推薦影片─什麼是法線貼圖(順帶解釋什麼是烘焙)、遊戲實際運用、一些考古]]></title>
-            <description><![CDATA[查了一下,法線貼圖是很古老的3D遊戲技術
-至少在2008年的中文書籍就有提及(我手頭的那本買了吃灰這樣)
-雖然感覺沒影片講得清楚!!
-或者是當年的書籍默認讀者是...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5892061</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5892061</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 02 Mar 2024 02:30:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
