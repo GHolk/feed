@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 18 May 2024 03:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 16:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@ UID 806507747 主...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 5/18,關於遊戲、文創作品的劇情,一些個人的感受(美好生活幾乎是不可能的)]]></title>
+            <description><![CDATA[題外話:明天似乎沒有要去Costco所以我下午可能會實況下仿模擬宇宙,可能,還沒確定要檢查下遊戲忙完了沒...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5935625</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5935625</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 18 May 2024 11:18:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -104,15 +113,6 @@ UID 806507747 主...(繼續閱讀)]]></description>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901756</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 19 Mar 2024 09:49:35 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/5,星穹鐵道關於砂金光錐─命運從未公平V3的妄想,分身到底能不能順利拚到呢?]]></title>
-            <description><![CDATA[想了一陣子，我分身大概不抽砂金了我短期內只有這一帳號有機會拿高魂角色再留陣子好了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5893821</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5893821</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 05 Mar 2024 01:00:44 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
