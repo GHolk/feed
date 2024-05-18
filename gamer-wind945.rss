@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Butter fly會游蝶式了！) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 17 May 2024 14:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 18 May 2024 03:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Butter fly會游蝶式了！)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】なら-恐怖漫畫「蛋蛋之響」]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5935302</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5935302</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Fri, 17 May 2024 17:23:49 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005935302.JPG?v=1715966629" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【天才麻將少女】かにかま-喂…快看…是原●同學耶…(復刻)]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Mon, 13 May 2024 14:57:48 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005933124.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-反啦啊啊]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5932648</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5932648</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Sun, 12 May 2024 16:17:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0005932648.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
