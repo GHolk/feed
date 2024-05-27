@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 26 May 2024 02:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 27 May 2024 11:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 【科奇幻底家】奇幻故事podcast宣傳]]></title>
+            <description><![CDATA[好久好久沒更新，感覺都已經長草了。...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5940511</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5940511</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Mon, 27 May 2024 09:43:39 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005940511.JPG?v=1716803019" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【工商】《從那本沒有出版的《沙丘前傳》談起：科/奇幻翻譯、出版與文化殖民/去殖民》]]></title>
             <description><![CDATA[這次，我幫忙的學會請到了灰鷹爵士演講喔~~~...(繼續閱讀)]]></description>
@@ -113,17 +122,6 @@ X拉，艾倫摩爾耶，我人生會掛名推薦艾倫摩爾耶。《V怪...(�
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Sun, 16 Jul 2023 17:24:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0005756795.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 魯蛇吸血鬼的歡樂日常《吸血鬼家庭屍篇》]]></title>
-            <description><![CDATA[舊文，現在已經是《雷神索爾4》了。
-不過我最近發現，我對劣質的資訊蠻反感的，這大概是我不愛看新聞的原因。
-我覺得台灣新聞真的很慘，慘到只能去抄網紅吵架來傳流量。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5746029</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746029</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Thu, 29 Jun 2023 15:49:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0005746029.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
