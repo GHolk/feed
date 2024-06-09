@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 06 Jun 2024 12:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 09 Jun 2024 03:26:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,14 +14,22 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 5/4~,仿星穹鐵道─模擬宇宙,現階段戰鬥跳過,因為戰鬥系統還沒做或說沒仿]]></title>
-            <description><![CDATA[認識我的人應該不知道(我的意思是以前是同學或同事這樣的)
-因為網頁遊戲大概是2008年以後開始盛行的
-而網頁遊戲盛行時,我已經很少跟人相處了
-當然Faceboo...(繼續閱讀)]]></description>
+            <description><![CDATA[6/3,剛從花蓮回來,下次實況仿模擬宇宙暫訂6/12 13:00~15:00
+認識我的人應該不知道(我的意思是以前是同學或同事這樣的)
+因為網頁遊戲大概是200...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5927560</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/7,等待前瞻直播前發現的東西,非參數統計學 涓滴行銷 黑洞質量計算與些相關歷史]]></title>
+            <description><![CDATA[唔,我六月排假排比較多(請掉三天補休)由於最近都忙著打電動但電動也忙得差不多了,或者是今天不想打了...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5946866</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5946866</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 07 Jun 2024 08:46:19 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -104,18 +112,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5906698</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 28 Mar 2024 09:19:34 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/19~,短期計劃─星穹鐵道詞條取捨,算延續之前為何遊戲有暴擊暴傷就要撐暴擊暴傷的那篇]]></title>
-            <description><![CDATA[勘誤內容我晚些再想要怎麼修正
-已確認完畢,屬性是加基礎數值的,就是那數值直接加在綠字上
-屬性是加%數的,就是根據黑字(人物屬性+光錐數值),再乘上該比例
-覺得數...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5901756</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5901756</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 19 Mar 2024 09:49:35 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
