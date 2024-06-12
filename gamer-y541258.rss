@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 11 Jun 2024 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 12 Jun 2024 13:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -21,6 +21,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/12,談談「日更」與最近想設計的遊戲想法《遊戲設計師─被設計好的五年》]]></title>
+            <description><![CDATA[唔,以前好像有提過我覺得一個有道德的遊戲,應該在玩家遊戲完成或停止營運後
+有辦法完整擁有或者說能重現出那遊戲
+那一直以來想設計的遊戲也是出於類似的想法
+雖然這想...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5949417</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5949417</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 12 Jun 2024 02:31:09 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -100,17 +112,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911829</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 06 Apr 2024 06:09:49 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/5,星穹鐵道2.2跟2.3似乎是蠻省錢的版本]]></title>
-            <description><![CDATA[看了下2.2兩位角色的實機視頻(觀看的時候小心被劇透,雖然只是找新角色戰鬥資料
-但會因此時常被劇透,我2.1之前就被劇透得差不多了
-大概就是還不清楚 啞巴角色指...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5911350</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911350</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 05 Apr 2024 09:29:16 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
