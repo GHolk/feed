@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 12 Jun 2024 13:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 13 Jun 2024 11:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,13 +14,23 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 5/4~,仿星穹鐵道─模擬宇宙,現階段戰鬥跳過,因為戰鬥系統還沒做或說沒仿]]></title>
-            <description><![CDATA[6/3,剛從花蓮回來,下次實況仿模擬宇宙暫訂6/12 13:00~15:00
-認識我的人應該不知道(我的意思是以前是同學或同事這樣的)
-因為網頁遊戲大概是200...(繼續閱讀)]]></description>
+            <description><![CDATA[這個夏天還會不會實況不太清楚
+或者說可能會實況,但時間不會訂在13:00~15:00了
+6/12的實況,模擬宇宙的祝福幾乎都是在本來戰鬥程式會計算的地方
+在多做...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5927560</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/13,《遊戲設計師─被設計好的五年》其中一個戰鬥系統構思]]></title>
+            <description><![CDATA[我玩的遊戲很少(大部份都是同類型的)也許等下提的遊戲模式,已經現有市面上的有做出來了若有,可以說一聲...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5949889</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5949889</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 13 Jun 2024 01:08:31 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -103,15 +113,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5918524</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 18 Apr 2024 03:57:21 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/6,實況產出,研究3D攻擊動畫的成果,如何在網頁上節選播放3D攻擊動畫(使用MMD)]]></title>
-            <description><![CDATA[大家記得偶爾要運動下,這樣才不會衰老得太快若不運動也要伸展下,長時間用螢幕時眼睛要休息下或看遠方調節下...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5911829</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911829</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 06 Apr 2024 06:09:49 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
