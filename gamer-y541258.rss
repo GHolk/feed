@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 16 Jun 2024 09:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 17 Jun 2024 11:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,10 +14,10 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 5/4~,仿星穹鐵道─模擬宇宙,現階段戰鬥跳過,因為戰鬥系統還沒做或說沒仿]]></title>
-            <description><![CDATA[這個夏天還會不會實況不太清楚
-或者說可能會實況,但時間不會訂在13:00~15:00了
-6/12的實況,模擬宇宙的祝福幾乎都是在本來戰鬥程式會計算的地方
-在多做...(繼續閱讀)]]></description>
+            <description><![CDATA[今天(6/16)下雨,沒涼多少(室溫30度)
+但也有時間看其它巴哈小屋創作了
+這個夏天可能不再實況了,掌握比較涼的時候用電腦
+(但大概不會有這狀況,放電腦的房間...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5927560</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -25,7 +25,16 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 6/14起,《遊戲設計師-被設計好的五年》素材蒐集part 1]]></title>
+            <title><![CDATA[[日誌] 6/17~,《遊戲設計師-被設計好的五年》素材蒐集part 2,一篇字數有些多時就會跳下篇]]></title>
+            <description><![CDATA[6/17,脫敏(desensitization)與祛魅祛魅這詞雖然是有英文來源可是用英文時是有特別指現代社會...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5952176</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5952176</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 17 Jun 2024 03:46:04 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/14~6/16,《遊戲設計師-被設計好的五年》素材蒐集part 1]]></title>
             <description><![CDATA[6/16,音樂的動機(motif)英文長這麼怪的原因是其實這是法文動機一般被認為是調式音樂作曲的最小單位...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5950558</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5950558</guid>
@@ -104,15 +113,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5923626</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 27 Apr 2024 11:03:09 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 4/22,科學與迷信]]></title>
-            <description><![CDATA[今天想藉由 星穹鐵道 號品來談談科學與迷信...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5920730</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5920730</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 22 Apr 2024 00:30:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
