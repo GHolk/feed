@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 25 Jun 2024 12:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 26 Jun 2024 11:25:34 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【上古世紀:戰爭】向好友推薦種族吧！]]></title>
+            <description><![CDATA[快TAG你身邊適合矮ㄖ......我是說一起來幫朋友想想適合的定位吧！
+
+6/27晚上8點就要開服了！好期待啊！
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5957294</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5957294</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Wed, 26 Jun 2024 10:00:08 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0005957294.JPG?v=1719396008" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【RO仙境傳說：初心之戰】露天商店]]></title>
             <description><![CDATA[商人之間的關係就是這麼簡單直白
@@ -105,17 +117,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 10 Apr 2024 08:30:29 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0005914201.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【LUNA Mobile】歡慶開服]]></title>
-            <description><![CDATA[超爽的
-終於不用再每天省下那些馬麻十塊也能擁有漂亮時裝
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5910708</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5910708</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 04 Apr 2024 05:00:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/08/0005910708.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
