@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (Butter fly會游蝶式了！) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 27 Jun 2024 11:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 15:25:40 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (Butter fly會游蝶式了！)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】ひすでー-好期待創彩的直播哦]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5958315</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5958315</guid>
+            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
+            <pubDate>Fri, 28 Jun 2024 07:24:59 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0005958315.JPG?v=1719559499" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】夜ト★海産物は敵-情敵增加得太多的老鷹]]></title>
@@ -66,7 +75,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5956655</guid>
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 25 Jun 2024 07:18:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005956655.JPG?v=1719299918" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/55/0005956655.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【Vocaloid】nanagi-隔天一早]]></title>
@@ -75,7 +84,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5956647</guid>
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Tue, 25 Jun 2024 06:28:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0005956647.JPG?v=1719296925" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0005956647.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】ひすでー-睦]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
             <pubDate>Mon, 24 Jun 2024 07:11:54 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005956128.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【AGA】Code Geass 神託的少女 EP5 短暫的別離 END]]></title>
-            <description><![CDATA[前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5956116</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5956116</guid>
-            <dc:creator><![CDATA[wind945 (Butter fly會游蝶式了！)]]></dc:creator>
-            <pubDate>Mon, 24 Jun 2024 06:20:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0005956116.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

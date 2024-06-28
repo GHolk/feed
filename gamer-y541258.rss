@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 27 Jun 2024 11:25:18 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 28 Jun 2024 15:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/28,被設計好的五年–素材蒐集 森林覆蓋率 備忘]]></title>
+            <description><![CDATA[這篇還沒寫完僅是發現個陌生的東西改天有空時再補...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5958400</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5958400</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 28 Jun 2024 10:42:12 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -99,15 +108,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5948005</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 09 Jun 2024 10:39:41 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/7,等待前瞻直播前發現的東西,非參數統計學 涓滴行銷 黑洞質量計算與些相關歷史]]></title>
-            <description><![CDATA[唔,我六月排假排比較多(請掉三天補休)由於最近都忙著打電動但電動也忙得差不多了,或者是今天不想打了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5946866</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5946866</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 07 Jun 2024 08:46:19 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
