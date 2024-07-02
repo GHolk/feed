@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 01 Jul 2024 11:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Jul 2024 12:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 2024克蘇魯月曆~札特瓜~]]></title>
+            <description><![CDATA[
+
+耶，剛好七月，我想可以分享了~
+這是2024克蘇魯月曆，我剛好負責七月的札特瓜的故事，選七月是因為我的生日剛好在七月。嗯這理由很爛，不過當初我的確是在不知道...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5960717</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5960717</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Tue, 02 Jul 2024 04:00:35 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005960717.JPG?v=1719892835" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 《八戒》簡評]]></title>
             <description><![CDATA[《八戒》真的很不錯，以我看過的台灣商業動畫來講，是一部看完會很開心的作品。...(繼續閱讀)]]></description>
@@ -107,17 +119,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Sun, 10 Sep 2023 13:03:19 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0005791467.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 柏德之門3之我搞不清楚隊友(微雷注意)]]></title>
-            <description><![CDATA[柏德三完全對我的胃，這個星期下班到家後就立刻當柏德廢人，目前玩到第二章開頭，豎琴手營地。
-不過今天不玩，有點睡眠不足，長休~~~
-因此在睡前我把之前mumu的截...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5780569</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5780569</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Wed, 23 Aug 2023 15:03:35 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005780569.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
