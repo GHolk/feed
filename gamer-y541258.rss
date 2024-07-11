@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 10 Jul 2024 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Jul 2024 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/11~,《遊戲設計師─被設計好的五年》素材蒐集part 3]]></title>
+            <description><![CDATA[「為什麼減法是水部,加法卻不是火部?」『你好像小孩子』『這問題就像是方這個字為什麼比圓還圓』...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5965747</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5965747</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 11 Jul 2024 03:17:43 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -94,18 +103,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5949889</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 13 Jun 2024 01:08:31 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/12,談談「日更」與最近想設計的遊戲想法《遊戲設計師─被設計好的五年》]]></title>
-            <description><![CDATA[唔,以前好像有提過我覺得一個有道德的遊戲,應該在玩家遊戲完成或停止營運後
-有辦法完整擁有或者說能重現出那遊戲
-那一直以來想設計的遊戲也是出於類似的想法
-雖然這想...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5949417</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5949417</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 12 Jun 2024 02:31:09 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
