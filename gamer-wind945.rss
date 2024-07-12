@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 11 Jul 2024 11:25:44 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 13:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【Fate】狐ヶ崎唯那-很會照顧人的美式餓鬼術士狐]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5966353</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5966353</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Fri, 12 Jul 2024 07:38:55 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0005966353.JPG?v=1720769935" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】ひすでー-有點遲到的利佳生日]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5966348</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5966348</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Fri, 12 Jul 2024 07:30:44 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0005966348.JPG?v=1720769444" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】最上工路-被告知了妹妹不是親妹妹]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 30 Jun 2024 11:37:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0005959728.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-朋友變成女生教人頭疼的事 視線]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5959723</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5959723</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 30 Jun 2024 11:31:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0005959723.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】うーたん-阿霞與催眠APP]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5958761</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5958761</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Fri, 28 Jun 2024 22:48:40 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0005958761.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

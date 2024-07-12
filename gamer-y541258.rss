@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 11 Jul 2024 11:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 12 Jul 2024 13:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -25,7 +25,16 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 7/11~,《遊戲設計師─被設計好的五年》素材蒐集part 3]]></title>
+            <title><![CDATA[[日誌] 7/12,《遊戲設計師─被設計好的五年》 程式語言99題 (Ninety-Nine 程式語言 Problems)]]></title>
+            <description><![CDATA[一些比較罕見的程式語言或者說是範式(paradigm)不同的程式語言為了讓新人有些方向,會有入門的99題...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5966341</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5966341</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 12 Jul 2024 06:54:53 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/11,《遊戲設計師─被設計好的五年》素材蒐集part 3,僅簡短的一段對話]]></title>
             <description><![CDATA[「為什麼減法是水部,加法卻不是火部?」『你好像小孩子』『這問題就像是方這個字為什麼比圓還圓』...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5965747</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5965747</guid>
@@ -94,15 +103,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5950558</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 14 Jun 2024 08:28:45 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/13,《遊戲設計師─被設計好的五年》其中一個戰鬥系統構思]]></title>
-            <description><![CDATA[我玩的遊戲很少(大部份都是同類型的)也許等下提的遊戲模式,已經現有市面上的有做出來了若有,可以說一聲...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5949889</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5949889</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 13 Jun 2024 01:08:31 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
