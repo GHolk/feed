@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 05 Aug 2024 11:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 06 Aug 2024 12:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-阿霞對今年的酷暑抱有危機感]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5980569</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5980569</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Mon, 05 Aug 2024 15:59:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/69/0005980569.JPG?v=1722873546" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-溫火]]></title>
@@ -48,7 +57,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5979121</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sat, 03 Aug 2024 08:50:15 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005979121.JPG?v=1722675015" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0005979121.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】さるぴん-讓被公司炒魷魚的姊姊留宿的結果]]></title>
@@ -57,7 +66,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5978670</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Fri, 02 Aug 2024 14:27:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005978670.JPG?v=1722608871" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/70/0005978670.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】夜ト★海産物は敵-悶騷女孩兒]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 31 Jul 2024 15:31:54 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005977591.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【Fate】南ふに。-對這類妖怪很沒轍的士郎與伊利亞的漫畫]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5977005</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5977005</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Tue, 30 Jul 2024 15:37:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0005977005.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
