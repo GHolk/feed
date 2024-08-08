@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 07 Aug 2024 15:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 08 Aug 2024 13:25:29 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[同人] 【CWT67場宣】本場有限定驚喜簽繪板!! #原創百合 #白子與魔女]]></title>
+            <description><![CDATA[【CWT67場宣】本週末在台大體育館～攤位兩天都在O79,O80！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5982018</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5982018</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Thu, 08 Aug 2024 12:35:07 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0005982018.JPG?v=1723120507" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[同人] [原創百合] 新刊《白子日記3-1》電子書版開賣囉！]]></title>
             <description><![CDATA[★《白子日記3-1 二月二十五 天氣晴》
@@ -104,15 +113,6 @@ https://www.doujin.com.tw/books/info/63...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Fri, 30 Jun 2023 11:49:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005746479.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 本週週末5/20 IF創集繪 場宣 - 《水星的魔女》]]></title>
-            <description><![CDATA[【本週週末5/20 IF創集繪 場宣】攤位號碼：T43,T44攤上會有刊物請見DM...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5719430</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5719430</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Thu, 18 May 2023 13:31:57 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/30/0005719430.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
