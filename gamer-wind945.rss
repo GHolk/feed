@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 15 Aug 2024 12:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 12:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【福利連】きょうさる-阿烏拉光顧迴轉壽司]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5986227</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5986227</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Thu, 15 Aug 2024 15:58:46 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0005986227.JPG?v=1723737526" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】ひすでー-諾艾兒跟律花擺在一起看真的很像姊妹呢]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5986224</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5986224</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Thu, 15 Aug 2024 15:55:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005986224.JPG?v=1723737330" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】ひすでー-桃歌那件不知道會不會拿出來賣…]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 11 Aug 2024 14:08:52 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0005983856.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-現在變得遙不可及的她…]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5983835</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5983835</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 11 Aug 2024 13:36:01 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/35/0005983835.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】HARAMAKI-織女「這幾年難得在七夕放晴呢。」]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5983009</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5983009</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sat, 10 Aug 2024 06:14:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0005983009.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>

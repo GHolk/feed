@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 15 Aug 2024 12:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 16 Aug 2024 12:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第9話-亡靈]]></title>
+            <description><![CDATA[最近有點忙到沒時間弄實體本！可惡啊超想出本出周邊！
+另外預計漁村篇結束後會辦角色人氣投票和抽獎活動！🎉✨
+第10話會在9/16(一)發佈哦！請多指教了！
+如果還...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5986502</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5986502</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 16 Aug 2024 10:00:23 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005986502.JPG?v=1723802423" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【新瑪奇英雄傳】大叔的味道]]></title>
             <description><![CDATA[別惹佛格斯不開心
@@ -21,7 +33,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5984431</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Mon, 12 Aug 2024 13:48:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005984431.JPG?v=1723470510" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005984431.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】固定一下稱呼啦]]></title>
@@ -104,15 +116,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 29 Jun 2024 06:45:18 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005958936.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 【女神異聞錄：夜幕魅影】P5X學姐【新島真】終於來了！]]></title>
-            <description><![CDATA[想必大家都很期待這次P5X的改版吧！最喜歡的學姐終於回到我的懷抱了按耐不住這顆興奮的心把自己喜歡的形象畫了下來～...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5957906</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5957906</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 27 Jun 2024 10:30:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0005957906.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
