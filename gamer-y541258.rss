@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Aug 2024 03:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/17,關於前些日子提到的星穹鐵道小遊戲,遇到的第一個障礙,圖片原地旋轉]]></title>
+            <description><![CDATA[16:54更新建議現在寫程式還是要問ChatGPT或類似競品我問圖片原地旋轉程式要怎麼實作...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5987041</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5987041</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 17 Aug 2024 07:59:57 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -97,15 +106,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5957284</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 26 Jun 2024 09:48:49 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/21,停更幾天(最快下星期一再每天想些事情寫),忙《星穹鐵道》]]></title>
-            <description><![CDATA[6/23,我發現,次元飾品提取時借好友的助戰好友是拿不到支援信用點獎勵的(已於6/26時修復)...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5954389</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5954389</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 21 Jun 2024 09:46:33 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

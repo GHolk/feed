@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Aug 2024 03:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 17 Aug 2024 16:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】kamicat-嫩雞男友與想撐情人傘的女友]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5987331</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5987331</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 17 Aug 2024 15:50:19 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005987331.JPG?v=1723909819" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】たけみつ-情敵太強了怎麼辦]]></title>
@@ -57,7 +66,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5985575</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 14 Aug 2024 14:54:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005985575.JPG?v=1723647256" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0005985575.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】yoru-世上沒有TS藥只好自己手動來【第2話】]]></title>
@@ -66,7 +75,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5985563</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 14 Aug 2024 14:38:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005985563.JPG?v=1723646318" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005985563.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】nanagi-毆打系聖職者 第5話]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Mon, 12 Aug 2024 11:33:01 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0005984316.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-直到我讓某天變成女生的好友找到幸福④]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5983889</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5983889</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 11 Aug 2024 14:49:31 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0005983889.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
