@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 17 Aug 2024 16:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 19 Aug 2024 11:25:33 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】手機先吃]]></title>
+            <description><![CDATA[真沒想到我也有今天啊......放一下我的IG！可以看到我有時候會限動連發...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5987658</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5987658</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 18 Aug 2024 08:55:49 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005987658.JPG?v=1723971349" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第9話-亡靈]]></title>
             <description><![CDATA[最近有點忙到沒時間弄實體本！可惡啊超想出本出周邊！
@@ -22,7 +31,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5986502</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 16 Aug 2024 10:00:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005986502.JPG?v=1723802423" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005986502.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] 【新瑪奇英雄傳】大叔的味道]]></title>
@@ -104,18 +113,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 30 Jun 2024 05:37:22 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/38/0005959538.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】高情商回應]]></title>
-            <description><![CDATA[快學起來暖她一整天
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5958936</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5958936</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 29 Jun 2024 06:45:18 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0005958936.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
