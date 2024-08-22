@@ -4,7 +4,7 @@
         <description><![CDATA[h804232006 (仙界大濕) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=h804232006</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 21 Aug 2024 11:25:14 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 11:25:14 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-h804232006.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[h804232006 (仙界大濕)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【壞掉妹的動漫展詭計】]]></title>
+            <description><![CDATA[...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5989932</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5989932</guid>
+            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
+            <pubDate>Thu, 22 Aug 2024 03:57:53 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/32/0005989932.JPG?v=1724301247" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] 『逃家少女~蜜梨與巧克力~』插畫]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
             <pubDate>Sun, 26 Nov 2023 06:17:49 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0005835886.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] [達人專欄] 雌小鬼]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5822758</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5822758</guid>
-            <dc:creator><![CDATA[h804232006 (仙界大濕)]]></dc:creator>
-            <pubDate>Fri, 03 Nov 2023 00:35:14 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005822758.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

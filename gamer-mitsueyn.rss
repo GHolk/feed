@@ -4,7 +4,7 @@
         <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 21 Aug 2024 11:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Aug 2024 11:25:28 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[同人] 【FF43場宣】本週末在花博!! 電子版已經上架BOOTH囉  #原創百合 #白子與魔女]]></title>
+            <description><![CDATA[【FF43場宣】本週末在花博～攤位是六跟日兩天在J17、J18！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=5989527</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5989527</guid>
+            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
+            <pubDate>Wed, 21 Aug 2024 11:41:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0005989527.JPG?v=1724240490" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[同人] 【CWT67場宣】本場有限定驚喜簽繪板!! #原創百合 #白子與魔女]]></title>
             <description><![CDATA[【CWT67場宣】本週末在台大體育館～攤位兩天都在O79,O80！...(繼續閱讀)]]></description>
@@ -104,15 +113,6 @@ https://www.doujin.com.tw/books/info/63241 ...(繼續閱讀)]]></description>
             <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
             <pubDate>Wed, 16 Aug 2023 11:32:25 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005776039.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 水星的魔女- スレミオ新刊電子版開賣囉！]]></title>
-            <description><![CDATA[【電子書版開賣啦！】...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5746479</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5746479</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Fri, 30 Jun 2023 11:49:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0005746479.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
