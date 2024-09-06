@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 05 Sep 2024 12:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 Sep 2024 12:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -34,11 +34,8 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 8/10,近況與短期計劃,一版會先採取顏色相同連通法，對我來說比較簡單]]></title>
-            <description><![CDATA[8/17,預計小目標，先完成圖檔旋轉六次
-「我想到轉蛋遊戲可以開發的新功能了」
-"什麼新功能?"
-「不是很多人說,囤著等卡芙卡,囤著等星見雅...(繼續閱讀)]]></description>
+            <title><![CDATA[[日誌] 8/10,近況與短期計劃,一版會先採取顏色相同連通法，9/6時更新下應該是對的解法概念]]></title>
+            <description><![CDATA[9/6,想了一陣子,想得差不多了其實只要記錄一個旋轉模組(或說一個六角形)的六個點這個模組有哪幾個點是通的...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=5982958</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5982958</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
