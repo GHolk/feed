@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 20 Sep 2024 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 21 Sep 2024 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/21,觀知乎問題 為什麼直到現在,原神的元素反應機制都沒有被模仿 有感或者說一些雜談]]></title>
+            <description><![CDATA[https://www.zhihu.com/question/655314579 底下的討論講得蠻詳細的了就講一些觀戰的感想跟兩個想談的...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6006853</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6006853</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 21 Sep 2024 02:28:23 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -94,15 +103,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5961488</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 03 Jul 2024 10:00:35 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/28,被設計好的五年–素材蒐集 森林覆蓋率 備忘 7/1簡短更新:小冰河期]]></title>
-            <description><![CDATA[這篇還沒寫完僅是發現個陌生的東西改天有空時再補...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5958400</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5958400</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 28 Jun 2024 10:42:12 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
