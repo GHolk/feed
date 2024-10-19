@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 18 Oct 2024 16:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 19 Oct 2024 16:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】所以怎麼白回來]]></title>
+            <description><![CDATA[就像我平常化妝也是畫給自己看的
+
+FB專頁：ㄇㄐ補坑作業室 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6024317</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6024317</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sat, 19 Oct 2024 06:30:05 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0006024317.JPG?v=1729319405" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] 【拉薩拉斯Rasalas】職業選擇]]></title>
             <description><![CDATA[這就是所謂的穿越少防禦力越高吧目前六大職業大家會選哪種啊...(繼續閱讀)]]></description>
@@ -37,7 +49,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6022705</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 16 Oct 2024 12:30:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0006022705.JPG?v=1729081803" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0006022705.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】發自內心脫口而出]]></title>
@@ -95,18 +107,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 18 Aug 2024 08:55:49 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005987658.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第9話-亡靈]]></title>
-            <description><![CDATA[最近有點忙到沒時間弄實體本！可惡啊超想出本出周邊！
-另外預計漁村篇結束後會辦角色人氣投票和抽獎活動！🎉✨
-第10話會在9/16(一)發佈哦！請多指教了！
-如果還...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5986502</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5986502</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 16 Aug 2024 10:00:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0005986502.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
