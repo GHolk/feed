@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 11 Nov 2024 11:25:50 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 12 Nov 2024 12:25:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【遊戲王】nanagi-維茵出來跑腿]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6038197</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6038197</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Tue, 12 Nov 2024 01:41:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0006038197.JPG?v=1731375666" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】kamicat-啵唭日]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6037884</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6037884</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Mon, 11 Nov 2024 11:59:03 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0006037884.JPG?v=1731326343" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【AGA】へんだらす-好想跟尾長姊姊鬥牛]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Thu, 07 Nov 2024 10:49:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0006035489.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】natuumi-無聲鈴鹿(得年17歲)+β]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6035314</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6035314</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Thu, 07 Nov 2024 02:20:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0006035314.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ブルアカ&假面騎士】野川せろり-夏萊的門矢士老師概念#9「惡意打造的樂園(Eden)」]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6034820</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6034820</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Wed, 06 Nov 2024 03:06:07 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0006034820.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
