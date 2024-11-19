@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 18 Nov 2024 12:25:58 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 19 Nov 2024 11:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 瀰漫於洪荒的千萬種交鋒：《洪荒瀰漫超銀河》閱後感]]></title>
+            <description><![CDATA[ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6042115</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6042115</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Tue, 19 Nov 2024 04:41:58 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0006042115.JPG?v=1731991318" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 【最近完的兩款遊戲感想】冰汽時代2（Frostpunk2）/蘇丹的遊戲]]></title>
             <description><![CDATA[最近都在趕東西，好像已經讓這裡長草了。不過最近在趕稿之於，玩了兩款遊戲，想說還是來分享一下。
@@ -107,18 +116,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Fri, 03 Nov 2023 10:11:04 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005822963.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《同步戰紀：失竊的原型機》心得：一場「The name of the game」的自我旅程]]></title>
-            <description><![CDATA[
-
- 
-因故有機會先行閱讀到台灣Cyberpunk作品《同步戰紀：失竊的原型機》，故事一開場就讓我非常欣喜，作者成功地操作Cyberpunk的元素，藉由典型的英...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5798080</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5798080</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 22 Sep 2023 01:17:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/80/0005798080.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
