@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 29 Nov 2024 16:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Nov 2024 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】ひすでー-砍柴的印象]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6048125</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6048125</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 30 Nov 2024 07:38:17 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/25/0006048125.JPG?v=1732952297" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【IM@S】Aventador-閃耀色彩漫畫1161]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6048096</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6048096</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 30 Nov 2024 06:08:14 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0006048096.JPG?v=1732946894" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】きょうさる-鶴的邋遢報恩]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 24 Nov 2024 07:43:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/38/0006044938.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【心得】駿河屋代購體驗談]]></title>
-            <description><![CDATA[距離上次 這樣公開分享買了什麼東西的文居然已經三年半了呢...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6044920</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6044920</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 24 Nov 2024 06:49:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0006044920.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】サカヤマ ヨシヒト-治療詛咒]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6044188</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6044188</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sat, 23 Nov 2024 00:36:32 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0006044188.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
