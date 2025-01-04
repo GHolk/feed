@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 04 Jan 2025 04:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 04 Jan 2025 16:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】え〜んぴっつ-禁衛公主與獨臂奧克]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6068049</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6068049</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 04 Jan 2025 07:32:14 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0006068049.JPG?v=1735975934" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【艦これ】うーたん-害怕蛇年的時津風]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 29 Dec 2024 14:21:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/41/0006064441.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】伊倉ナギサ-表面認真嚴厲實則跟蹤狂學妹②]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6064432</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6064432</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 29 Dec 2024 14:08:15 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/w/i/wind945/wind945.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
