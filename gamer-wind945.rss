@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 10 Jan 2025 13:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 11 Jan 2025 06:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】え〜んぴっつ-魔王與勇者]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6071616</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6071616</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 11 Jan 2025 05:40:58 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/16/0006071616.JPG?v=1736574057" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】品川ミクズ-大姊姊小弟弟Before After②]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6071367</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6071367</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Fri, 10 Jan 2025 15:25:14 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/67/0006071367.PNG?v=1736522713" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【ブルアカ&假面騎士】野川せろり-夏萊的門矢士老師概念#16「藍天」]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Mon, 06 Jan 2025 11:41:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/09/0006069209.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-Google老師是全世界最優秀的偵探]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6068492</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6068492</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2025 03:55:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/92/0006068492.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【超人力霸王】阿井上夫-傑洛師傅、貝利亞陛下，恭喜15周年！！]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6068491</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6068491</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 05 Jan 2025 03:48:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0006068491.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
