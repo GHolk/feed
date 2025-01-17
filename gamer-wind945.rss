@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 17 Jan 2025 13:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 17 Jan 2025 16:25:39 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】灰田かつれつ-表白]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6075011</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6075011</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Fri, 17 Jan 2025 14:45:44 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0006075011.JPG?v=1737125143" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【DM】ことかす-要一起進來洗的流星亞希]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6075007</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6075007</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Fri, 17 Jan 2025 14:38:17 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0006075007.JPG?v=1737124696" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【ブルアカ&假面騎士】野川せろり-夏萊的門矢士老師概念#17「後日談」]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 12 Jan 2025 15:29:59 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0006072510.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】夜ト★海産物は敵-我們所能辦到的事]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6072138</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6072138</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 12 Jan 2025 03:54:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/38/0006072138.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】cahf/find-不會離開妳的]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6071705</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6071705</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sat, 11 Jan 2025 08:43:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/05/0006071705.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
