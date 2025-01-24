@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 22 Jan 2025 16:25:43 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 24 Jan 2025 13:25:45 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,27 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 關於《凱城暗影》的書封]]></title>
+            <description><![CDATA[
+
+
+雖然寫長篇故事感覺是很瘋的事情，但我真心覺得製書也真的是很瘋的事情，我其實已經要做的事情不算多了，但還是有那種「啊啊啊，這些細節現在才知道，天啊天啊」之類...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6078345</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6078345</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Fri, 24 Jan 2025 02:30:03 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/45/0006078345.JPG?v=1737685802" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 《凱城暗影-前篇》的創作雜談]]></title>
+            <description><![CDATA[終於能說了~...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6078164</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6078164</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Thu, 23 Jan 2025 14:35:11 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0006078164.JPG?v=1737642909" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 殭屍出沒注意！關於《異世歧路：俐茹、殭屍、大接龍》創作雜談]]></title>
             <description><![CDATA[...(繼續閱讀)]]></description>
@@ -92,27 +113,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Mon, 27 May 2024 09:43:39 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005940511.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【工商】《從那本沒有出版的《沙丘前傳》談起：科/奇幻翻譯、出版與文化殖民/去殖民》]]></title>
-            <description><![CDATA[這次，我幫忙的學會請到了灰鷹爵士演講喔~~~...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5845149</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5845149</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Mon, 11 Dec 2023 16:45:08 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005845149.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 關於傷害，我們知道得太少---簡感張耀升《彼岸的女人》中的雕刻家、雕刻家妻]]></title>
-            <description><![CDATA[
-最近在整理自己過去寫的書心得，發現這篇《彼岸的女人》心得居然沒有搬到巴哈小屋。
-這本書心得寫法算是剛學文本分析訓練時候所寫的，看起來很拘謹，有點像文學評論。
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5844124</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5844124</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Sun, 10 Dec 2023 02:45:50 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/24/0005844124.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
