@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 13 Feb 2025 16:25:47 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 14 Feb 2025 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 《咖啡、唱片、黑白貓》感想：懷舊、推理以及可愛的貓貓]]></title>
+            <description><![CDATA[
+我沒有預料到，這是一本帶有推理要素的小說。
+
+在閱讀《網路上的魚與貓》時，我認為那是一部關於青少年的徬徨與成長的故事，因此在翻開九方思想貓新出的這本《咖啡、唱...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6090356</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6090356</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Fri, 14 Feb 2025 12:09:35 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0006090356.JPG?v=1739534974" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 關於《凱城暗影》的書封]]></title>
             <description><![CDATA[
@@ -104,15 +116,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Tue, 04 Jun 2024 13:50:33 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005945358.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【科奇幻底家】奇幻故事podcast宣傳]]></title>
-            <description><![CDATA[好久好久沒更新，感覺都已經長草了。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5940511</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5940511</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Mon, 27 May 2024 09:43:39 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0005940511.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
