@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 19 Feb 2025 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 20 Feb 2025 12:25:46 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[小說] 關於奇幻台北這檔事：關於《凱城暗影》世界觀]]></title>
+            <description><![CDATA[是說，這要追溯到《禁錮之龍》這本小說的誕生。...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6093627</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6093627</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Thu, 20 Feb 2025 03:11:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006093627.JPG?v=1740021085" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 《咖啡、唱片、黑白貓》感想：懷舊、推理以及可愛的貓貓]]></title>
             <description><![CDATA[
@@ -107,15 +116,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Mon, 10 Jun 2024 01:38:36 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005948349.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 念做「黃色臉孔」，寫做「底層作家」：簡評《黃色臉孔》]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5945358</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5945358</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Tue, 04 Jun 2024 13:50:33 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/58/0005945358.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
