@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 12:25:46 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 12:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,22 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[小說] 關於《凱城暗影》裡的投影魔法]]></title>
+            <description><![CDATA[投影魔法LOGO...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6094142</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6094142</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Fri, 21 Feb 2025 01:00:17 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0006094142.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[小說] 關於奇幻台北這檔事：關於《凱城暗影》世界觀]]></title>
             <description><![CDATA[是說，這要追溯到《禁錮之龍》這本小說的誕生。...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6093627</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6093627</guid>
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Thu, 20 Feb 2025 03:11:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006093627.JPG?v=1740021085" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006093627.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 《咖啡、唱片、黑白貓》感想：懷舊、推理以及可愛的貓貓]]></title>
@@ -107,15 +116,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Tue, 02 Jul 2024 04:00:35 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0005960717.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《八戒》簡評]]></title>
-            <description><![CDATA[《八戒》真的很不錯，以我看過的台灣商業動畫來講，是一部看完會很開心的作品。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5948349</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5948349</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Mon, 10 Jun 2024 01:38:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0005948349.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

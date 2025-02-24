@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 20 Feb 2025 12:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 24 Feb 2025 12:25:34 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,13 +13,40 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【直播日常】一句話讓你走心]]></title>
+            <description><![CDATA[好傢伙自從玩了崩鐵之後就學會對朋友用弱點擊破了南方美工swa的小屋 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6095507</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6095507</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 23 Feb 2025 10:59:29 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/07/0006095507.JPG?v=1740308367" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【直播日常】忙到最後一刻的既視感]]></title>
+            <description><![CDATA[這種感覺真是拿滋咖系……對了明天下午三點會直播絕區零的活動哦！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6094888</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6094888</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sat, 22 Feb 2025 09:18:21 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0006094888.JPG?v=1740215898" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【直播日常】ㄇㄐ和ㄇㄐ]]></title>
+            <description><![CDATA[輸了之後每週三的17:00和週日的15:00都會在這裡進行直播！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6094282</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6094282</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 21 Feb 2025 07:00:30 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/82/0006094282.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
             <title><![CDATA[[漫畫] [達人專欄] 【直播日常】再見了阿煙謝謝你一直以來的付出]]></title>
             <description><![CDATA[即使如此你還是我大哥我會記住你的阿煙 詳細可以看這段精華...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6093684</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6093684</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Thu, 20 Feb 2025 06:11:35 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0006093684.JPG?v=1740031892" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0006093684.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【直播日常】手足無措]]></title>
@@ -28,7 +55,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6092613</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 18 Feb 2025 09:25:44 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0006092613.JPG?v=1739870741" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0006092613.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【直播日常】還沒習慣]]></title>
@@ -76,37 +103,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 11 Feb 2025 14:07:40 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0006088802.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】打針的反應]]></title>
-            <description><![CDATA[看見同學恐懼的表情我就很愉悅啊
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6087101</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6087101</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 08 Feb 2025 11:29:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/01/0006087101.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【新瑪奇英雄傳】時代的隔閡]]></title>
-            <description><![CDATA[哼、盡是些年輕人的玩意兒新瑪奇英雄傳 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6076900</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6076900</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 21 Jan 2025 05:43:21 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/00/0006076900.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】人氣投票結果發表！]]></title>
-            <description><![CDATA[嗨呀！沒錯！今天是得獎公佈日！機會難得就來採訪一下每位角色吧！🎤🎤🎤...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6073314</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6073314</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 14 Jan 2025 10:00:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0006073314.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
