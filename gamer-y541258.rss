@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 07 Mar 2025 16:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 08 Mar 2025 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/8,聊聊修身養性]]></title>
+            <description><![CDATA[最近電動以外的時間變多了所以打算多花些時間用在探索上
+像是個人一直有些好奇的一些領域(建築、工業、化學等相關的)
+又或者是一些生活相關的
+有些像是之前的 被設計...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6103164</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6103164</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 08 Mar 2025 06:47:20 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -97,15 +109,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6008565</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 24 Sep 2024 03:16:30 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/21,觀知乎問題 為什麼直到現在,原神的元素反應機制都沒有被模仿 有感或者說一些雜談]]></title>
-            <description><![CDATA[https://www.zhihu.com/question/655314579 底下的討論講得蠻詳細的了就講一些觀戰的感想跟兩個想談的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6006853</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6006853</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 21 Sep 2024 02:28:23 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
