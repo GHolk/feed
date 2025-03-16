@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 14 Mar 2025 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 16 Mar 2025 03:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/15,意外更新,米哈遊主打與AI對話新遊戲Whispers from the Star(只有美國iPhone用戶能玩)]]></title>
+            <description><![CDATA[如何评价蔡浩宇AI公司Anuttacon最新AI游戏Whispers from the Star? 依舊是在知乎上得知的
+嗯,所以閒著沒事的話建議看知乎
+我是分...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6107355</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6107355</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 15 Mar 2025 09:46:42 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -97,18 +108,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6043207</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 21 Nov 2024 08:01:53 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/16,最近在研究不道德的進行遊戲方式]]></title>
-            <description><![CDATA[更正:
-透過tampermonkey(油猴)寫的網頁確實算是外掛沒錯
-只是傳統桌面程式所需的注入階段,代由油猴這程式直接完成了
-不然理論上來說,我們是執行伺服器...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6022614</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6022614</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 16 Oct 2024 09:52:31 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
