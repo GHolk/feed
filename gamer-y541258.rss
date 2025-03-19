@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 18 Mar 2025 11:25:28 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 19 Mar 2025 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 3/19~未定,3D中的碰撞偵測待研究的內容]]></title>
+            <description><![CDATA[依然先夾帶下私貨,我星穹鐵道全角色(到萬敵)滿行跡達成歡迎在Hoyolab(米遊社) 查成份
+唔,其實全角色滿行跡不用課那麼多
+但命運的足跡好像是在2點多版本才...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6109569</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6109569</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 19 Mar 2025 07:23:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -99,15 +110,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6051757</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 06 Dec 2024 07:23:58 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 11/21,閉關修煉中]]></title>
-            <description><![CDATA[我遊戲要趕在8週年之前全帳號160等所以最近很忙連星穹鐵道全帳號每週差分宇宙都無法完成...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6043207</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6043207</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 21 Nov 2024 08:01:53 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
