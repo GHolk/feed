@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 24 Mar 2025 11:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 25 Mar 2025 11:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】怎麼做個復健就破防了]]></title>
+            <description><![CDATA[不管怎樣我覺得嘲笑別人的那些人每天下床都值得踩到一個樂高...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6113417</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6113417</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 25 Mar 2025 05:08:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0006113417.JPG?v=1742879287" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】歡迎陳博偉]]></title>
             <description><![CDATA[這禮拜日我們會和SORA虎摳和博偉一起玩傳說酒館謝謝博偉 ...(繼續閱讀)]]></description>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 01 Mar 2025 13:11:32 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/41/0006099141.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【公告】周邊開賣啦！]]></title>
-            <description><![CDATA[沒錯就在今天！原創系列周邊於7-11賣貨便正式上架啦！歡迎大家來看看！預計下週會開始陸續安排出貨！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6098326</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6098326</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 28 Feb 2025 06:56:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0006098326.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
