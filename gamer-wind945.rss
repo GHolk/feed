@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 08 Apr 2025 11:25:45 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 08 Apr 2025 16:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -24,7 +24,16 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-]]></title>
+            <title><![CDATA[[日誌] 【漫畫】nanagi-修女]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6122714</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6122714</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Tue, 08 Apr 2025 14:38:42 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0006122714.JPG?v=1744123121" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-海倫娜吃今川燒(斷定)]]></title>
             <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6122078</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6122078</guid>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 02 Apr 2025 15:06:23 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/03/0006118703.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】ぶし-擬態型魔法少女②]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6118702</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6118702</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Wed, 02 Apr 2025 15:03:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0006118702.PNG" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
