@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 10 Apr 2025 13:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 11 Apr 2025 14:25:50 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【ブルアカ】Aventador-蔚藍檔案漫畫2145]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6124095</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6124095</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Thu, 10 Apr 2025 15:25:31 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/95/0006124095.JPG?v=1744298730" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】ぶし-擬態型魔法少女③]]></title>
@@ -49,7 +58,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6122078</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Mon, 07 Apr 2025 15:33:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0006122078.JPG?v=1744039984" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0006122078.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-直到我讓某天變成女生的好友找到幸福㉘]]></title>
@@ -95,15 +104,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Fri, 04 Apr 2025 14:35:40 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0006120004.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ブルアカ&假面騎士】野川せろり-夏萊的門矢士老師概念#27「？預告」]]></title>
-            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6119054</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6119054</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Thu, 03 Apr 2025 06:25:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/54/0006119054.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
