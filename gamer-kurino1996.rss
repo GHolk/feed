@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 24 Apr 2025 11:25:36 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 27 Apr 2025 14:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】終於發現大家的深意了謝謝大家]]></title>
+            <description><![CDATA[昨天跟虎摳一起吃飯才領悟到這個真理一直以來都誤會你們是怪人了抱歉😭...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6134215</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6134215</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 27 Apr 2025 11:16:36 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0006134215.JPG?v=1745752595" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】溫差]]></title>
             <description><![CDATA[我本人跟ㄇㄐ性格是一模一樣的也很常笑只是平常用手機就沒有表情齁！！...(繼續閱讀)]]></description>
@@ -95,17 +104,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 18 Mar 2025 05:17:35 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/50/0006108950.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第14話-我是誰呢]]></title>
-            <description><![CDATA[休息兩個月後終於再次回歸月更啦！全新篇章再開！
-接下來也是每月16號更新！請多關照了！
-謝謝大家的陪伴與支持！！如果願意留下感想或是分享給朋友們看的話的話我會很...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6107853</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6107853</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 16 Mar 2025 06:00:09 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0006107853.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
