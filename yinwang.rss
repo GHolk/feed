@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 16:25:08 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 12:25:13 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,14 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[过去的一年]]></title>
-            <description><![CDATA[计算机科学基础班（第 5 期）的成功结束]]></description>
-            <link>http://www.yinwang.org/blog-cn/2025/04/27/sabbatical</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/04/27/sabbatical</guid>
-            <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[计算机科学基础班第 5 期成功结束]]></title>
+            <description><![CDATA[现在我可以宣布，计算机科学基础班（第5期）已经圆满结束。课程的效果超乎了我的预期，不但原有的内容得到了很大的改进，而且新增加的命令式编程方法，Python，Java，Rust 也恰好地实现了它们的作用。而且到最后还增加了一节特别的 Bonus 课——C++。]]></description>
             <link>http://www.yinwang.org/blog-cn/2024/05/03/cs5-completed</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2024/05/03/cs5-completed</guid>
             <pubDate>Thu, 02 May 2024 16:00:00 GMT</pubDate>

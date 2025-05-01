@@ -4,7 +4,7 @@
         <description><![CDATA[htpxr0337 (加護 人生靈基三) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=htpxr0337</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 16:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 12:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-htpxr0337.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[htpxr0337 (加護 人生靈基三)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[插畫] [Steam]小鬼哥布林與騎士先生]]></title>
+            <description><![CDATA[STEAM商店頁 安安我是加護...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6136167</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6136167</guid>
+            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
+            <pubDate>Wed, 30 Apr 2025 20:04:15 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[插畫] ［STEAM上架］小鬼哥布林與騎士先生 Demon Gobulin and Mr.Knight]]></title>
             <description><![CDATA[安安各位好久不見，我是加護。...(繼續閱讀)]]></description>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5953129</guid>
             <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
             <pubDate>Wed, 19 Jun 2024 00:17:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 遊戲發售賀圖，感謝支持]]></title>
-            <description><![CDATA[安安我是加護...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5944396</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5944396</guid>
-            <dc:creator><![CDATA[htpxr0337 (加護 人生靈基三)]]></dc:creator>
-            <pubDate>Sun, 02 Jun 2024 17:03:07 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/h/t/htpxr0337/htpxr0337.png" length="0" type="image/png"/>
         </item>
     </channel>

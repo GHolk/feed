@@ -4,7 +4,7 @@
         <description><![CDATA[GN02226420 (搞什麼喵啊) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=GN02226420</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 29 Apr 2025 16:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 01 May 2025 12:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-GN02226420.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[GN02226420 (搞什麼喵啊)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,12 +13,12 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
-            <title><![CDATA[[日誌] 貳零貳伍年貳月裏番心得]]></title>
+            <title><![CDATA[[日誌] 貳零貳伍年參月裏番心得]]></title>
             <description><![CDATA[大家好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6119419</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6119419</guid>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6135535</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6135535</guid>
             <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
-            <pubDate>Thu, 03 Apr 2025 20:19:13 GMT</pubDate>
+            <pubDate>Tue, 29 Apr 2025 19:07:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -28,6 +28,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6061139</guid>
             <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
             <pubDate>Mon, 23 Dec 2024 17:47:11 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 貳零貳伍年貳月裏番心得]]></title>
+            <description><![CDATA[大家好...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6119419</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6119419</guid>
+            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
+            <pubDate>Thu, 03 Apr 2025 20:19:13 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
             <pubDate>Sun, 08 Sep 2024 12:10:06 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005999931.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 貳零貳肆年柒月裏番心得]]></title>
-            <description><![CDATA[大家好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5987397</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5987397</guid>
-            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
-            <pubDate>Sat, 17 Aug 2024 17:51:30 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
