@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 03 May 2025 04:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 03 May 2025 16:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】ズンダリンダ-女生之間的距離感真的超近的]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6137817</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6137817</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 03 May 2025 15:58:07 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0006137817.JPG?v=1746287886" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】Aventador-日記漫畫2162]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sat, 26 Apr 2025 05:34:23 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/49/0006133349.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】Aventador-PM火影孤獨搖滾漫畫2160]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6132877</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6132877</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Fri, 25 Apr 2025 11:20:56 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0006132877.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
