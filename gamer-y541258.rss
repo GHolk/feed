@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 03 May 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 05 May 2025 11:25:28 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 5/5,星穹鐵道近況與抽卡預期計劃]]></title>
+            <description><![CDATA[先說抽卡呀,果然選的聯動角不是葛木宗一郎跟Caster我可能會抽6+5 Saber,最低、最非的話就6 Saber...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6138629</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6138629</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 05 May 2025 06:48:56 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,15 +111,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6052323</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 07 Dec 2024 05:38:21 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 12/6,一些程式復健規劃 與 壽命跟時間的關係]]></title>
-            <description><![CDATA[上一篇說最近因為遊戲很忙那這篇要說的就是,以目前遊戲環境不用那麼拼命也行所以又回歸老本行...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6051757</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6051757</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 06 Dec 2024 07:23:58 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
