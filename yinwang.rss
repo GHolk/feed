@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 12 May 2025 10:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 13 May 2025 12:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[计算机科学视频班（第一期）招生]]></title>
-            <description><![CDATA[去年计算机科学基础班第 5 期成功结束之后，我一直没有开展新的教学。一方面因为我有其他重要的事情，另一方面我认为教学虽然有趣，但对于我也不是第一重要的事情。相对于我所传授知识的价值，收费实在太低。所以，我做教学显然不是为了钱那么简单，而是有更大的目标。]]></description>
+            <description><![CDATA[去年计算机科学基础班第 5 期成功结束之后，我一直没有开展新的教学。现在经过了一年，我觉得可以再次开展教学，这对于我也会是一种激励和开心的事情。]]></description>
             <link>http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</guid>
             <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
