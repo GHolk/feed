@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 13 May 2025 16:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 15 May 2025 12:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,14 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
+            <title><![CDATA[成立校友会暨第一次会议]]></title>
+            <description><![CDATA[根据自己求学和在职场多年的经验，以及我的计算机科学基础班毕业同学的情况，我发现存在这样一个严重的问题：有真才实学的人都太谦虚了，他们总是看到自己的不足，努力上进，却总是输给那些没有真实能力，但会演戏，懂话术的人。]]></description>
+            <link>http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</guid>
+            <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
+        </item>
+        <item>
             <title><![CDATA[计算机科学视频班（第一期）招生]]></title>
-            <description><![CDATA[去年计算机科学基础班第 5 期成功结束之后，我一直没有开展新的教学。现在经过了一年，我觉得可以再次开展教学，这对于我也会是一种激励和开心的事情。]]></description>
             <link>http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</guid>
             <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
