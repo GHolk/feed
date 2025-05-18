@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 16 May 2025 16:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 18 May 2025 02:25:06 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,8 +20,8 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[成立校友会暨第一次会议]]></title>
-            <description><![CDATA[根据自己求学和在职场多年的经验，以及我的计算机科学基础班毕业同学的情况，我发现存在这样一个严重的问题：有真才实学的人都太谦虚了，他们总是看到自己的不足，努力上进，却总是输给那些没有真实能力，但会演戏，懂话术的人。]]></description>
+            <title><![CDATA[成立校友会]]></title>
+            <description><![CDATA[从计算机科学基础班，特别是进阶班，continuation 专项班顺利毕业的学生，很多都是非常特殊的人才。对于普通程序员来说，这是难以想象的“超能力”。这种能力会让他们在技术上所向无敌，然而这很容易让他们成为孤独的斗士。如果不能正确地从心理上认识到自己的价值，这种极高的技术能力也并不一定会给他们带来好的待遇和生活。]]></description>
             <link>http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</guid>
             <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
@@ -799,6 +799,12 @@
             <link>http://www.yinwang.org/blog-cn/2012/07/25/semantics</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/07/25/semantics</guid>
             <pubDate>Tue, 24 Jul 2012 16:00:00 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[我和 Google 的故事（2012 年原版）]]></title>
+            <link>http://www.yinwang.org/blog-cn/2012/07/12/google-story</link>
+            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2012/07/12/google-story</guid>
+            <pubDate>Wed, 11 Jul 2012 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[GTF - Great Teacher Friedman]]></title>
