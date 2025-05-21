@@ -4,7 +4,7 @@
         <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 19 May 2025 16:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 21 May 2025 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[Erika (にゃひ～や)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,8 +22,17 @@
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
+            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 高い塔の薔薇 20250520]]></title>
+            <description><![CDATA[出現了超麻煩的狀況  imgur擋中華ip不過尼是擋不了我ㄉ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6147121</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6147121</guid>
+            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
+            <pubDate>Tue, 20 May 2025 13:04:45 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0006147121.JPG?v=1747746284" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[日誌] [活動記錄] 碧藍航線 チュリッパの海へ 20250424]]></title>
-            <description><![CDATA[期間限定イベント「チュリッパの海へ」...(繼續閱讀)]]></description>
+            <description><![CDATA[期間限定イベント「チュリッパの海へ」圖快死光了XDDD...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6132419</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6132419</guid>
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
@@ -92,15 +101,6 @@
             <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
             <pubDate>Thu, 24 Oct 2024 11:09:06 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/98/0006027398.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 絳染む丹華の詠歌 20240912]]></title>
-            <description><![CDATA[期間限定イベント「絳染む丹華の詠歌」9/19 更新part2  新規水着シリーズ着せ替え...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6002104</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6002104</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 12 Sep 2024 13:06:36 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/04/0006002104.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
