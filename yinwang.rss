@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 02 Jun 2025 16:25:07 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 04 Jun 2025 12:25:08 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -20,23 +20,11 @@
         <category><![CDATA[program]]></category>
         <category><![CDATA[computer]]></category>
         <item>
-            <title><![CDATA[成立校友会]]></title>
-            <description><![CDATA[从计算机科学基础班，特别是进阶班，continuation 专项班顺利毕业的学生，很多都是非常特殊的人才。对于普通程序员来说，这是难以想象的“超能力”。这种能力会让他们在技术上所向无敌，然而这很容易让他们成为孤独的斗士。如果不能正确地从心理上认识到自己的价值，这种极高的技术能力也并不一定会给他们带来好的待遇和生活。]]></description>
-            <link>http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/15/alumni-meeting</guid>
-            <pubDate>Wed, 14 May 2025 16:00:00 GMT</pubDate>
-        </item>
-        <item>
             <title><![CDATA[计算机科学视频班招生说明]]></title>
+            <description><![CDATA[计算机科学视频班是一门零基础课程，用以帮助人们在最短时间内掌握计算机科学的精髓。它是近 30 年计算机学术研究和工程实践，再加上超过4年面向社会零基础教学实践的结晶。]]></description>
             <link>http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</guid>
             <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[过去的一年]]></title>
-            <link>http://www.yinwang.org/blog-cn/2025/04/27/past-year</link>
-            <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/04/27/past-year</guid>
-            <pubDate>Sat, 26 Apr 2025 16:00:00 GMT</pubDate>
         </item>
         <item>
             <title><![CDATA[计算机科学基础班第 5 期成功结束]]></title>
