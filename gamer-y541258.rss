@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 14 Jun 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 16 Jun 2025 12:25:26 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,17 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/15,觀知乎 讓學習很差的孩子進尖子生班,為何會適得其反 有感]]></title>
+            <description><![CDATA[让学习很差的孩子进“尖子生班”为什么会适得其反？ - 知乎
+https://www.zhihu.com/question/617147395 
+其實這問題我覺得...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6161274</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6161274</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 15 Jun 2025 11:44:43 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,15 +113,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6103164</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 08 Mar 2025 06:47:20 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/1,小屋更新預告與星穹鐵道近況交待]]></title>
-            <description><![CDATA[這幾天或幾週大概會寫下《弈仙牌》慕虎─原初秘境《弈仙牌》新手推薦看 科學D牌簡單來說就是有可能用到的卡留在手牌...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6098946</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6098946</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 01 Mar 2025 05:32:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
