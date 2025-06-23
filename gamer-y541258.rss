@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 16 Jun 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,36 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/23,一種沒明顯用途的思考方式,不過可能是中西的差異]]></title>
+            <description><![CDATA[要說的思考方式就是演繹,演繹簡單來說就是由已知推未知唔,歸納不也是由已知推未知嗎?...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6165443</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6165443</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Mon, 23 Jun 2025 10:41:23 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 系列文─解析幾何 之 線段內分(比較中文圈的說法是 線性插值) 基礎篇(之後都是應用篇)]]></title>
+            <description><![CDATA[這篇是閱讀 解析幾何學辭典的一些思考
+其實我本來是只想打關鍵字備忘就作罷的
+但想了想,反正第一步也有結果了,就先寫一下好了
+各關鍵字在單獨一篇,雖然這樣通知會比...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6164607</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6164607</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 21 Jun 2025 22:37:44 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/21,近期思考的一些問題 與 數學的打怪升級]]></title>
+            <description><![CDATA[最近又在想些遊戲問題所以又重回抽象代數的懷抱對於沒接觸過的人來說,可以看以下影片...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6164283</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6164283</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 21 Jun 2025 10:18:12 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -81,38 +111,6 @@ https://www.zhihu.com/question/617147395
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6109569</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 19 Mar 2025 07:23:28 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/15,意外更新,米哈遊主打與AI對話新遊戲Whispers from the Star(只有美國iPhone用戶能玩)]]></title>
-            <description><![CDATA[如何评价蔡浩宇AI公司Anuttacon最新AI游戏Whispers from the Star? 依舊是在知乎上得知的
-嗯,所以閒著沒事的話建議看知乎
-我是分...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6107355</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6107355</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 15 Mar 2025 09:46:42 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/14,簡短更新─風起於青萍之末]]></title>
-            <description><![CDATA[風起於青萍之末─理論上出自 宋玉《風賦》為什麼說理論上,因為原文不是那麼寫的如果課文有選到《黃州快哉亭記》,這個可能會順帶提到當然我是沒學過...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6106783</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6106783</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 14 Mar 2025 10:03:58 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/8,聊聊修身養性]]></title>
-            <description><![CDATA[最近電動以外的時間變多了所以打算多花些時間用在探索上
-像是個人一直有些好奇的一些領域(建築、工業、化學等相關的)
-又或者是一些生活相關的
-有些像是之前的 被設計...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6103164</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6103164</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 08 Mar 2025 06:47:20 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 16 Jun 2025 16:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 23 Jun 2025 11:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,24 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】我明明什麼都沒做]]></title>
+            <description><![CDATA[哥們求你給點私人空間感謝大家今天陪我直播畫圖文！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6164817</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6164817</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 22 Jun 2025 09:16:32 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/17/0006164817.JPG?v=1750583790" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] 【崩壞：星穹鐵道】你講啊]]></title>
+            <description><![CDATA[看到那個連動資訊就忍不住想到我們的斜槓開拓者好適合當店員🤣🤣🤣然後順帶一提o((．ω．‡)o 我想看阿刃用繃帶海豹的顏文字講話  )∋...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6162178</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6162178</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Tue, 17 Jun 2025 06:00:07 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0006162178.JPG" length="0" type="image/jpeg"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】才沒有忙到沒時間畫直播封面圖呢]]></title>
             <description><![CDATA[就說這可能是有史以來最用心的一次封面了😏感謝大家今天直播陪伴！！...(繼續閱讀)]]></description>
@@ -88,24 +106,6 @@ FB專頁：ㄇㄐ補坑作業室
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Fri, 18 Apr 2025 03:48:51 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0006128588.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第15話-不可愛的傢伙【+公告】]]></title>
-            <description><![CDATA[我會盡快調整好回歸的！💪💪💪✨真的很謝謝支持這個系列的大家😭🙏我愛你們！！！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6127662</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6127662</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 16 Apr 2025 11:03:15 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/62/0006127662.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】價值觀毀滅]]></title>
-            <description><![CDATA[我也覺得+蛋8塊很貴但你剛剛說了啥🤯FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6126374</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6126374</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Mon, 14 Apr 2025 05:41:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/74/0006126374.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
