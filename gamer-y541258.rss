@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 23 Jun 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 24 Jun 2025 16:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 6/24,學數學與學程式的一種供參考的學習方式─問題導向(從實際問題出發)]]></title>
+            <description><![CDATA[昨天說到演繹演繹是個很強大的工具在很多狀況下跟歸納很類似...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6165943</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6165943</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 24 Jun 2025 11:13:12 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -99,18 +108,6 @@ https://www.zhihu.com/question/617147395
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6138629</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Mon, 05 May 2025 06:48:56 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 3/19~未定,3D中的碰撞偵測待研究的內容(3/23起,正在看Games101中)]]></title>
-            <description><![CDATA[3/23更新,學3D的應該可以不用看我鬼扯了
-發現了個課程,當然我是還沒看完
-但還是再稍微提下,學3D的好處就是推遲做真正的遊戲的時間
-大多數好玩的遊戲其實3D...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6109569</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6109569</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 19 Mar 2025 07:23:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
