@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 05 Jul 2025 16:25:35 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 07 Jul 2025 11:25:35 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,24 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】謝謝下次還打]]></title>
+            <description><![CDATA[仔細想想我國小講話也是滿嗆🧐FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6172879</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6172879</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 06 Jul 2025 14:40:04 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0006172879.JPG?v=1751812803" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】我家的教育方式]]></title>
+            <description><![CDATA[老師：我頭好痛😰我不會說自己是對是錯，每個人都有屬於自己的方式但請務必以保護自身安全為優先！...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6172615</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6172615</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sun, 06 Jul 2025 08:39:49 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0006172615.JPG?v=1751791187" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】我明明什麼都沒做]]></title>
             <description><![CDATA[哥們求你給點私人空間感謝大家今天陪我直播畫圖文！...(繼續閱讀)]]></description>
@@ -85,27 +103,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sun, 27 Apr 2025 11:16:36 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0006134215.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】溫差]]></title>
-            <description><![CDATA[我本人跟ㄇㄐ性格是一模一樣的也很常笑只是平常用手機就沒有表情齁！！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6130079</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6130079</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 20 Apr 2025 11:19:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/79/0006130079.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】關於性取向]]></title>
-            <description><![CDATA[媽媽你放心，在我眼中比起你女兒，CSP性感多了😎👍✨
-
-FB專頁：ㄇㄐ補坑作業室 
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6128588</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6128588</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 18 Apr 2025 03:48:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/88/0006128588.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
