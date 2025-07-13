@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 12 Jul 2025 03:25:39 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 13 Jul 2025 03:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-以前吃過的印象真的是香Q軟滑又入口即化好好吃]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6176035</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6176035</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 12 Jul 2025 15:34:32 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/35/0006176035.JPG?v=1752334471" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【IM@S】Aventador-閃耀色彩漫畫2240]]></title>
@@ -48,7 +57,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6174520</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 09 Jul 2025 15:54:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0006174520.PNG?v=1752076464" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0006174520.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【DM】nanagi-直到剛剛我都還以為他是睿智的頂天]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sat, 05 Jul 2025 10:21:57 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/99/0006172099.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【ウマ娘】コーポ-週二特萊森島劇場]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6171627</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6171627</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Fri, 04 Jul 2025 13:19:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006171627.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
