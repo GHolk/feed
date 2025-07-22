@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 16 Jul 2025 11:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 22 Jul 2025 14:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,39 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/22,書籍踩雷報告《新一代通用視頻編碼 H266/VVC 原理、標準與實現》]]></title>
+            <description><![CDATA[我好像忘記交待我為什麼買這本書
+主要原因是我想做影片動漫換臉
+就像 仿小明的那樣
+【流萤你怎么天天点燃星海-哔哩哔哩】 https://b23.tv/r7a3k...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6181007</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6181007</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Tue, 22 Jul 2025 02:58:31 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/18,用ChatGPT學 系統科學  (7/19跑出初步成果,但總覺得不太合理)]]></title>
+            <description><![CDATA[查了資料後,覺得 系統科學是比較務實的它有具體的操作方法不像 《系統論》、《控制論》、《信息論》...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6178912</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6178912</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Fri, 18 Jul 2025 09:52:57 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/17,若找不到新鮮事可參考的最後手段]]></title>
+            <description><![CDATA[現在這個時代,理論上來說前沿知識都是公開的至少arXiv這公開論文網站的是公開的
+但通常不太會直接用那個,除非只讀資訊相關
+雖然arXiv允許各類論文張貼
+所以...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6178317</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6178317</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 17 Jul 2025 04:14:44 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -76,36 +109,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6166347</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 25 Jun 2025 04:46:57 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/24,學數學與學程式的一種供參考的學習方式─問題導向(從實際問題出發)]]></title>
-            <description><![CDATA[昨天說到演繹演繹是個很強大的工具在很多狀況下跟歸納很類似...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6165943</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6165943</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 24 Jun 2025 11:13:12 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/23,一種沒明顯用途的思考方式,不過可能是中西的差異]]></title>
-            <description><![CDATA[要說的思考方式就是演繹,演繹簡單來說就是由已知推未知唔,歸納不也是由已知推未知嗎?...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6165443</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6165443</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Mon, 23 Jun 2025 10:41:23 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 系列文─解析幾何 之 線段內分(比較中文圈的說法是 線性插值) 基礎篇(之後都是應用篇)]]></title>
-            <description><![CDATA[這篇是閱讀 解析幾何學辭典的一些思考
-其實我本來是只想打關鍵字備忘就作罷的
-但想了想,反正第一步也有結果了,就先寫一下好了
-各關鍵字在單獨一篇,雖然這樣通知會比...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6164607</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6164607</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 21 Jun 2025 22:37:44 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
