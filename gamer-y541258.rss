@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 24 Jul 2025 12:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 24 Jul 2025 16:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5927560</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 04 May 2024 00:58:17 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 7/24,大家都知道集合、向量,嗯,可能知道,不過這篇是關於不曾被提及的Georg Cantor]]></title>
+            <description><![CDATA[雖然我說大陸歧視文科僅是欺負少數但大陸欺負文科相比其它國家欺負文科來說我是比較認可的...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6182371</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6182371</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 24 Jul 2025 12:52:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -102,15 +111,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6171921</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 05 Jul 2025 03:03:21 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 6/28,解析幾何─線段內分 也就是線性插值 應用篇 醞釀前的推薦視頻]]></title>
-            <description><![CDATA[唔,上個困擾我的無理數也部份解決了因為我突然想起來代數學辭典還是微積分辭典的有講稠密性、上下界...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6167955</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6167955</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 28 Jun 2025 03:34:48 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
