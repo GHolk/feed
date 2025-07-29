@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 28 Jul 2025 12:25:49 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 29 Jul 2025 11:25:42 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,24 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【DM】nanagi-原來你本來打算跟阿贏(win)一起兩個人去三天兩夜露營的嗎！？]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6184911</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6184911</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Tue, 29 Jul 2025 08:18:09 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0006184911.JPG?v=1753777088" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【AGA】ひすでー-ω]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6184628</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6184628</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Mon, 28 Jul 2025 14:42:44 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/28/0006184628.JPG?v=1753713763" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】季結ふゆき-才不要哪！誰想懷上人類的孩子呶!!]]></title>
@@ -48,7 +66,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6183040</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Fri, 25 Jul 2025 16:48:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0006183040.JPG?v=1753462117" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0006183040.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】おてるこ-我就愛這味。]]></title>
@@ -85,24 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Mon, 21 Jul 2025 14:53:20 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0006180840.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】季結ふゆき-為得勝利不擇手段的女生]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6180287</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6180287</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sun, 20 Jul 2025 15:14:46 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/87/0006180287.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】kamicat-住手別動搖我的決心啦]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6179723</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6179723</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Sat, 19 Jul 2025 16:28:22 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/23/0006179723.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
