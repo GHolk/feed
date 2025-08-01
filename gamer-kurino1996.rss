@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 10:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 12:25:38 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【遺忘之劍】限定外觀]]></title>
+            <description><![CDATA[各位紳士！就是那微透微透的感覺啊！ 
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6186521</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186521</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Fri, 01 Aug 2025 06:00:28 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/21/0006186521.JPG?v=1754028026" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】伴手禮]]></title>
             <description><![CDATA[偷偷說這個圖文我畫好放了快4個月才想起來還沒發FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
@@ -29,7 +39,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6184865</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 29 Jul 2025 04:54:09 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0006184865.JPG?v=1753764847" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0006184865.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】給我過來喔]]></title>
@@ -95,15 +105,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Sat, 07 Jun 2025 08:49:18 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0006156993.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】長大了]]></title>
-            <description><![CDATA[小時候100元可以在雜貨店買100條汽水糖FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6152413</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6152413</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 30 May 2025 06:41:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0006152413.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>

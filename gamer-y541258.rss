@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 31 Jul 2025 10:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 01 Aug 2025 12:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,15 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 8/1~未定,寫給走投無入的程式設計新手,示範人工解題─網頁實作星穹鐵道 磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
+            <description><![CDATA[其實我這篇目的是"抨擊"以項目為主的學習或入職導向又過程中也許被師父放著自生自滅的遊戲開發者學校不教的話,再來我跟AI這邊走野路子...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 5/4~,仿星穹鐵道─模擬宇宙,現階段戰鬥跳過,因為戰鬥系統還沒做或說沒仿]]></title>
             <description><![CDATA[今天(6/16)下雨,沒涼多少(室溫30度)
@@ -102,15 +111,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6178317</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 17 Jul 2025 04:14:44 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 分享觀點—還原論(雖然寫著寫著內容幾乎都是 系統論)]]></title>
-            <description><![CDATA[據我個人觀察當學者的吸引力主要不是在學術貢獻而是能抒發自己表達欲的同時被普羅大眾或圈內人士所認可...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6177232</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6177232</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 15 Jul 2025 02:49:35 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
