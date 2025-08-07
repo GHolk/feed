@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 06 Aug 2025 11:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 07 Aug 2025 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,20 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 8/1~,給走投無路的新手,示範網頁實作磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
-            <description><![CDATA[8/2今日目標(18:21完成局部),下次更新要8/8以後目標是重新繪製遊戲圖形來達成...(繼續閱讀)]]></description>
+            <description><![CDATA[這星期天以前應該會著手判斷遊戲是否通關也就是產出第四步的程式碼...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/7,不同的言論自由]]></title>
+            <description><![CDATA[唔,我可以順利滴用手機玩《弈仙牌》了所以以後可能會少談一些大陸話題...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6190005</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6190005</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 06 Aug 2025 20:01:58 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -41,7 +50,7 @@
         </item>
         <item>
             <title><![CDATA[[日誌] 7/29,夾雜私貨下,如果讀者有大陸人,我們來聊聊民主,以釐清明獨與暗獨的誤會]]></title>
-            <description><![CDATA[最近在辦台胞證其實我知乎被禁言的主要原因是前幾年限縮知乎使用資格時...(繼續閱讀)]]></description>
+            <description><![CDATA[(哦,後來看了一下知乎帳號,點解除關注之類的操作被禁言的主要原因,應該是之前精神不正常時...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6184980</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6184980</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
@@ -96,18 +105,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6178912</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 18 Jul 2025 09:52:57 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/17,若找不到新鮮事可參考的最後手段]]></title>
-            <description><![CDATA[現在這個時代,理論上來說前沿知識都是公開的至少arXiv這公開論文網站的是公開的
-但通常不太會直接用那個,除非只讀資訊相關
-雖然arXiv允許各類論文張貼
-所以...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6178317</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6178317</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 17 Jul 2025 04:14:44 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
