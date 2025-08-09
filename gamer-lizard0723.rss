@@ -4,7 +4,7 @@
         <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 08 Aug 2025 16:25:42 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 09 Aug 2025 16:25:49 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[lizard0723 (大獵蜥)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,18 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] 從史詩到工具：關於「龍」在奇幻小說中的多重轉變]]></title>
+            <description><![CDATA[
+
+這篇刊載於《聯合文學》476期奇幻專題。
+裡面含有跟朋友弄一些作者小傳介紹。其中最好玩的是《霍爾移動城堡》黛安娜·韋恩，在寫得時候我查到她說，霍爾的形象來自...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6191146</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6191146</guid>
+            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
+            <pubDate>Sat, 09 Aug 2025 02:00:06 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0006191146.JPG?v=1754704805" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 選擇、行動與其所創造：關於角色扮演遊戲的魅力]]></title>
             <description><![CDATA[最近龜了很久，但知道得開始整理跟分享自己寫的玩意。想說把幾篇雜誌寫過的東西拿來分享。...(繼續閱讀)]]></description>
@@ -96,18 +108,6 @@
             <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
             <pubDate>Thu, 20 Feb 2025 03:11:28 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006093627.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《咖啡、唱片、黑白貓》感想：懷舊、推理以及可愛的貓貓]]></title>
-            <description><![CDATA[
-我沒有預料到，這是一本帶有推理要素的小說。
-
-在閱讀《網路上的魚與貓》時，我認為那是一部關於青少年的徬徨與成長的故事，因此在翻開九方思想貓新出的這本《咖啡、唱...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6090356</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6090356</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 14 Feb 2025 12:09:35 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0006090356.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
