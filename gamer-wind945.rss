@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Thu, 14 Aug 2025 11:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 15 Aug 2025 11:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【心得】楽天市場代購體驗談]]></title>
+            <description><![CDATA[最近繼續沉迷於決鬥王...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6194336</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6194336</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Thu, 14 Aug 2025 14:47:51 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/36/0006194336.JPG?v=1755182870" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【Vocaloid】こいのぼり-回不去的Vocaloid①]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 06 Aug 2025 15:57:00 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0006189926.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【遊戲王】nanagi-不習慣穿裙子的蘇菲亞]]></title>
-            <description><![CDATA[偉大的來源！ 真想遠遠地欣賞不習慣穿裙子的蘇菲亞進ZEXAL中學那副羞恥與困惑交加不知所措的樣子...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6189326</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6189326</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Tue, 05 Aug 2025 15:18:39 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/26/0006189326.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
