@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 17 Aug 2025 01:25:21 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 18 Aug 2025 11:25:23 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/17,男生每10秒就會想到的事情]]></title>
+            <description><![CDATA[哦,我猜我想說的你可能已經知道了但其實還有另一件事情 就是死亡有時可能不是在想死亡...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6195750</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6195750</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 17 Aug 2025 04:23:43 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6182599</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 25 Jul 2025 00:12:13 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/24,大家都知道集合、向量,嗯,可能知道,不過這篇是關於不曾被提及的Georg Cantor]]></title>
-            <description><![CDATA[雖然我說大陸歧視文科僅是欺負少數但大陸欺負文科相比其它國家欺負文科來說我是比較認可的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6182371</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6182371</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 24 Jul 2025 12:52:28 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
