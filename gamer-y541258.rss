@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 26 Aug 2025 11:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 11:25:24 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -20,6 +20,15 @@ https://github.com/y541258-sudo/star_rail_mini_game_VI/blob/main/...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 8/27,關於遊戲公司本身的事情]]></title>
+            <description><![CDATA[什麼叫做遊戲公司本身就是企業、股份有限公司(日本叫株式會社,因為Stock 叫 根株)又或者是行號(像工作室)...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6200977</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6200977</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Wed, 27 Aug 2025 08:14:14 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -92,15 +101,6 @@ https://github.com/y541258-sudo/star_rail_mini_game_VI/blob/main/...(繼續閱�
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6185505</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 30 Jul 2025 10:01:55 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 7/29,夾雜私貨下,如果讀者有大陸人,我們來聊聊民主,以釐清明獨與暗獨的誤會]]></title>
-            <description><![CDATA[(哦,後來看了一下知乎帳號,點解除關注之類的操作被禁言的主要原因,應該是之前精神不正常時...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6184980</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6184980</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Tue, 29 Jul 2025 10:23:24 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

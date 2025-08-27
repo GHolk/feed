@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 26 Aug 2025 11:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 27 Aug 2025 11:25:51 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】味之介-施加壓力的魅魔(實妹)]]></title>
+            <description><![CDATA[偉大的來源！ 前情提要 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6200914</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6200914</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Wed, 27 Aug 2025 05:39:52 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/14/0006200914.PNG?v=1756273191" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】nanagi-魅惑魔法]]></title>
@@ -48,7 +57,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6199283</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Sun, 24 Aug 2025 00:16:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0006199283.JPG?v=1755994583" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0006199283.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【IM@S】Aventador-灰姑娘漫畫2278]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 19 Aug 2025 15:46:50 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/75/0006197075.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【艦これ】祥鳳さん大好き提督-別做傻事啊鹿島！妳的心會承受不住的！]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6196394</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6196394</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Mon, 18 Aug 2025 10:59:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/94/0006196394.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
