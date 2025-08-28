@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 27 Aug 2025 11:25:24 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 28 Aug 2025 11:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,8 +14,7 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 8/1~,給走投無路的新手,示範網頁實作磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
-            <description><![CDATA[8/21僅完成舊有製圖的失誤
-https://github.com/y541258-sudo/star_rail_mini_game_VI/blob/main/...(繼續閱讀)]]></description>
+            <description><![CDATA[8/28,這星期預計處理六邊形地圖的問題可參考https://www.redblobgames.com/grids/hexagons/ ...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
