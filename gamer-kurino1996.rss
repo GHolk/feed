@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 30 Aug 2025 05:25:34 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 30 Aug 2025 16:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -13,6 +13,15 @@
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
         <item>
+            <title><![CDATA[[漫畫] [達人專欄] 【日常】感想]]></title>
+            <description><![CDATA[我的妝還在欸......太神奇了吧......😭FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6202856</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6202856</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sat, 30 Aug 2025 15:07:00 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0006202856.JPG?v=1756566419" length="0" type="false"/>
+        </item>
+        <item>
             <title><![CDATA[[漫畫] 【遺忘之劍】主角是誰]]></title>
             <description><![CDATA[我不管現在誰可以讓我看福利畫面誰就是我大哥
 ...(繼續閱讀)]]></description>
@@ -20,7 +29,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6200964</guid>
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 27 Aug 2025 07:45:26 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0006200964.JPG?v=1756280724" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/64/0006200964.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【日常】我的圖不是我的圖]]></title>
@@ -98,15 +107,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Tue, 29 Jul 2025 04:54:09 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0006184865.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】給我過來喔]]></title>
-            <description><![CDATA[他拍得很開心甚至還會比手指愛心🫰💖FB專頁：ㄇㄐ補坑作業室 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6180137</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6180137</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 20 Jul 2025 11:43:08 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/37/0006180137.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
