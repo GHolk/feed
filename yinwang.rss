@@ -9,7 +9,7 @@
             <link>http://yinwang.org</link>
         </image>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sun, 31 Aug 2025 16:25:06 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 02 Sep 2025 13:25:07 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/yinwang.rss" rel="self" type="application/rss+xml"/>
         <pubDate>Sun, 29 Apr 2018 00:00:00 GMT</pubDate>
         <language><![CDATA[zh-CN]]></language>
@@ -21,7 +21,7 @@
         <category><![CDATA[computer]]></category>
         <item>
             <title><![CDATA[计算机科学视频班招生说明]]></title>
-            <description><![CDATA[计算机科学视频班是一门零基础课程，用以帮助人们在最短时间内掌握计算机科学的精髓。它是近 30 年计算机学术研究和工程实践，再加上超过4年面向社会零基础教学实践的结晶。]]></description>
+            <description><![CDATA[计算机科学视频班是一门零基础课程，用以帮助人们在最短时间内掌握计算机科学的精髓，建立清晰简单的思维方式。它是近 30 年计算机学术研究和工程实践，再加上超过 4 年面向社会零基础教学实践的结晶。]]></description>
             <link>http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</link>
             <guid isPermaLink="true">http://www.yinwang.org/blog-cn/2025/05/12/cs-video-course</guid>
             <pubDate>Sun, 11 May 2025 16:00:00 GMT</pubDate>
