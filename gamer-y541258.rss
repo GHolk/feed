@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,20 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 8/1~,給走投無路的新手,示範網頁實作磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
-            <description><![CDATA[8/28,這星期預計處理六邊形地圖的問題可參考https://www.redblobgames.com/grids/hexagons/ ...(繼續閱讀)]]></description>
+            <description><![CDATA[9/6,本來想說睡前把測試用的檔案先傳到github上,明天工作的時候寫結果意外滴解決了座標的問題...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/6,今天看到個說服精神病人吃藥的好方法]]></title>
+            <description><![CDATA[個人最近狀態不太好當然狀態最不好的是遲遲沒寫磁流解閾程式不過最近的夢確實有點糟~...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6206403</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6206403</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 06 Sep 2025 07:50:39 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6191762</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 10 Aug 2025 01:00:00 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/7,不同的言論自由]]></title>
-            <description><![CDATA[唔,我可以順利滴用手機玩《弈仙牌》了所以以後可能會少談一些大陸話題...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6190005</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6190005</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 06 Aug 2025 20:01:58 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

@@ -4,7 +4,7 @@
         <description><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=wind945</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 05 Sep 2025 16:25:40 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 06 Sep 2025 16:25:44 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-wind945.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,6 +22,15 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Tue, 26 Sep 2017 12:05:16 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/71/0003735571.JPG" length="0" type="image/jpeg"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 【漫畫】natuumi-隨手Bad End「Zombie Apocalypse」]]></title>
+            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6206248</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6206248</guid>
+            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
+            <pubDate>Sat, 06 Sep 2025 02:17:55 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0006206248.JPG?v=1757125075" length="0" type="false"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【ブルアカ&假面騎士】野川せろり-夏萊的門矢士老師概念#37「E的喜慶/失去天空之人」]]></title>
@@ -48,7 +57,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6204877</guid>
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Wed, 03 Sep 2025 11:43:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0006204877.PNG?v=1756899782" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/77/0006204877.PNG" length="0" type="image/png"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 【漫畫】nanagi-選來當祕書好感度就會一直增加總覺得在幹什麼NTR別人的壞事]]></title>
@@ -94,15 +103,6 @@
             <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
             <pubDate>Fri, 29 Aug 2025 03:21:53 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/48/0006201948.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 【漫畫】nueco-惡魔女孩為報救命之恩捨身成妹 第一天]]></title>
-            <description><![CDATA[偉大的來源！ ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6201706</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6201706</guid>
-            <dc:creator><![CDATA[wind945 (驚鴻靈雨鴛鴦烘焙屋)]]></dc:creator>
-            <pubDate>Thu, 28 Aug 2025 13:17:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0006201706.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
