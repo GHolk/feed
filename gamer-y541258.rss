@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 09 Sep 2025 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 11 Sep 2025 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -14,11 +14,20 @@
         <category><![CDATA[gamer]]></category>
         <item>
             <title><![CDATA[[日誌] 8/1~,給走投無路的新手,示範網頁實作磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
-            <description><![CDATA[9/6,本來想說睡前把測試用的檔案先傳到github上,明天工作的時候寫結果意外滴解決了座標的問題...(繼續閱讀)]]></description>
+            <description><![CDATA[9/10,磁流解閾程式本身沒更新《米哈遊入職是什麼體驗》Lks的影片已於9/8更新我沒什麼特別想說的...(繼續閱讀)]]></description>
             <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/11,簡短談下《星穹鐵道》抽6+5還體系隊的選擇]]></title>
+            <description><![CDATA[我個人傾向於抽6+5或6+1因為6+5比較沒有精神上的壓力(再來就是分身助戰的考量)理論上來說6+5很非很非的話...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6209051</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6209051</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 11 Sep 2025 11:00:04 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6193098</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Tue, 12 Aug 2025 10:52:37 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/10,原神開放玩家製作遊戲內容《寫在築夢之前──UGC玩法開發者手札》（封測報名中)]]></title>
-            <description><![CDATA[要拿到遊戲第二手或比較前沿的資訊知乎、Nga、百度貼吧至少要挑一個這三個都算是對沒有大陸身分證的比較友善的了...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6191762</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6191762</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 10 Aug 2025 01:00:00 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
