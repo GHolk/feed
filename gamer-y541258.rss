@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 20 Sep 2025 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 22 Sep 2025 11:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/21,一些關於生活與工作的閒聊]]></title>
+            <description><![CDATA[嗯,比較少發言是因為有的時候夜晚我會變得很負面...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6214150</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6214150</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 21 Sep 2025 10:50:06 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6195750</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sun, 17 Aug 2025 04:23:43 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《Whispers from the star》已於8/15發行,遊玩遇上阻礙,可用"豆包"跟手機當麥克風,並更正下我鐵道版的言論]]></title>
-            <description><![CDATA[更正:「V1 一魂以下的丹恆‧騰荒,召喚物的追加攻擊次數不影響刻律德菈的軍功充能」為何只寫一魂...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6194181</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6194181</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 11:13:29 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
