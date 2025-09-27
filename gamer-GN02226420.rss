@@ -4,7 +4,7 @@
         <description><![CDATA[GN02226420 (搞什麼喵啊) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=GN02226420</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 26 Sep 2025 16:25:15 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 27 Sep 2025 16:25:13 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-GN02226420.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[GN02226420 (搞什麼喵啊)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,25 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[日誌] [達人專欄] 2024年四國八日遊PART2]]></title>
+            <description><![CDATA[大家好...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6217153</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6217153</guid>
+            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
+            <pubDate>Sat, 27 Sep 2025 04:54:15 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0006217153.JPG?v=1758948854" length="0" type="false"/>
+        </item>
+        <item>
+            <title><![CDATA[[插畫] 巴哈姆特29週年慶賀圖]]></title>
+            <description><![CDATA[1.作者筆名:搞什麼喵啊
+2.創作發想來源：我的創作來源是，自從以前玩金庸群俠傳的時候來巴哈姆特哈拉版查詢攻略後，覺得哈拉版的玩家們都會提供詳細的攻略，不管是家...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6216989</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6216989</guid>
+            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
+            <pubDate>Fri, 26 Sep 2025 17:27:49 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0006216989.JPG?v=1758907667" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[日誌] 貳零貳伍年柒月裏番心得]]></title>
             <description><![CDATA[大家好...(繼續閱讀)]]></description>
@@ -83,24 +102,6 @@
             <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
             <pubDate>Mon, 17 Feb 2025 16:25:24 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/47/0006092347.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 貳零貳肆年拾貳月裏番心得]]></title>
-            <description><![CDATA[大家好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6083032</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6083032</guid>
-            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
-            <pubDate>Fri, 31 Jan 2025 20:53:58 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 貳零貳肆年拾壹月裏番心得]]></title>
-            <description><![CDATA[大家好...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6061139</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6061139</guid>
-            <dc:creator><![CDATA[GN02226420 (搞什麼喵啊)]]></dc:creator>
-            <pubDate>Mon, 23 Dec 2024 17:47:11 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/g/n/gn02226420/gn02226420.png" length="0" type="image/png"/>
         </item>
     </channel>
 </rss>
