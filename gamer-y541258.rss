@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 27 Sep 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 28 Sep 2025 16:25:21 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 9/28,純灌水文章,個人打《星穹鐵道》異相仲裁簡略分享]]></title>
+            <description><![CDATA[我有三個陣容能滿星這期異相仲裁1.0+1 Archer 6+1刻律 6+等價藿藿 2+1花火...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6217799</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6217799</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sun, 28 Sep 2025 08:33:02 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6198452</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Fri, 22 Aug 2025 11:18:52 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/17,男生每10秒就會想到的事情]]></title>
-            <description><![CDATA[哦,我猜我想說的你可能已經知道了但其實還有另一件事情 就是死亡有時可能不是在想死亡...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6195750</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6195750</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 17 Aug 2025 04:23:43 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
