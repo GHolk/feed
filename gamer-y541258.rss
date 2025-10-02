@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Wed, 01 Oct 2025 16:25:22 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 02 Oct 2025 16:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,15 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 10/2,關於近期的"堰塞湖"(我之前一直以為堰塞湖是像大湖公園那樣單純湖的名稱)]]></title>
+            <description><![CDATA[省流:建議平凡人別去救災了堰塞湖不是一般人能解決的很可能要用炸的...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6219926</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6219926</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Thu, 02 Oct 2025 10:08:58 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -91,15 +100,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6200977</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Wed, 27 Aug 2025 08:14:14 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 8/22,一些閒聊]]></title>
-            <description><![CDATA[想了一陣子,還是續費Gemini Pro雖然其實我也沒有很常用只是哪天臨時想到時不能用的話...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6198452</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6198452</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Fri, 22 Aug 2025 11:18:52 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
