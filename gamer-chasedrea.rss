@@ -4,7 +4,7 @@
         <description><![CDATA[chasedrea (小鹿) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chasedrea</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Sat, 18 Oct 2025 16:25:48 GMT</lastBuildDate>
+        <lastBuildDate>Mon, 20 Oct 2025 12:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chasedrea.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[chasedrea (小鹿)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,7 +19,7 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6227410</guid>
             <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
             <pubDate>Fri, 17 Oct 2025 04:16:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0006227410.JPG?v=1760674606" length="0" type="false"/>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0006227410.JPG" length="0" type="image/jpeg"/>
         </item>
         <item>
             <title><![CDATA[[日誌] 我當獨立遊戲製作人的血淚史]]></title>
