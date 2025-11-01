@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 16:25:25 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 16:25:22 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,18 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 11/1,近況與星穹鐵道 範疇錯誤(金血憶靈) 0T分享]]></title>
+            <description><![CDATA[之前說少了分身之後應該會有很多時間
+但由於3.7開始就不送Archer了
+所以我最近在忙著把我的5個換手機後確定能掌握的e-mail
+開了歐服、美服、臺港澳服的...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6235219</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6235219</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 01 Nov 2025 08:26:20 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -94,15 +106,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6206403</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Sat, 06 Sep 2025 07:50:39 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/3,如果你感到開心就叫迷迷]]></title>
-            <description><![CDATA[稍微解釋一下這梗是怎麼來的《星穹鐵道》是針對多國玩家製作的遊戲所以有一些東西可能會有些陌生...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6204789</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6204789</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 03 Sep 2025 08:30:47 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>

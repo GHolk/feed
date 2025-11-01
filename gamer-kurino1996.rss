@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 31 Oct 2025 16:25:38 GMT</lastBuildDate>
+        <lastBuildDate>Sat, 01 Nov 2025 16:25:34 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,16 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【二重螺旋】需求商品]]></title>
+            <description><![CDATA[嚇得我們耶爾小朋友的結巴都被治好了
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6235183</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6235183</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Sat, 01 Nov 2025 07:22:46 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0006235183.JPG?v=1761981765" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第16話-鬧劇]]></title>
             <description><![CDATA[回歸更新啦！如第一頁所說會改回草稿漫畫的形式、但會變成每個月二更！以呈現故事優先！下一話會在11/15(三)發佈！請多關照了！
@@ -98,16 +108,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 17 Sep 2025 10:45:08 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/41/0006212141.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【阿瑞斯：命運的選擇者】機甲裝備]]></title>
-            <description><![CDATA[抱歉不小心放到員工上班照
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6209956</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6209956</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 13 Sep 2025 04:06:11 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/56/0006209956.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
