@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Fri, 12 Dec 2025 16:25:19 GMT</lastBuildDate>
+        <lastBuildDate>Sun, 14 Dec 2025 14:25:19 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -19,6 +19,27 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 12/13,續短期程式計劃─數獨出題程式 網頁實作部份 第一步 「畫面排版」]]></title>
+            <description><![CDATA[寫數獨"出題"程式的概念是寫在上一篇(點這) 
+今天只完成排版,下次更新時間不確定
+比較有可能的時間是12/16
+不過我這幾天還會發一篇不太...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6255536</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6255536</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 13 Dec 2025 07:57:22 GMT</pubDate>
+            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
+        </item>
+        <item>
+            <title><![CDATA[[日誌] 短期程式計劃–數獨出題程式 著手之前的準備(篇外推薦閱讀─ 八皇后問題、魔方陣問題)]]></title>
+            <description><![CDATA[事件的起因是星穹鐵道Now聊天室似乎有玩家睡眠狀況不好於是我建議睡前一小時別用電子產品...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6255421</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6255421</guid>
+            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
+            <pubDate>Sat, 13 Dec 2025 02:06:43 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
@@ -88,24 +109,6 @@
             <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6219926</guid>
             <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
             <pubDate>Thu, 02 Oct 2025 10:08:58 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/28,純灌水文章,個人打《星穹鐵道》異相仲裁簡略分享]]></title>
-            <description><![CDATA[我有三個陣容能滿星這期異相仲裁1.0+1 Archer 6+1刻律 6+等價藿藿 2+1花火...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6217799</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6217799</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 28 Sep 2025 08:33:02 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 9/21,一些關於生活與工作的閒聊]]></title>
-            <description><![CDATA[嗯,比較少發言是因為有的時候夜晚我會變得很負面...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6214150</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6214150</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 21 Sep 2025 10:50:06 GMT</pubDate>
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
     </channel>
