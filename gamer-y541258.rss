@@ -4,7 +4,7 @@
         <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Mon, 15 Dec 2025 12:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Tue, 16 Dec 2025 11:25:20 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[y541258 (李兒諳)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -22,7 +22,7 @@
             <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
         </item>
         <item>
-            <title><![CDATA[[日誌] 12/13,續短期程式計劃─數獨出題程式 網頁實作部份 第一步 「畫面排版」]]></title>
+            <title><![CDATA[[日誌] 12/13,續短期程式計劃─數獨出題程式 網頁實作部份 第二步 「盤面檢查」]]></title>
             <description><![CDATA[寫數獨"出題"程式的概念是寫在上一篇(點這) 
 今天只完成排版,下次更新時間不確定
 比較有可能的時間是12/16
