@@ -4,7 +4,7 @@
         <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 23 Dec 2025 03:25:31 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 24 Dec 2025 12:25:33 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
         <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
         <language><![CDATA[zh-TW]]></language>
@@ -12,6 +12,17 @@
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
+        <item>
+            <title><![CDATA[[漫畫] 【新楓之谷】赤瞳的流浪聖誕老人]]></title>
+            <description><![CDATA[應景一下讓蓮來送禮物看看！
+萬里香技能的那顆樹或許裝飾一下也可以變成聖誕樹🤔⁉
+...(繼續閱讀)]]></description>
+            <link>https://home.gamer.com.tw/creationDetail.php?sn=6260786</link>
+            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6260786</guid>
+            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
+            <pubDate>Wed, 24 Dec 2025 05:06:22 GMT</pubDate>
+            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0006260786.JPG?v=1766552781" length="0" type="false"/>
+        </item>
         <item>
             <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第18話-四靈奉者【+公告】]]></title>
             <description><![CDATA[如同最後一張公告提到的，因為接下來要專心畫第一章後日談！📢所以下次主線更新時間為2026/01/15！感謝大家今年的支持與陪伴！我們明年見！💪😎✨...(繼續閱讀)]]></description>
@@ -96,15 +107,6 @@
             <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
             <pubDate>Wed, 12 Nov 2025 11:40:03 GMT</pubDate>
             <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0006240606.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【這傢伙根本不是當聖女的料！】第1話-聖女大……人呢？]]></title>
-            <description><![CDATA[是的！就在今天！這個雙11的日子裡！全新戀愛喜劇誕生啦！之後會在WEBTOON不定時更新！請大家多多關照了！！！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6240074</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6240074</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Tue, 11 Nov 2025 11:57:04 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/74/0006240074.JPG" length="0" type="image/jpeg"/>
         </item>
     </channel>
 </rss>
