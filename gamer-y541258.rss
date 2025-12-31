@@ -1,115 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[y541258 的小屋]]></title>
-        <description><![CDATA[y541258 (李兒諳) 的小屋]]></description>
+        <description><![CDATA[y541258 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=y541258</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:25 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-y541258.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[y541258 (李兒諳)]]></author>
+        <author><![CDATA[y541258]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[日誌] 8/1~,給走投無路的新手,示範網頁實作磁流解閾,呼應《在米哈遊入職是什麼體驗》]]></title>
-            <description><![CDATA[9/10,磁流解閾程式本身沒更新《米哈遊入職是什麼體驗》Lks的影片已於9/8更新我沒什麼特別想說的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6186408</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6186408</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 31 Jul 2025 23:39:26 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 12/21,最近我先忙一下]]></title>
-            <description><![CDATA[昨天我放假理論上要更數獨出題程式實作但我昨天在忙著肝 《星穹鐵道》3.8 差分宇宙 全圖鑑...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6259408</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6259408</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 21 Dec 2025 11:57:30 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 12/13,續短期程式計劃─數獨出題程式 網頁實作部份 第二步 「盤面檢查」]]></title>
-            <description><![CDATA[寫數獨"出題"程式的概念是寫在上一篇(點這) 
-今天只完成排版,下次更新時間不確定
-比較有可能的時間是12/16
-不過我這幾天還會發一篇不太...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6255536</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6255536</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 13 Dec 2025 07:57:22 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 短期程式計劃–數獨出題程式 著手之前的準備(篇外推薦閱讀─ 八皇后問題、魔方陣問題)]]></title>
-            <description><![CDATA[事件的起因是星穹鐵道Now聊天室似乎有玩家睡眠狀況不好於是我建議睡前一小時別用電子產品...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6255421</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6255421</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 13 Dec 2025 02:06:43 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 分享─知乎 如何評價 通往地獄之路，通常是由善意鋪成的]]></title>
-            <description><![CDATA[個人是蠻喜歡聽些關於制度的討論的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6251241</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6251241</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Thu, 04 Dec 2025 10:34:35 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 永遠的利益]]></title>
-            <description><![CDATA[國與國之間只有永遠的利益?也許但每個人都在爭取自己的利益我們怎麼確保...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6250773</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6250773</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Wed, 03 Dec 2025 10:44:55 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 11/16,最近在忙的事情─貨幣戰爭100% (新增 狼狩─赤月尊 的參考養法 11/25,參考狼狩影片2)]]></title>
-            <description><![CDATA[投資策略一拿到就可以直接重開了選完的瞬間就進圖鑑了,因此正常不會每關都打完的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6242277</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6242277</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 15 Nov 2025 23:54:54 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 11/1,近況與星穹鐵道 範疇錯誤(金血憶靈) 0T分享]]></title>
-            <description><![CDATA[之前說少了分身之後應該會有很多時間
-但由於3.7開始就不送Archer了
-所以我最近在忙著把我的5個換手機後確定能掌握的e-mail
-開了歐服、美服、臺港澳服的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6235219</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6235219</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 01 Nov 2025 08:26:20 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/18,星穹鐵道近況雜談與未來計劃(加好友的留言下加的是哪個,現在只剩電腦能登)]]></title>
-            <description><![CDATA[最近心情不太穩定,所以比較少說話要加好友的迅速加一加,我不是永久能同意好友的6+3 萬敵 831950073...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6227944</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6227944</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sat, 18 Oct 2025 06:14:04 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 10/5,關於跟AI聊天]]></title>
-            <description><![CDATA[有人可能用過Gemini,ChatGPT,豆包之類的
-可能會覺得怎麼有人能跟AI聊一整天又一整天
-很厲害
-其實是因為,聊天的AI跟問答用的大語言模型是不太一樣的...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6221197</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6221197</guid>
-            <dc:creator><![CDATA[y541258 (李兒諳)]]></dc:creator>
-            <pubDate>Sun, 05 Oct 2025 00:00:11 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/y/5/y541258/y541258.png" length="0" type="image/png"/>
-        </item>
     </channel>
 </rss>

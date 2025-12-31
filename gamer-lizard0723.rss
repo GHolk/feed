@@ -1,113 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[lizard0723 的小屋]]></title>
-        <description><![CDATA[lizard0723 (大獵蜥) 的小屋]]></description>
+        <description><![CDATA[lizard0723 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lizard0723</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:41 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:46 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lizard0723.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[lizard0723 (大獵蜥)]]></author>
+        <author><![CDATA[lizard0723]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[日誌] 從史詩到工具：關於「龍」在奇幻小說中的多重轉變]]></title>
-            <description><![CDATA[
-
-這篇刊載於《聯合文學》476期奇幻專題。
-裡面含有跟朋友弄一些作者小傳介紹。其中最好玩的是《霍爾移動城堡》黛安娜·韋恩，在寫得時候我查到她說，霍爾的形象來自...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6191146</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6191146</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Sat, 09 Aug 2025 02:00:06 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/46/0006191146.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 選擇、行動與其所創造：關於角色扮演遊戲的魅力]]></title>
-            <description><![CDATA[最近龜了很久，但知道得開始整理跟分享自己寫的玩意。想說把幾篇雜誌寫過的東西拿來分享。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6190129</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6190129</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Thu, 07 Aug 2025 04:53:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/29/0006190129.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《時光機修復師的生存對策》：生命與人生的無境悖論]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6158496</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6158496</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Tue, 10 Jun 2025 06:57:53 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0006158496.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 第二天 02]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6144642</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6144642</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 16 May 2025 05:57:49 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/l/i/lizard0723/lizard0723.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 《永夜鴞》第一天02]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6141356</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6141356</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Sat, 10 May 2025 09:00:03 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/l/i/lizard0723/lizard0723.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 《永夜鴞》第一天01+創作動機雜談]]></title>
-            <description><![CDATA[先談《永夜鴞》創作動機...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6140056</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6140056</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Wed, 07 May 2025 17:41:20 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/l/i/lizard0723/lizard0723.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 【創作閒談】關於你/妳的運用]]></title>
-            <description><![CDATA[剛好看到有人在談你/妳的運用，而且不只一個人在談，好幾個人，好幾個場域剛好都在談。
-
-這讓我想到，我想到其實自己在念書時，「她」、「妳」好像還沒廣泛被使用，甚至...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6136815</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6136815</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 02 May 2025 03:25:19 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/15/0006136815.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 無論發什麼事情，就先來杯咖啡吧！《歡迎光臨，傳奇拿鐵咖啡廳》感想]]></title>
-            <description><![CDATA[
-
-我會知道這本小說，是因為在網路上看到一個很喜歡的英文小說書封，裡面有女獸人與女魅魔在經營咖啡廳的樣子。跟我比較熟的朋友知道，我是非人愛好者，所以第一眼就被書...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6121897</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6121897</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Mon, 07 Apr 2025 10:38:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0006121897.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 關於《凱城暗影》裡的投影魔法]]></title>
-            <description><![CDATA[投影魔法LOGO...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6094142</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6094142</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Fri, 21 Feb 2025 01:00:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0006094142.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 關於奇幻台北這檔事：關於《凱城暗影》世界觀]]></title>
-            <description><![CDATA[是說，這要追溯到《禁錮之龍》這本小說的誕生。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6093627</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6093627</guid>
-            <dc:creator><![CDATA[lizard0723 (大獵蜥)]]></dc:creator>
-            <pubDate>Thu, 20 Feb 2025 03:11:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0006093627.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>

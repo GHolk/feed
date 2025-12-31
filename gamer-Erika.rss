@@ -1,106 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[Erika 的小屋]]></title>
-        <description><![CDATA[Erika (にゃひ～や) 的小屋]]></description>
+        <description><![CDATA[Erika 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=Erika</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:23 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:27 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-Erika.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[Erika (にゃひ～や)]]></author>
+        <author><![CDATA[Erika]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[日誌] 奴隷との生活 -Teaching Feeling- 4.06中文化+換裝MOD掛件測試]]></title>
-            <description><![CDATA[*有更新時就會跳上來我覺得大家一定很懶得往下卷，所以此文以後重點都只會放最上面w  下方很閒再看...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5176934</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5176934</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Sun, 13 Jun 2021 07:00:37 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005176934.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 天穹に響く音謡 20251218]]></title>
-            <description><![CDATA[期間限定イベント「天穹に響く音謡」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6257953</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6257953</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 18 Dec 2025 12:58:28 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/53/0006257953.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 デート・ア・ライブ 20251120]]></title>
-            <description><![CDATA[期間限定イベント「デート・ア・ライブⅤ」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6244554</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6244554</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 20 Nov 2025 14:54:55 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/54/0006244554.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 須臾望月抄 軽量化復刻 20251113]]></title>
-            <description><![CDATA[簡單記錄四隻SKIN不過這次的買法好棒啊...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6241086</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6241086</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 13 Nov 2025 12:17:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0006241086.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 テンペスタと自由群島 20251023]]></title>
-            <description><![CDATA[這篇不開兒少保護一定會掛...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6230732</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6230732</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 23 Oct 2025 16:27:09 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 ダンまちⅤ 20251009]]></title>
-            <description><![CDATA[期間限定イベント「ダンジョンに出会いを求めるのは間違っているだろうかⅤ」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6223989</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6223989</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Fri, 10 Oct 2025 11:32:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0006223989.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 アマハラに舞い奉れ 20250912]]></title>
-            <description><![CDATA[期間限定イベント「アマハラに舞い奉れ」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6209806</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6209806</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Fri, 12 Sep 2025 16:15:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/06/0006209806.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 淵層界の秘密 20250814]]></title>
-            <description><![CDATA[航線這次真的太誇張  開個兒少保護好了w期間限定イベント「淵層界の秘密」...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6194378</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6194378</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 14 Aug 2025 15:44:48 GMT</pubDate>
-            <enclosure url="https://avatar2.bahamut.com.tw/avataruserpic/e/r/erika/erika.png" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 錬金術士と天空邂逅の塔 20250724]]></title>
-            <description><![CDATA[圖床要沒救了  要逃到哪...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6182459</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6182459</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 24 Jul 2025 14:53:12 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0006182459.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] [活動記錄] 碧藍航線 特別計画艦 第Ⅷ期 20250710]]></title>
-            <description><![CDATA[第一張圖不曉得能活多久w...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6174989</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6174989</guid>
-            <dc:creator><![CDATA[Erika (にゃひ～や)]]></dc:creator>
-            <pubDate>Thu, 10 Jul 2025 15:21:34 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/89/0006174989.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>

@@ -1,115 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[kurino1996 的小屋]]></title>
-        <description><![CDATA[kurino1996 (ㄇㄐ) 的小屋]]></description>
+        <description><![CDATA[kurino1996 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=kurino1996</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:32 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:37 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-kurino1996.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[kurino1996 (ㄇㄐ)]]></author>
+        <author><![CDATA[kurino1996]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【新刊試閱】妖與除妖師-後日談:憶海之章【GJ34場次｜注意事項】]]></title>
-            <description><![CDATA[第1章節漁村篇看得不夠過癮🤨⁉️主線後的故事出爐啦！
-黑白漫畫50頁都是不會公開的內容！也就是所謂DLC！！
-首賣日為這週六的GJ34！我在E13！
-10:30...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6261557</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6261557</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 25 Dec 2025 10:21:46 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/57/0006261557.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【新楓之谷】赤瞳的流浪聖誕老人]]></title>
-            <description><![CDATA[應景一下讓蓮來送禮物看看！
-萬里香技能的那顆樹或許裝飾一下也可以變成聖誕樹🤔⁉
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6260786</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6260786</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 24 Dec 2025 05:06:22 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/86/0006260786.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第18話-四靈奉者【+公告】]]></title>
-            <description><![CDATA[如同最後一張公告提到的，因為接下來要專心畫第一章後日談！📢所以下次主線更新時間為2026/01/15！感謝大家今年的支持與陪伴！我們明年見！💪😎✨...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6249220</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6249220</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 30 Nov 2025 07:45:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/20/0006249220.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【TiKie】正因為是在遊戲裡]]></title>
-            <description><![CDATA[就是現實沒有我才要去遊戲裡玩啊拜託請拿錢羞辱我😭🙏✨喔內蓋...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6248612</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6248612</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 29 Nov 2025 06:00:03 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/12/0006248612.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】比畫圖還累]]></title>
-            <description><![CDATA[所以我這篇文案要打什麼...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6247311</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6247311</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 26 Nov 2025 11:26:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/11/0006247311.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【原神】這不叫親兒子我跟你姓]]></title>
-            <description><![CDATA[恭賀風神大人喜提第三把專武👏🥳🎉
-能讓我在稿和工作都快趕不完的狀況下停下來畫圖慶祝的也只有風神大人了😭👊💖💥
-超級恭喜！超開心！！🎉🎉🎉
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6245761</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6245761</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sun, 23 Nov 2025 04:31:07 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0006245761.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【這傢伙根本不是當聖女的料！】第2話-最傑出最優秀最完美的天使]]></title>
-            <description><![CDATA[每次畫埃維安的時候都好想吃OREO......😔👉👈...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6244890</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6244890</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Fri, 21 Nov 2025 11:34:17 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/90/0006244890.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【楓之谷M】聊著聊著就回歸了]]></title>
-            <description><![CDATA[不要每次都喜歡些反派BOSS角色好不好啊我😭😭😭你怎麼長得這麼好看啊！
-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6244365</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6244365</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Thu, 20 Nov 2025 06:00:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/65/0006244365.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【日常】真搞不懂]]></title>
-            <description><![CDATA[你出這口味我能不吃嗎😣太好吃了😭...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6244002</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6244002</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Wed, 19 Nov 2025 11:20:02 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/02/0006244002.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] 【妖與除妖師】第17話-來玩吧]]></title>
-            <description><![CDATA[浄宮家主：謝謝你們準備了這麼棒的遊戲，但接下來要怎麼玩就是我的事了。👌&這話讓我好想跟神夜結婚😣🫴...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6242172</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6242172</guid>
-            <dc:creator><![CDATA[kurino1996 (ㄇㄐ)]]></dc:creator>
-            <pubDate>Sat, 15 Nov 2025 15:37:58 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/72/0006242172.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>

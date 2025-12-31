@@ -1,108 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[lnkkng 的小屋]]></title>
-        <description><![CDATA[lnkkng (新彥) 的小屋]]></description>
+        <description><![CDATA[lnkkng 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=lnkkng</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:27 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:32 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-lnkkng.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[lnkkng (新彥)]]></author>
+        <author><![CDATA[lnkkng]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[日誌] 「最悪な転生は今回でぶっ壊そうと思います」完結]]></title>
-            <description><![CDATA[如題，第一次連載結束了，如果你有興趣的話可以來這邊買 ，不敢說內容如何，只希望你能看到我進步的樣子w。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6157698</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6157698</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Sun, 08 Jun 2025 12:14:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/98/0006157698.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 想不到吧，身為作者卻不知道新書的書名叫什麼]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5785122</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5785122</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Thu, 31 Aug 2023 04:53:27 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/22/0005785122.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 跟Hololive合作的HoloweEN Episode 3]]></title>
-            <description><![CDATA[我跟HololiveEN組合作的萬聖節企劃第三部 已經公開了，能夠收到合作邀請實在非常幸運。
-整體來說是超急件，在非常吃緊的狀況下完成的，只能說盡力了，希望大家...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5593940</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5593940</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Fri, 04 Nov 2022 06:04:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/40/0005593940.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 我出書囉！]]></title>
-            <description><![CDATA[我出書囉，人生中的第一本單行本《機械之心》，雖然叫《機械之心》其實是本短篇集，內容收錄了《機械之心》《機械之心 續》《骯髒天使》《輪迴殺手》《Angel...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5543293</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5543293</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Fri, 26 Aug 2022 10:39:42 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/93/0005543293.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] HololiveEN 《初次見面》2]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5483234</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5483234</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Sat, 11 Jun 2022 14:38:43 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/34/0005483234.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] HololiveEN 《初次見面》 1+1.5]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5370813</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5370813</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Sat, 22 Jan 2022 17:17:57 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/13/0005370813.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 沒什麼進展的近況]]></title>
-            <description><![CDATA[竟然有人在小屋留言希望我更新，太感動了，雖然除了年紀以外沒什麼進展，還是分享一下最近做的事吧。
-太久沒更新不知道該從何說起，想到什麼就講什麼，不要問我邏輯在哪(...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5318059</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5318059</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Wed, 17 Nov 2021 13:58:35 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/59/0005318059.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] Hololive 送別會]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5183391</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5183391</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Sat, 19 Jun 2021 15:30:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/91/0005183391.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] Hololive 舞臺綻放]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5173563</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5173563</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Wed, 09 Jun 2021 14:51:23 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/63/0005173563.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [達人專欄] Hololive 頂級獵食者]]></title>
-            <description><![CDATA[...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5153896</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5153896</guid>
-            <dc:creator><![CDATA[lnkkng (新彥)]]></dc:creator>
-            <pubDate>Thu, 20 May 2021 10:40:24 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005153896.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>

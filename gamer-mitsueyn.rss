@@ -1,118 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[mitsueyn 的小屋]]></title>
-        <description><![CDATA[mitsueyn (Mitsu(天堂樹)) 的小屋]]></description>
+        <description><![CDATA[mitsueyn 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=mitsueyn</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:29 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:33 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-mitsueyn.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[mitsueyn (Mitsu(天堂樹))]]></author>
+        <author><![CDATA[mitsueyn]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[同人] 【FF43場宣】本週末在花博!! 電子版已經上架BOOTH囉  #原創百合 #白子與魔女]]></title>
-            <description><![CDATA[【FF43場宣】本週末在花博～攤位是六跟日兩天在J17、J18！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5989527</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5989527</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 21 Aug 2024 11:41:30 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/27/0005989527.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 【CWT67場宣】本場有限定驚喜簽繪板!! #原創百合 #白子與魔女]]></title>
-            <description><![CDATA[【CWT67場宣】本週末在台大體育館～攤位兩天都在O79,O80！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5982018</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5982018</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Thu, 08 Aug 2024 12:35:07 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/18/0005982018.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] [原創百合] 新刊《白子日記3-1》電子書版開賣囉！]]></title>
-            <description><![CDATA[★《白子日記3-1 二月二十五 天氣晴》
-中文版
--同人誌中心BOOKY
-https://www.doujin.com.tw/books/info/63241 ...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5911452</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5911452</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Fri, 05 Apr 2024 12:55:29 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/52/0005911452.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 【FF42+CWT66場宣】 #原創百合 #白子與魔女新刊]]></title>
-            <description><![CDATA[請注意我們只有在2/24(六)-25(日)兩天
--FF42在花博、E23,E24
--CWT66在台大體育館、N69
-★CWT66 Day1有白子+魔女看板娘出沒...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5886531</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5886531</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 21 Feb 2024 12:42:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005886531.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] [原創百合] 新刊【白子日記3-1試閱及特典】#預購 #FF42 #CWT66]]></title>
-            <description><![CDATA[※試閱有幾頁尚未完稿 ※前言有提醒請先閱讀...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5877183</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5877183</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Sun, 04 Feb 2024 12:04:20 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/83/0005877183.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 【新刊預告-白子日記3】 #FB抽獎 #白子與魔女]]></title>
-            <description><![CDATA[不好意思讓大家久等的白子日記3終於要出爐啦 
-試閱預計會在1月底或2月初發佈(正在努力趕稿中><)，除了之前先行公開過的內容又再大幅增加，敬請期待！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5865061</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5865061</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Sun, 14 Jan 2024 12:35:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/61/0005865061.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 11/12(日) ACE動漫創作展場宣 - 有新品吊飾及白子魔女大掛軸]]></title>
-            <description><![CDATA[【ACE動漫創作展場宣】本週日11/12在南港展覽館請注意我們只有禮拜日11/12才會在！-攤位號碼是成人區F73，場上會販售的刊物請看DM-...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5824878</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5824878</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Mon, 06 Nov 2023 14:27:52 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/78/0005824878.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 《Afterward 3+n》スレミオスレ新刊電子版上架！- 水星的魔女同人誌]]></title>
-            <description><![CDATA[
-★水星的魔女新刊 - 《Afterward 3+n》電子書★
-同人誌中心：https://www.doujin.com.tw/books/info/62542...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5815396</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5815396</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Sat, 21 Oct 2023 11:14:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005815396.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[漫畫] 10/7 百合only - 新刊試閱及特典]]></title>
-            <description><![CDATA[10/7 百合only 水星的魔女新刊 - A5/20P/一般向/會場150元
-
-
-此新刊會隨書附送10x10cm貼紙特典如下，但特典數量有限，會先預留通販預購...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5803776</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5803776</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Sun, 01 Oct 2023 14:00:45 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/76/0005803776.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[同人] 本週末 FF41 場宣Day2+Day3 -《水星的魔女》+《白子與魔女》]]></title>
-            <description><![CDATA[第二日及第三日攤位號碼：i03,04攤上會有刊物請見DM...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5776039</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5776039</guid>
-            <dc:creator><![CDATA[mitsueyn (Mitsu(天堂樹))]]></dc:creator>
-            <pubDate>Wed, 16 Aug 2023 11:32:25 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/39/0005776039.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>

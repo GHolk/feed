@@ -1,106 +1,16 @@
 <?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
     <channel>
         <title><![CDATA[chasedrea 的小屋]]></title>
-        <description><![CDATA[chasedrea (小鹿) 的小屋]]></description>
+        <description><![CDATA[chasedrea 的小屋]]></description>
         <link>https://home.gamer.com.tw/creation.php?owner=chasedrea</link>
         <generator>anafeed: power by npm/RSS, npm/JSDOM, node.js</generator>
-        <lastBuildDate>Tue, 30 Dec 2025 16:25:37 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Dec 2025 18:25:41 GMT</lastBuildDate>
         <atom:link href="http://gholk.github.io/feed/gamer-chasedrea.rss" rel="self" type="application/rss+xml"/>
-        <author><![CDATA[chasedrea (小鹿)]]></author>
+        <author><![CDATA[chasedrea]]></author>
         <language><![CDATA[zh-TW]]></language>
         <webMaster><![CDATA[gholk]]></webMaster>
         <docs>http://gholk.github.io/feed/</docs>
         <ttl>1440</ttl>
         <category><![CDATA[gamer]]></category>
-        <item>
-            <title><![CDATA[[日誌] 《如何在不到半年的時間，以近乎免費的方式突破一萬個願望清單》]]></title>
-            <description><![CDATA[各位好，我是「異病偵探」的製作人小鹿，今天想來分享一下這些日子以來累積願望清單的一點經驗，許久沒發小屋了，因為也不知道活不活得下去，所以留下一點足跡希望能對獨立...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=6227410</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=6227410</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Fri, 17 Oct 2025 04:16:47 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/10/0006227410.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 我當獨立遊戲製作人的血淚史]]></title>
-            <description><![CDATA[《我當獨立遊戲製作人的血淚史》（前言）在這裡簡單分享一下製作《湛藍牢籠 Rail of Möbius》的經驗。...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5351142</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5351142</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Tue, 28 Dec 2021 12:00:04 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/42/0005351142.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 國產AVG遊戲《湛藍牢籠》SD原畫---摩科老師訪談全紀錄]]></title>
-            <description><![CDATA[摩科老師是擔當《湛藍牢籠》所有SD原畫的繪師！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5168384</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5168384</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Fri, 04 Jun 2021 09:22:39 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/84/0005168384.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 湛藍牢籠團隊介紹--陳善清]]></title>
-            <description><![CDATA[若說身為湛藍召集人的我是頭，梁瓏是身體和四肢和其他部位，那陳善清就是——...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5162835</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5162835</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Sat, 29 May 2021 14:24:10 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/35/0005162835.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 湛藍牢籠團隊介紹--梁瓏]]></title>
-            <description><![CDATA[今天為各位介紹《湛藍牢籠》中一位非常重要的團隊成員---梁瓏他肩負了湛藍牢籠內所有演出、程式、組合、圖片美編調整及潤稿抓錯字----...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5161596</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5161596</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Fri, 28 May 2021 10:13:00 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/96/0005161596.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[插畫] 國產AVG遊戲《湛藍牢籠》繪師---玉蒔良老師訪談全紀錄]]></title>
-            <description><![CDATA[玉蒔良老師是擔當《湛藍牢籠》主視覺、人設、立繪和除了SD以外所有美術的繪師！...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=5159431</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=5159431</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Wed, 26 May 2021 02:37:38 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/31/0005159431.JPG" length="0" type="image/jpeg"/>
-        </item>
-        <item>
-            <title><![CDATA[[日誌] 《2019年小鹿回顧(文長)》]]></title>
-            <description><![CDATA[《2019年小鹿回顧(文短?)》又到了回顧一年的時候...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4639000</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4639000</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Tue, 31 Dec 2019 10:59:55 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/28/creation_chasedrea.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 【年末心得】2018小鹿回顧]]></title>
-            <description><![CDATA[《2018年小鹿回顧(文長)》...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4282982</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4282982</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Mon, 04 Feb 2019 05:35:51 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/28/creation_chasedrea.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 《夢想藍圖—「風花」番外短篇故事》]]></title>
-            <description><![CDATA[《夢想藍圖—「風花」番外短篇故事》.IQ170、金色雙馬尾，被譽為風之妖精的天才...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4096509</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4096509</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Thu, 16 Aug 2018 13:21:50 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/28/creation_chasedrea.PNG" length="0" type="image/png"/>
-        </item>
-        <item>
-            <title><![CDATA[[小說] 《夢想藍圖—「雪見」番外短篇故事》]]></title>
-            <description><![CDATA[《夢想藍圖—「雪見」番外短篇故事》...(繼續閱讀)]]></description>
-            <link>https://home.gamer.com.tw/creationDetail.php?sn=4093997</link>
-            <guid isPermaLink="true">https://home.gamer.com.tw/creationDetail.php?sn=4093997</guid>
-            <dc:creator><![CDATA[chasedrea (小鹿)]]></dc:creator>
-            <pubDate>Tue, 14 Aug 2018 11:28:05 GMT</pubDate>
-            <enclosure url="https://p2.bahamut.com.tw/HOME/creationCover/97/0004093997.JPG" length="0" type="image/jpeg"/>
-        </item>
     </channel>
 </rss>
